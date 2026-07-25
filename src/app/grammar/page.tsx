@@ -74,14 +74,47 @@ export default function GrammarPage() {
     setSelectedLesson(null);
   };
 
+  // Filter States
+  const [selectedLevel, setSelectedLevel] = useState<'all' | 'A1' | 'A2' | 'B1' | 'B1+' | 'B2' | 'C1'>('all');
+  const [searchQuery, setSearchQuery] = useState('');
+
+  const levelTabs = [
+    { id: 'all', label: 'All Levels' },
+    { id: 'A1', label: 'A1 Elementary' },
+    { id: 'A2', label: 'A2 Pre-intermediate' },
+    { id: 'B1', label: 'B1 Intermediate' },
+    { id: 'B1+', label: 'B1+ Upper-intermediate' },
+    { id: 'B2', label: 'B2 Pre-advanced' },
+    { id: 'C1', label: 'C1 Advanced' }
+  ] as const;
+
+  const displayLevels = selectedLevel === 'all' 
+    ? (['A1', 'A2', 'B1', 'B1+', 'B2', 'C1'] as const)
+    : ([selectedLevel] as const);
+
+  // Check if any lesson matches the filter/search query
+  const totalFilteredCount = grammarLessons.filter((l) => {
+    const matchesLevel = selectedLevel === 'all' || l.level === selectedLevel;
+    const matchesSearch = !searchQuery.trim() || 
+      l.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
+      l.shortDesc.toLowerCase().includes(searchQuery.toLowerCase()) ||
+      (l.shortDescKhmer && l.shortDescKhmer.includes(searchQuery));
+    return matchesLevel && matchesSearch;
+  }).length;
+
   return (
     <div className="flex flex-col gap-8 pb-12">
       {/* 1. Header Information */}
       <div className="relative rounded-3xl bg-gradient-to-r from-violet-500 to-indigo-600 p-6 md:p-8 text-white shadow-xl shadow-indigo-500/10 overflow-hidden">
-        <div className="relative z-10 max-w-lg">
-          <h2 className="text-2xl md:text-3xl font-extrabold tracking-tight mb-2">Grammar Hub</h2>
+        <div className="relative z-10 max-w-lg text-left">
+          <div className="flex items-center gap-3 mb-2">
+            <h2 className="text-2xl md:text-3xl font-extrabold tracking-tight">Grammar Hub</h2>
+            <span className="text-xs font-black px-2.5 py-1 rounded-xl bg-white/20 text-white backdrop-blur-md border border-white/20 shadow-sm">
+              {grammarLessons.length} Lessons Total
+            </span>
+          </div>
           <p className="text-indigo-100 text-sm md:text-base leading-relaxed">
-            Master the rules, patterns, and templates of English. Complete interactive checks to earn 15 XP per lesson.
+            Master the rules, patterns, and templates of English from A1 to C1. Complete interactive checks to earn 15 XP per lesson.
           </p>
         </div>
         <div className="absolute right-0 bottom-0 -mr-8 -mb-8 opacity-10 pointer-events-none">
@@ -89,81 +122,168 @@ export default function GrammarPage() {
         </div>
       </div>
 
-      {/* 2. Structured Lesson Learning Track */}
-      <div className="space-y-10">
-        {(['A1', 'A2', 'B1', 'B1+', 'B2', 'C1'] as const).map((level) => {
-          const levelLessons = grammarLessons.filter((l) => l.level === level);
-          const cefrDetails = {
-            'A1': { name: 'A1 - Elementary', color: 'text-green-500' },
-            'A2': { name: 'A2 - Pre-intermediate', color: 'text-emerald-500' },
-            'B1': { name: 'B1 - Intermediate', color: 'text-blue-500' },
-            'B1+': { name: 'B1+ - Upper-intermediate', color: 'text-indigo-500' },
-            'B2': { name: 'B2 - Pre-advanced', color: 'text-purple-500' },
-            'C1': { name: 'C1 - Advanced', color: 'text-rose-500' }
-          }[level];
- 
-          const levelName = cefrDetails.name;
-          const levelColor = cefrDetails.color;
- 
-          return (
-            <div key={level} className="space-y-4">
-              <div className="flex items-center gap-2 border-b border-border/40 pb-2">
-                <span className={cn("text-sm font-extrabold uppercase tracking-widest", levelColor)}>
-                  {levelName}
-                </span>
-                <span className="h-1.5 w-1.5 rounded-full bg-border" />
-                <span className="text-xs text-muted-foreground font-semibold">
-                  {levelLessons.length} lessons
-                </span>
-              </div>
+      {/* 2. Filter & Search Control Bar */}
+      <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 bg-card border border-border/40 p-4 rounded-2xl shadow-sm w-full">
+        {/* Level Selector Tabs */}
+        <div className="flex bg-secondary/80 p-1 rounded-xl w-full lg:w-auto overflow-x-auto scrollbar-none gap-1 shrink-0">
+          {levelTabs.map((tab) => {
+            const isSelected = selectedLevel === tab.id;
+            const count = tab.id === 'all' 
+              ? grammarLessons.length 
+              : grammarLessons.filter(l => l.level === tab.id).length;
 
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {levelLessons.map((lesson) => {
-                  const isCompleted = completedLessons.includes(lesson.id);
-                  return (
-                    <div
-                      key={lesson.id}
-                      onClick={() => handleOpenLesson(lesson)}
-                      className={cn(
-                        "group flex items-start justify-between p-5 rounded-2xl border bg-card hover:shadow-md cursor-pointer transition-all duration-200 hover:-translate-y-0.5",
-                        isCompleted ? "border-emerald-500/30" : "border-border/40"
-                      )}
-                    >
-                      <div className="space-y-1.5 flex-1 min-w-0 pr-4">
-                        <div className="flex items-center gap-2">
-                          <h3 className="text-base font-extrabold text-foreground truncate group-hover:text-indigo-500 transition-colors">
-                            {lesson.title}
-                          </h3>
-                        </div>
-                        <p className="text-xs text-muted-foreground leading-relaxed line-clamp-2">
-                          {lesson.shortDesc}
-                        </p>
-                        {lesson.shortDescKhmer && (
-                          <p className="text-[11px] font-semibold text-emerald-600 dark:text-emerald-400 leading-normal line-clamp-1 font-khmer">
-                            {lesson.shortDescKhmer}
-                          </p>
-                        )}
-                      </div>
+            return (
+              <button
+                key={tab.id}
+                onClick={() => setSelectedLevel(tab.id as any)}
+                className={cn(
+                  "flex items-center gap-2 px-3.5 py-2 text-xs font-extrabold rounded-lg transition-all whitespace-nowrap shrink-0 active:scale-95 cursor-pointer",
+                  isSelected
+                    ? "bg-card text-foreground shadow-sm border border-border/40"
+                    : "text-muted-foreground hover:text-foreground hover:bg-card/50"
+                )}
+              >
+                <span>{tab.label}</span>
+                <span className={cn(
+                  "text-[10px] px-1.5 py-0.5 rounded-md font-extrabold transition-colors",
+                  isSelected
+                    ? "bg-indigo-500/15 text-indigo-600 dark:text-indigo-400"
+                    : "bg-muted text-muted-foreground"
+                )}>
+                  {count}
+                </span>
+              </button>
+            );
+          })}
+        </div>
 
-                      <div className="flex items-center gap-2 shrink-0">
-                        {isCompleted ? (
-                          <span className="flex h-7 w-7 items-center justify-center rounded-full bg-emerald-100 dark:bg-emerald-950/40 text-emerald-600 shadow-sm">
-                            <Icons.Check className="h-4 w-4 stroke-[3]" />
-                          </span>
-                        ) : (
-                          <span className="flex h-7 w-7 items-center justify-center rounded-full bg-secondary text-muted-foreground group-hover:bg-indigo-50 dark:group-hover:bg-indigo-950/20 group-hover:text-indigo-500 transition-all">
-                            <Icons.ChevronRight className="h-4 w-4 group-hover:translate-x-0.5 transition-transform" />
-                          </span>
-                        )}
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-          );
-        })}
+        {/* Real-time Search Input */}
+        <div className="relative w-full lg:w-72">
+          <Icons.Search className="absolute left-3.5 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+          <input
+            type="text"
+            placeholder="Search grammar topics..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="w-full bg-secondary/50 border border-border/50 rounded-xl pl-9 pr-8 py-2 text-xs font-semibold focus:outline-none focus:ring-2 focus:ring-indigo-500/20 focus:border-indigo-500 transition-all placeholder:text-muted-foreground/60"
+          />
+          {searchQuery && (
+            <button
+              onClick={() => setSearchQuery('')}
+              className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
+            >
+              <Icons.X className="h-3.5 w-3.5" />
+            </button>
+          )}
+        </div>
       </div>
+
+      {/* 3. Structured Lesson Learning Track */}
+      {totalFilteredCount === 0 ? (
+        <div className="bg-card border border-border/40 rounded-3xl p-12 text-center space-y-4 shadow-sm">
+          <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-secondary mx-auto text-muted-foreground">
+            <Icons.BookOpen className="h-6 w-6" />
+          </div>
+          <div>
+            <h3 className="text-base font-extrabold text-foreground">No lessons found</h3>
+            <p className="text-xs text-muted-foreground mt-1">Try adjusting your search query or level filter.</p>
+          </div>
+          <button
+            onClick={() => {
+              setSelectedLevel('all');
+              setSearchQuery('');
+            }}
+            className="px-4 py-2 rounded-xl bg-indigo-500 hover:bg-indigo-600 text-white text-xs font-extrabold transition-all active:scale-95 shadow-md shadow-indigo-500/10"
+          >
+            Reset Filters
+          </button>
+        </div>
+      ) : (
+        <div className="space-y-10">
+          {displayLevels.map((level) => {
+            const levelLessons = grammarLessons.filter((l) => {
+              const matchesLevel = l.level === level;
+              const matchesSearch = !searchQuery.trim() || 
+                l.title.toLowerCase().includes(searchQuery.toLowerCase()) || 
+                l.shortDesc.toLowerCase().includes(searchQuery.toLowerCase()) ||
+                (l.shortDescKhmer && l.shortDescKhmer.includes(searchQuery));
+              return matchesLevel && matchesSearch;
+            });
+
+            if (levelLessons.length === 0) return null;
+
+            const cefrDetails = {
+              'A1': { name: 'A1 - Elementary', color: 'text-green-500' },
+              'A2': { name: 'A2 - Pre-intermediate', color: 'text-emerald-500' },
+              'B1': { name: 'B1 - Intermediate', color: 'text-blue-500' },
+              'B1+': { name: 'B1+ - Upper-intermediate', color: 'text-indigo-500' },
+              'B2': { name: 'B2 - Pre-advanced', color: 'text-purple-500' },
+              'C1': { name: 'C1 - Advanced', color: 'text-rose-500' }
+            }[level];
+
+            const levelName = cefrDetails.name;
+            const levelColor = cefrDetails.color;
+
+            return (
+              <div key={level} className="space-y-4">
+                <div className="flex items-center gap-2 border-b border-border/40 pb-2">
+                  <span className={cn("text-sm font-extrabold uppercase tracking-widest", levelColor)}>
+                    {levelName}
+                  </span>
+                  <span className="h-1.5 w-1.5 rounded-full bg-border" />
+                  <span className="text-xs text-muted-foreground font-semibold">
+                    {levelLessons.length} lessons
+                  </span>
+                </div>
+
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {levelLessons.map((lesson) => {
+                    const isCompleted = completedLessons.includes(lesson.id);
+                    return (
+                      <div
+                        key={lesson.id}
+                        onClick={() => handleOpenLesson(lesson)}
+                        className={cn(
+                          "group flex items-start justify-between p-5 rounded-2xl border bg-card hover:shadow-md cursor-pointer transition-all duration-200 hover:-translate-y-0.5 text-left",
+                          isCompleted ? "border-emerald-500/30" : "border-border/40"
+                        )}
+                      >
+                        <div className="space-y-1.5 flex-1 min-w-0 pr-4">
+                          <div className="flex items-center gap-2">
+                            <h3 className="text-base font-extrabold text-foreground truncate group-hover:text-indigo-500 transition-colors">
+                              {lesson.title}
+                            </h3>
+                          </div>
+                          <p className="text-xs text-muted-foreground leading-relaxed line-clamp-2">
+                            {lesson.shortDesc}
+                          </p>
+                          {lesson.shortDescKhmer && (
+                            <p className="text-[11px] font-semibold text-emerald-600 dark:text-emerald-400 leading-normal line-clamp-1 font-khmer">
+                              {lesson.shortDescKhmer}
+                            </p>
+                          )}
+                        </div>
+
+                        <div className="flex items-center gap-2 shrink-0">
+                          {isCompleted ? (
+                            <span className="flex h-7 w-7 items-center justify-center rounded-full bg-emerald-100 dark:bg-emerald-950/40 text-emerald-600 shadow-sm">
+                              <Icons.Check className="h-4 w-4 stroke-[3]" />
+                            </span>
+                          ) : (
+                            <span className="flex h-7 w-7 items-center justify-center rounded-full bg-secondary text-muted-foreground group-hover:bg-indigo-50 dark:group-hover:bg-indigo-950/20 group-hover:text-indigo-500 transition-all">
+                              <Icons.ChevronRight className="h-4 w-4 group-hover:translate-x-0.5 transition-transform" />
+                            </span>
+                          )}
+                        </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      )}
 
       {/* 3. Lesson Overlay Focus Study Panel (Immersive Full-Screen Player) */}
       <AnimatePresence>

@@ -124,7 +124,24 @@ export default function VocabularyPage() {
 
   return (
     <div className="flex flex-col gap-6 pb-12">
-      {/* 1. Header Filters Section */}
+      {/* 1. Page Header Section */}
+      <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
+        <div>
+          <div className="flex flex-wrap items-center gap-3">
+            <h2 className="text-3xl font-extrabold tracking-tight text-foreground">
+              Vocabulary Explorer
+            </h2>
+            <span className="text-xs font-black px-2.5 py-1 rounded-xl bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 border border-emerald-500/20 shadow-sm">
+              {vocabularyWords.length} Words Total
+            </span>
+          </div>
+          <p className="text-muted-foreground text-xs md:text-sm font-medium mt-1">
+            Master all {vocabularyWords.length} essential English words grouped by CEFR levels and categories.
+          </p>
+        </div>
+      </div>
+
+      {/* 2. Header Filters Section */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-card border border-border/40 p-4 rounded-2xl shadow-sm">
         {/* Level Selector Tabs */}
         <div className="flex bg-secondary/80 p-1 rounded-xl w-fit">
@@ -143,7 +160,11 @@ export default function VocabularyPage() {
             </button>
           ))}
         </div>
-
+ 
+        <span className="text-xs font-black text-muted-foreground bg-secondary/80 px-3 py-1.5 rounded-xl border border-border/20 hidden lg:inline-block">
+          {filteredWords.length} words found
+        </span>
+ 
         {/* Search Bar & Favorites Filter */}
         <div className="flex items-center gap-2 flex-1 max-w-md">
           <div className="relative flex-1">

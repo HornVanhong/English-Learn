@@ -1,90 +1,36 @@
 import { VocabularyCategory } from '@/types';
 
 export const categories: VocabularyCategory[] = [
-  {
-    id: 'daily-conversation',
-    name: 'Daily Conversation',
-    icon: 'MessageCircle',
-    color: 'from-blue-400 to-indigo-500',
-    description: 'Essential phrases and idioms for everyday chatter.'
-  },
-  {
-    id: 'family',
-    name: 'Family & Relationships',
-    icon: 'Users',
-    color: 'from-pink-400 to-rose-500',
-    description: 'Words to describe relatives, feelings, and social circles.'
-  },
-  {
-    id: 'food',
-    name: 'Food & Dining',
-    icon: 'Utensils',
-    color: 'from-amber-400 to-orange-500',
-    description: 'Vocabulary for cooking, ordering in restaurants, and ingredients.'
-  },
-  {
-    id: 'animals',
-    name: 'Animals & Nature',
-    icon: 'Rabbit',
-    color: 'from-emerald-400 to-teal-500',
-    description: 'Common animals, habitats, and environmental terms.'
-  },
-  {
-    id: 'school',
-    name: 'School & Education',
-    icon: 'BookOpen',
-    color: 'from-violet-400 to-purple-500',
-    description: 'Academic subjects, classroom items, and learning verbs.'
-  },
-  {
-    id: 'travel',
-    name: 'Travel & Transport',
-    icon: 'Plane',
-    color: 'from-sky-400 to-cyan-500',
-    description: 'Airport terminology, directions, and vacation nouns.'
-  },
-  {
-    id: 'business',
-    name: 'Business & Work',
-    icon: 'Briefcase',
-    color: 'from-slate-400 to-slate-600',
-    description: 'Office talk, job roles, meetings, and financial terms.'
-  },
-  {
-    id: 'technology',
-    name: 'Technology & Media',
-    icon: 'Laptop',
-    color: 'from-cyan-500 to-blue-600',
-    description: 'Computing, software, internet, and gadget vocabulary.'
-  },
-  {
-    id: 'health',
-    name: 'Health & Body',
-    icon: 'HeartPulse',
-    color: 'from-red-400 to-pink-500',
-    description: 'Human anatomy, common sicknesses, and healthy habits.'
-  },
-  {
-    id: 'shopping',
-    name: 'Shopping & Clothes',
-    icon: 'ShoppingBag',
-    color: 'from-fuchsia-400 to-pink-600',
-    description: 'Clothing styles, buying verbs, prices, and sizes.'
-  },
-  {
-    id: 'sports',
-    name: 'Sports & Hobbies',
-    icon: 'Activity',
-    color: 'from-lime-400 to-emerald-600',
-    description: 'Popular games, sports gear, and leisure actions.'
-  },
-  {
-    id: 'nature',
-    name: 'Nature & Weather',
-    icon: 'Trees',
-    color: 'from-green-400 to-emerald-600',
-    description: 'Weather patterns, landscapes, and seasons.'
-  }
+  // A1 Topics
+  { id: 'greetings', name: 'Greetings', icon: 'Smile', color: 'from-green-400 to-emerald-500', description: 'Hello, goodbye, and polite phrases.' },
+  { id: 'family', name: 'Family', icon: 'Users', color: 'from-pink-400 to-rose-500', description: 'Relatives and relationship nouns.' },
+  { id: 'numbers', name: 'Numbers', icon: 'Hash', color: 'from-indigo-400 to-indigo-500', description: 'Counting, ordering, and scores.' },
+  { id: 'food', name: 'Food', icon: 'Utensils', color: 'from-amber-400 to-orange-500', description: 'Fruit, vegetables, meals, and eating.' },
+  { id: 'colors', name: 'Colors', icon: 'Palette', color: 'from-purple-400 to-indigo-500', description: 'Common shades and colors.' },
+  { id: 'school', name: 'School', icon: 'BookOpen', color: 'from-violet-400 to-purple-500', description: 'Academic life, pencils, and classrooms.' },
+  { id: 'home', name: 'Home', icon: 'Home', color: 'from-emerald-400 to-teal-500', description: 'Rooms, furniture, and house verbs.' },
+  { id: 'clothes', name: 'Clothes', icon: 'Shirt', color: 'from-fuchsia-400 to-pink-500', description: 'Apparel and getting dressed.' },
+  { id: 'time', name: 'Time', icon: 'Clock', color: 'from-sky-400 to-blue-500', description: 'Telling time, clocks, and hours.' },
+  { id: 'days', name: 'Days', icon: 'CalendarDays', color: 'from-cyan-400 to-teal-500', description: 'Monday to Sunday and weekends.' },
+  { id: 'months', name: 'Months', icon: 'Calendar', color: 'from-blue-400 to-purple-500', description: 'January to December and years.' },
+
+  // A2 Topics
+  { id: 'shopping', name: 'Shopping', icon: 'ShoppingBag', color: 'from-yellow-400 to-amber-500', description: 'Paying, cost, buying, and selling.' },
+  { id: 'travel', name: 'Travel', icon: 'Plane', color: 'from-teal-400 to-cyan-500', description: 'Hotels, luggage, passports, and sights.' },
+  { id: 'health', name: 'Health', icon: 'HeartPulse', color: 'from-red-400 to-pink-500', description: 'Sickness, medicine, doctors, and pain.' },
+  { id: 'weather', name: 'Weather', icon: 'CloudRain', color: 'from-sky-400 to-cyan-500', description: 'Rain, wind, sun, and forecast.' },
+  { id: 'technology', name: 'Technology', icon: 'Laptop', color: 'from-blue-500 to-indigo-600', description: 'Computers, internet, and phones.' },
+  { id: 'work', name: 'Work', icon: 'Briefcase', color: 'from-slate-400 to-slate-600', description: 'Jobs, offices, salaries, and careers.' },
+  { id: 'transportation', name: 'Transportation', icon: 'Car', color: 'from-lime-400 to-emerald-500', description: 'Cars, trains, buses, and stations.' },
+
+  // B1+ Topics
+  { id: 'finance', name: 'Finance & Economy', icon: 'Coins', color: 'from-emerald-500 to-teal-600', description: 'Banking, investments, and currency.' },
+  { id: 'environment', name: 'Environment', icon: 'Trees', color: 'from-green-400 to-emerald-600', description: 'Ecosystems, climate, and pollution.' },
+  { id: 'science', name: 'Science', icon: 'Cpu', color: 'from-violet-500 to-purple-600', description: 'Research, gravity, space, and theories.' },
+  { id: 'politics', name: 'Politics', icon: 'Globe', color: 'from-indigo-500 to-blue-600', description: 'Government, laws, and policies.' },
+  { id: 'arts', name: 'Arts & Media', icon: 'Music', color: 'from-pink-500 to-rose-600', description: 'Literature, paintings, and concerts.' },
+  { id: 'business', name: 'Business (Adv)', icon: 'Building', color: 'from-slate-500 to-slate-700', description: 'Corporate administration and contracts.' },
+  { id: 'daily-conversation', name: 'Daily Life', icon: 'MessageSquare', color: 'from-slate-400 to-slate-500', description: 'Everyday conversations and phrases.' }
 ];
 
 export const levels = [

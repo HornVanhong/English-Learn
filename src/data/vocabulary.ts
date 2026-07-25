@@ -15,12 +15,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unabout"
     ],
-    "image": "daily-conversation-about",
+    "image": "/images/vocab/about.jpg",
     "audioPlaceholder": "about",
     "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "នៅលើចំណុចឬជិតនៃ។",
-    "exampleKhmer": "អំពី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អំពី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good about",
+      "the about is",
+      "to use a about"
+    ]
   },
   {
     "id": "search",
@@ -36,12 +42,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsearch"
     ],
-    "image": "family-search",
+    "image": "/images/vocab/search.jpg",
     "audioPlaceholder": "search",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីស្វែងរក។",
-    "exampleKhmer": "ការស្វែងរកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការស្វែងរកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good search",
+      "the search is",
+      "to use a search"
+    ]
   },
   {
     "id": "other",
@@ -57,12 +69,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unother"
     ],
-    "image": "food-other",
+    "image": "/images/vocab/other.jpg",
     "audioPlaceholder": "other",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "ទាំង។",
-    "exampleKhmer": "មួយ​ទៀត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មួយ​ទៀត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good other",
+      "the other is",
+      "to use a other"
+    ]
   },
   {
     "id": "which",
@@ -78,12 +96,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwhich"
     ],
-    "image": "animals-which",
+    "image": "/images/vocab/which.jpg",
     "audioPlaceholder": "which",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "greetings",
     "meaningKhmer": "មិនថាមួយឬមួយផ្សេងទៀត។",
-    "exampleKhmer": "ដែលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ដែលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good which",
+      "the which is",
+      "to use a which"
+    ]
   },
   {
     "id": "their",
@@ -99,12 +123,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untheir"
     ],
-    "image": "school-their",
+    "image": "/images/vocab/their.jpg",
     "audioPlaceholder": "their",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "ករណីកាន់កាប់នៃសព្វនាមផ្ទាល់ខ្លួនពួកគេ។",
-    "exampleKhmer": "ពួកគេ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ពួកគេ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good their",
+      "the their is",
+      "to use a their"
+    ]
   },
   {
     "id": "there",
@@ -120,12 +150,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthere"
     ],
-    "image": "travel-there",
+    "image": "/images/vocab/there.jpg",
     "audioPlaceholder": "there",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធនៅទីនោះ។",
-    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to there immediately",
+      "can there easily",
+      "please there"
+    ]
   },
   {
     "id": "contact",
@@ -141,12 +177,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncontact"
     ],
-    "image": "business-contact",
+    "image": "/images/vocab/contact.jpg",
     "audioPlaceholder": "contact",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "ទ្រព្យសម្បត្តិនៃខ្សែកោងពីរ ឬផ្ទៃដែលជួបគ្នា ហើយនៅចំណុចនៃការជួបគ្នាមានទិសដៅរួម។",
-    "exampleKhmer": "ទំនាក់​ទំនង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ទំនាក់​ទំនង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good contact",
+      "the contact is",
+      "to use a contact"
+    ]
   },
   {
     "id": "business",
@@ -162,12 +204,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbusiness"
     ],
-    "image": "technology-business",
+    "image": "/images/vocab/business.jpg",
     "audioPlaceholder": "business",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "ទីតាំង ការចែកចាយ និងលំដាប់នៃមនុស្ស និងទ្រព្យសម្បត្តិនៅលើឆាកនៃរោងមហោស្រព ដូចដែលបានកំណត់ដោយអ្នកគ្រប់គ្រងដំណាក់កាលនៃការហាត់សម។",
-    "exampleKhmer": "អាជីវកម្ម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អាជីវកម្ម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good business",
+      "the business is",
+      "to use a business"
+    ]
   },
   {
     "id": "online",
@@ -183,12 +231,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unonline"
     ],
-    "image": "health-online",
+    "image": "/images/vocab/online.jpg",
     "audioPlaceholder": "online",
     "difficulty": "A1",
-    "category": "health",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងអ៊ីនធឺណិត។",
-    "exampleKhmer": "អនឡាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អនឡាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good online",
+      "the online is",
+      "to use a online"
+    ]
   },
   {
     "id": "first",
@@ -204,12 +258,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfirst"
     ],
-    "image": "shopping-first",
+    "image": "/images/vocab/first.jpg",
     "audioPlaceholder": "first",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "numbers",
     "meaningKhmer": "មុន​មនុស្ស ឬ​វត្ថុ​ណាមួយ​ក្នុង​ពេលវេលា លំហ ឋានៈ ។ល។",
-    "exampleKhmer": "ទីមួយ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទីមួយ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good first",
+      "the first is",
+      "to use a first"
+    ]
   },
   {
     "id": "would",
@@ -225,12 +285,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwould"
     ],
-    "image": "sports-would",
+    "image": "/images/vocab/would.jpg",
     "audioPlaceholder": "would",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "ប្រើជាទូទៅជាកិរិយាសព្ទជំនួយ ទាំងក្នុងអតីតកាល ឬក្នុងបច្ចុប្បន្នកាលតាមលក្ខខណ្ឌ ឬជម្រើសបច្ចុប្បន្ន។",
-    "exampleKhmer": "ឆន្ទៈ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឆន្ទៈ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good would",
+      "the would is",
+      "to use a would"
+    ]
   },
   {
     "id": "services",
@@ -246,12 +312,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unservices"
     ],
-    "image": "nature-services",
+    "image": "/images/vocab/services.jpg",
     "audioPlaceholder": "services",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "daily-conversation",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃសេវាកម្ម។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សេវាកម្ម' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សេវាកម្ម' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to services immediately",
+      "can services easily",
+      "please services"
+    ]
   },
   {
     "id": "these",
@@ -267,12 +339,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthese"
     ],
-    "image": "daily-conversation-these",
+    "image": "/images/vocab/these.jpg",
     "audioPlaceholder": "these",
     "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ពហុវចនៈនៃនេះ។",
-    "exampleKhmer": "ទាំង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទាំង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good these",
+      "the these is",
+      "to use a these"
+    ]
   },
   {
     "id": "click",
@@ -288,12 +366,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unclick"
     ],
-    "image": "family-click",
+    "image": "/images/vocab/click.jpg",
     "audioPlaceholder": "click",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីបង្កើតសម្លេងស្រួចស្រាលៗ (ឬបន្តបន្ទាប់គ្នានៃសម្លេងបែបនេះ) ដូចជាការវាយដោយសុភាព។",
-    "exampleKhmer": "ការចុចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការចុចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good click",
+      "the click is",
+      "to use a click"
+    ]
   },
   {
     "id": "service",
@@ -309,12 +393,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unservice"
     ],
-    "image": "food-service",
+    "image": "/images/vocab/service.jpg",
     "audioPlaceholder": "service",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "សកម្មភាពនៃការជូនដំណឹង ទោះជាតាមពិត ឬស្ថាបនា តាមលក្ខណៈដែលបានកំណត់ដោយច្បាប់។",
-    "exampleKhmer": "សេវានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សេវានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good service",
+      "the service is",
+      "to use a service"
+    ]
   },
   {
     "id": "price",
@@ -330,12 +420,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprice"
     ],
-    "image": "animals-price",
+    "image": "/images/vocab/price.jpg",
     "audioPlaceholder": "price",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "food",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃតម្លៃ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'តម្លៃ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'តម្លៃ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to price immediately",
+      "can price easily",
+      "please price"
+    ]
   },
   {
     "id": "people",
@@ -351,12 +447,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpeople"
     ],
-    "image": "school-people",
+    "image": "/images/vocab/people.jpg",
     "audioPlaceholder": "people",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "ស្តុកទុកជាមួយមនុស្ស ឬអ្នករស់នៅ។",
-    "exampleKhmer": "មនុស្សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មនុស្សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good people",
+      "the people is",
+      "to use a people"
+    ]
   },
   {
     "id": "state",
@@ -372,12 +474,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstate"
     ],
-    "image": "travel-state",
+    "image": "/images/vocab/state.jpg",
     "audioPlaceholder": "state",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "សេចក្តីថ្លែងការណ៍មួយ។",
-    "exampleKhmer": "រដ្ឋ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "រដ្ឋ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good state",
+      "the state is",
+      "to use a state"
+    ]
   },
   {
     "id": "email",
@@ -393,12 +501,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unemail"
     ],
-    "image": "business-email",
+    "image": "/images/vocab/email.jpg",
     "audioPlaceholder": "email",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយអ៊ីមែល។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​តាម​អ៊ីមែល​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​តាម​អ៊ីមែល​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very email",
+      "a email person",
+      "seems to be email"
+    ]
   },
   {
     "id": "health",
@@ -414,12 +528,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhealth"
     ],
-    "image": "technology-health",
+    "image": "/images/vocab/health.jpg",
     "audioPlaceholder": "health",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃសុខភាព។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សុខភាព' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សុខភាព' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to health immediately",
+      "can health easily",
+      "please health"
+    ]
   },
   {
     "id": "world",
@@ -435,12 +555,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unworld"
     ],
-    "image": "health-world",
+    "image": "/images/vocab/world.jpg",
     "audioPlaceholder": "world",
     "difficulty": "A1",
-    "category": "health",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងពិភពលោក។",
-    "exampleKhmer": "ពិភពលោកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពិភពលោកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good world",
+      "the world is",
+      "to use a world"
+    ]
   },
   {
     "id": "products",
@@ -456,12 +582,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unproducts"
     ],
-    "image": "shopping-products",
+    "image": "/images/vocab/products.jpg",
     "audioPlaceholder": "products",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងផលិតផល។",
-    "exampleKhmer": "យើងត្រូវផលិតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវផលិតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to products immediately",
+      "can products easily",
+      "please products"
+    ]
   },
   {
     "id": "music",
@@ -477,12 +609,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmusic"
     ],
-    "image": "sports-music",
+    "image": "/images/vocab/music.jpg",
     "audioPlaceholder": "music",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "សំឡេងតន្ត្រីតិចឬច្រើនដែលបង្កើតឡើងដោយសត្វទាបៗ។ សូមមើល Stridulation ។",
-    "exampleKhmer": "តន្ត្រី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "តន្ត្រី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good music",
+      "the music is",
+      "to use a music"
+    ]
   },
   {
     "id": "should",
@@ -498,12 +636,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unshould"
     ],
-    "image": "nature-should",
+    "image": "/images/vocab/should.jpg",
     "audioPlaceholder": "should",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "daily-conversation",
     "meaningKhmer": "ប្រើជាកិរិយាសព្ទជំនួយ ដើម្បីបង្ហាញពីទង្វើ ឬស្ថានភាពដែលមានលក្ខខណ្ឌ ឬជាការសន្មត់នៃការពិតជាក់ស្តែង។",
-    "exampleKhmer": "គួរតែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "គួរតែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good should",
+      "the should is",
+      "to use a should"
+    ]
   },
   {
     "id": "product",
@@ -519,12 +663,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unproduct"
     ],
-    "image": "daily-conversation-product",
+    "image": "/images/vocab/product.jpg",
     "audioPlaceholder": "product",
     "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ចំនួន ឬផលបូកដែលទទួលបានដោយការបន្ថែមលេខមួយ ឬបរិមាណរបស់វាច្រើនដង ព្រោះវាមានចំនួនឯកតាក្នុងចំនួនផ្សេងទៀត។",
-    "exampleKhmer": "ផលិតផលនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផលិតផលនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good product",
+      "the product is",
+      "to use a product"
+    ]
   },
   {
     "id": "system",
@@ -540,12 +690,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsystem"
     ],
-    "image": "family-system",
+    "image": "/images/vocab/system.jpg",
     "audioPlaceholder": "system",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "ការប្រមូលផ្ដុំឈើដែលបង្កើតបានពិន្ទុពេញ។",
-    "exampleKhmer": "ប្រព័ន្ធ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រព័ន្ធ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good system",
+      "the system is",
+      "to use a system"
+    ]
   },
   {
     "id": "policy",
@@ -561,12 +717,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpolicy"
     ],
-    "image": "food-policy",
+    "image": "/images/vocab/policy.jpg",
     "audioPlaceholder": "policy",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីគ្រប់គ្រងដោយច្បាប់។",
-    "exampleKhmer": "គោលការណ៍​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "គោលការណ៍​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good policy",
+      "the policy is",
+      "to use a policy"
+    ]
   },
   {
     "id": "number",
@@ -582,12 +744,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnumber"
     ],
-    "image": "animals-number",
+    "image": "/images/vocab/number.jpg",
     "audioPlaceholder": "number",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "numbers",
     "meaningKhmer": "ភាពខុសគ្នានៃវត្ថុ ក្នុងនាមជាមួយ ឬច្រើនជាងមួយ (នៅក្នុងភាសាមួយចំនួន ដូចជាមួយ ឬពីរ ឬច្រើនជាងពីរ) បានបង្ហាញ (ជាធម្មតា) ដោយភាពខុសគ្នានៅក្នុងទម្រង់នៃពាក្យមួយ។",
-    "exampleKhmer": "ចំនួន​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ចំនួន​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good number",
+      "the number is",
+      "to use a number"
+    ]
   },
   {
     "id": "please",
@@ -603,12 +771,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unplease"
     ],
-    "image": "school-please",
+    "image": "/images/vocab/please.jpg",
     "audioPlaceholder": "please",
     "difficulty": "A1",
-    "category": "school",
+    "category": "greetings",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងការពេញចិត្ត។",
-    "exampleKhmer": "សូមពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សូមពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good please",
+      "the please is",
+      "to use a please"
+    ]
   },
   {
     "id": "support",
@@ -624,12 +798,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsupport"
     ],
-    "image": "travel-support",
+    "image": "/images/vocab/support.jpg",
     "audioPlaceholder": "support",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការគាំទ្រ។",
-    "exampleKhmer": "យើងត្រូវគាំទ្រកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវគាំទ្រកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to support immediately",
+      "can support easily",
+      "please support"
+    ]
   },
   {
     "id": "message",
@@ -645,12 +825,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmessage"
     ],
-    "image": "business-message",
+    "image": "/images/vocab/message.jpg",
     "audioPlaceholder": "message",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីទទួលជាសារ។",
-    "exampleKhmer": "សារ​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សារ​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good message",
+      "the message is",
+      "to use a message"
+    ]
   },
   {
     "id": "after",
@@ -666,12 +852,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unafter"
     ],
-    "image": "technology-after",
+    "image": "/images/vocab/after.jpg",
     "audioPlaceholder": "after",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីការពារផ្នែកខាងកប៉ាល់។",
-    "exampleKhmer": "បន្ទាប់​មក​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "បន្ទាប់​មក​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good after",
+      "the after is",
+      "to use a after"
+    ]
   },
   {
     "id": "software",
@@ -687,12 +879,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsoftware"
     ],
-    "image": "health-software",
+    "image": "/images/vocab/software.jpg",
     "audioPlaceholder": "software",
     "difficulty": "A1",
-    "category": "health",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកម្មវិធី។",
-    "exampleKhmer": "កម្មវិធី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "កម្មវិធី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good software",
+      "the software is",
+      "to use a software"
+    ]
   },
   {
     "id": "video",
@@ -708,12 +906,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvideo"
     ],
-    "image": "shopping-video",
+    "image": "/images/vocab/video.jpg",
     "audioPlaceholder": "video",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយវីដេអូ។",
-    "exampleKhmer": "យើងត្រូវវីដេអូកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការ��ៅមុខ។"
+    "exampleKhmer": "យើងត្រូវវីដេអូកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការ��ៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to video immediately",
+      "can video easily",
+      "please video"
+    ]
   },
   {
     "id": "where",
@@ -729,12 +933,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwhere"
     ],
-    "image": "sports-where",
+    "image": "/images/vocab/where.jpg",
     "audioPlaceholder": "where",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "ចំណែក​ឯ​ការ​ហោះ​ហើរ​និង​ការ​ស្លាប់​គឺ​ការ​ស្លាប់​បំផ្លាញ​សេចក្តី​ស្លាប់។",
-    "exampleKhmer": "កន្លែងដែលត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កន្លែងដែលត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good where",
+      "the where is",
+      "to use a where"
+    ]
   },
   {
     "id": "rights",
@@ -750,12 +960,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrights"
     ],
-    "image": "nature-rights",
+    "image": "/images/vocab/rights.jpg",
     "audioPlaceholder": "rights",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "daily-conversation",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃសិទ្ធិ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សិទ្ធិ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សិទ្ធិ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to rights immediately",
+      "can rights easily",
+      "please rights"
+    ]
   },
   {
     "id": "public",
@@ -771,12 +987,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpublic"
     ],
-    "image": "daily-conversation-public",
+    "image": "/images/vocab/public.jpg",
     "audioPlaceholder": "public",
     "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសាធារណៈ។",
-    "exampleKhmer": "សាធារណជន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សាធារណជន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good public",
+      "the public is",
+      "to use a public"
+    ]
   },
   {
     "id": "books",
@@ -792,12 +1014,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbooks"
     ],
-    "image": "family-books",
+    "image": "/images/vocab/books.jpg",
     "audioPlaceholder": "books",
     "difficulty": "A1",
-    "category": "family",
+    "category": "school",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយសៀវភៅ។",
-    "exampleKhmer": "យើងត្រូវកក់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅ��ាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកក់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅ��ាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to books immediately",
+      "can books easily",
+      "please books"
+    ]
   },
   {
     "id": "school",
@@ -813,12 +1041,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unschool"
     ],
-    "image": "food-school",
+    "image": "/images/vocab/school.jpg",
     "audioPlaceholder": "school",
     "difficulty": "A1",
-    "category": "food",
+    "category": "school",
     "meaningKhmer": "ច្រាំងថ្មចោទ។",
-    "exampleKhmer": "សាលា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សាលា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good school",
+      "the school is",
+      "to use a school"
+    ]
   },
   {
     "id": "through",
@@ -834,12 +1068,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthrough"
     ],
-    "image": "animals-through",
+    "image": "/images/vocab/through.jpg",
     "audioPlaceholder": "through",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "daily-conversation",
     "meaningKhmer": "ឆ្លងកាត់ឬពង្រីក។",
-    "exampleKhmer": "វគ្គនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "វគ្គនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good through",
+      "the through is",
+      "to use a through"
+    ]
   },
   {
     "id": "links",
@@ -855,12 +1095,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlinks"
     ],
-    "image": "school-links",
+    "image": "/images/vocab/links.jpg",
     "audioPlaceholder": "links",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "ដី​មួយ​កន្លែង​សម្រាប់​ការ​ប្រកួត​វាយ​កូនហ្គោល​។",
-    "exampleKhmer": "តំណភ្ជាប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "តំណភ្ជាប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good links",
+      "the links is",
+      "to use a links"
+    ]
   },
   {
     "id": "review",
@@ -876,12 +1122,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreview"
     ],
-    "image": "travel-review",
+    "image": "/images/vocab/review.jpg",
     "audioPlaceholder": "review",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីមើលទៅក្រោយ។",
-    "exampleKhmer": "ការពិនិត្យឡើងវិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការពិនិត្យឡើងវិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good review",
+      "the review is",
+      "to use a review"
+    ]
   },
   {
     "id": "years",
@@ -897,12 +1149,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unyears"
     ],
-    "image": "business-years",
+    "image": "/images/vocab/years.jpg",
     "audioPlaceholder": "years",
     "difficulty": "A1",
-    "category": "business",
+    "category": "months",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយឆ្នាំ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ជាច្រើនឆ្នាំអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ជាច្រើនឆ្នាំអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very years",
+      "a years person",
+      "seems to be years"
+    ]
   },
   {
     "id": "order",
@@ -918,12 +1176,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unorder"
     ],
-    "image": "technology-order",
+    "image": "/images/vocab/order.jpg",
     "audioPlaceholder": "order",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "ការរៀបចំជួរឈរមួយ និងផ្នែកសមាសធាតុរបស់វា និងធាតុដែលស្ថិតនៅលើវានៅក្នុងស្ថាបត្យកម្មបុរាណ។",
-    "exampleKhmer": "លំដាប់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "លំដាប់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good order",
+      "the order is",
+      "to use a order"
+    ]
   },
   {
     "id": "privacy",
@@ -939,12 +1203,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprivacy"
     ],
-    "image": "health-privacy",
+    "image": "/images/vocab/privacy.jpg",
     "audioPlaceholder": "privacy",
     "difficulty": "A1",
-    "category": "health",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងភាពឯកជន។",
-    "exampleKhmer": "ឯកជនភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់រៀនកាលពីម្សិលមិញ។"
+    "exampleKhmer": "ឯកជនភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់រៀនកាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good privacy",
+      "the privacy is",
+      "to use a privacy"
+    ]
   },
   {
     "id": "items",
@@ -960,12 +1230,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unitems"
     ],
-    "image": "shopping-items",
+    "image": "/images/vocab/items.jpg",
     "audioPlaceholder": "items",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយធាតុ។",
-    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to items immediately",
+      "can items easily",
+      "please items"
+    ]
   },
   {
     "id": "company",
@@ -981,12 +1257,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncompany"
     ],
-    "image": "sports-company",
+    "image": "/images/vocab/company.jpg",
     "audioPlaceholder": "company",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "ផ្នែករងនៃកងវរសេនាធំនៃកងទ័ពក្រោមការបញ្ជារបស់ប្រធានក្រុមដែលមានលេខនៅសហរដ្ឋអាមេរិក (កម្លាំងពេញ) បុរស 100 ។",
-    "exampleKhmer": "ក្រុមហ៊ុន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ក្រុមហ៊ុន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good company",
+      "the company is",
+      "to use a company"
+    ]
   },
   {
     "id": "group",
@@ -1002,12 +1284,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungroup"
     ],
-    "image": "nature-group",
+    "image": "/images/vocab/group.jpg",
     "audioPlaceholder": "group",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "daily-conversation",
     "meaningKhmer": "ការប្រមូលផ្តុំមានកំណត់ផ្សេងៗគ្នានៃសត្វ ឬរុក្ខជាតិ មានភាពស្រដៀងគ្នា ឬលក្ខណៈទូទៅនៅក្នុងទម្រង់ ឬរចនាសម្ព័ន្ធ។",
-    "exampleKhmer": "ក្រុម​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាល��ី​ម្សិលមិញ។"
+    "exampleKhmer": "ក្រុម​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាល��ី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good group",
+      "the group is",
+      "to use a group"
+    ]
   },
   {
     "id": "under",
@@ -1023,12 +1311,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ununder"
     ],
-    "image": "daily-conversation-under",
+    "image": "/images/vocab/under.jpg",
     "audioPlaceholder": "under",
     "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "នៅក្នុងលក្ខខណ្ឌទាបជាង ប្រធានបទ ឬក្រោមលក្ខខណ្ឌ។",
-    "exampleKhmer": "ក្រោម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ក្រោម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good under",
+      "the under is",
+      "to use a under"
+    ]
   },
   {
     "id": "general",
@@ -1044,12 +1338,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungeneral"
     ],
-    "image": "family-general",
+    "image": "/images/vocab/general.jpg",
     "audioPlaceholder": "general",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "មេទ័ពកំពូលម្នាក់នៃរដ្ឋាភិបាល ឬប្រទេស។",
-    "exampleKhmer": "ឧត្តម​សេនីយ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។"
+    "exampleKhmer": "ឧត្តម​សេនីយ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good general",
+      "the general is",
+      "to use a general"
+    ]
   },
   {
     "id": "research",
@@ -1065,12 +1365,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unresearch"
     ],
-    "image": "food-research",
+    "image": "/images/vocab/research.jpg",
     "audioPlaceholder": "research",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "ការស៊ើបអង្កេត ឬការពិនិត្យដោយឧស្សាហ៍ព្យាយាមក្នុងការស្វែងរកការពិត ឬគោលការណ៍។",
-    "exampleKhmer": "ការ​ស្រាវជ្រាវ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ស្រាវជ្រាវ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good research",
+      "the research is",
+      "to use a research"
+    ]
   },
   {
     "id": "january",
@@ -1086,12 +1392,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unjanuary"
     ],
-    "image": "animals-january",
+    "image": "/images/vocab/january.jpg",
     "audioPlaceholder": "january",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "months",
     "meaningKhmer": "ខែដំបូងនៃឆ្នាំមានសាមសិបមួយថ្ងៃ។",
-    "exampleKhmer": "ខែ​មករា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ខែ​មករា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good january",
+      "the january is",
+      "to use a january"
+    ]
   },
   {
     "id": "reviews",
@@ -1107,12 +1419,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreviews"
     ],
-    "image": "school-reviews",
+    "image": "/images/vocab/reviews.jpg",
     "audioPlaceholder": "reviews",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក��ទងនឹងការពិនិត្យឡើងវិញ។",
-    "exampleKhmer": "ការវាយតម្លៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការវាយតម្លៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good reviews",
+      "the reviews is",
+      "to use a reviews"
+    ]
   },
   {
     "id": "program",
@@ -1128,12 +1446,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprogram"
     ],
-    "image": "travel-program",
+    "image": "/images/vocab/program.jpg",
     "audioPlaceholder": "program",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "ដូចគ្នានឹងកម្មវិធី។",
-    "exampleKhmer": "កម្មវិធី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កម្មវិធី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good program",
+      "the program is",
+      "to use a program"
+    ]
   },
   {
     "id": "games",
@@ -1149,12 +1473,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungames"
     ],
-    "image": "business-games",
+    "image": "/images/vocab/games.jpg",
     "audioPlaceholder": "games",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយហ្គេម។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ហ្គេម​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ហ្គេម​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very games",
+      "a games person",
+      "seems to be games"
+    ]
   },
   {
     "id": "could",
@@ -1170,12 +1500,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncould"
     ],
-    "image": "technology-could",
+    "image": "/images/vocab/could.jpg",
     "audioPlaceholder": "could",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "គួរតែ ឬអាច មានសមត្ថភាព ឬងាយរងគ្រោះ។ ប្រើជាជំនួយ ក្នុងអតីតកាល ឬក្នុងបច្ចុប្បន្នកាលតាមលក្ខខណ្ឌ។",
-    "exampleKhmer": "អាចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អាចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good could",
+      "the could is",
+      "to use a could"
+    ]
   },
   {
     "id": "great",
@@ -1191,12 +1527,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungreat"
     ],
-    "image": "health-great",
+    "image": "/images/vocab/great.jpg",
     "audioPlaceholder": "great",
     "difficulty": "A1",
-    "category": "health",
+    "category": "food",
     "meaningKhmer": "ទាំងមូល។",
-    "exampleKhmer": "ដ៏អស្ចារ្យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ដ៏អស្ចារ្យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good great",
+      "the great is",
+      "to use a great"
+    ]
   },
   {
     "id": "united",
@@ -1212,12 +1554,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ununited"
     ],
-    "image": "shopping-united",
+    "image": "/images/vocab/united.jpg",
     "audioPlaceholder": "united",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "រួមបញ្ចូលគ្នា។",
-    "exampleKhmer": "ការរួបរួមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការរួបរួមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good united",
+      "the united is",
+      "to use a united"
+    ]
   },
   {
     "id": "hotel",
@@ -1233,12 +1581,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhotel"
     ],
-    "image": "sports-hotel",
+    "image": "/images/vocab/hotel.jpg",
     "audioPlaceholder": "hotel",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយសណ្ឋាគារ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីសណ្ឋាគារយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីសណ្ឋាគារយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very hotel",
+      "a hotel person",
+      "seems to be hotel"
+    ]
   },
   {
     "id": "center",
@@ -1254,12 +1608,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncenter"
     ],
-    "image": "nature-center",
+    "image": "/images/vocab/center.jpg",
     "audioPlaceholder": "center",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "daily-conversation",
     "meaningKhmer": "រចនាសម្ព័ន្ធបណ្តោះអាសន្នដែលសម្ភារៈនៃតុដេកត្រូវបានគាំទ្រនៅក្នុងទីតាំង ប្រើប្រាស់ការងារក្លាយជាការគាំទ្រដោយខ្លួនឯង។",
-    "exampleKhmer": "មជ្ឈមណ្ឌល​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "មជ្ឈមណ្ឌល​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good center",
+      "the center is",
+      "to use a center"
+    ]
   },
   {
     "id": "store",
@@ -1275,12 +1635,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstore"
     ],
-    "image": "daily-conversation-store",
+    "image": "/images/vocab/store.jpg",
     "audioPlaceholder": "store",
     "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "អត្ថបទ ជាពិសេសអាហារ ប្រមូលផ្តុំសម្រាប់វត្ថុជាក់លាក់មួយចំនួន។",
-    "exampleKhmer": "ហាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ហាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good store",
+      "the store is",
+      "to use a store"
+    ]
   },
   {
     "id": "travel",
@@ -1296,12 +1662,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untravel"
     ],
-    "image": "family-travel",
+    "image": "/images/vocab/travel.jpg",
     "audioPlaceholder": "travel",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "គណនីមួយដោយអ្នកដំណើរ នៃការកើតឡើង និងការសង្កេតក្ន��ងអំឡុងពេលធ្វើដំណើរមួយ។",
-    "exampleKhmer": "ការ​ធ្វើ​ដំណើរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ធ្វើ​ដំណើរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good travel",
+      "the travel is",
+      "to use a travel"
+    ]
   },
   {
     "id": "comments",
@@ -1317,12 +1689,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncomments"
     ],
-    "image": "food-comments",
+    "image": "/images/vocab/comments.jpg",
     "audioPlaceholder": "comments",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយមតិយោបល់។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very comments",
+      "a comments person",
+      "seems to be comments"
+    ]
   },
   {
     "id": "report",
@@ -1338,12 +1716,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreport"
     ],
-    "image": "animals-report",
+    "image": "/images/vocab/report.jpg",
     "audioPlaceholder": "report",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីត្រឡប់ ឬបង្ហាញជាលទ្ធផលនៃការពិនិត្យ ឬពិចារណាលើបញ្ហាណាមួយដែលត្រូវបានយោងជាផ្លូវការ។",
-    "exampleKhmer": "របាយការណ៍​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "របាយការណ៍​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good report",
+      "the report is",
+      "to use a report"
+    ]
   },
   {
     "id": "member",
@@ -1359,12 +1743,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmember"
     ],
-    "image": "school-member",
+    "image": "/images/vocab/member.jpg",
     "audioPlaceholder": "member",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីចងចាំ។",
-    "exampleKhmer": "សមាជិកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សមាជិកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good member",
+      "the member is",
+      "to use a member"
+    ]
   },
   {
     "id": "details",
@@ -1380,12 +1770,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undetails"
     ],
-    "image": "travel-details",
+    "image": "/images/vocab/details.jpg",
     "audioPlaceholder": "details",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយព័ត៌មានលម្អិត។",
-    "exampleKhmer": "យើងត្រូវព័ត៌មានលម្អិតអំពីកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវព័ត៌មានលម្អិតអំពីកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to details immediately",
+      "can details easily",
+      "please details"
+    ]
   },
   {
     "id": "terms",
@@ -1401,12 +1797,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unterms"
     ],
-    "image": "business-terms",
+    "image": "/images/vocab/terms.jpg",
     "audioPlaceholder": "terms",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយពាក្យ។",
-    "exampleKhmer": "នាង​បាន​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very terms",
+      "a terms person",
+      "seems to be terms"
+    ]
   },
   {
     "id": "before",
@@ -1422,12 +1824,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbefore"
     ],
-    "image": "technology-before",
+    "image": "/images/vocab/before.jpg",
     "audioPlaceholder": "before",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃពីមុន។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មុន' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មុន' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to before immediately",
+      "can before easily",
+      "please before"
+    ]
   },
   {
     "id": "hotels",
@@ -1443,12 +1851,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhotels"
     ],
-    "image": "health-hotels",
+    "image": "/images/vocab/hotels.jpg",
     "audioPlaceholder": "hotels",
     "difficulty": "A1",
-    "category": "health",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសណ្ឋាគារ។",
-    "exampleKhmer": "សណ្ឋាគារ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សណ្ឋាគារ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good hotels",
+      "the hotels is",
+      "to use a hotels"
+    ]
   },
   {
     "id": "right",
@@ -1464,12 +1878,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unright"
     ],
-    "image": "shopping-right",
+    "image": "/images/vocab/right.jpg",
     "audioPlaceholder": "right",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "អាស្រ័យហេតុនេះ ដើម្បីទទួលបានទីតាំងទៀងត្រង់ ជាកប៉ាល់ ឬទូក ក្រោយពេលថែទាំ។",
-    "exampleKhmer": "សិទ្ធិត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សិទ្ធិត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good right",
+      "the right is",
+      "to use a right"
+    ]
   },
   {
     "id": "because",
@@ -1485,12 +1905,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbecause"
     ],
-    "image": "sports-because",
+    "image": "/images/vocab/because.jpg",
     "audioPlaceholder": "because",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយព្រោះ។",
-    "exampleKhmer": "នាង​បាន​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very because",
+      "a because person",
+      "seems to be because"
+    ]
   },
   {
     "id": "local",
@@ -1506,12 +1932,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlocal"
     ],
-    "image": "nature-local",
+    "image": "/images/vocab/local.jpg",
     "audioPlaceholder": "local",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "daily-conversation",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងកន្លែងជាក់លាក់មួយ ឬផ្នែកតំបន់ជាក់លាក់នៃលំហ។",
-    "exampleKhmer": "អ្នក​ស្រុក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នក​ស្រុក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good local",
+      "the local is",
+      "to use a local"
+    ]
   },
   {
     "id": "those",
@@ -1527,12 +1959,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthose"
     ],
-    "image": "daily-conversation-those",
+    "image": "/images/vocab/those.jpg",
     "audioPlaceholder": "those",
     "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ពហុវចនៈ។",
-    "exampleKhmer": "ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good those",
+      "the those is",
+      "to use a those"
+    ]
   },
   {
     "id": "using",
@@ -1548,12 +1986,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unusing"
     ],
-    "image": "family-using",
+    "image": "/images/vocab/using.jpg",
     "audioPlaceholder": "using",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការប្រើប្រាស់។",
-    "exampleKhmer": "យើងត្រូវប្រើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវប្រើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to using immediately",
+      "can using easily",
+      "please using"
+    ]
   },
   {
     "id": "results",
@@ -1569,12 +2013,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unresults"
     ],
-    "image": "food-results",
+    "image": "/images/vocab/results.jpg",
     "audioPlaceholder": "results",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយលទ្ធផល។",
-    "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់លទ្ធផលយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់លទ្ធផលយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very results",
+      "a results person",
+      "seems to be results"
+    ]
   },
   {
     "id": "office",
@@ -1590,12 +2040,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoffice"
     ],
-    "image": "animals-office",
+    "image": "/images/vocab/office.jpg",
     "audioPlaceholder": "office",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "daily-conversation",
     "meaningKhmer": "អាផាតមិន ឬផ្ទះខាងក្រៅដែលអ្នករស់នៅក្នុងផ្ទះត្រូវដកកាតព្វកិច្ច ភ្ជាប់ជាមួយសេវាកម្មផ្ទះ ដូចជាផ្ទះបាយ ទូខោអាវ ក្រោលជាដើម។",
-    "exampleKhmer": "ការិយាល័យ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ការិយាល័យ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good office",
+      "the office is",
+      "to use a office"
+    ]
   },
   {
     "id": "national",
@@ -1611,12 +2067,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnational"
     ],
-    "image": "school-national",
+    "image": "/images/vocab/national.jpg",
     "audioPlaceholder": "national",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងជាតិ។",
-    "exampleKhmer": "ជាតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ជាតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good national",
+      "the national is",
+      "to use a national"
+    ]
   },
   {
     "id": "design",
@@ -1632,12 +2094,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undesign"
     ],
-    "image": "travel-design",
+    "image": "/images/vocab/design.jpg",
     "audioPlaceholder": "design",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីបង្កើតការរចនាឬការរចនា។",
-    "exampleKhmer": "ការរចនាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការរចនាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good design",
+      "the design is",
+      "to use a design"
+    ]
   },
   {
     "id": "posted",
@@ -1653,12 +2121,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unposted"
     ],
-    "image": "business-posted",
+    "image": "/images/vocab/posted.jpg",
     "audioPlaceholder": "posted",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយប្រកាស។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very posted",
+      "a posted person",
+      "seems to be posted"
+    ]
   },
   {
     "id": "internet",
@@ -1674,12 +2148,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uninternet"
     ],
-    "image": "technology-internet",
+    "image": "/images/vocab/internet.jpg",
     "audioPlaceholder": "internet",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "នៅក���នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃអ៊ីនធឺណិត។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អ៊ីនធឺណិត' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អ៊ីនធឺណិត' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to internet immediately",
+      "can internet easily",
+      "please internet"
+    ]
   },
   {
     "id": "address",
@@ -1695,12 +2175,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaddress"
     ],
-    "image": "health-address",
+    "image": "/images/vocab/address.jpg",
     "audioPlaceholder": "address",
     "difficulty": "A1",
-    "category": "health",
+    "category": "clothes",
     "meaningKhmer": "ប្រគល់ ឬ ទុក ចិត្ត ដល់ ការ ថែទាំ របស់ អ្នក ផ្សេង ទៀត ជា ភ្នាក់ងារ orfactor ។",
-    "exampleKhmer": "អាស័យដ្ឋាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អាស័យដ្ឋាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good address",
+      "the address is",
+      "to use a address"
+    ]
   },
   {
     "id": "within",
@@ -1716,12 +2202,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwithin"
     ],
-    "image": "shopping-within",
+    "image": "/images/vocab/within.jpg",
     "audioPlaceholder": "within",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "greetings",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយខាងក្នុង។",
-    "exampleKhmer": "យើងត្រូវធ្វើការងារនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវធ្វើការងារនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to within immediately",
+      "can within easily",
+      "please within"
+    ]
   },
   {
     "id": "states",
@@ -1737,12 +2229,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstates"
     ],
-    "image": "sports-states",
+    "image": "/images/vocab/states.jpg",
     "audioPlaceholder": "states",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយរដ្ឋ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជ្រាលជ្រៅអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជ្រាលជ្រៅអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very states",
+      "a states person",
+      "seems to be states"
+    ]
   },
   {
     "id": "phone",
@@ -1758,12 +2256,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unphone"
     ],
-    "image": "nature-phone",
+    "image": "/images/vocab/phone.jpg",
     "audioPlaceholder": "phone",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "numbers",
     "meaningKhmer": "កូឡុក។",
-    "exampleKhmer": "ទូរស័ព្ទ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទូរស័ព្ទ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good phone",
+      "the phone is",
+      "to use a phone"
+    ]
   },
   {
     "id": "shipping",
@@ -1779,12 +2283,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unshipping"
     ],
-    "image": "daily-conversation-shipping",
+    "image": "/images/vocab/shipping.jpg",
     "audioPlaceholder": "shipping",
     "difficulty": "A1",
-    "category": "daily-conversation",
+    "category": "greetings",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការដឹកជញ្ជូន។",
-    "exampleKhmer": "ការដឹកជញ្ជូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការដឹកជញ្ជូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good shipping",
+      "the shipping is",
+      "to use a shipping"
+    ]
   },
   {
     "id": "reserved",
@@ -1800,12 +2310,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreserved"
     ],
-    "image": "family-reserved",
+    "image": "/images/vocab/reserved.jpg",
     "audioPlaceholder": "reserved",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការបម្រុងទុក។",
-    "exampleKhmer": "យើងត្រូវរក្សាទុកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវរក្សាទុកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to reserved immediately",
+      "can reserved easily",
+      "please reserved"
+    ]
   },
   {
     "id": "subject",
@@ -1821,12 +2337,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsubject"
     ],
-    "image": "food-subject",
+    "image": "/images/vocab/subject.jpg",
     "audioPlaceholder": "subject",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "អ្វី​ដែល​ត្រូវ​បាន​បញ្ជាក់​ឬ​ព្យាករណ៍។",
-    "exampleKhmer": "ប្រធានបទនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រធានបទនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good subject",
+      "the subject is",
+      "to use a subject"
+    ]
   },
   {
     "id": "between",
@@ -1842,12 +2364,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbetween"
     ],
-    "image": "animals-between",
+    "image": "/images/vocab/between.jpg",
     "audioPlaceholder": "between",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "daily-conversation",
     "meaningKhmer": "ចន្លោះពេល ឬចន្លោះ។",
-    "exampleKhmer": "រវាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រវាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good between",
+      "the between is",
+      "to use a between"
+    ]
   },
   {
     "id": "forum",
@@ -1863,12 +2391,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unforum"
     ],
-    "image": "school-forum",
+    "image": "/images/vocab/forum.jpg",
     "audioPlaceholder": "forum",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងវេទិកា។",
-    "exampleKhmer": "វេទិកា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "វេទិកា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good forum",
+      "the forum is",
+      "to use a forum"
+    ]
   },
   {
     "id": "family",
@@ -1884,12 +2418,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfamily"
     ],
-    "image": "travel-family",
+    "image": "/images/vocab/family.jpg",
     "audioPlaceholder": "family",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "family",
     "meaningKhmer": "ក្រុមនៃសារពាង្គកាយ ទាំងសត្វ ឬបន្លែ ចំណុចជាក់លាក់ដែលទាក់ទងគ្នានៃភាព���្រដៀងគ្នានៅក្នុងរចនាសម្ព័ន្ធ ឬការអភិវឌ្ឍន៍ មានលក្ខណៈទូលំទូលាយជាងប្រភេទមួយ ព្រោះវាជាធម្មតាផ្អែកលើចំណុចប្រហាក់ប្រហែលគ្នាតិចជាង ឬតិច។",
-    "exampleKhmer": "គ្រួសារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "គ្រួសារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good family",
+      "the family is",
+      "to use a family"
+    ]
   },
   {
     "id": "based",
@@ -1905,12 +2445,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbased"
     ],
-    "image": "business-based",
+    "image": "/images/vocab/based.jpg",
     "audioPlaceholder": "based",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "ពាក់ ឬការពារដោយមូលដ្ឋាន។",
-    "exampleKhmer": "មូលដ្ឋាននេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មូលដ្ឋាននេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good based",
+      "the based is",
+      "to use a based"
+    ]
   },
   {
     "id": "black",
@@ -1926,12 +2472,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unblack"
     ],
-    "image": "technology-black",
+    "image": "/images/vocab/black.jpg",
     "audioPlaceholder": "black",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "colors",
     "meaningKhmer": "ស្រពិចស្រពិល។",
-    "exampleKhmer": "ពណ៌ខ្មៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក���នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពណ៌ខ្មៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក���នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good black",
+      "the black is",
+      "to use a black"
+    ]
   },
   {
     "id": "check",
@@ -1947,12 +2499,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncheck"
     ],
-    "image": "health-check",
+    "image": "/images/vocab/check.jpg",
     "audioPlaceholder": "check",
     "difficulty": "A1",
-    "category": "health",
+    "category": "daily-conversation",
     "meaningKhmer": "ពាក្យ​ព្រមាន​ដែល​បញ្ជាក់​ថា​ស្តេច​កំពុង​មាន​គ្រោះថ្នាក់។",
-    "exampleKhmer": "ការត្រួតពិនិត្យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការត្រួតពិនិត្យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good check",
+      "the check is",
+      "to use a check"
+    ]
   },
   {
     "id": "special",
@@ -1968,12 +2526,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unspecial"
     ],
-    "image": "shopping-special",
+    "image": "/images/vocab/special.jpg",
     "audioPlaceholder": "special",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "��ើម្បីអនុវត្តសកម្មភាពឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយពិសេស។",
-    "exampleKhmer": "យើងត្រូវធ្វើការពិសេសនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវធ្វើការពិសេសនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to special immediately",
+      "can special easily",
+      "please special"
+    ]
   },
   {
     "id": "prices",
@@ -1989,12 +2553,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprices"
     ],
-    "image": "sports-prices",
+    "image": "/images/vocab/prices.jpg",
     "audioPlaceholder": "prices",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយតម្លៃ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​តម្លៃ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​តម្លៃ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very prices",
+      "a prices person",
+      "seems to be prices"
+    ]
   },
   {
     "id": "website",
@@ -2010,12 +2580,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwebsite"
     ],
-    "image": "nature-website",
+    "image": "/images/vocab/website.jpg",
     "audioPlaceholder": "website",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "daily-conversation",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃគេហទំព័រ។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'គេហទំព័រ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'គេហទំព័រ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to website immediately",
+      "can website easily",
+      "please website"
+    ]
   },
   {
     "id": "index",
@@ -2031,12 +2607,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unindex"
     ],
-    "image": "daily-conversation-index",
+    "image": "/images/vocab/index.jpg",
     "audioPlaceholder": "index",
     "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ខ្ទង់ទីពីរ នោះ pollex បន្ទាប់នៅក្នុង manus ឬដៃ។",
-    "exampleKhmer": "សន្ទស្សន៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សន្ទស្សន៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good index",
+      "the index is",
+      "to use a index"
+    ]
   },
   {
     "id": "being",
@@ -2052,12 +2634,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbeing"
     ],
-    "image": "family-being",
+    "image": "/images/vocab/being.jpg",
     "audioPlaceholder": "being",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "ដែលមានស្រាប់។",
-    "exampleKhmer": "រូប​នេះ​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រូប​នេះ​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good being",
+      "the being is",
+      "to use a being"
+    ]
   },
   {
     "id": "women",
@@ -2073,12 +2661,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwomen"
     ],
-    "image": "food-women",
+    "image": "/images/vocab/women.jpg",
     "audioPlaceholder": "women",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "Pl.",
-    "exampleKhmer": "ស្ត្រី​ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ស្ត្រី​ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good women",
+      "the women is",
+      "to use a women"
+    ]
   },
   {
     "id": "today",
@@ -2094,12 +2688,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untoday"
     ],
-    "image": "animals-today",
+    "image": "/images/vocab/today.jpg",
     "audioPlaceholder": "today",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "days",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​មាន​សព្វ​ថ្ងៃ​នេះ​។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ថ្ងៃនេះ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ថ្ងៃនេះ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to today immediately",
+      "can today easily",
+      "please today"
+    ]
   },
   {
     "id": "south",
@@ -2115,12 +2715,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsouth"
     ],
-    "image": "school-south",
+    "image": "/images/vocab/south.jpg",
     "audioPlaceholder": "south",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "ដេកទៅទិសខាងត្បូង។",
-    "exampleKhmer": "ភាគខាងត្បូងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាគខាងត្បូងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good south",
+      "the south is",
+      "to use a south"
+    ]
   },
   {
     "id": "project",
@@ -2136,12 +2742,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unproject"
     ],
-    "image": "travel-project",
+    "image": "/images/vocab/project.jpg",
     "audioPlaceholder": "project",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីគូរ ឬតាំងបង្ហាញ ជាទម្រង់នៃអ្វីទាំងអស់។",
-    "exampleKhmer": "គម្រោង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "គម្រោង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good project",
+      "the project is",
+      "to use a project"
+    ]
   },
   {
     "id": "pages",
@@ -2157,12 +2769,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpages"
     ],
-    "image": "business-pages",
+    "image": "/images/vocab/pages.jpg",
     "audioPlaceholder": "pages",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយទំព័រ។",
-    "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់ជាច្រើនទំព័រអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់ជាច្រើនទំព័រអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very pages",
+      "a pages person",
+      "seems to be pages"
+    ]
   },
   {
     "id": "version",
@@ -2178,12 +2796,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unversion"
     ],
-    "image": "technology-version",
+    "image": "/images/vocab/version.jpg",
     "audioPlaceholder": "version",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "ស្ថានភាពនៃស្បូនដែលអ័ក្សរបស់វាត្រូវបានផ្លាតចេញពីទីតាំងធម្មតារបស់វា ដោយមិនបានពត់ខ្លួន។",
-    "exampleKhmer": "កំណែនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កំណែនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good version",
+      "the version is",
+      "to use a version"
+    ]
   },
   {
     "id": "section",
@@ -2199,12 +2823,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsection"
     ],
-    "image": "health-section",
+    "image": "/images/vocab/section.jpg",
     "audioPlaceholder": "section",
     "difficulty": "A1",
-    "category": "health",
+    "category": "daily-conversation",
     "meaningKhmer": "តួរលេខដែលបង្កើតឡើងពីចំណុចទាំងអស់ដែលជារឿងធម្មតាសម្រាប់ superficies មួយ និង តាន់ដែលជួប ឬទៅ superficies ពីរដែលជួប ឬទៅ twolines ដែលជួប។",
-    "exampleKhmer": "ផ្នែក​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ផ្នែក​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good section",
+      "the section is",
+      "to use a section"
+    ]
   },
   {
     "id": "found",
@@ -2220,12 +2850,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfound"
     ],
-    "image": "shopping-found",
+    "image": "/images/vocab/found.jpg",
     "audioPlaceholder": "found",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "Imp",
-    "exampleKhmer": "ការ​រក​ឃើញ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​រក​ឃើញ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good found",
+      "the found is",
+      "to use a found"
+    ]
   },
   {
     "id": "sports",
@@ -2241,12 +2877,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsports"
     ],
-    "image": "sports-sports",
+    "image": "/images/vocab/sports.jpg",
     "audioPlaceholder": "sports",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយកីឡា។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់កីឡាយ��ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់កីឡាយ��ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very sports",
+      "a sports person",
+      "seems to be sports"
+    ]
   },
   {
     "id": "house",
@@ -2262,12 +2904,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhouse"
     ],
-    "image": "nature-house",
+    "image": "/images/vocab/house.jpg",
     "audioPlaceholder": "house",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "home",
     "meaningKhmer": "ក្រុមហ៊ុន ឬគ្រឹះស្ថានពាណិជ្ជកម្ម។",
-    "exampleKhmer": "ផ្ទះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ផ្ទះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good house",
+      "the house is",
+      "to use a house"
+    ]
   },
   {
     "id": "related",
@@ -2283,12 +2931,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrelated"
     ],
-    "image": "daily-conversation-related",
+    "image": "/images/vocab/related.jpg",
     "audioPlaceholder": "related",
     "difficulty": "A1",
-    "category": "daily-conversation",
+    "category": "time",
     "meaningKhmer": "ដូច​គ្នា​នឹង​សាច់​ញាតិ, ៤.",
-    "exampleKhmer": "ពាក់ព័ន្ធ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ពាក់ព័ន្ធ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good related",
+      "the related is",
+      "to use a related"
+    ]
   },
   {
     "id": "security",
@@ -2304,12 +2958,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsecurity"
     ],
-    "image": "family-security",
+    "image": "/images/vocab/security.jpg",
     "audioPlaceholder": "security",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងសុវត្ថិភាព។",
-    "exampleKhmer": "យើងត្រូវការពារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវការពារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to security immediately",
+      "can security easily",
+      "please security"
+    ]
   },
   {
     "id": "county",
@@ -2325,12 +2985,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncounty"
     ],
-    "image": "food-county",
+    "image": "/images/vocab/county.jpg",
     "audioPlaceholder": "county",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណវុឌ្ឍិ ឬលក្ខណៈដែលកំណត់ដោយស្រុក។",
-    "exampleKhmer": "នាង​បាន​ផ្ត���់​ការ​ពន្យល់​ពី​ស្រុក​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្ត���់​ការ​ពន្យល់​ពី​ស្រុក​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very county",
+      "a county person",
+      "seems to be county"
+    ]
   },
   {
     "id": "american",
@@ -2346,12 +3012,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unamerican"
     ],
-    "image": "animals-american",
+    "image": "/images/vocab/american.jpg",
     "audioPlaceholder": "american",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "daily-conversation",
     "meaningKhmer": "មានដើមកំណើតនៅអាមេរិក។",
-    "exampleKhmer": "ជនជាតិអាមេរិកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជនជាតិអាមេរិកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good american",
+      "the american is",
+      "to use a american"
+    ]
   },
   {
     "id": "photo",
@@ -2367,12 +3039,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unphoto"
     ],
-    "image": "school-photo",
+    "image": "/images/vocab/photo.jpg",
     "audioPlaceholder": "photo",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "ការបង្រួមរូបថត។",
-    "exampleKhmer": "រូបថត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រូបថត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good photo",
+      "the photo is",
+      "to use a photo"
+    ]
   },
   {
     "id": "members",
@@ -2388,12 +3066,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmembers"
     ],
-    "image": "travel-members",
+    "image": "/images/vocab/members.jpg",
     "audioPlaceholder": "members",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួ���សមាជិក។",
-    "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​សមាជិក​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​សមាជិក​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to members immediately",
+      "can members easily",
+      "please members"
+    ]
   },
   {
     "id": "power",
@@ -2409,12 +3093,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpower"
     ],
-    "image": "business-power",
+    "image": "/images/vocab/power.jpg",
     "audioPlaceholder": "power",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "ដូចគ្នា​នឹង​ត្រី​ក្រី។",
-    "exampleKhmer": "អំណាចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អំណាចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good power",
+      "the power is",
+      "to use a power"
+    ]
   },
   {
     "id": "while",
@@ -2430,12 +3120,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwhile"
     ],
-    "image": "technology-while",
+    "image": "/images/vocab/while.jpg",
     "audioPlaceholder": "while",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "greetings",
     "meaningKhmer": "នាំ​ឲ្យ​រលត់​ទៅ​ដោយ​រីករាយ ឬ​មិន​គួរ​ឲ្យ​ខ្ពើមរអើម។",
-    "exampleKhmer": "ពេល​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ពេល​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good while",
+      "the while is",
+      "to use a while"
+    ]
   },
   {
     "id": "network",
@@ -2451,12 +3147,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnetwork"
     ],
-    "image": "health-network",
+    "image": "/images/vocab/network.jpg",
     "audioPlaceholder": "network",
     "difficulty": "A1",
-    "category": "health",
+    "category": "numbers",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងបណ្តាញ។",
-    "exampleKhmer": "បណ្តាញនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "បណ្តាញនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good network",
+      "the network is",
+      "to use a network"
+    ]
   },
   {
     "id": "computer",
@@ -2472,12 +3174,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncomputer"
     ],
-    "image": "shopping-computer",
+    "image": "/images/vocab/computer.jpg",
     "audioPlaceholder": "computer",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "អ្នកដែលគណនា។",
-    "exampleKhmer": "កុំព្យូទ័រ​ត្រូវ​បាន​គេ​ពិភាក្���ា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កុំព្យូទ័រ​ត្រូវ​បាន​គេ​ពិភាក្���ា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good computer",
+      "the computer is",
+      "to use a computer"
+    ]
   },
   {
     "id": "systems",
@@ -2493,12 +3201,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsystems"
     ],
-    "image": "sports-systems",
+    "image": "/images/vocab/systems.jpg",
     "audioPlaceholder": "systems",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយប្រព័ន្ធ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ជាប្រព័ន្ធអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ជាប្រព័ន្ធអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very systems",
+      "a systems person",
+      "seems to be systems"
+    ]
   },
   {
     "id": "three",
@@ -2514,12 +3228,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthree"
     ],
-    "image": "nature-three",
+    "image": "/images/vocab/three.jpg",
     "audioPlaceholder": "three",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "numbers",
     "meaningKhmer": "មួយលើសពីពីរ។",
-    "exampleKhmer": "អ្នកទាំងបីត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អ្នកទាំងបីត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good three",
+      "the three is",
+      "to use a three"
+    ]
   },
   {
     "id": "total",
@@ -2535,12 +3255,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untotal"
     ],
-    "image": "daily-conversation-total",
+    "image": "/images/vocab/total.jpg",
     "audioPlaceholder": "total",
     "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ទាំងមូល។",
-    "exampleKhmer": "សរុប​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សរុប​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good total",
+      "the total is",
+      "to use a total"
+    ]
   },
   {
     "id": "place",
@@ -2556,12 +3282,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unplace"
     ],
-    "image": "family-place",
+    "image": "/images/vocab/place.jpg",
     "audioPlaceholder": "place",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "ទីតាំងនៅស្ថានសួគ៌ ដូចជារូបកាយនៅស្ថានសួគ៌។",
-    "exampleKhmer": "កន្លែង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កន្លែង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good place",
+      "the place is",
+      "to use a place"
+    ]
   },
   {
     "id": "download",
@@ -2577,12 +3309,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undownload"
     ],
-    "image": "food-download",
+    "image": "/images/vocab/download.jpg",
     "audioPlaceholder": "download",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយការទាញយក។",
-    "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់ទាញយកយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់ទាញយកយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very download",
+      "a download person",
+      "seems to be download"
+    ]
   },
   {
     "id": "without",
@@ -2598,12 +3336,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwithout"
     ],
-    "image": "animals-without",
+    "image": "/images/vocab/without.jpg",
     "audioPlaceholder": "without",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "daily-conversation",
     "meaningKhmer": "លុះត្រាតែ.",
-    "exampleKhmer": "ដោយគ្មានត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ដោយគ្មានត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good without",
+      "the without is",
+      "to use a without"
+    ]
   },
   {
     "id": "access",
@@ -2619,12 +3363,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaccess"
     ],
-    "image": "school-access",
+    "image": "/images/vocab/access.jpg",
     "audioPlaceholder": "access",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការចូលប្រើ។",
-    "exampleKhmer": "ការចូលប្រើត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការចូលប្រើត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good access",
+      "the access is",
+      "to use a access"
+    ]
   },
   {
     "id": "think",
@@ -2640,12 +3390,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthink"
     ],
-    "image": "travel-think",
+    "image": "/images/vocab/think.jpg",
     "audioPlaceholder": "think",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "greetings",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការគិត។",
-    "exampleKhmer": "យើងត្រូវគិតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីឈានទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវគិតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីឈានទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to think immediately",
+      "can think easily",
+      "please think"
+    ]
   },
   {
     "id": "north",
@@ -2661,12 +3417,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnorth"
     ],
-    "image": "business-north",
+    "image": "/images/vocab/north.jpg",
     "audioPlaceholder": "north",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "ដេកនៅខាងជើង។",
-    "exampleKhmer": "ភាគខាងជើងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាគខាងជើងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good north",
+      "the north is",
+      "to use a north"
+    ]
   },
   {
     "id": "current",
@@ -2682,12 +3444,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncurrent"
     ],
-    "image": "technology-current",
+    "image": "/images/vocab/current.jpg",
     "audioPlaceholder": "current",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃបច្ចុប្បន្ន។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បច្ចុប្បន្ន' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បច្ចុប្បន្ន' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to current immediately",
+      "can current easily",
+      "please current"
+    ]
   },
   {
     "id": "posts",
@@ -2703,12 +3471,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unposts"
     ],
-    "image": "health-posts",
+    "image": "/images/vocab/posts.jpg",
     "audioPlaceholder": "posts",
     "difficulty": "A1",
-    "category": "health",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការប្រកាស។",
-    "exampleKhmer": "ប្រកាសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រកាសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good posts",
+      "the posts is",
+      "to use a posts"
+    ]
   },
   {
     "id": "media",
@@ -2724,12 +3498,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmedia"
     ],
-    "image": "shopping-media",
+    "image": "/images/vocab/media.jpg",
     "audioPlaceholder": "media",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "Pl.",
-    "exampleKhmer": "ប្រព័ន្ធ​ផ្សព្វផ្សាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រព័ន្ធ​ផ្សព្វផ្សាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good media",
+      "the media is",
+      "to use a media"
+    ]
   },
   {
     "id": "control",
@@ -2745,12 +3525,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncontrol"
     ],
-    "image": "sports-control",
+    "image": "/images/vocab/control.jpg",
     "audioPlaceholder": "control",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយការគ្រប់គ្រង។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ម៉ឺងម៉ាត់​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ម៉ឺងម៉ាត់​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very control",
+      "a control person",
+      "seems to be control"
+    ]
   },
   {
     "id": "water",
@@ -2766,12 +3552,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwater"
     ],
-    "image": "nature-water",
+    "image": "/images/vocab/water.jpg",
     "audioPlaceholder": "water",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "food",
     "meaningKhmer": "ដំណោះស្រាយនៅក្នុងទឹកនៃសារធាតុឧស្ម័ន ឬសារធាតុងាយនឹងបង្កជាហេតុ។",
-    "exampleKhmer": "ទឹក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ទឹក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good water",
+      "the water is",
+      "to use a water"
+    ]
   },
   {
     "id": "history",
@@ -2787,12 +3579,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhistory"
     ],
-    "image": "daily-conversation-history",
+    "image": "/images/vocab/history.jpg",
     "audioPlaceholder": "history",
     "difficulty": "A1",
-    "category": "daily-conversation",
+    "category": "greetings",
     "meaningKhmer": "ដើម្បីរៀបរាប់ឬកត់ត្រា។",
-    "exampleKhmer": "ប្រវត្តិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រវត្តិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good history",
+      "the history is",
+      "to use a history"
+    ]
   },
   {
     "id": "pictures",
@@ -2808,12 +3606,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpictures"
     ],
-    "image": "family-pictures",
+    "image": "/images/vocab/pictures.jpg",
     "audioPlaceholder": "pictures",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយរូបភាព។",
-    "exampleKhmer": "យើងត្រូវរូបភាពកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវរូបភាពកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to pictures immediately",
+      "can pictures easily",
+      "please pictures"
+    ]
   },
   {
     "id": "personal",
@@ -2829,12 +3633,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpersonal"
     ],
-    "image": "food-personal",
+    "image": "/images/vocab/personal.jpg",
     "audioPlaceholder": "personal",
     "difficulty": "A1",
-    "category": "food",
+    "category": "family",
     "meaningKhmer": "តំណាងមនុស្ស។",
-    "exampleKhmer": "ផ្ទាល់ខ្លួនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផ្ទាល់ខ្លួនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good personal",
+      "the personal is",
+      "to use a personal"
+    ]
   },
   {
     "id": "since",
@@ -2850,12 +3660,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsince"
     ],
-    "image": "animals-since",
+    "image": "/images/vocab/since.jpg",
     "audioPlaceholder": "since",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "daily-conversation",
     "meaningKhmer": "ចាប់ពីពេល។",
-    "exampleKhmer": "ការ​ចាប់​តាំង​ពី​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉���ង​លម្អិត​ក្នុង​ថ្នាក់​កាល​ពី​ម្សិល​មិញ។"
+    "exampleKhmer": "ការ​ចាប់​តាំង​ពី​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉���ង​លម្អិត​ក្នុង​ថ្នាក់​កាល​ពី​ម្សិល​មិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good since",
+      "the since is",
+      "to use a since"
+    ]
   },
   {
     "id": "guide",
@@ -2871,12 +3687,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unguide"
     ],
-    "image": "school-guide",
+    "image": "/images/vocab/guide.jpg",
     "audioPlaceholder": "guide",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "អ្នកដឹកនាំដែលមានចង្អូរសម្រាប់ស៊ើបអង្កេត ឬកាំបិត។(គ) (ការបោះពុម្ព) បន្ទះ ឬឧបករណ៍សម្រាប់តម្រង់ភ្នែក��្នកតែងទៅកាន់បន្ទាត់ចម្លងដែលគាត់កំពុងកំណត់។",
-    "exampleKhmer": "មគ្គុទ្ទេសក៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មគ្គុទ្ទេសក៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good guide",
+      "the guide is",
+      "to use a guide"
+    ]
   },
   {
     "id": "board",
@@ -2892,12 +3714,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unboard"
     ],
-    "image": "travel-board",
+    "image": "/images/vocab/board.jpg",
     "audioPlaceholder": "board",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "ឆាកនៅក្នុងល្ខោនមួយ។",
-    "exampleKhmer": "ក្រុមប្រឹក្សាភិបាលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ក្រុមប្រឹក្សាភិបាលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good board",
+      "the board is",
+      "to use a board"
+    ]
   },
   {
     "id": "location",
@@ -2913,12 +3741,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlocation"
     ],
-    "image": "business-location",
+    "image": "/images/vocab/location.jpg",
     "audioPlaceholder": "location",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "ការសម្គាល់ពីព្រំប្រទល់ ឬកំណត់ទីតាំង ឬទីតាំងនៃដីមួយ យោងទៅតាមការពិពណ៌នាដែលបានផ្តល់ឱ្យនៅក្នុង anentry ផែនការ ផែនទី ។ល។",
-    "exampleKhmer": "ទីតាំង​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទីតាំង​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good location",
+      "the location is",
+      "to use a location"
+    ]
   },
   {
     "id": "change",
@@ -2934,12 +3768,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchange"
     ],
-    "image": "technology-change",
+    "image": "/images/vocab/change.jpg",
     "audioPlaceholder": "change",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "កន្លែងដែលពាណិជ្ជករ និងអ្នកផ្សេងទៀតជួបគ្នាដើម្បីធ្វើជំនួញ។",
-    "exampleKhmer": "ការផ្លាស់ប្តូរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការផ្លាស់ប្តូរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good change",
+      "the change is",
+      "to use a change"
+    ]
   },
   {
     "id": "white",
@@ -2955,12 +3795,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwhite"
     ],
-    "image": "health-white",
+    "image": "/images/vocab/white.jpg",
     "audioPlaceholder": "white",
     "difficulty": "A1",
-    "category": "health",
+    "category": "greetings",
     "meaningKhmer": "មេអំបៅ​ប្រភេទ​ណា​មួយ​ក្នុង​ចំណោម​មេអំបៅ​ជា​ច្រើន​ប្រភេទ​ដែល​ជា​កម្មសិទ្ធិ​របស់ Pieris និង​ប្រភេទ​សម្ព័ន្ធមិត្ត​ដែល​ពណ៌​ជា​ធម្មតា​មាន​ពណ៌​ស។",
-    "exampleKhmer": "ពណ៌សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពណ៌សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good white",
+      "the white is",
+      "to use a white"
+    ]
   },
   {
     "id": "small",
@@ -2976,12 +3822,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsmall"
     ],
-    "image": "shopping-small",
+    "image": "/images/vocab/small.jpg",
     "audioPlaceholder": "small",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "សម្លៀកបំពាក់តូច។",
-    "exampleKhmer": "តូច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "តូច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good small",
+      "the small is",
+      "to use a small"
+    ]
   },
   {
     "id": "rating",
@@ -2997,12 +3849,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrating"
     ],
-    "image": "sports-rating",
+    "image": "/images/vocab/rating.jpg",
     "audioPlaceholder": "rating",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការវាយតម្លៃ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងយកចិត្តទុកដាក់អំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងយកចិត្តទុកដាក់អំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very rating",
+      "a rating person",
+      "seems to be rating"
+    ]
   },
   {
     "id": "children",
@@ -3018,12 +3876,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchildren"
     ],
-    "image": "nature-children",
+    "image": "/images/vocab/children.jpg",
     "audioPlaceholder": "children",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "greetings",
     "meaningKhmer": "Pl.",
-    "exampleKhmer": "កុមារត្រូវបានពិភាក្សាយ៉ាងល្អិតល្អន់ក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កុមារត្រូវបានពិភាក្សាយ៉ាងល្អិតល្អន់ក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good children",
+      "the children is",
+      "to use a children"
+    ]
   },
   {
     "id": "during",
@@ -3039,12 +3903,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unduring"
     ],
-    "image": "daily-conversation-during",
+    "image": "/images/vocab/during.jpg",
     "audioPlaceholder": "during",
     "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "នៅក្នុងពេលវេលានៃ។",
-    "exampleKhmer": "កំឡុងពេលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កំឡុងពេលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good during",
+      "the during is",
+      "to use a during"
+    ]
   },
   {
     "id": "return",
@@ -3060,12 +3930,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreturn"
     ],
-    "image": "family-return",
+    "image": "/images/vocab/return.jpg",
     "audioPlaceholder": "return",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីវាយ (បាល់) ត្រឡប់មកវិញនៅលើសំណាញ់។",
-    "exampleKhmer": "ការត្រលប់មកវិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការត្រលប់មកវិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good return",
+      "the return is",
+      "to use a return"
+    ]
   },
   {
     "id": "students",
@@ -3081,12 +3957,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstudents"
     ],
-    "image": "food-students",
+    "image": "/images/vocab/students.jpg",
     "audioPlaceholder": "students",
     "difficulty": "A1",
-    "category": "food",
+    "category": "school",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយសិស្ស។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដល់សិស្សយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដល់សិស្សយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very students",
+      "a students person",
+      "seems to be students"
+    ]
   },
   {
     "id": "shopping",
@@ -3102,12 +3984,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unshopping"
     ],
-    "image": "animals-shopping",
+    "image": "/images/vocab/shopping.jpg",
     "audioPlaceholder": "shopping",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "daily-conversation",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការដើរទិញឥវ៉ាន់។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ដើរទិញឥវ៉ាន់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ដើរទិញឥវ៉ាន់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to shopping immediately",
+      "can shopping easily",
+      "please shopping"
+    ]
   },
   {
     "id": "account",
@@ -3123,12 +4011,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaccount"
     ],
-    "image": "school-account",
+    "image": "/images/vocab/account.jpg",
     "audioPlaceholder": "account",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងគណនី។",
-    "exampleKhmer": "គណនីនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "គណនីនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good account",
+      "the account is",
+      "to use a account"
+    ]
   },
   {
     "id": "times",
@@ -3144,12 +4038,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untimes"
     ],
-    "image": "travel-times",
+    "image": "/images/vocab/times.jpg",
     "audioPlaceholder": "times",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "time",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាពឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងពេលវេលា។",
-    "exampleKhmer": "យើងត្រូវកំណត់ពេលវេលាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកំណត់ពេលវេលាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to times immediately",
+      "can times easily",
+      "please times"
+    ]
   },
   {
     "id": "sites",
@@ -3165,12 +4065,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsites"
     ],
-    "image": "business-sites",
+    "image": "/images/vocab/sites.jpg",
     "audioPlaceholder": "sites",
     "difficulty": "A1",
-    "category": "business",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយគេហទំព័រ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានការណ៍។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានការណ៍។",
+    "audio": "",
+    "commonCollocations": [
+      "very sites",
+      "a sites person",
+      "seems to be sites"
+    ]
   },
   {
     "id": "level",
@@ -3186,12 +4092,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlevel"
     ],
-    "image": "technology-level",
+    "image": "/images/vocab/level.jpg",
     "audioPlaceholder": "level",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "នៃសម្លេងសូម្បីតែ។",
-    "exampleKhmer": "កម្រិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កម្រិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good level",
+      "the level is",
+      "to use a level"
+    ]
   },
   {
     "id": "digital",
@@ -3207,12 +4119,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undigital"
     ],
-    "image": "health-digital",
+    "image": "/images/vocab/digital.jpg",
     "audioPlaceholder": "digital",
     "difficulty": "A1",
-    "category": "health",
+    "category": "daily-conversation",
     "meaningKhmer": "នៃ ឬការអនុវត្តទៅម្រាមដៃ ឬខ្ទង់។",
-    "exampleKhmer": "ឌីជីថលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ឌីជីថលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good digital",
+      "the digital is",
+      "to use a digital"
+    ]
   },
   {
     "id": "profile",
@@ -3228,12 +4146,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprofile"
     ],
-    "image": "shopping-profile",
+    "image": "/images/vocab/profile.jpg",
     "audioPlaceholder": "profile",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "ក្បាលមនុស្សតំណាងឱ្យចំហៀង ឬក្នុងទិដ្ឋភាពចំហៀង។",
-    "exampleKhmer": "ប្រវត្តិរូបត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់រៀនកាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រវត្តិរូបត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់រៀនកាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good profile",
+      "the profile is",
+      "to use a profile"
+    ]
   },
   {
     "id": "previous",
@@ -3249,12 +4173,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprevious"
     ],
-    "image": "sports-previous",
+    "image": "/images/vocab/previous.jpg",
     "audioPlaceholder": "previous",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "ទៅមុនទាន់ពេល។",
-    "exampleKhmer": "មុន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មុន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good previous",
+      "the previous is",
+      "to use a previous"
+    ]
   },
   {
     "id": "events",
@@ -3270,12 +4200,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unevents"
     ],
-    "image": "nature-events",
+    "image": "/images/vocab/events.jpg",
     "audioPlaceholder": "events",
     "difficulty": "A1",
-    "category": "nature",
+    "category": "daily-conversation",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប���ទ្មដែលជាលក្ខណៈនៃព្រឹត្តិការណ៍។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ព្រឹត្តិការណ៍' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ព្រឹត្តិការណ៍' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to events immediately",
+      "can events easily",
+      "please events"
+    ]
   },
   {
     "id": "hours",
@@ -3291,12 +4227,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhours"
     ],
-    "image": "daily-conversation-hours",
+    "image": "/images/vocab/hours.jpg",
     "audioPlaceholder": "hours",
     "difficulty": "A1",
-    "category": "daily-conversation",
+    "category": "time",
     "meaningKhmer": "ទេពធីតានៃរដូវ ឬម៉ោងនៃថ្ងៃ។Lo! កន្លែងដែលម៉ោងដែលមានផ្ការីក រថភ្លើង Fair Venus លេចឡើង។",
-    "exampleKhmer": "ម៉ោងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ម៉ោងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good hours",
+      "the hours is",
+      "to use a hours"
+    ]
   },
   {
     "id": "image",
@@ -3312,12 +4254,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unimage"
     ],
-    "image": "family-image",
+    "image": "/images/vocab/image.jpg",
     "audioPlaceholder": "image",
     "difficulty": "A1",
-    "category": "family",
+    "category": "daily-conversation",
     "meaningKhmer": "រូបភាព ជាឧទាហរណ៍ ឬឧទាហរណ៍ ជាញឹកញាប់យកចេញពីវត្ថុដែលយល់ឃើញ ហើយប្រើដើម្បីបង្ហាញប្រធានបទ។",
-    "exampleKhmer": "រូបភាព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រូបភាព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good image",
+      "the image is",
+      "to use a image"
+    ]
   },
   {
     "id": "title",
@@ -3333,12 +4281,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untitle"
     ],
-    "image": "food-title",
+    "image": "/images/vocab/title.jpg",
     "audioPlaceholder": "title",
     "difficulty": "A1",
-    "category": "food",
+    "category": "daily-conversation",
     "meaningKhmer": "បន្ទះសម្រាប់ឈ្មោះ រវាងក្រុមតន្រ្តីខាងក្រោយនៃសៀវភៅ។",
-    "exampleKhmer": "ចំណងជើងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុង���ំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ចំណងជើងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុង���ំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good title",
+      "the title is",
+      "to use a title"
+    ]
   },
   {
     "id": "another",
@@ -3354,12 +4308,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unanother"
     ],
-    "image": "animals-another",
+    "image": "/images/vocab/another.jpg",
     "audioPlaceholder": "another",
     "difficulty": "A1",
-    "category": "animals",
+    "category": "daily-conversation",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​មួយ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ផ្សេង​ទៀត​។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មួយផ្សេងទៀត' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មួយផ្សេងទៀត' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to another immediately",
+      "can another easily",
+      "please another"
+    ]
   },
   {
     "id": "shall",
@@ -3375,12 +4335,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unshall"
     ],
-    "image": "school-shall",
+    "image": "/images/vocab/shall.jpg",
     "audioPlaceholder": "shall",
     "difficulty": "A1",
-    "category": "school",
+    "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅដែលតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងនឹង។",
-    "exampleKhmer": "នឹងត្រូវពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "នឹងត្រូវពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good shall",
+      "the shall is",
+      "to use a shall"
+    ]
   },
   {
     "id": "property",
@@ -3396,12 +4362,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unproperty"
     ],
-    "image": "travel-property",
+    "image": "/images/vocab/property.jpg",
     "audioPlaceholder": "property",
     "difficulty": "A1",
-    "category": "travel",
+    "category": "daily-conversation",
     "meaningKhmer": "ឧបសម្ព័ន្ធនៃការលេងទាំងអស់ លើកលែងតែទេសភាព និងការស្លៀកពាក់របស់តួសម្តែង។",
-    "exampleKhmer": "ទ្រព្យសម្បត្តិត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ទ្រព្យសម្បត្តិត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good property",
+      "the property is",
+      "to use a property"
+    ]
   },
   {
     "id": "class",
@@ -3417,12 +4389,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unclass"
     ],
-    "image": "business-class",
+    "image": "/images/vocab/class.jpg",
     "audioPlaceholder": "class",
     "difficulty": "A1",
-    "category": "business",
+    "category": "school",
     "meaningKhmer": "ផ្នែកមួយក្នុងចំណោមផ្នែកដែលព្រះវិហារ ឬក្រុមជំនុំត្រូវបានបែងចែក ហើយដែលស្ថិតនៅក្រោមការគ្រប់គ្រងរបស់អ្នកដឹកនាំថ្នាក់។",
-    "exampleKhmer": "ថ្នាក់រៀនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថ្នាក់រៀនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good class",
+      "the class is",
+      "to use a class"
+    ]
   },
   {
     "id": "still",
@@ -3438,12 +4416,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstill"
     ],
-    "image": "technology-still",
+    "image": "/images/vocab/still.jpg",
     "audioPlaceholder": "still",
     "difficulty": "A1",
-    "category": "technology",
+    "category": "daily-conversation",
     "meaningKhmer": "ទម្លាក់ ឬហូរតាមដំណក់។",
-    "exampleKhmer": "វានៅតែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "វានៅតែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good still",
+      "the still is",
+      "to use a still"
+    ]
   },
   {
     "id": "money",
@@ -3459,12 +4443,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmoney"
     ],
-    "image": "health-money",
+    "image": "/images/vocab/money.jpg",
     "audioPlaceholder": "money",
     "difficulty": "A1",
-    "category": "health",
+    "category": "numbers",
     "meaningKhmer": "ដើម្បីផ្គត់ផ្គង់ប្រាក់។",
-    "exampleKhmer": "ប្រាក់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រាក់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good money",
+      "the money is",
+      "to use a money"
+    ]
   },
   {
     "id": "quality",
@@ -3480,12 +4470,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unquality"
     ],
-    "image": "shopping-quality",
+    "image": "/images/vocab/quality.jpg",
     "audioPlaceholder": "quality",
     "difficulty": "A1",
-    "category": "shopping",
+    "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងគុណភាព។",
-    "exampleKhmer": "យើងត្រូវធ្វើឱ្យកិច្ចការនេះប្រកបដោយគុណភាពឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវធ្វើឱ្យកិច្ចការនេះប្រកបដោយគុណភាពឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to quality immediately",
+      "can quality easily",
+      "please quality"
+    ]
   },
   {
     "id": "every",
@@ -3501,12 +4497,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unevery"
     ],
-    "image": "sports-every",
+    "image": "/images/vocab/every.jpg",
     "audioPlaceholder": "every",
     "difficulty": "A1",
-    "category": "sports",
+    "category": "daily-conversation",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយគ្រប់។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​គ្រប់​យ៉ាង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​គ្រប់​យ៉ាង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very every",
+      "a every person",
+      "seems to be every"
+    ]
   },
   {
     "id": "listing",
@@ -3522,12 +4524,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlisting"
     ],
-    "image": "nature-listing",
+    "image": "/images/vocab/listing.jpg",
     "audioPlaceholder": "listing",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "ដើមអំពិលកាត់ពីគែមក្តារ។",
-    "exampleKhmer": "បញ្ជីឈ្មោះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "បញ្ជីឈ្មោះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good listing",
+      "the listing is",
+      "to use a listing"
+    ]
   },
   {
     "id": "content",
@@ -3543,12 +4551,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncontent"
     ],
-    "image": "daily-conversation-content",
+    "image": "/images/vocab/content.jpg",
     "audioPlaceholder": "content",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "មាននៅក្នុងដែនកំណត់។",
-    "exampleKhmer": "ខ្លឹមសារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ខ្លឹមសារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good content",
+      "the content is",
+      "to use a content"
+    ]
   },
   {
     "id": "country",
@@ -3564,12 +4578,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncountry"
     ],
-    "image": "family-country",
+    "image": "/images/vocab/country.jpg",
     "audioPlaceholder": "country",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "ថ្មដែលឆ្លងកាត់សរសៃវ៉ែន។",
-    "exampleKhmer": "ប្រទេស​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រទេស​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good country",
+      "the country is",
+      "to use a country"
+    ]
   },
   {
     "id": "private",
@@ -3585,12 +4605,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprivate"
     ],
-    "image": "food-private",
+    "image": "/images/vocab/private.jpg",
     "audioPlaceholder": "private",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "ទាហានធម្មតា។",
-    "exampleKhmer": "ឯកជនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ឯកជនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good private",
+      "the private is",
+      "to use a private"
+    ]
   },
   {
     "id": "little",
@@ -3606,12 +4632,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlittle"
     ],
-    "image": "animals-little",
+    "image": "/images/vocab/little.jpg",
     "audioPlaceholder": "little",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "ក្នុងបរិមាណតិចតួចឬកម្រិត។",
-    "exampleKhmer": "កូនតូចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលព���ម្សិលមិញ។"
+    "exampleKhmer": "កូនតូចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលព���ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good little",
+      "the little is",
+      "to use a little"
+    ]
   },
   {
     "id": "visit",
@@ -3627,12 +4659,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvisit"
     ],
-    "image": "school-visit",
+    "image": "/images/vocab/visit.jpg",
     "audioPlaceholder": "visit",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "មក​ដល់​ក្នុង​គោល​បំណង​នៃ​ការ​ប្រៀនប្រដៅ, រង្វាន់, ការ​សម្រាល​ទុក្ខ។",
-    "exampleKhmer": "ដំណើរទស្សនកិច្ចនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ដំណើរទស្សនកិច្ចនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good visit",
+      "the visit is",
+      "to use a visit"
+    ]
   },
   {
     "id": "tools",
@@ -3648,12 +4686,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untools"
     ],
-    "image": "travel-tools",
+    "image": "/images/vocab/tools.jpg",
     "audioPlaceholder": "tools",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយឧបករណ៍។",
-    "exampleKhmer": "យើងត្រូវរៀបចំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវរៀបចំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to tools immediately",
+      "can tools easily",
+      "please tools"
+    ]
   },
   {
     "id": "reply",
@@ -3669,12 +4713,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreply"
     ],
-    "image": "business-reply",
+    "image": "/images/vocab/reply.jpg",
     "audioPlaceholder": "reply",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីឆ្លើយការអង្វររបស់ចុងចោទ។",
-    "exampleKhmer": "ការ​ឆ្លើយ​តប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ឆ្លើយ​តប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good reply",
+      "the reply is",
+      "to use a reply"
+    ]
   },
   {
     "id": "customer",
@@ -3690,12 +4740,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncustomer"
     ],
-    "image": "technology-customer",
+    "image": "/images/vocab/customer.jpg",
     "audioPlaceholder": "customer",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃអតិថិជន។",
-    "exampleKhmer": "នេះជាឧទា���រណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អតិថិជន' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទា���រណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អតិថិជន' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to customer immediately",
+      "can customer easily",
+      "please customer"
+    ]
   },
   {
     "id": "december",
@@ -3711,12 +4767,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undecember"
     ],
-    "image": "health-december",
+    "image": "/images/vocab/december.jpg",
     "audioPlaceholder": "december",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងខែធ្នូ។",
-    "exampleKhmer": "ខែ​ធ្នូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ខែ​ធ្នូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good december",
+      "the december is",
+      "to use a december"
+    ]
   },
   {
     "id": "compare",
@@ -3732,12 +4794,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncompare"
     ],
-    "image": "shopping-compare",
+    "image": "/images/vocab/compare.jpg",
     "audioPlaceholder": "compare",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ឆ្លុះបញ្ចាំងតាមកម្រិតនៃការប្រៀបធៀប។",
-    "exampleKhmer": "ការ​ប្រៀបធៀប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ប្រៀបធៀប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good compare",
+      "the compare is",
+      "to use a compare"
+    ]
   },
   {
     "id": "movies",
@@ -3753,12 +4821,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmovies"
     ],
-    "image": "sports-movies",
+    "image": "/images/vocab/movies.jpg",
     "audioPlaceholder": "movies",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយភាពយន្ត។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ក្នុង​ភាពយន្ត​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ក្នុង​ភាពយន្ត​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very movies",
+      "a movies person",
+      "seems to be movies"
+    ]
   },
   {
     "id": "include",
@@ -3774,12 +4848,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uninclude"
     ],
-    "image": "nature-include",
+    "image": "/images/vocab/include.jpg",
     "audioPlaceholder": "include",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការរួមបញ្ចូល។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រួមបញ្ចូល' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រួមបញ្ចូល' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to include immediately",
+      "can include easily",
+      "please include"
+    ]
   },
   {
     "id": "college",
@@ -3795,12 +4875,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncollege"
     ],
-    "image": "daily-conversation-college",
+    "image": "/images/vocab/college.jpg",
     "audioPlaceholder": "college",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងមហាវិទ្យាល័យ។",
-    "exampleKhmer": "មហាវិទ្យាល័យ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "មហាវិទ្យាល័យ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good college",
+      "the college is",
+      "to use a college"
+    ]
   },
   {
     "id": "value",
@@ -3816,12 +4902,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvalue"
     ],
-    "image": "family-value",
+    "image": "/images/vocab/value.jpg",
     "audioPlaceholder": "value",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "មានតម្លៃប៉ាន់ស្មានដោយស្ដង់ដារនៃអំណាចទិញណាមួយ ជាពិសេសដោយតម្លៃទីផ្សារ ឬចំនួនទឹកប្រាក់ដែលបានព្រមព្រៀងគ្នាថាស្មើនឹងឧបករណ៍ប្រើប្រាស់ និងថ្លៃដើមនៃអ្វីទាំងអស់។ អត្ថបទមួយអាចមានឧបករណ៍ប្រើប្រាស់កម្រិតខ្ពស់បំផុត ឬអំណាចដើម្បីបម្រើដល់ការចង់បាន និងការរីករាយរបស់យើង ហើយអាចត្រូវបានប្រើប្រាស់ជាសកល ដោយគ្មានតម្លៃដែលអាចផ្លាស់ប្តូរបាន។",
-    "exampleKhmer": "តម្លៃ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "តម្លៃ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good value",
+      "the value is",
+      "to use a value"
+    ]
   },
   {
     "id": "article",
@@ -3837,12 +4929,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unarticle"
     ],
-    "image": "food-article",
+    "image": "/images/vocab/article.jpg",
     "audioPlaceholder": "article",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "ពាក្យមួយក្នុងចំនោមពាក្យទាំងបី គឺ a, an, the, ដែលប្រើមុននាមដើម្បីកំណត់កម្មវិធីរបស់ពួកគេ។",
-    "exampleKhmer": "អត្ថបទនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពី��្សិលមិញ។"
+    "exampleKhmer": "អត្ថបទនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពី��្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good article",
+      "the article is",
+      "to use a article"
+    ]
   },
   {
     "id": "provide",
@@ -3858,12 +4956,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprovide"
     ],
-    "image": "animals-provide",
+    "image": "/images/vocab/provide.jpg",
     "audioPlaceholder": "provide",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការផ្តល់។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្តល់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្តល់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to provide immediately",
+      "can provide easily",
+      "please provide"
+    ]
   },
   {
     "id": "source",
@@ -3879,12 +4983,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsource"
     ],
-    "image": "school-source",
+    "image": "/images/vocab/source.jpg",
     "audioPlaceholder": "source",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងប្រភព។",
-    "exampleKhmer": "ប្រភព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រភព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good source",
+      "the source is",
+      "to use a source"
+    ]
   },
   {
     "id": "author",
@@ -3900,12 +5010,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unauthor"
     ],
-    "image": "travel-author",
+    "image": "/images/vocab/author.jpg",
     "audioPlaceholder": "author",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរ���មក្នុងដំណើរការដែលភ្ជាប់ជាមួយអ្នកនិពន្ធ។",
-    "exampleKhmer": "យើងត្រូវសរសេរកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវសរសេរកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to author immediately",
+      "can author easily",
+      "please author"
+    ]
   },
   {
     "id": "press",
@@ -3921,12 +5037,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpress"
     ],
-    "image": "business-press",
+    "image": "/images/vocab/press.jpg",
     "audioPlaceholder": "press",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "សត្វល្អិតឥណ្ឌាខាងកើត (Tupaia ferruginea) ។",
-    "exampleKhmer": "សារព័ត៌មាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សារព័ត៌មាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good press",
+      "the press is",
+      "to use a press"
+    ]
   },
   {
     "id": "learn",
@@ -3942,12 +5064,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlearn"
     ],
-    "image": "technology-learn",
+    "image": "/images/vocab/learn.jpg",
     "audioPlaceholder": "learn",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីទទួលបានចំណេះដឹង ឬជំនាញ។",
-    "exampleKhmer": "ការ​សិក្សា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​សិក្សា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good learn",
+      "the learn is",
+      "to use a learn"
+    ]
   },
   {
     "id": "around",
@@ -3963,12 +5091,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaround"
     ],
-    "image": "health-around",
+    "image": "/images/vocab/around.jpg",
     "audioPlaceholder": "around",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងជុំវិញ។",
-    "exampleKhmer": "ជុំវិញ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ជុំវិញ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good around",
+      "the around is",
+      "to use a around"
+    ]
   },
   {
     "id": "print",
@@ -3984,12 +5118,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprint"
     ],
-    "image": "shopping-print",
+    "image": "/images/vocab/print.jpg",
     "audioPlaceholder": "print",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីកម្ចាត់ចំណាប់អារម្មណ៍ ឬការចាប់អារម្មណ៍ពីប្រភេទ ឬពីស្តេរ៉េអូប្រភេទ អេឡិចត្រូត ឬបន្ទះឆ្លាក់ ឬផ្សេងទៀត។",
-    "exampleKhmer": "ការបោះពុម្ពនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបោះពុម្ពនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good print",
+      "the print is",
+      "to use a print"
+    ]
   },
   {
     "id": "course",
@@ -4005,12 +5145,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncourse"
     ],
-    "image": "sports-course",
+    "image": "/images/vocab/course.jpg",
     "audioPlaceholder": "course",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "ជួរកម្រិតបន្តនៃឥដ្ឋ ឬថ្មដែលមានកម្ពស់ដូចគ្នានៅទូទាំងមុខ ឬមុខអគារ។",
-    "exampleKhmer": "វគ្គ​សិក្សា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "វគ្គ​សិក្សា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good course",
+      "the course is",
+      "to use a course"
+    ]
   },
   {
     "id": "canada",
@@ -4026,12 +5172,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncanada"
     ],
-    "image": "nature-canada",
+    "image": "/images/vocab/canada.jpg",
     "audioPlaceholder": "canada",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "ខេត្តមួយរបស់អង់គ្លេសនៅអាមេរិកខាងជើង ដោយដាក់ឈ្មោះរុក្ខជាតិ និងសត្វផ្សេងៗ។",
-    "exampleKhmer": "ប្រទេសកាណាដាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រទេសកាណាដាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good canada",
+      "the canada is",
+      "to use a canada"
+    ]
   },
   {
     "id": "process",
@@ -4047,12 +5199,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprocess"
     ],
-    "image": "daily-conversation-process",
+    "image": "/images/vocab/process.jpg",
     "audioPlaceholder": "process",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "ភាពលេចធ្លោ ឬផ្នែកដែលអាចមើលឃើញ ជាពិសេសឆ្អឹង។",
-    "exampleKhmer": "ដំណើរការ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ដំណើរការ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good process",
+      "the process is",
+      "to use a process"
+    ]
   },
   {
     "id": "stock",
@@ -4068,12 +5226,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstock"
     ],
-    "image": "family-stock",
+    "image": "/images/vocab/stock.jpg",
     "audioPlaceholder": "stock",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "ដូចគ្នានឹងគណនីភាគហ៊ុនខាងក្រោម។",
-    "exampleKhmer": "ភាគហ៊ុនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្��ុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាគហ៊ុនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្��ុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good stock",
+      "the stock is",
+      "to use a stock"
+    ]
   },
   {
     "id": "training",
@@ -4089,12 +5253,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untraining"
     ],
-    "image": "food-training",
+    "image": "/images/vocab/training.jpg",
     "audioPlaceholder": "training",
     "difficulty": "A2",
-    "category": "food",
+    "category": "weather",
     "meaningKhmer": "ទង្វើរបស់អ្នកហ្វឹកហាត់។",
-    "exampleKhmer": "វគ្គបណ្តុះបណ្តាលត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "វគ្គបណ្តុះបណ្តាលត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good training",
+      "the training is",
+      "to use a training"
+    ]
   },
   {
     "id": "credit",
@@ -4110,12 +5280,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncredit"
     ],
-    "image": "animals-credit",
+    "image": "/images/vocab/credit.jpg",
     "audioPlaceholder": "credit",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "ការជឿទុកចិត្តដែលបានផ្តល់ឱ្យឬទទួលបាន។",
-    "exampleKhmer": "ឥណទាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឥណទាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good credit",
+      "the credit is",
+      "to use a credit"
+    ]
   },
   {
     "id": "point",
@@ -4131,12 +5307,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpoint"
     ],
-    "image": "school-point",
+    "image": "/images/vocab/point.jpg",
     "audioPlaceholder": "point",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីតែងតាំង។",
-    "exampleKhmer": "ចំណុច​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ចំណុច​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good point",
+      "the point is",
+      "to use a point"
+    ]
   },
   {
     "id": "science",
@@ -4152,12 +5334,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unscience"
     ],
-    "image": "travel-science",
+    "image": "/images/vocab/science.jpg",
     "audioPlaceholder": "science",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បី​ធ្វើ​ឱ្យ​ក្លាយ​ជា​អ្នក​ជំនាញ​ក្នុង​វិទ្យា​សា​ស្រ្ត​។",
-    "exampleKhmer": "វិទ្យាសាស្ត្រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "វិទ្យាសាស្ត្រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good science",
+      "the science is",
+      "to use a science"
+    ]
   },
   {
     "id": "advanced",
@@ -4173,12 +5361,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unadvanced"
     ],
-    "image": "business-advanced",
+    "image": "/images/vocab/advanced.jpg",
     "audioPlaceholder": "advanced",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយកម្រិតខ្ពស់។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់កម្រិតខ្ពស់អំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់កម្រិតខ្ពស់អំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very advanced",
+      "a advanced person",
+      "seems to be advanced"
+    ]
   },
   {
     "id": "sales",
@@ -4194,12 +5388,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsales"
     ],
-    "image": "technology-sales",
+    "image": "/images/vocab/sales.jpg",
     "audioPlaceholder": "sales",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការលក់។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'លក់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'លក់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to sales immediately",
+      "can sales easily",
+      "please sales"
+    ]
   },
   {
     "id": "english",
@@ -4215,12 +5415,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unenglish"
     ],
-    "image": "health-english",
+    "image": "/images/vocab/english.jpg",
     "audioPlaceholder": "english",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងប្រទេសអង់គ្លេស ឬប្រជាជនរបស់ខ្លួន ឬចំពោះអ្វីដែលហៅថាការប្រណាំង Anglo-Saxon ។",
-    "exampleKhmer": "ភាសាអង់គ្លេសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាសាអង់គ្លេសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good english",
+      "the english is",
+      "to use a english"
+    ]
   },
   {
     "id": "estate",
@@ -4236,12 +5442,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unestate"
     ],
-    "image": "shopping-estate",
+    "image": "/images/vocab/estate.jpg",
     "audioPlaceholder": "estate",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ថ្នាក់ ឬលំដាប់ដ៏អស្ចារ្យនៃសហគមន៍ ឬរដ្ឋមួយ (ជាបព្វជិត អភិជន និងភាពសាមញ្ញនៃប្រទេសអង់គ្លេស) ឬតំណាងរបស់ពួកគេដែលគ្រប់គ្រងរដ្ឋាភិបាល។",
-    "exampleKhmer": "អចលន​ទ្រព្យ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "អចលន​ទ្រព្យ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good estate",
+      "the estate is",
+      "to use a estate"
+    ]
   },
   {
     "id": "select",
@@ -4257,12 +5469,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unselect"
     ],
-    "image": "sports-select",
+    "image": "/images/vocab/select.jpg",
     "audioPlaceholder": "select",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "យកពីលេខតាមចំណូលចិត្ត។",
-    "exampleKhmer": "ការជ្រើសរើសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការជ្រើសរើសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good select",
+      "the select is",
+      "to use a select"
+    ]
   },
   {
     "id": "windows",
@@ -4278,12 +5496,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwindows"
     ],
-    "image": "nature-windows",
+    "image": "/images/vocab/windows.jpg",
     "audioPlaceholder": "windows",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "weather",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃបង្អួច។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'windows' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'windows' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to windows immediately",
+      "can windows easily",
+      "please windows"
+    ]
   },
   {
     "id": "photos",
@@ -4299,12 +5523,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unphotos"
     ],
-    "image": "daily-conversation-photos",
+    "image": "/images/vocab/photos.jpg",
     "audioPlaceholder": "photos",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "weather",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងរូបថត។",
-    "exampleKhmer": "រូបថត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រូបថត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good photos",
+      "the photos is",
+      "to use a photos"
+    ]
   },
   {
     "id": "thread",
@@ -4320,12 +5550,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthread"
     ],
-    "image": "family-thread",
+    "image": "/images/vocab/thread.jpg",
     "audioPlaceholder": "thread",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយខ្សែស្រឡាយ។",
-    "exampleKhmer": "យើងត្រូវភ្ជាប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវភ្ជាប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to thread immediately",
+      "can thread easily",
+      "please thread"
+    ]
   },
   {
     "id": "category",
@@ -4341,12 +5577,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncategory"
     ],
-    "image": "food-category",
+    "image": "/images/vocab/category.jpg",
     "audioPlaceholder": "category",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "ថ្នាក់ខ្ពស់បំផុតមួយ ដែលវត្ថុនៃចំណេះដឹង ឬគំនិតអាចកាត់បន្ថយបាន ហើយដោយពួកគេអាចត្រូវបានរៀបចំជាប្រព័ន្ធ។",
-    "exampleKhmer": "ប្រភេទ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រភេទ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good category",
+      "the category is",
+      "to use a category"
+    ]
   },
   {
     "id": "large",
@@ -4362,12 +5604,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlarge"
     ],
-    "image": "animals-large",
+    "image": "/images/vocab/large.jpg",
     "audioPlaceholder": "large",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "ឆ្លងកាត់បន្ទាត់នៃវគ្គសិក្សារបស់កប៉ាល់ក្នុងទិសដៅអំណោយផល។",
-    "exampleKhmer": "ធំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ធំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good large",
+      "the large is",
+      "to use a large"
+    ]
   },
   {
     "id": "gallery",
@@ -4383,12 +5631,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungallery"
     ],
-    "image": "school-gallery",
+    "image": "/images/vocab/gallery.jpg",
     "audioPlaceholder": "gallery",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "ស៊ុមមួយដូចជាយ៉រដែលបញ្ចាំងពីផ្នែកខាងឬភាគនៃកប៉ាល់ ហេតុដូច្នេះហើយបានជាគេហៅថា stern galery ឬ quarter gallry - កម្រមាននៅក្នុងកប៉ាល់ដែលបានសាងសង់តាំងពីឆ្នាំ 1850 ។",
-    "exampleKhmer": "វិចិត្រសាល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "វិចិត្រសាល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good gallery",
+      "the gallery is",
+      "to use a gallery"
+    ]
   },
   {
     "id": "table",
@@ -4404,12 +5658,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untable"
     ],
-    "image": "travel-table",
+    "image": "/images/vocab/table.jpg",
     "audioPlaceholder": "table",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីបញ្ចូលដូចជាឈើមួយដុំចូលទៅក្នុងមួយទៀតដោយចំណុចឆ្លាស់គ្នា ឬការព្យាករពីកណ្តាល ដើម្បីការពារការរអិល។",
-    "exampleKhmer": "តារាងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "តារាងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good table",
+      "the table is",
+      "to use a table"
+    ]
   },
   {
     "id": "register",
@@ -4425,12 +5685,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unregister"
     ],
-    "image": "business-register",
+    "image": "/images/vocab/register.jpg",
     "audioPlaceholder": "register",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "អ្នកដែលចុះឈ្មោះឬកត់ត្រា។",
-    "exampleKhmer": "ការចុះឈ្មោះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការចុះឈ្មោះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good register",
+      "the register is",
+      "to use a register"
+    ]
   },
   {
     "id": "however",
@@ -4446,12 +5712,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhowever"
     ],
-    "image": "technology-however",
+    "image": "/images/vocab/however.jpg",
     "audioPlaceholder": "however",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "យ៉ាង​ណា​ក៏​ដោយ។",
-    "exampleKhmer": "យ៉ាង​ណា​ក៏​ដោយ ការ​លើក​ឡើង​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "យ៉ាង​ណា​ក៏​ដោយ ការ​លើក​ឡើង​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good however",
+      "the however is",
+      "to use a however"
+    ]
   },
   {
     "id": "october",
@@ -4467,12 +5739,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoctober"
     ],
-    "image": "health-october",
+    "image": "/images/vocab/october.jpg",
     "audioPlaceholder": "october",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងខែតុលា។",
-    "exampleKhmer": "ខែ​តុលា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ខែ​តុលា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good october",
+      "the october is",
+      "to use a october"
+    ]
   },
   {
     "id": "november",
@@ -4488,12 +5766,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnovember"
     ],
-    "image": "shopping-november",
+    "image": "/images/vocab/november.jpg",
     "audioPlaceholder": "november",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ខែទីដប់មួយនៃឆ្នាំដែលមានសាមសិបថ្ងៃ។",
-    "exampleKhmer": "ខែវិច្ឆិកាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ខែវិច្ឆិកាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good november",
+      "the november is",
+      "to use a november"
+    ]
   },
   {
     "id": "market",
@@ -4509,12 +5793,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmarket"
     ],
-    "image": "sports-market",
+    "image": "/images/vocab/market.jpg",
     "audioPlaceholder": "market",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "shopping",
     "meaningKhmer": "អភ័យឯកសិទ្ធិដល់ទីប្រជុំជនមានផ្សារសាធារណៈ។",
-    "exampleKhmer": "ទីផ្សារ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ទីផ្សារ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good market",
+      "the market is",
+      "to use a market"
+    ]
   },
   {
     "id": "library",
@@ -4530,12 +5820,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlibrary"
     ],
-    "image": "nature-library",
+    "image": "/images/vocab/library.jpg",
     "audioPlaceholder": "library",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃបណ្ណាល័យ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បណ្ណាល័យ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បណ្ណាល័យ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to library immediately",
+      "can library easily",
+      "please library"
+    ]
   },
   {
     "id": "really",
@@ -4551,12 +5847,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreally"
     ],
-    "image": "daily-conversation-really",
+    "image": "/images/vocab/really.jpg",
     "audioPlaceholder": "really",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "រាជ។",
-    "exampleKhmer": "ការពិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការពិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good really",
+      "the really is",
+      "to use a really"
+    ]
   },
   {
     "id": "action",
@@ -4572,12 +5874,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaction"
     ],
-    "image": "family-action",
+    "image": "/images/vocab/action.jpg",
     "audioPlaceholder": "action",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "ចលនាប្រកបដោយប្រសិទ្ធភាព។",
-    "exampleKhmer": "សកម្មភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សកម្មភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good action",
+      "the action is",
+      "to use a action"
+    ]
   },
   {
     "id": "start",
@@ -4593,12 +5901,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstart"
     ],
-    "image": "food-start",
+    "image": "/images/vocab/start.jpg",
     "audioPlaceholder": "start",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីចាក់ចេញ។",
-    "exampleKhmer": "ការចាប់ផ្តើមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការចាប់ផ្តើមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good start",
+      "the start is",
+      "to use a start"
+    ]
   },
   {
     "id": "series",
@@ -4614,12 +5928,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unseries"
     ],
-    "image": "animals-series",
+    "image": "/images/vocab/series.jpg",
     "audioPlaceholder": "series",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "ក្រុមដ៏ទូលំទូលាយនៃសត្វ ឬរុក្ខជាតិ រួមទាំងក្រុមពាក់ព័ន្ធមួយចំនួនទៀត។",
-    "exampleKhmer": "ស៊េរីនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ស៊េរីនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good series",
+      "the series is",
+      "to use a series"
+    ]
   },
   {
     "id": "model",
@@ -4635,12 +5955,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmodel"
     ],
-    "image": "school-model",
+    "image": "/images/vocab/model.jpg",
     "audioPlaceholder": "model",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "ស័ក្តិសម​សម្រាប់​យក​ធ្វើជា​គំរូ ឬ​គំរូ។",
-    "exampleKhmer": "គំរូ​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "គំរូ​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good model",
+      "the model is",
+      "to use a model"
+    ]
   },
   {
     "id": "features",
@@ -4656,12 +5982,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfeatures"
     ],
-    "image": "travel-features",
+    "image": "/images/vocab/features.jpg",
     "audioPlaceholder": "features",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងលក្ខណៈពិសេស។",
-    "exampleKhmer": "យើងត្រូវកំណត់មុខងារនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកំណត់មុខងារនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to features immediately",
+      "can features easily",
+      "please features"
+    ]
   },
   {
     "id": "industry",
@@ -4677,12 +6009,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unindustry"
     ],
-    "image": "business-industry",
+    "image": "/images/vocab/industry.jpg",
     "audioPlaceholder": "industry",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "ការប្រឹងប្រែងរបស់មនុស្សក្នុងប្រភេទណាមួយដែលប្រើប្រាស់សម្រាប់ការបង្កើតតម្លៃ ហើយអ្នកខ្លះចាត់ទុកថាជាប្រភេទដើមទុន ឬទ្រព្យសម្បត្តិ។",
-    "exampleKhmer": "ឧស្សាហកម្ម​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម��អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឧស្សាហកម្ម​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម��អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good industry",
+      "the industry is",
+      "to use a industry"
+    ]
   },
   {
     "id": "human",
@@ -4698,12 +6036,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhuman"
     ],
-    "image": "technology-human",
+    "image": "/images/vocab/human.jpg",
     "audioPlaceholder": "human",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "ជាកម្មសិទ្ធិរបស់មនុស្សឬមនុស្សជាតិ។",
-    "exampleKhmer": "មនុស្សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មនុស្សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good human",
+      "the human is",
+      "to use a human"
+    ]
   },
   {
     "id": "provided",
@@ -4719,12 +6063,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprovided"
     ],
-    "image": "health-provided",
+    "image": "/images/vocab/provided.jpg",
     "audioPlaceholder": "provided",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "តាមលក្ខខណ្ឌ។",
-    "exampleKhmer": "ការផ្តល់ជូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការផ្តល់ជូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good provided",
+      "the provided is",
+      "to use a provided"
+    ]
   },
   {
     "id": "required",
@@ -4740,12 +6090,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrequired"
     ],
-    "image": "shopping-required",
+    "image": "/images/vocab/required.jpg",
     "audioPlaceholder": "required",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធនឹងតម្រូវការ។",
-    "exampleKhmer": "យើងត្រូវទាមទារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវទាមទារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to required immediately",
+      "can required easily",
+      "please required"
+    ]
   },
   {
     "id": "second",
@@ -4761,12 +6117,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsecond"
     ],
-    "image": "sports-second",
+    "image": "/images/vocab/second.jpg",
     "audioPlaceholder": "second",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "អត្ថបទនៃទំនិញនៃថ្នាក់ទាបជាងទៅល្អបំផុត។",
-    "exampleKhmer": "ទីព��រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទីព��រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good second",
+      "the second is",
+      "to use a second"
+    ]
   },
   {
     "id": "movie",
@@ -4782,12 +6144,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmovie"
     ],
-    "image": "nature-movie",
+    "image": "/images/vocab/movie.jpg",
     "audioPlaceholder": "movie",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "រូបភាពរំកិល ឬបង្ហាញរូបភាពផ្លាស់ទី។",
-    "exampleKhmer": "ភាពយន្ត​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ភាពយន្ត​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good movie",
+      "the movie is",
+      "to use a movie"
+    ]
   },
   {
     "id": "forums",
@@ -4803,12 +6171,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unforums"
     ],
-    "image": "daily-conversation-forums",
+    "image": "/images/vocab/forums.jpg",
     "audioPlaceholder": "forums",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងវេទិកា។",
-    "exampleKhmer": "វេទិកា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "វេទិកា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good forums",
+      "the forums is",
+      "to use a forums"
+    ]
   },
   {
     "id": "march",
@@ -4824,12 +6198,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmarch"
     ],
-    "image": "family-march",
+    "image": "/images/vocab/march.jpg",
     "audioPlaceholder": "march",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "ខែ​ទី​បី​នៃ​ឆ្នាំ​ដែល​មាន​សាមសិប​មួយ​ថ្ងៃ។​ ខែ​មីនា​ដែល​មាន​ខ្យល់​ព្យុះ​មក​ដល់​ទី​បំផុត​ដោយ​មាន​ខ្យល់​ព្យុះ​ពពក​និង​ផ្ទៃ​មេឃ​ប្រែប្រួល។",
-    "exampleKhmer": "ការហែក្បួនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការហែក្បួនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good march",
+      "the march is",
+      "to use a march"
+    ]
   },
   {
     "id": "better",
@@ -4845,12 +6225,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbetter"
     ],
-    "image": "food-better",
+    "image": "/images/vocab/better.jpg",
     "audioPlaceholder": "better",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីក្លាយជាកាន់តែប្រសើរ។",
-    "exampleKhmer": "កាន់តែប្រសើរត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កាន់តែប្រសើរត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good better",
+      "the better is",
+      "to use a better"
+    ]
   },
   {
     "id": "yahoo",
@@ -4866,12 +6252,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unyahoo"
     ],
-    "image": "animals-yahoo",
+    "image": "/images/vocab/yahoo.jpg",
     "audioPlaceholder": "yahoo",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "ការបកប្រែតាមព្យញ្ជនៈសម័យទំនើបនៃពាក្យភាសាហេព្រើរបានបកប្រែព្រះយេហូវ៉ានៅក្នុងព្រះគម្ពីរ។",
-    "exampleKhmer": "យ៉ាហ៊ូ​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "យ៉ាហ៊ូ​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good yahoo",
+      "the yahoo is",
+      "to use a yahoo"
+    ]
   },
   {
     "id": "going",
@@ -4887,12 +6279,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungoing"
     ],
-    "image": "school-going",
+    "image": "/images/vocab/going.jpg",
     "audioPlaceholder": "going",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "វគ្គនៃជីវិត។",
-    "exampleKhmer": "ការ​ទៅ​រៀន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ទៅ​រៀន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good going",
+      "the going is",
+      "to use a going"
+    ]
   },
   {
     "id": "medical",
@@ -4908,12 +6306,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmedical"
     ],
-    "image": "travel-medical",
+    "image": "/images/vocab/medical.jpg",
     "audioPlaceholder": "medical",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងវេជ្ជសាស្ត្រ។",
-    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​ការ​ងារ​ពេទ្យ​ឱ្យ​បាន​ឆាប់​ត���ម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​ការ​ងារ​ពេទ្យ​ឱ្យ​បាន​ឆាប់​ត���ម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to medical immediately",
+      "can medical easily",
+      "please medical"
+    ]
   },
   {
     "id": "friend",
@@ -4929,12 +6333,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfriend"
     ],
-    "image": "business-friend",
+    "image": "/images/vocab/friend.jpg",
     "audioPlaceholder": "friend",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីដើរតួជាមិត្តរបស់។",
-    "exampleKhmer": "មិត្ត​ភក្តិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មិត្ត​ភក្តិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good friend",
+      "the friend is",
+      "to use a friend"
+    ]
   },
   {
     "id": "server",
@@ -4950,12 +6360,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unserver"
     ],
-    "image": "technology-server",
+    "image": "/images/vocab/server.jpg",
     "audioPlaceholder": "server",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃម៉ាស៊ីនមេ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ម៉ាស៊ីនមេ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ម៉ាស៊ីនមេ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to server immediately",
+      "can server easily",
+      "please server"
+    ]
   },
   {
     "id": "study",
@@ -4971,12 +6387,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstudy"
     ],
-    "image": "health-study",
+    "image": "/images/vocab/study.jpg",
     "audioPlaceholder": "study",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "ការតំណាង ឬការបង្ហាញវត្ថុ ឬឈុតណាមួយដែលមានបំណង មិនមែនសម្រាប់ការតាំងពិពណ៌ជាស្នាដៃដើមនៃសិល្បៈនោះទេ ប៉ុន្តែសម្រាប់ព័ត៌មាន ការណែនាំ ឬជំនួយរបស់អ្នកផលិត។",
-    "exampleKhmer": "ការ​សិក្សា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​សិក្សា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good study",
+      "the study is",
+      "to use a study"
+    ]
   },
   {
     "id": "staff",
@@ -4992,12 +6414,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstaff"
     ],
-    "image": "shopping-staff",
+    "image": "/images/vocab/staff.jpg",
     "audioPlaceholder": "staff",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "បន្ទាត់ទាំងប្រាំ និងចន្លោះដែលតន្ត្រីត្រូវបានសរសេរ។",
-    "exampleKhmer": "បុគ្គលិកត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "បុគ្គលិកត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good staff",
+      "the staff is",
+      "to use a staff"
+    ]
   },
   {
     "id": "articles",
@@ -5013,12 +6441,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unarticles"
     ],
-    "image": "sports-articles",
+    "image": "/images/vocab/articles.jpg",
     "audioPlaceholder": "articles",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយអត្ថបទ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​អត្ថបទ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​អត្ថបទ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very articles",
+      "a articles person",
+      "seems to be articles"
+    ]
   },
   {
     "id": "feedback",
@@ -5034,12 +6468,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfeedback"
     ],
-    "image": "nature-feedback",
+    "image": "/images/vocab/feedback.jpg",
     "audioPlaceholder": "feedback",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ផ្តល់​មតិ​ត្រឡប់​។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មតិត្រឡប់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មតិត្រឡប់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to feedback immediately",
+      "can feedback easily",
+      "please feedback"
+    ]
   },
   {
     "id": "again",
@@ -5055,12 +6495,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unagain"
     ],
-    "image": "daily-conversation-again",
+    "image": "/images/vocab/again.jpg",
     "audioPlaceholder": "again",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "ប្រឆាំង។",
-    "exampleKhmer": "ការពិភាក្សាម្តងទៀតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការពិភាក្សាម្តងទៀតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good again",
+      "the again is",
+      "to use a again"
+    ]
   },
   {
     "id": "looking",
@@ -5076,12 +6522,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlooking"
     ],
-    "image": "family-looking",
+    "image": "/images/vocab/looking.jpg",
     "audioPlaceholder": "looking",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "មានរូបរាង ឬរូបរាងជាក់លាក់។",
-    "exampleKhmer": "ការសម្លឹងមើលទៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការសម្លឹងមើលទៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good looking",
+      "the looking is",
+      "to use a looking"
+    ]
   },
   {
     "id": "issues",
@@ -5097,12 +6549,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unissues"
     ],
-    "image": "food-issues",
+    "image": "/images/vocab/issues.jpg",
     "audioPlaceholder": "issues",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយបញ្ហា។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very issues",
+      "a issues person",
+      "seems to be issues"
+    ]
   },
   {
     "id": "april",
@@ -5118,12 +6576,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unapril"
     ],
-    "image": "animals-april",
+    "image": "/images/vocab/april.jpg",
     "audioPlaceholder": "april",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃខែមេសា។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មេសា' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មេសា' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to april immediately",
+      "can april easily",
+      "please april"
+    ]
   },
   {
     "id": "never",
@@ -5139,12 +6603,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnever"
     ],
-    "image": "school-never",
+    "image": "/images/vocab/never.jpg",
     "audioPlaceholder": "never",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងមិនដែល។",
-    "exampleKhmer": "មិនដែលត្រូវបានគេពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មិនដែលត្រូវបានគេពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good never",
+      "the never is",
+      "to use a never"
+    ]
   },
   {
     "id": "users",
@@ -5160,12 +6630,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unusers"
     ],
-    "image": "travel-users",
+    "image": "/images/vocab/users.jpg",
     "audioPlaceholder": "users",
     "difficulty": "A2",
-    "category": "travel",
+    "category": "technology",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក���ព័ន្ធជាមួយអ្នកប្រើប្រាស់។",
-    "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​អ្នក​ប្រើ​ភារកិច្ច​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​អ្នក​ប្រើ​ភារកិច្ច​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to users immediately",
+      "can users easily",
+      "please users"
+    ]
   },
   {
     "id": "complete",
@@ -5181,12 +6657,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncomplete"
     ],
-    "image": "business-complete",
+    "image": "/images/vocab/complete.jpg",
     "audioPlaceholder": "complete",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "មានផ្នែក ឬសរីរាង្គទាំងអស់ដែលជាកម្មសិទ្ធិរបស់វា ឬទម្រង់ធម្មតា។",
-    "exampleKhmer": "ការបញ្ចប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបញ្ចប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good complete",
+      "the complete is",
+      "to use a complete"
+    ]
   },
   {
     "id": "street",
@@ -5202,12 +6684,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstreet"
     ],
-    "image": "technology-street",
+    "image": "/images/vocab/street.jpg",
     "audioPlaceholder": "street",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "ដើមឡើយផ្លូវ ឬផ្លូវក្រាលកៅស៊ូ។",
-    "exampleKhmer": "ផ្លូវ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ផ្លូវ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good street",
+      "the street is",
+      "to use a street"
+    ]
   },
   {
     "id": "topic",
@@ -5223,12 +6711,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untopic"
     ],
-    "image": "health-topic",
+    "image": "/images/vocab/topic.jpg",
     "audioPlaceholder": "topic",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "សន្ធិសញ្ញាស្តីពីទម្រង់នៃការជជែកវែកញែក។",
-    "exampleKhmer": "ប្រធានបទត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រធានបទត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good topic",
+      "the topic is",
+      "to use a topic"
+    ]
   },
   {
     "id": "comment",
@@ -5244,12 +6738,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncomment"
     ],
-    "image": "shopping-comment",
+    "image": "/images/vocab/comment.jpg",
     "audioPlaceholder": "comment",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីធ្វើការកត់សម្គាល់ ការសង្កេត ឬការរិះគន់។",
-    "exampleKhmer": "មតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good comment",
+      "the comment is",
+      "to use a comment"
+    ]
   },
   {
     "id": "things",
@@ -5265,12 +6765,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthings"
     ],
-    "image": "sports-things",
+    "image": "/images/vocab/things.jpg",
     "audioPlaceholder": "things",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយវត្ថុ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very things",
+      "a things person",
+      "seems to be things"
+    ]
   },
   {
     "id": "working",
@@ -5286,12 +6792,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unworking"
     ],
-    "image": "nature-working",
+    "image": "/images/vocab/working.jpg",
     "audioPlaceholder": "working",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "work",
     "meaningKhmer": "ក & ន.",
-    "exampleKhmer": "ការងារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការងារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good working",
+      "the working is",
+      "to use a working"
+    ]
   },
   {
     "id": "against",
@@ -5307,12 +6819,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unagainst"
     ],
-    "image": "daily-conversation-against",
+    "image": "/images/vocab/against.jpg",
     "audioPlaceholder": "against",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការប្រឆាំង។",
-    "exampleKhmer": "ការ​ប្រឆាំង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ប្រឆាំង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good against",
+      "the against is",
+      "to use a against"
+    ]
   },
   {
     "id": "standard",
@@ -5328,12 +6846,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstandard"
     ],
-    "image": "family-standard",
+    "image": "/images/vocab/standard.jpg",
     "audioPlaceholder": "standard",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "សមាមាត្រនៃទម្ងន់នៃលោហៈដ៏ល្អ និងយ៉ាន់ស្ព័រដែលបង្កើតឡើងដោយអាជ្ញាធរ។ តាមស្តង់ដារបច្ចុប្បន្ននៃកាក់ ហុកសិបពីរ shillings ត្រូវបានបង្កើតចេញពីទម្ងន់មួយផោននៃប្រាក់។",
-    "exampleKhmer": "ស្តង់ដារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ស្តង់ដារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good standard",
+      "the standard is",
+      "to use a standard"
+    ]
   },
   {
     "id": "person",
@@ -5349,12 +6873,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unperson"
     ],
-    "image": "food-person",
+    "image": "/images/vocab/person.jpg",
     "audioPlaceholder": "person",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "ក្នុង​ចំណោម​ព្រះត្រៃបិដក ជា​ផ្នែក​មួយ​ក្នុង​ចំណោម​ផ្នែក​រង​ទាំង​បី​នៃ​ព្រះ​អង្គ (ព្រះវរបិតា ព្រះ​រាជបុត្រា និង​ព្រះវិញ្ញាណ​បរិសុទ្ធ)។",
-    "exampleKhmer": "បុគ្គល​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "បុគ្គល​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good person",
+      "the person is",
+      "to use a person"
+    ]
   },
   {
     "id": "below",
@@ -5370,12 +6900,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbelow"
     ],
-    "image": "animals-below",
+    "image": "/images/vocab/below.jpg",
     "audioPlaceholder": "below",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​នៅ​ខាង​ក្រោម​។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ខាងក្រោម' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ខាងក្រោម' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to below immediately",
+      "can below easily",
+      "please below"
+    ]
   },
   {
     "id": "mobile",
@@ -5391,12 +6927,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmobile"
     ],
-    "image": "school-mobile",
+    "image": "/images/vocab/mobile.jpg",
     "audioPlaceholder": "mobile",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "អាច​រំកិល​ខ្លួន រំភើប ឬ​រំភើប។",
-    "exampleKhmer": "ទូរសព្ទ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទូរសព្ទ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good mobile",
+      "the mobile is",
+      "to use a mobile"
+    ]
   },
   {
     "id": "party",
@@ -5412,12 +6954,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unparty"
     ],
-    "image": "travel-party",
+    "image": "/images/vocab/party.jpg",
     "audioPlaceholder": "party",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ចែក​ឬ​បែក​គ្នា ដូច​ជា​ក្នុង​ទិស​ឬ​ទម្រង់​នៃ​ក្បួន​មួយ ។",
-    "exampleKhmer": "គណបក្ស​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "គណបក្ស​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good party",
+      "the party is",
+      "to use a party"
+    ]
   },
   {
     "id": "payment",
@@ -5433,12 +6981,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpayment"
     ],
-    "image": "business-payment",
+    "image": "/images/vocab/payment.jpg",
     "audioPlaceholder": "payment",
     "difficulty": "A2",
-    "category": "business",
+    "category": "shopping",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយការទូទាត់។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថាន���ាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថាន���ាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very payment",
+      "a payment person",
+      "seems to be payment"
+    ]
   },
   {
     "id": "login",
@@ -5454,12 +7008,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlogin"
     ],
-    "image": "technology-login",
+    "image": "/images/vocab/login.jpg",
     "audioPlaceholder": "login",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការចូល។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ចូល' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ចូល' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to login immediately",
+      "can login easily",
+      "please login"
+    ]
   },
   {
     "id": "student",
@@ -5475,12 +7035,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstudent"
     ],
-    "image": "health-student",
+    "image": "/images/vocab/student.jpg",
     "audioPlaceholder": "student",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសិស្ស។",
-    "exampleKhmer": "សិស្សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សិស្សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good student",
+      "the student is",
+      "to use a student"
+    ]
   },
   {
     "id": "programs",
@@ -5496,12 +7062,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprograms"
     ],
-    "image": "shopping-programs",
+    "image": "/images/vocab/programs.jpg",
     "audioPlaceholder": "programs",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយកម្មវិធី។",
-    "exampleKhmer": "យើងត្រូវរៀបចំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវរៀបចំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to programs immediately",
+      "can programs easily",
+      "please programs"
+    ]
   },
   {
     "id": "offers",
@@ -5517,12 +7089,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoffers"
     ],
-    "image": "sports-offers",
+    "image": "/images/vocab/offers.jpg",
     "audioPlaceholder": "offers",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការផ្តល់ជូន។",
-    "exampleKhmer": "នាងបានផ្តល់នូវការពន្យល់យ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់នូវការពន្យល់យ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very offers",
+      "a offers person",
+      "seems to be offers"
+    ]
   },
   {
     "id": "legal",
@@ -5538,12 +7116,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlegal"
     ],
-    "image": "nature-legal",
+    "image": "/images/vocab/legal.jpg",
     "audioPlaceholder": "legal",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "គ្រប់គ្រង​ដោយ​ច្បាប់​ដែល​ខុស​ពី​ច្បាប់​សមធម៌។",
-    "exampleKhmer": "ច្បាប់​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ច្បាប់​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good legal",
+      "the legal is",
+      "to use a legal"
+    ]
   },
   {
     "id": "above",
@@ -5559,12 +7143,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unabove"
     ],
-    "image": "daily-conversation-above",
+    "image": "/images/vocab/above.jpg",
     "audioPlaceholder": "above",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងខាងលើ។",
-    "exampleKhmer": "ខាង​លើ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ខាង​លើ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good above",
+      "the above is",
+      "to use a above"
+    ]
   },
   {
     "id": "recent",
@@ -5580,12 +7170,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrecent"
     ],
-    "image": "family-recent",
+    "image": "/images/vocab/recent.jpg",
     "audioPlaceholder": "recent",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងសម័យបច្ចុប្បន្ន ឬបច្ចុប្បន្ន។",
-    "exampleKhmer": "ថ្មីៗ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ថ្មីៗ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good recent",
+      "the recent is",
+      "to use a recent"
+    ]
   },
   {
     "id": "stores",
@@ -5601,12 +7197,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstores"
     ],
-    "image": "food-stores",
+    "image": "/images/vocab/stores.jpg",
     "audioPlaceholder": "stores",
     "difficulty": "A2",
-    "category": "food",
+    "category": "shopping",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយហាង។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ដល់​ហាង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ដល់​ហាង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very stores",
+      "a stores person",
+      "seems to be stores"
+    ]
   },
   {
     "id": "problem",
@@ -5622,12 +7224,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unproblem"
     ],
-    "image": "animals-problem",
+    "image": "/images/vocab/problem.jpg",
     "audioPlaceholder": "problem",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "អ្វីក៏ដោយដែលតម្រូវឱ្យធ្វើ។",
-    "exampleKhmer": "បញ្ហា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "បញ្ហា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good problem",
+      "the problem is",
+      "to use a problem"
+    ]
   },
   {
     "id": "memory",
@@ -5643,12 +7251,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmemory"
     ],
-    "image": "school-memory",
+    "image": "/images/vocab/memory.jpg",
     "audioPlaceholder": "memory",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការចងចាំ។",
-    "exampleKhmer": "ការចងចាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការចងចាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good memory",
+      "the memory is",
+      "to use a memory"
+    ]
   },
   {
     "id": "social",
@@ -5664,12 +7278,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsocial"
     ],
-    "image": "travel-social",
+    "image": "/images/vocab/social.jpg",
     "audioPlaceholder": "social",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "លូតលាស់តាមធម្មជាតិជាក្រុម ឬមហាជន។",
-    "exampleKhmer": "សង្គម​ត្រូវ​បាន​លើក​យក​មក​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "សង្គម​ត្រូវ​បាន​លើក​យក​មក​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good social",
+      "the social is",
+      "to use a social"
+    ]
   },
   {
     "id": "august",
@@ -5685,12 +7305,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaugust"
     ],
-    "image": "business-august",
+    "image": "/images/vocab/august.jpg",
     "audioPlaceholder": "august",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "នៃគុណភាពបំផុសគំនិតដែលរួមបញ្ចូលគ្នានូវការកោតសរសើរនិងការគោរព។",
-    "exampleKhmer": "សីហា​ត���រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សីហា​ត���រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good august",
+      "the august is",
+      "to use a august"
+    ]
   },
   {
     "id": "quote",
@@ -5706,12 +7332,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unquote"
     ],
-    "image": "technology-quote",
+    "image": "/images/vocab/quote.jpg",
     "audioPlaceholder": "quote",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីដាក់ឈ្មោះតម្លៃបច្ចុប្បន្ន។",
-    "exampleKhmer": "សម្រង់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សម្រង់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good quote",
+      "the quote is",
+      "to use a quote"
+    ]
   },
   {
     "id": "language",
@@ -5727,12 +7359,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlanguage"
     ],
-    "image": "health-language",
+    "image": "/images/vocab/language.jpg",
     "audioPlaceholder": "language",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីទំនាក់ទំនងតាមភាសា។",
-    "exampleKhmer": "ភាសាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាសាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good language",
+      "the language is",
+      "to use a language"
+    ]
   },
   {
     "id": "story",
@@ -5748,12 +7386,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstory"
     ],
-    "image": "shopping-story",
+    "image": "/images/vocab/story.jpg",
     "audioPlaceholder": "story",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "សំណុំនៃបន្ទប់នៅជាន់ដូចគ្នាឬកម្រិត។",
-    "exampleKhmer": "រឿង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រឿង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good story",
+      "the story is",
+      "to use a story"
+    ]
   },
   {
     "id": "options",
@@ -5769,12 +7413,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoptions"
     ],
-    "image": "sports-options",
+    "image": "/images/vocab/options.jpg",
     "audioPlaceholder": "options",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលត្រូវបានកំណត់ដោយជម្រើស។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ជម្រើស​យ៉ាង​ខ្លាំង​ក្នុង​ការ​ពន្យល់​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ជម្រើស​យ៉ាង​ខ្លាំង​ក្នុង​ការ​ពន្យល់​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very options",
+      "a options person",
+      "seems to be options"
+    ]
   },
   {
     "id": "rates",
@@ -5790,12 +7440,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrates"
     ],
-    "image": "nature-rates",
+    "image": "/images/vocab/rates.jpg",
     "audioPlaceholder": "rates",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃអត្រា។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អត្រា' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អត្រា' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to rates immediately",
+      "can rates easily",
+      "please rates"
+    ]
   },
   {
     "id": "create",
@@ -5811,12 +7467,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncreate"
     ],
-    "image": "daily-conversation-create",
+    "image": "/images/vocab/create.jpg",
     "audioPlaceholder": "create",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "បានបង្កើត។",
-    "exampleKhmer": "ការបង្កើតនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបង្កើតនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good create",
+      "the create is",
+      "to use a create"
+    ]
   },
   {
     "id": "young",
@@ -5832,12 +7494,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unyoung"
     ],
-    "image": "family-young",
+    "image": "/images/vocab/young.jpg",
     "audioPlaceholder": "young",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "កូនចៅរបស់សត្វ ទាំងសត្វទោល ឬពូជរួម។[ស៊ុត] ផ្ទុះឡើងដោយសេចក្តីសប្��ុរស បានបង្ហាញឱ្យឃើញនូវកូនពៅរបស់ពួកគេ។",
-    "exampleKhmer": "យុវជន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "យុវជន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good young",
+      "the young is",
+      "to use a young"
+    ]
   },
   {
     "id": "america",
@@ -5853,12 +7521,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unamerica"
     ],
-    "image": "food-america",
+    "image": "/images/vocab/america.jpg",
     "audioPlaceholder": "america",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយអាមេរិក។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ពី​សហរដ្ឋ​អាមេរិក​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ពី​សហរដ្ឋ​អាមេរិក​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very america",
+      "a america person",
+      "seems to be america"
+    ]
   },
   {
     "id": "field",
@@ -5874,12 +7548,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfield"
     ],
-    "image": "animals-field",
+    "image": "/images/vocab/field.jpg",
     "audioPlaceholder": "field",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "ផ្ទៃទាំងមូលនៃ escutcheon មួយ។",
-    "exampleKhmer": "វាល​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "វាល​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good field",
+      "the field is",
+      "to use a field"
+    ]
   },
   {
     "id": "paper",
@@ -5895,12 +7575,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpaper"
     ],
-    "image": "school-paper",
+    "image": "/images/vocab/paper.jpg",
     "audioPlaceholder": "paper",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "ឬទាក់ទងនឹងក្រដាស។",
-    "exampleKhmer": "ឯកសារនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ឯកសារនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good paper",
+      "the paper is",
+      "to use a paper"
+    ]
   },
   {
     "id": "single",
@@ -5916,12 +7602,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsingle"
     ],
-    "image": "travel-single",
+    "image": "/images/vocab/single.jpg",
     "audioPlaceholder": "single",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីទទួលយកការដើរមិនទៀងទាត់ដែលហៅថាជើងតែមួយ។",
-    "exampleKhmer": "ឯកត្តជនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ឯកត្តជនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good single",
+      "the single is",
+      "to use a single"
+    ]
   },
   {
     "id": "example",
@@ -5937,12 +7629,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unexample"
     ],
-    "image": "business-example",
+    "image": "/images/vocab/example.jpg",
     "audioPlaceholder": "example",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីកំណត់ឧទាហរណ៍សម្រាប់។",
-    "exampleKhmer": "ឧទាហរណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឧទាហរណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good example",
+      "the example is",
+      "to use a example"
+    ]
   },
   {
     "id": "girls",
@@ -5958,12 +7656,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungirls"
     ],
-    "image": "technology-girls",
+    "image": "/images/vocab/girls.jpg",
     "audioPlaceholder": "girls",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃក្មេងស្រី។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ក្មេងស្រី' នៅក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ក្មេងស្រី' នៅក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to girls immediately",
+      "can girls easily",
+      "please girls"
+    ]
   },
   {
     "id": "password",
@@ -5979,12 +7683,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpassword"
     ],
-    "image": "health-password",
+    "image": "/images/vocab/password.jpg",
     "audioPlaceholder": "password",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "ពាក្យដែលត្រូវផ្តល់ឱ្យមុនពេលមនុស្សម្នាក់ត្រូវបានអនុញ្ញាតឱ្យឆ្លងកាត់។",
-    "exampleKhmer": "ពាក្យ​សម្ងាត់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ពាក្យ​សម្ងាត់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good password",
+      "the password is",
+      "to use a password"
+    ]
   },
   {
     "id": "latest",
@@ -6000,12 +7710,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlatest"
     ],
-    "image": "shopping-latest",
+    "image": "/images/vocab/latest.jpg",
     "audioPlaceholder": "latest",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងចុងក្រោយបំផុត។",
-    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to latest immediately",
+      "can latest easily",
+      "please latest"
+    ]
   },
   {
     "id": "question",
@@ -6021,12 +7737,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unquestion"
     ],
-    "image": "sports-question",
+    "image": "/images/vocab/question.jpg",
     "audioPlaceholder": "question",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយសំណួរ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​សំណួរ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​សំណួរ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very question",
+      "a question person",
+      "seems to be question"
+    ]
   },
   {
     "id": "changes",
@@ -6042,12 +7764,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchanges"
     ],
-    "image": "nature-changes",
+    "image": "/images/vocab/changes.jpg",
     "audioPlaceholder": "changes",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការផ្លាស់ប្តូរ។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ការផ្លាស់ប្តូរ' នៅក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ការផ្លាស់ប្តូរ' នៅក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to changes immediately",
+      "can changes easily",
+      "please changes"
+    ]
   },
   {
     "id": "night",
@@ -6063,12 +7791,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnight"
     ],
-    "image": "daily-conversation-night",
+    "image": "/images/vocab/night.jpg",
     "audioPlaceholder": "night",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងយប់។",
-    "exampleKhmer": "យប់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "យប់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good night",
+      "the night is",
+      "to use a night"
+    ]
   },
   {
     "id": "texas",
@@ -6084,12 +7818,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untexas"
     ],
-    "image": "family-texas",
+    "image": "/images/vocab/texas.jpg",
     "audioPlaceholder": "texas",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "រចនាសម្ព័ននៅលើដំបូលខ្យល់ព្យុះ នៃឡចំហាយទឹក ដែលមានផ្ទះអ្នកបើកយន្តហោះ កាប���ីនមន្ត្រី ជាដើម។",
-    "exampleKhmer": "រដ្ឋតិចសាស់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "រដ្ឋតិចសាស់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good texas",
+      "the texas is",
+      "to use a texas"
+    ]
   },
   {
     "id": "poker",
@@ -6105,12 +7845,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpoker"
     ],
-    "image": "food-poker",
+    "image": "/images/vocab/poker.jpg",
     "audioPlaceholder": "poker",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "អ្នកប្រមាញ់។",
-    "exampleKhmer": "ល្បែងបៀត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ល្បែងបៀត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good poker",
+      "the poker is",
+      "to use a poker"
+    ]
   },
   {
     "id": "status",
@@ -6126,12 +7872,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstatus"
     ],
-    "image": "animals-status",
+    "image": "/images/vocab/status.jpg",
     "audioPlaceholder": "status",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "រដ្ឋ។",
-    "exampleKhmer": "ស្ថានភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ស្ថានភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good status",
+      "the status is",
+      "to use a status"
+    ]
   },
   {
     "id": "browse",
@@ -6147,12 +7899,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbrowse"
     ],
-    "image": "school-browse",
+    "image": "/images/vocab/browse.jpg",
     "audioPlaceholder": "browse",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "មែកធាង ឬមែកឈើ និងគុម្ពឈើ ស័ក្តិសមជាអាហាររបស់គោក្របី និងសត្វដទៃទៀត។",
-    "exampleKhmer": "ការរុករកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការរុករកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good browse",
+      "the browse is",
+      "to use a browse"
+    ]
   },
   {
     "id": "issue",
@@ -6168,12 +7926,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unissue"
     ],
-    "image": "travel-issue",
+    "image": "/images/vocab/issue.jpg",
     "audioPlaceholder": "issue",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដំបៅសិប្បនិមិត្ត ជាធម្មតាធ្វើឡើងនៅផ្នែកសាច់នៃជើងពាសដែក ដើម្បីបង្កើតការសំងាត់ និងការហូរចេញនៃខ្ទុះសម្រាប់ការសង្គ្រោះផ្នែកខ្លះដែលរងផលប៉ះពាល់។",
-    "exampleKhmer": "បញ្ហា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "បញ្ហា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good issue",
+      "the issue is",
+      "to use a issue"
+    ]
   },
   {
     "id": "range",
@@ -6189,12 +7953,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrange"
     ],
-    "image": "business-range",
+    "image": "/images/vocab/range.jpg",
     "audioPlaceholder": "range",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "មានស្រុកកំណើត ឬរស់នៅ។",
-    "exampleKhmer": "ជួរត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជួរត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good range",
+      "the range is",
+      "to use a range"
+    ]
   },
   {
     "id": "building",
@@ -6210,12 +7980,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbuilding"
     ],
-    "image": "technology-building",
+    "image": "/images/vocab/building.jpg",
     "audioPlaceholder": "building",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការសាងសង់។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សាងសង់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សាងសង់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to building immediately",
+      "can building easily",
+      "please building"
+    ]
   },
   {
     "id": "seller",
@@ -6231,12 +8007,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unseller"
     ],
-    "image": "health-seller",
+    "image": "/images/vocab/seller.jpg",
     "audioPlaceholder": "seller",
     "difficulty": "A2",
-    "category": "health",
+    "category": "shopping",
     "meaningKhmer": "ម្នាក់ដែលលក់។",
-    "exampleKhmer": "អ្នក​លក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នក​លក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good seller",
+      "the seller is",
+      "to use a seller"
+    ]
   },
   {
     "id": "court",
@@ -6252,12 +8034,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncourt"
     ],
-    "image": "shopping-court",
+    "image": "/images/vocab/court.jpg",
     "audioPlaceholder": "court",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយតុលាការ។",
-    "exampleKhmer": "យើងត្រូវកាត់ក្តីកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកាត់ក្តីកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to court immediately",
+      "can court easily",
+      "please court"
+    ]
   },
   {
     "id": "february",
@@ -6273,12 +8061,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfebruary"
     ],
-    "image": "sports-february",
+    "image": "/images/vocab/february.jpg",
     "audioPlaceholder": "february",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "ខែទីពីរក្នុងឆ្នាំនេះ ត្រូវបានគេនិយាយថាត្រូវបានបញ្ចូលទៅក្នុងប្រតិទិនរ៉ូម៉ាំង���ោយ Numa ។",
-    "exampleKhmer": "ខែ​កុម្ភៈ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ខែ​កុម្ភៈ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good february",
+      "the february is",
+      "to use a february"
+    ]
   },
   {
     "id": "always",
@@ -6294,12 +8088,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unalways"
     ],
-    "image": "nature-always",
+    "image": "/images/vocab/always.jpg",
     "audioPlaceholder": "always",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​និច្ច។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជានិច្ច' នៅក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជានិច្ច' នៅក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to always immediately",
+      "can always easily",
+      "please always"
+    ]
   },
   {
     "id": "result",
@@ -6315,12 +8115,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unresult"
     ],
-    "image": "daily-conversation-result",
+    "image": "/images/vocab/result.jpg",
     "audioPlaceholder": "result",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងលទ្ធផល។",
-    "exampleKhmer": "លទ្ធផល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "លទ្ធផល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good result",
+      "the result is",
+      "to use a result"
+    ]
   },
   {
     "id": "audio",
@@ -6336,12 +8142,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaudio"
     ],
-    "image": "family-audio",
+    "image": "/images/vocab/audio.jpg",
     "audioPlaceholder": "audio",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយសំឡេង។",
-    "exampleKhmer": "យើងត្រូវស្តាប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវស្តាប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to audio immediately",
+      "can audio easily",
+      "please audio"
+    ]
   },
   {
     "id": "light",
@@ -6357,12 +8169,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlight"
     ],
-    "image": "food-light",
+    "image": "/images/vocab/light.jpg",
     "audioPlaceholder": "light",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "របៀបដែលពន្លឺប៉ះលើរូបភាព។",
-    "exampleKhmer": "ពន្លឺ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ពន្លឺ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good light",
+      "the light is",
+      "to use a light"
+    ]
   },
   {
     "id": "write",
@@ -6378,12 +8196,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwrite"
     ],
-    "image": "animals-write",
+    "image": "/images/vocab/write.jpg",
     "audioPlaceholder": "write",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការសរសេរ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សរសេរ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សរសេរ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to write immediately",
+      "can write easily",
+      "please write"
+    ]
   },
   {
     "id": "offer",
@@ -6399,12 +8223,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoffer"
     ],
-    "image": "school-offer",
+    "image": "/images/vocab/offer.jpg",
     "audioPlaceholder": "offer",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការផ្តល់ជូន។",
-    "exampleKhmer": "ការផ្តល់ជូននេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការផ្តល់ជូននេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good offer",
+      "the offer is",
+      "to use a offer"
+    ]
   },
   {
     "id": "groups",
@@ -6420,12 +8250,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungroups"
     ],
-    "image": "travel-groups",
+    "image": "/images/vocab/groups.jpg",
     "audioPlaceholder": "groups",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយក្រុម។",
-    "exampleKhmer": "យើងត្រូវរៀបចំជាក្រុមកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវរៀបចំជាក្រុមកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to groups immediately",
+      "can groups easily",
+      "please groups"
+    ]
   },
   {
     "id": "given",
@@ -6441,12 +8277,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungiven"
     ],
-    "image": "business-given",
+    "image": "/images/vocab/given.jpg",
     "audioPlaceholder": "given",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "ទំ.",
-    "exampleKhmer": "អ្វី​ដែល​បាន​ផ្តល់​ឲ្យ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្វី​ដែល​បាន​ផ្តល់​ឲ្យ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good given",
+      "the given is",
+      "to use a given"
+    ]
   },
   {
     "id": "files",
@@ -6462,12 +8304,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfiles"
     ],
-    "image": "technology-files",
+    "image": "/images/vocab/files.jpg",
     "audioPlaceholder": "files",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃឯកសារ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ឯកសារ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ឯកសារ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to files immediately",
+      "can files easily",
+      "please files"
+    ]
   },
   {
     "id": "event",
@@ -6483,12 +8331,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unevent"
     ],
-    "image": "health-event",
+    "image": "/images/vocab/event.jpg",
     "audioPlaceholder": "event",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីបំបែកចេញ។",
-    "exampleKhmer": "ព្រឹត្តិការណ៍​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ព្រឹត្តិការណ៍​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good event",
+      "the event is",
+      "to use a event"
+    ]
   },
   {
     "id": "release",
@@ -6504,12 +8358,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrelease"
     ],
-    "image": "shopping-release",
+    "image": "/images/vocab/release.jpg",
     "audioPlaceholder": "release",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ជួលម្តងទៀត។",
-    "exampleKhmer": "ការចេញផ្សាយនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្���ុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការចេញផ្សាយនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្���ុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good release",
+      "the release is",
+      "to use a release"
+    ]
   },
   {
     "id": "analysis",
@@ -6525,12 +8385,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unanalysis"
     ],
-    "image": "sports-analysis",
+    "image": "/images/vocab/analysis.jpg",
     "audioPlaceholder": "analysis",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "ការបំបែកសារធាតុផ្សំដោយដំណើរការគីមីទៅក្នុងធាតុផ្សំរបស់វា ក្នុងគោលបំណងដើម្បីបញ្ជាក់ថាតើ (ក) សារធាតុដែលវាមាន ឬ (ខ) ចំនួននៃធាតុនីមួយៗមានប៉ុន្មាន។",
-    "exampleKhmer": "ការវិភាគត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការវិភាគត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good analysis",
+      "the analysis is",
+      "to use a analysis"
+    ]
   },
   {
     "id": "request",
@@ -6546,12 +8412,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrequest"
     ],
-    "image": "nature-request",
+    "image": "/images/vocab/request.jpg",
     "audioPlaceholder": "request",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "travel",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការស្នើសុំ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ស្នើសុំ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ស្នើសុំ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to request immediately",
+      "can request easily",
+      "please request"
+    ]
   },
   {
     "id": "china",
@@ -6567,12 +8439,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchina"
     ],
-    "image": "daily-conversation-china",
+    "image": "/images/vocab/china.jpg",
     "audioPlaceholder": "china",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ��ស្ថានភាពទាក់ទងនឹងប្រទេសចិន។",
-    "exampleKhmer": "ចិន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ចិន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good china",
+      "the china is",
+      "to use a china"
+    ]
   },
   {
     "id": "making",
@@ -6588,12 +8466,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmaking"
     ],
-    "image": "family-making",
+    "image": "/images/vocab/making.jpg",
     "audioPlaceholder": "making",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការបង្កើត។",
-    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្��ការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្��ការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to making immediately",
+      "can making easily",
+      "please making"
+    ]
   },
   {
     "id": "picture",
@@ -6609,12 +8493,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpicture"
     ],
-    "image": "food-picture",
+    "image": "/images/vocab/picture.jpg",
     "audioPlaceholder": "picture",
     "difficulty": "A2",
-    "category": "food",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីគូរឬគូរភាពស្រដៀងគ្នានៃ។",
-    "exampleKhmer": "រូបភាព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រូបភាព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good picture",
+      "the picture is",
+      "to use a picture"
+    ]
   },
   {
     "id": "needs",
@@ -6630,12 +8520,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unneeds"
     ],
-    "image": "animals-needs",
+    "image": "/images/vocab/needs.jpg",
     "audioPlaceholder": "needs",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "នៃភាពចាំបាច់។",
-    "exampleKhmer": "តម្រូវការត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "តម្រូវការត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good needs",
+      "the needs is",
+      "to use a needs"
+    ]
   },
   {
     "id": "possible",
@@ -6651,12 +8547,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpossible"
     ],
-    "image": "school-possible",
+    "image": "/images/vocab/possible.jpg",
     "audioPlaceholder": "possible",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "សម្មាទិដ្ឋិ នៃ​ការ​ដែល​កើត​ឡើង ឬ​កើត​ឡើង ឬ​ជា​ការ​គិត​ឃើញ",
-    "exampleKhmer": "លទ្ធភាព​ដែល​អាច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក���​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "លទ្ធភាព​ដែល​អាច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក���​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good possible",
+      "the possible is",
+      "to use a possible"
+    ]
   },
   {
     "id": "might",
@@ -6672,12 +8574,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmight"
     ],
-    "image": "travel-might",
+    "image": "/images/vocab/might.jpg",
     "audioPlaceholder": "might",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "Imp",
-    "exampleKhmer": "ប្រហែលជាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រហែលជាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good might",
+      "the might is",
+      "to use a might"
+    ]
   },
   {
     "id": "month",
@@ -6693,12 +8601,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmonth"
     ],
-    "image": "business-month",
+    "image": "/images/vocab/month.jpg",
     "audioPlaceholder": "month",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "ផ្នែកមួយក្នុងចំណោមផ្នែកទាំងដប់ពីរដែលឆ្នាំត្រូវបានបែងចែក។",
-    "exampleKhmer": "ខែ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ខែ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good month",
+      "the month is",
+      "to use a month"
+    ]
   },
   {
     "id": "major",
@@ -6714,12 +8628,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmajor"
     ],
-    "image": "technology-major",
+    "image": "/images/vocab/major.jpg",
     "audioPlaceholder": "major",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "ធំជាងដោយ semitone ទាំងក្នុងចន្លោះពេល ឬក្នុងភាពខុសគ្នានៃសំឡេងពីសម្លេងផ្សេងទៀត។",
-    "exampleKhmer": "មេ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មេ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good major",
+      "the major is",
+      "to use a major"
+    ]
   },
   {
     "id": "areas",
@@ -6735,12 +8655,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unareas"
     ],
-    "image": "health-areas",
+    "image": "/images/vocab/areas.jpg",
     "audioPlaceholder": "areas",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងតំបន់។",
-    "exampleKhmer": "វិស័យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "វិស័យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good areas",
+      "the areas is",
+      "to use a areas"
+    ]
   },
   {
     "id": "future",
@@ -6756,12 +8682,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfuture"
     ],
-    "image": "shopping-future",
+    "image": "/images/vocab/future.jpg",
     "audioPlaceholder": "future",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "នោះ​គឺ​ត្រូវ​ឬ​មក​នៅ​ពេល​ក្រោយ។",
-    "exampleKhmer": "អនាគត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អនាគត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good future",
+      "the future is",
+      "to use a future"
+    ]
   },
   {
     "id": "space",
@@ -6777,12 +8709,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unspace"
     ],
-    "image": "sports-space",
+    "image": "/images/vocab/space.jpg",
     "audioPlaceholder": "space",
     "difficulty": "A2",
-    "category": "sports",
+    "category": "travel",
     "meaningKhmer": "ចន្លោះពេលមួយ ឬកន្លែងបើកចំហ រវាងជួរបុគ្គលិក។",
-    "exampleKhmer": "លំហ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "លំហ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good space",
+      "the space is",
+      "to use a space"
+    ]
   },
   {
     "id": "cards",
@@ -6798,12 +8736,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncards"
     ],
-    "image": "nature-cards",
+    "image": "/images/vocab/cards.jpg",
     "audioPlaceholder": "cards",
     "difficulty": "A2",
-    "category": "nature",
+    "category": "shopping",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃកាត។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កាត' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កាត' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to cards immediately",
+      "can cards easily",
+      "please cards"
+    ]
   },
   {
     "id": "problems",
@@ -6819,12 +8763,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unproblems"
     ],
-    "image": "daily-conversation-problems",
+    "image": "/images/vocab/problems.jpg",
     "audioPlaceholder": "problems",
     "difficulty": "A2",
-    "category": "daily-conversation",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងបញ្ហា។",
-    "exampleKhmer": "បញ្ហា​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "បញ្ហា​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good problems",
+      "the problems is",
+      "to use a problems"
+    ]
   },
   {
     "id": "london",
@@ -6840,12 +8790,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlondon"
     ],
-    "image": "family-london",
+    "image": "/images/vocab/london.jpg",
     "audioPlaceholder": "london",
     "difficulty": "A2",
-    "category": "family",
+    "category": "travel",
     "meaningKhmer": "រាជធានីនៃប្រទេសអង់គ្លេស។",
-    "exampleKhmer": "ទីក្រុងឡុងដ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ទីក្រុងឡុងដ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good london",
+      "the london is",
+      "to use a london"
+    ]
   },
   {
     "id": "meeting",
@@ -6861,12 +8817,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmeeting"
     ],
-    "image": "food-meeting",
+    "image": "/images/vocab/meeting.jpg",
     "audioPlaceholder": "meeting",
     "difficulty": "A2",
-    "category": "food",
+    "category": "work",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយការប្រជុំ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ពេញ​ទំហឹង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ពេញ​ទំហឹង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very meeting",
+      "a meeting person",
+      "seems to be meeting"
+    ]
   },
   {
     "id": "become",
@@ -6882,12 +8844,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbecome"
     ],
-    "image": "animals-become",
+    "image": "/images/vocab/become.jpg",
     "audioPlaceholder": "become",
     "difficulty": "A2",
-    "category": "animals",
+    "category": "travel",
     "meaningKhmer": "សមនឹងឬសមរម្យ។",
-    "exampleKhmer": "ការក្លាយជាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការក្លាយជាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good become",
+      "the become is",
+      "to use a become"
+    ]
   },
   {
     "id": "interest",
@@ -6903,12 +8871,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uninterest"
     ],
-    "image": "school-interest",
+    "image": "/images/vocab/interest.jpg",
     "audioPlaceholder": "interest",
     "difficulty": "A2",
-    "category": "school",
+    "category": "travel",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងផលប្រយោជន៍។",
-    "exampleKhmer": "ចំណាប់អារម្មណ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ចំណាប់អារម្មណ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good interest",
+      "the interest is",
+      "to use a interest"
+    ]
   },
   {
     "id": "child",
@@ -6924,12 +8898,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchild"
     ],
-    "image": "travel-child",
+    "image": "/images/vocab/child.jpg",
     "audioPlaceholder": "child",
     "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីសម្រាលកូន។",
-    "exampleKhmer": "កុមារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កុមារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good child",
+      "the child is",
+      "to use a child"
+    ]
   },
   {
     "id": "enter",
@@ -6945,12 +8925,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unenter"
     ],
-    "image": "business-enter",
+    "image": "/images/vocab/enter.jpg",
     "audioPlaceholder": "enter",
     "difficulty": "A2",
-    "category": "business",
+    "category": "travel",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយបញ្ចូល។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very enter",
+      "a enter person",
+      "seems to be enter"
+    ]
   },
   {
     "id": "share",
@@ -6966,12 +8952,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unshare"
     ],
-    "image": "technology-share",
+    "image": "/images/vocab/share.jpg",
     "audioPlaceholder": "share",
     "difficulty": "A2",
-    "category": "technology",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីមានចំណែក។",
-    "exampleKhmer": "ការចែករំលែកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការចែករំលែកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good share",
+      "the share is",
+      "to use a share"
+    ]
   },
   {
     "id": "similar",
@@ -6987,12 +8979,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsimilar"
     ],
-    "image": "health-similar",
+    "image": "/images/vocab/similar.jpg",
     "audioPlaceholder": "similar",
     "difficulty": "A2",
-    "category": "health",
+    "category": "travel",
     "meaningKhmer": "អ្វី​ដែល​ស្រដៀង​នឹង ឬ​ស្រដៀង​នឹង​អ្វី​មួយ​ផ្សេង​ទៀត ដូចជា​អសមភាព ទម្រង់​ជាដើម។",
-    "exampleKhmer": "ភាពស្រដៀងគ្នានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាពស្រដៀងគ្នានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good similar",
+      "the similar is",
+      "to use a similar"
+    ]
   },
   {
     "id": "garden",
@@ -7008,12 +9006,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungarden"
     ],
-    "image": "shopping-garden",
+    "image": "/images/vocab/garden.jpg",
     "audioPlaceholder": "garden",
     "difficulty": "A2",
-    "category": "shopping",
+    "category": "travel",
     "meaningKhmer": "ដើម្បីរៀបចំឬដាំដុះសួនច្បារ។",
-    "exampleKhmer": "សួនច្បារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សួនច្បារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good garden",
+      "the garden is",
+      "to use a garden"
+    ]
   },
   {
     "id": "schools",
@@ -7029,12 +9033,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unschools"
     ],
-    "image": "sports-schools",
+    "image": "/images/vocab/schools.jpg",
     "audioPlaceholder": "schools",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយសាលា។",
-    "exampleKhmer": "នាងបានពន្យល់ពីស្ថានភាពរបស់សាលា។"
+    "exampleKhmer": "នាងបានពន្យល់ពីស្ថានភាពរបស់សាលា។",
+    "audio": "",
+    "commonCollocations": [
+      "very schools",
+      "a schools person",
+      "seems to be schools"
+    ]
   },
   {
     "id": "million",
@@ -7050,12 +9060,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmillion"
     ],
-    "image": "nature-million",
+    "image": "/images/vocab/million.jpg",
     "audioPlaceholder": "million",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​រាប់​លាន​។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'លាន' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'លាន' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to million immediately",
+      "can million easily",
+      "please million"
+    ]
   },
   {
     "id": "added",
@@ -7071,12 +9087,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unadded"
     ],
-    "image": "daily-conversation-added",
+    "image": "/images/vocab/added.jpg",
     "audioPlaceholder": "added",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការបន្ថែម។",
-    "exampleKhmer": "ការបន្ថែមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបន្ថែមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good added",
+      "the added is",
+      "to use a added"
+    ]
   },
   {
     "id": "listed",
@@ -7092,12 +9114,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlisted"
     ],
-    "image": "family-listed",
+    "image": "/images/vocab/listed.jpg",
     "audioPlaceholder": "listed",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយបញ្ជី។",
-    "exampleKhmer": "យើងត្រូវរាយបញ្ជីកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវរាយបញ្ជីកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to listed immediately",
+      "can listed easily",
+      "please listed"
+    ]
   },
   {
     "id": "learning",
@@ -7113,12 +9141,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlearning"
     ],
-    "image": "food-learning",
+    "image": "/images/vocab/learning.jpg",
     "audioPlaceholder": "learning",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយការរៀនសូត្រ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​រៀន​សូត្រ​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​រៀន​សូត្រ​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very learning",
+      "a learning person",
+      "seems to be learning"
+    ]
   },
   {
     "id": "energy",
@@ -7134,12 +9168,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unenergy"
     ],
-    "image": "animals-energy",
+    "image": "/images/vocab/energy.jpg",
     "audioPlaceholder": "energy",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "environment",
     "meaningKhmer": "សមត្ថភាពសម្រាប់ការអនុវត្តការងារ។",
-    "exampleKhmer": "ថាមពលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថាមពលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good energy",
+      "the energy is",
+      "to use a energy"
+    ]
   },
   {
     "id": "delivery",
@@ -7155,12 +9195,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undelivery"
     ],
-    "image": "school-delivery",
+    "image": "/images/vocab/delivery.jpg",
     "audioPlaceholder": "delivery",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណ���ងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការចែកចាយ។",
-    "exampleKhmer": "ការចែកចាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ"
+    "exampleKhmer": "ការចែកចាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ",
+    "audio": "",
+    "commonCollocations": [
+      "a good delivery",
+      "the delivery is",
+      "to use a delivery"
+    ]
   },
   {
     "id": "popular",
@@ -7176,12 +9222,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpopular"
     ],
-    "image": "travel-popular",
+    "image": "/images/vocab/popular.jpg",
     "audioPlaceholder": "popular",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការពេញនិយម។",
-    "exampleKhmer": "យើងត្រូវធ្វើឱ្យកិច្ចការនេះពេញនិយមឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវធ្វើឱ្យកិច្ចការនេះពេញនិយមឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to popular immediately",
+      "can popular easily",
+      "please popular"
+    ]
   },
   {
     "id": "stories",
@@ -7197,12 +9249,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstories"
     ],
-    "image": "business-stories",
+    "image": "/images/vocab/stories.jpg",
     "audioPlaceholder": "stories",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយរឿង។",
-    "exampleKhmer": "នាង​បាន​ផ្ដល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្ដល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very stories",
+      "a stories person",
+      "seems to be stories"
+    ]
   },
   {
     "id": "journal",
@@ -7218,12 +9276,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unjournal"
     ],
-    "image": "technology-journal",
+    "image": "/images/vocab/journal.jpg",
     "audioPlaceholder": "journal",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ប្រចាំថ្ងៃ។",
-    "exampleKhmer": "ទិនានុប្បវត្តិត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ទិនានុប្បវត្តិត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good journal",
+      "the journal is",
+      "to use a journal"
+    ]
   },
   {
     "id": "reports",
@@ -7239,12 +9303,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreports"
     ],
-    "image": "health-reports",
+    "image": "/images/vocab/reports.jpg",
     "audioPlaceholder": "reports",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងរបាយការណ៍។",
-    "exampleKhmer": "របាយការណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "របាយការណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good reports",
+      "the reports is",
+      "to use a reports"
+    ]
   },
   {
     "id": "welcome",
@@ -7260,12 +9330,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwelcome"
     ],
-    "image": "shopping-welcome",
+    "image": "/images/vocab/welcome.jpg",
     "audioPlaceholder": "welcome",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "សូមជំរាបសួរដោយក្តីមេត្តា ក្នុងនាមជាអ្នកចំណូលថ្មី។",
-    "exampleKhmer": "ការស្វាគមន៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការស្វាគមន៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good welcome",
+      "the welcome is",
+      "to use a welcome"
+    ]
   },
   {
     "id": "central",
@@ -7281,12 +9357,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncentral"
     ],
-    "image": "sports-central",
+    "image": "/images/vocab/central.jpg",
     "audioPlaceholder": "central",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ទាក់ទងនឹងមជ្ឈមណ្ឌល។",
-    "exampleKhmer": "មជ្ឈ​មណ្ឌល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។"
+    "exampleKhmer": "មជ្ឈ​មណ្ឌល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good central",
+      "the central is",
+      "to use a central"
+    ]
   },
   {
     "id": "images",
@@ -7302,12 +9384,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unimages"
     ],
-    "image": "nature-images",
+    "image": "/images/vocab/images.jpg",
     "audioPlaceholder": "images",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃរូបភាព។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍��ូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រូបភាព' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍��ូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រូបភាព' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to images immediately",
+      "can images easily",
+      "please images"
+    ]
   },
   {
     "id": "notice",
@@ -7323,12 +9411,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnotice"
     ],
-    "image": "daily-conversation-notice",
+    "image": "/images/vocab/notice.jpg",
     "audioPlaceholder": "notice",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការជូនដំណឹង។",
-    "exampleKhmer": "ការ​ជូន​ដំណឹង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ជូន​ដំណឹង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good notice",
+      "the notice is",
+      "to use a notice"
+    ]
   },
   {
     "id": "original",
@@ -7344,12 +9438,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoriginal"
     ],
-    "image": "family-original",
+    "image": "/images/vocab/original.jpg",
     "audioPlaceholder": "original",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ពូជធម្មជាតិ ឬព្រៃដែលពូជដាំដុះក្នុងស្រុកបានមកពី។",
-    "exampleKhmer": "ដើម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ដើម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good original",
+      "the original is",
+      "to use a original"
+    ]
   },
   {
     "id": "radio",
@@ -7365,12 +9465,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unradio"
     ],
-    "image": "food-radio",
+    "image": "/images/vocab/radio.jpg",
     "audioPlaceholder": "radio",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយវិទ្យុ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់តាមវិទ្យុអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់តាមវិទ្យុអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very radio",
+      "a radio person",
+      "seems to be radio"
+    ]
   },
   {
     "id": "until",
@@ -7386,12 +9492,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ununtil"
     ],
-    "image": "animals-until",
+    "image": "/images/vocab/until.jpg",
     "audioPlaceholder": "until",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ដូចជានៅឆ្ងាយ។",
-    "exampleKhmer": "រហូតមកដល់ពេលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "រហូតមកដល់ពេលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good until",
+      "the until is",
+      "to use a until"
+    ]
   },
   {
     "id": "color",
@@ -7407,12 +9519,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncolor"
     ],
-    "image": "school-color",
+    "image": "/images/vocab/color.jpg",
     "audioPlaceholder": "color",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "សិទ្ធិជាក់ស្តែង។",
-    "exampleKhmer": "ពណ៌​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ពណ៌​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good color",
+      "the color is",
+      "to use a color"
+    ]
   },
   {
     "id": "council",
@@ -7428,12 +9546,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncouncil"
     ],
-    "image": "travel-council",
+    "image": "/images/vocab/council.jpg",
     "audioPlaceholder": "council",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយក្រុមប្រឹក្សា។",
-    "exampleKhmer": "យើងត្រូវក្រុមប្រឹក្សាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវក្រុមប្រឹក្សាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to council immediately",
+      "can council easily",
+      "please council"
+    ]
   },
   {
     "id": "includes",
@@ -7449,12 +9573,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unincludes"
     ],
-    "image": "business-includes",
+    "image": "/images/vocab/includes.jpg",
     "audioPlaceholder": "includes",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយរួមបញ្ចូល។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងទូលំទូលាយអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងទូលំទូលាយអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very includes",
+      "a includes person",
+      "seems to be includes"
+    ]
   },
   {
     "id": "track",
@@ -7470,12 +9600,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untrack"
     ],
-    "image": "technology-track",
+    "image": "/images/vocab/track.jpg",
     "audioPlaceholder": "track",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ផ្ទៃខាងក្រោមទាំងមូលនៃជើ��។",
-    "exampleKhmer": "បទ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "បទ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good track",
+      "the track is",
+      "to use a track"
+    ]
   },
   {
     "id": "archive",
@@ -7491,12 +9627,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unarchive"
     ],
-    "image": "health-archive",
+    "image": "/images/vocab/archive.jpg",
     "audioPlaceholder": "archive",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "កន្លែងរក្សាទុកឯកសារសាធារណៈ ឬឯកសារប្រវត្តិសាស្ត្រ។ ពាក្យរបស់យើង",
-    "exampleKhmer": "បណ្ណសារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "បណ្ណសារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good archive",
+      "the archive is",
+      "to use a archive"
+    ]
   },
   {
     "id": "others",
@@ -7512,12 +9654,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unothers"
     ],
-    "image": "shopping-others",
+    "image": "/images/vocab/others.jpg",
     "audioPlaceholder": "others",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយអ្នកដទៃ។",
-    "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​អ្នក​ដទៃ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​អ្នក​ដទៃ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to others immediately",
+      "can others easily",
+      "please others"
+    ]
   },
   {
     "id": "format",
@@ -7533,12 +9681,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unformat"
     ],
-    "image": "sports-format",
+    "image": "/images/vocab/format.jpg",
     "audioPlaceholder": "format",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "រូបរាងនិងទំហំនៃសៀវភៅ។",
-    "exampleKhmer": "ទម្រង់​នេះ​ត្រូវ​បាន​��ិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទម្រង់​នេះ​ត្រូវ​បាន​��ិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good format",
+      "the format is",
+      "to use a format"
+    ]
   },
   {
     "id": "least",
@@ -7554,12 +9708,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unleast"
     ],
-    "image": "nature-least",
+    "image": "/images/vocab/least.jpg",
     "audioPlaceholder": "least",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "តូចបំផុត ទាំងទំហំ ឬសញ្ញាបត្រ។",
-    "exampleKhmer": "តិចបំផុតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "តិចបំផុតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good least",
+      "the least is",
+      "to use a least"
+    ]
   },
   {
     "id": "society",
@@ -7575,12 +9735,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsociety"
     ],
-    "image": "daily-conversation-society",
+    "image": "/images/vocab/society.jpg",
     "audioPlaceholder": "society",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសង្គម។",
-    "exampleKhmer": "សង្គម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "សង្គម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good society",
+      "the society is",
+      "to use a society"
+    ]
   },
   {
     "id": "months",
@@ -7596,12 +9762,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmonths"
     ],
-    "image": "family-months",
+    "image": "/images/vocab/months.jpg",
     "audioPlaceholder": "months",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងខែ។",
-    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ជាច្រើន​ខែ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ជាច្រើន​ខែ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to months immediately",
+      "can months easily",
+      "please months"
+    ]
   },
   {
     "id": "safety",
@@ -7617,12 +9789,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsafety"
     ],
-    "image": "food-safety",
+    "image": "/images/vocab/safety.jpg",
     "audioPlaceholder": "safety",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ដូចគ្នានឹងការប៉ះសុវត្ថិភាពខាងក្រោម។",
-    "exampleKhmer": "សុវត្ថិភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សុវត្ថិភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good safety",
+      "the safety is",
+      "to use a safety"
+    ]
   },
   {
     "id": "friends",
@@ -7638,12 +9816,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfriends"
     ],
-    "image": "animals-friends",
+    "image": "/images/vocab/friends.jpg",
     "audioPlaceholder": "friends",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​ស្ទីល​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​មិត្ត។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មិត្ត' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មិត្ត' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to friends immediately",
+      "can friends easily",
+      "please friends"
+    ]
   },
   {
     "id": "trade",
@@ -7659,12 +9843,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untrade"
     ],
-    "image": "school-trade",
+    "image": "/images/vocab/trade.jpg",
     "audioPlaceholder": "trade",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ខ្យល់ពាណិជ្ជកម្ម។",
-    "exampleKhmer": "ពាណិជ្ជកម្ម​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ពាណិជ្ជកម្ម​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good trade",
+      "the trade is",
+      "to use a trade"
+    ]
   },
   {
     "id": "edition",
@@ -7680,12 +9870,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unedition"
     ],
-    "image": "travel-edition",
+    "image": "/images/vocab/edition.jpg",
     "audioPlaceholder": "edition",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយនឹងការបោះពុម្ព។",
-    "exampleKhmer": "យើងត្រូវកែសម្រួលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកែសម្រួលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to edition immediately",
+      "can edition easily",
+      "please edition"
+    ]
   },
   {
     "id": "messages",
@@ -7701,12 +9897,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmessages"
     ],
-    "image": "business-messages",
+    "image": "/images/vocab/messages.jpg",
     "audioPlaceholder": "messages",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយសារ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​សារ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​សារ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very messages",
+      "a messages person",
+      "seems to be messages"
+    ]
   },
   {
     "id": "further",
@@ -7722,12 +9924,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfurther"
     ],
-    "image": "technology-further",
+    "image": "/images/vocab/further.jpg",
     "audioPlaceholder": "further",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ទៅចម្ងាយកាន់តែច្រើន។",
-    "exampleKhmer": "���ន្ថែម​ទៀត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "���ន្ថែម​ទៀត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good further",
+      "the further is",
+      "to use a further"
+    ]
   },
   {
     "id": "updated",
@@ -7743,12 +9951,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unupdated"
     ],
-    "image": "health-updated",
+    "image": "/images/vocab/updated.jpg",
     "audioPlaceholder": "updated",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងការធ្វើបច្ចុប្បន្នភាព។",
-    "exampleKhmer": "ការធ្វើបច្ចុប្បន្នភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការធ្វើបច្ចុប្បន្នភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good updated",
+      "the updated is",
+      "to use a updated"
+    ]
   },
   {
     "id": "having",
@@ -7764,12 +9978,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhaving"
     ],
-    "image": "shopping-having",
+    "image": "/images/vocab/having.jpg",
     "audioPlaceholder": "having",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "កម្មសិទ្ធិ។",
-    "exampleKhmer": "ការ​ដែល​មាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ដែល​មាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good having",
+      "the having is",
+      "to use a having"
+    ]
   },
   {
     "id": "provides",
@@ -7785,12 +10005,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprovides"
     ],
-    "image": "sports-provides",
+    "image": "/images/vocab/provides.jpg",
     "audioPlaceholder": "provides",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុ���ភាព ឬលក្ខណៈដែលកំណត់ដោយការផ្តល់។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very provides",
+      "a provides person",
+      "seems to be provides"
+    ]
   },
   {
     "id": "david",
@@ -7806,12 +10032,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undavid"
     ],
-    "image": "nature-david",
+    "image": "/images/vocab/david.jpg",
     "audioPlaceholder": "david",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​ដាវីឌ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'David' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'David' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to david immediately",
+      "can david easily",
+      "please david"
+    ]
   },
   {
     "id": "already",
@@ -7827,12 +10059,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unalready"
     ],
-    "image": "daily-conversation-already",
+    "image": "/images/vocab/already.jpg",
     "audioPlaceholder": "already",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "មុននឹងពេលវេលាជាក់លាក់ណាមួយ ទាំងអតីតកាល បច្ចុប្បន្នកាល ឬអនាគតកាល។",
-    "exampleKhmer": "នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​រួច​ហើយ​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​រួច​ហើយ​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good already",
+      "the already is",
+      "to use a already"
+    ]
   },
   {
     "id": "green",
@@ -7848,12 +10086,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungreen"
     ],
-    "image": "family-green",
+    "image": "/images/vocab/green.jpg",
     "audioPlaceholder": "green",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីធ្វើឱ្យពណ៌បៃតង។ និទាឃរដូវដ៏អស្ចារ្យមុនពេលបៃតងពេញមួយឆ្នាំ។",
-    "exampleKhmer": "ពណ៌បៃតងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពណ៌បៃតងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good green",
+      "the green is",
+      "to use a green"
+    ]
   },
   {
     "id": "studies",
@@ -7869,12 +10113,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstudies"
     ],
-    "image": "food-studies",
+    "image": "/images/vocab/studies.jpg",
     "audioPlaceholder": "studies",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយការស��ក្សា។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​សិក្សា​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​សិក្សា​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very studies",
+      "a studies person",
+      "seems to be studies"
+    ]
   },
   {
     "id": "close",
@@ -7890,12 +10140,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unclose"
     ],
-    "image": "animals-close",
+    "image": "/images/vocab/close.jpg",
     "audioPlaceholder": "close",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ចំណាប់អារម្មណ៍ដែលមនុស្សម្នាក់អាចមាននៅក្នុងដីមួយ ទោះបីជាវាមិនត្រូវបានបិទភ្ជាប់ក៏ដោយ។",
-    "exampleKhmer": "ការបិទនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបិទនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good close",
+      "the close is",
+      "to use a close"
+    ]
   },
   {
     "id": "common",
@@ -7911,12 +10167,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncommon"
     ],
-    "image": "school-common",
+    "image": "/images/vocab/common.jpg",
     "audioPlaceholder": "common",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "សិទ្ធិក្នុងការកេងចំណេញលើដីរបស់អ្នកដទៃ រួមជាមួយនឹងម្ចាស់ ឬជាមួយអ្នកដទៃ។",
-    "exampleKhmer": "ធម្មតា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ធម្មតា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good common",
+      "the common is",
+      "to use a common"
+    ]
   },
   {
     "id": "drive",
@@ -7932,12 +10194,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undrive"
     ],
-    "image": "travel-drive",
+    "image": "/images/vocab/drive.jpg",
     "audioPlaceholder": "drive",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីជីកផ្ដេក។",
-    "exampleKhmer": "ដ្រាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ដ្រាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good drive",
+      "the drive is",
+      "to use a drive"
+    ]
   },
   {
     "id": "specific",
@@ -7953,12 +10221,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unspecific"
     ],
-    "image": "business-specific",
+    "image": "/images/vocab/specific.jpg",
     "audioPlaceholder": "specific",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "បញ្ចេញឥទ្ធិពលពិសេសលើផ្នែកណាមួយនៃរាងកាយ។",
-    "exampleKhmer": "ភាពជាក់លាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាពជាក់លាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good specific",
+      "the specific is",
+      "to use a specific"
+    ]
   },
   {
     "id": "several",
@@ -7974,12 +10248,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unseveral"
     ],
-    "image": "technology-several",
+    "image": "/images/vocab/several.jpg",
     "audioPlaceholder": "several",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ដោយខ្លួនវាផ្ទាល់។",
-    "exampleKhmer": "មួយចំនួនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មួយចំនួនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good several",
+      "the several is",
+      "to use a several"
+    ]
   },
   {
     "id": "living",
@@ -7995,12 +10275,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unliving"
     ],
-    "image": "health-living",
+    "image": "/images/vocab/living.jpg",
     "audioPlaceholder": "living",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងការរស់នៅ។",
-    "exampleKhmer": "ការ​រស់​នៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​រស់​នៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good living",
+      "the living is",
+      "to use a living"
+    ]
   },
   {
     "id": "called",
@@ -8016,12 +10302,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncalled"
     ],
-    "image": "shopping-called",
+    "image": "/images/vocab/called.jpg",
     "audioPlaceholder": "called",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការហៅ។",
-    "exampleKhmer": "យើងត្រូវហៅកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវហៅកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to called immediately",
+      "can called easily",
+      "please called"
+    ]
   },
   {
     "id": "short",
@@ -8037,12 +10329,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unshort"
     ],
-    "image": "sports-short",
+    "image": "/images/vocab/short.jpg",
     "audioPlaceholder": "short",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "បែកឬខ្ទេចខ្ទីក្នុងមាត់។",
-    "exampleKhmer": "វគ្គខ្លីត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "វគ្គខ្លីត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good short",
+      "the short is",
+      "to use a short"
+    ]
   },
   {
     "id": "display",
@@ -8058,12 +10356,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undisplay"
     ],
-    "image": "nature-display",
+    "image": "/images/vocab/display.jpg",
     "audioPlaceholder": "display",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ដើម្បីពង្រីកផ្នែកខាងមុខនៃ (ជួរឈរមួយ) នាំវាចូលទៅក្នុង line.Farrow ។",
-    "exampleKhmer": "ការបង្ហាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបង្ហាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good display",
+      "the display is",
+      "to use a display"
+    ]
   },
   {
     "id": "limited",
@@ -8079,12 +10383,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlimited"
     ],
-    "image": "daily-conversation-limited",
+    "image": "/images/vocab/limited.jpg",
     "audioPlaceholder": "limited",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "បង្ខាំងក្នុងដែនកំណត់។",
-    "exampleKhmer": "ដែនកំណត់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ដែនកំណត់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good limited",
+      "the limited is",
+      "to use a limited"
+    ]
   },
   {
     "id": "powered",
@@ -8100,12 +10410,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpowered"
     ],
-    "image": "family-powered",
+    "image": "/images/vocab/powered.jpg",
     "audioPlaceholder": "powered",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយថាមពល។",
-    "exampleKhmer": "យើងត្រូវផ្តល់ថាមពលដល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវផ្តល់ថាមពលដល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to powered immediately",
+      "can powered easily",
+      "please powered"
+    ]
   },
   {
     "id": "means",
@@ -8121,12 +10437,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmeans"
     ],
-    "image": "food-means",
+    "image": "/images/vocab/means.jpg",
     "audioPlaceholder": "means",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយមធ្យោបាយ។",
-    "exampleKhmer": "នាង​បាន​ផ្���ល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្���ល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very means",
+      "a means person",
+      "seems to be means"
+    ]
   },
   {
     "id": "director",
@@ -8142,12 +10464,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undirector"
     ],
-    "image": "animals-director",
+    "image": "/images/vocab/director.jpg",
     "audioPlaceholder": "director",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ផ្នែកនៃម៉ាស៊ីន ឬឧបករណ៍ដែលដឹកនាំចលនារបស់វា។",
-    "exampleKhmer": "នាយក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "នាយក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good director",
+      "the director is",
+      "to use a director"
+    ]
   },
   {
     "id": "daily",
@@ -8163,12 +10491,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undaily"
     ],
-    "image": "school-daily",
+    "image": "/images/vocab/daily.jpg",
     "audioPlaceholder": "daily",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "កើតឡើង ឬជាកម្មសិទ្ធិរបស់ រៀងរាល់ថ្ងៃជាប់ៗគ្នា។",
-    "exampleKhmer": "ប្រចាំថ្ងៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រចាំថ្ងៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good daily",
+      "the daily is",
+      "to use a daily"
+    ]
   },
   {
     "id": "beach",
@@ -8184,12 +10518,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbeach"
     ],
-    "image": "travel-beach",
+    "image": "/images/vocab/beach.jpg",
     "audioPlaceholder": "beach",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីរត់ ឬបើកបរ (ជាកប៉ាល់ ឬទូក) នៅលើឆ្នេរ។",
-    "exampleKhmer": "ឆ្នេរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឆ្នេរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good beach",
+      "the beach is",
+      "to use a beach"
+    ]
   },
   {
     "id": "natural",
@@ -8205,12 +10545,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnatural"
     ],
-    "image": "business-natural",
+    "image": "/images/vocab/natural.jpg",
     "audioPlaceholder": "natural",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "ជាកម្មសិទ្ធិ ដែលត្រូវយក ឬសំដៅលើប្រព័ន្ធខ្លះ ដែលមូលដ្ឋានគឺ ១.",
-    "exampleKhmer": "ធម្មជាតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ធម្មជាតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good natural",
+      "the natural is",
+      "to use a natural"
+    ]
   },
   {
     "id": "whether",
@@ -8226,12 +10572,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwhether"
     ],
-    "image": "technology-whether",
+    "image": "/images/vocab/whether.jpg",
     "audioPlaceholder": "whether",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "មួយណា (ក្នុងចំណោមពីរ) ។",
-    "exampleKhmer": "ថាតើត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថាតើត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good whether",
+      "the whether is",
+      "to use a whether"
+    ]
   },
   {
     "id": "period",
@@ -8247,12 +10599,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unperiod"
     ],
-    "image": "health-period",
+    "image": "/images/vocab/period.jpg",
     "audioPlaceholder": "period",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ការបែងចែកដ៏អស្ចារ្យមួយនៃពេលវេលាភូមិសាស្ត្រ។",
-    "exampleKhmer": "រយៈពេលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "រយៈពេលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good period",
+      "the period is",
+      "to use a period"
+    ]
   },
   {
     "id": "planning",
@@ -8268,12 +10626,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unplanning"
     ],
-    "image": "shopping-planning",
+    "image": "/images/vocab/planning.jpg",
     "audioPlaceholder": "planning",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការធ្វើផែនការ។",
-    "exampleKhmer": "យើងត្រូវរៀបចំផែនការកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវរៀបចំផែនការកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to planning immediately",
+      "can planning easily",
+      "please planning"
+    ]
   },
   {
     "id": "database",
@@ -8289,12 +10653,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undatabase"
     ],
-    "image": "sports-database",
+    "image": "/images/vocab/database.jpg",
     "audioPlaceholder": "database",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយមូលដ្ឋានទិន្នន័យ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​មូលដ្ឋាន​ទិន្នន័យ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​មូលដ្ឋាន​ទិន្នន័យ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very database",
+      "a database person",
+      "seems to be database"
+    ]
   },
   {
     "id": "official",
@@ -8310,12 +10680,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unofficial"
     ],
-    "image": "nature-official",
+    "image": "/images/vocab/official.jpg",
     "audioPlaceholder": "official",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "អនុម័តដោយអាជ្ញាធរ។",
-    "exampleKhmer": "មន្ត្រី​រូប​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មន្ត្រី​រូប​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good official",
+      "the official is",
+      "to use a official"
+    ]
   },
   {
     "id": "weather",
@@ -8331,12 +10707,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unweather"
     ],
-    "image": "daily-conversation-weather",
+    "image": "/images/vocab/weather.jpg",
     "audioPlaceholder": "weather",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "បើកទូកឬឆ្លងទៅខ្យល់នៃ។",
-    "exampleKhmer": "អាកាសធាតុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អាកាសធាតុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good weather",
+      "the weather is",
+      "to use a weather"
+    ]
   },
   {
     "id": "average",
@@ -8352,12 +10734,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaverage"
     ],
-    "image": "family-average",
+    "image": "/images/vocab/average.jpg",
     "audioPlaceholder": "average",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "កិច្ច​ដែល​អ្នក​ជួល​ជំពាក់​ម្ចាស់​ត្រូវ​ធ្វើ​ដោយ​សត្វ​អ្នក​ជួល ដូច​ជា​រទេះ​ស្រូវ ស្មៅ​ជាដើម។",
-    "exampleKhmer": "ជាមធ្យមត្រូវបានពិភាក្សាយ៉ាងលម្អិ���ក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជាមធ្យមត្រូវបានពិភាក្សាយ៉ាងលម្អិ���ក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good average",
+      "the average is",
+      "to use a average"
+    ]
   },
   {
     "id": "window",
@@ -8373,12 +10761,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwindow"
     ],
-    "image": "food-window",
+    "image": "/images/vocab/window.jpg",
     "audioPlaceholder": "window",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "សន្ទះបិទបើក ស្រោមសំ��ុត្រ ខ្សែជាមួយនឹងឧបករណ៍ភ្ជាប់របស់វា ឬការងារផ្សេងទៀត ដែលបិទការបើកបង្អួច។",
-    "exampleKhmer": "បង្អួច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "បង្អួច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good window",
+      "the window is",
+      "to use a window"
+    ]
   },
   {
     "id": "france",
@@ -8394,12 +10788,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfrance"
     ],
-    "image": "animals-france",
+    "image": "/images/vocab/france.jpg",
     "audioPlaceholder": "france",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ប្រទេស​បារាំង។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បារាំង' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បារាំង' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to france immediately",
+      "can france easily",
+      "please france"
+    ]
   },
   {
     "id": "region",
@@ -8415,12 +10815,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unregion"
     ],
-    "image": "school-region",
+    "image": "/images/vocab/region.jpg",
     "audioPlaceholder": "region",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងតំបន់។",
-    "exampleKhmer": "តំបន់នេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "តំបន់នេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good region",
+      "the region is",
+      "to use a region"
+    ]
   },
   {
     "id": "island",
@@ -8436,12 +10842,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unisland"
     ],
-    "image": "travel-island",
+    "image": "/images/vocab/island.jpg",
     "audioPlaceholder": "island",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "សូមមើល Isle, n., 2 ។",
-    "exampleKhmer": "កោះ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កោះ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good island",
+      "the island is",
+      "to use a island"
+    ]
   },
   {
     "id": "record",
@@ -8457,12 +10869,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrecord"
     ],
-    "image": "business-record",
+    "image": "/images/vocab/record.jpg",
     "audioPlaceholder": "record",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយកំណត់ត្រា។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងកត់ត្រាអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងកត់ត្រាអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very record",
+      "a record person",
+      "seems to be record"
+    ]
   },
   {
     "id": "direct",
@@ -8478,12 +10896,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undirect"
     ],
-    "image": "technology-direct",
+    "image": "/images/vocab/direct.jpg",
     "audioPlaceholder": "direct",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុងទិសដៅនៃចលនារបស់ភពទូទៅ ឬពីខាងលិចទៅខាងកើត។",
-    "exampleKhmer": "ដោយផ្ទាល់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ដោយផ្ទាល់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good direct",
+      "the direct is",
+      "to use a direct"
+    ]
   },
   {
     "id": "records",
@@ -8499,12 +10923,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrecords"
     ],
-    "image": "health-records",
+    "image": "/images/vocab/records.jpg",
     "audioPlaceholder": "records",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកំណត់ត្រា។",
-    "exampleKhmer": "កំណត់ត្រា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កំណត់ត្រា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good records",
+      "the records is",
+      "to use a records"
+    ]
   },
   {
     "id": "district",
@@ -8520,12 +10950,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undistrict"
     ],
-    "image": "shopping-district",
+    "image": "/images/vocab/district.jpg",
     "audioPlaceholder": "district",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ម៉ត់ចត់។",
-    "exampleKhmer": "ស្រុក​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ស្រុក​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good district",
+      "the district is",
+      "to use a district"
+    ]
   },
   {
     "id": "calendar",
@@ -8541,12 +10977,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncalendar"
     ],
-    "image": "sports-calendar",
+    "image": "/images/vocab/calendar.jpg",
     "audioPlaceholder": "calendar",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "សេចក្តីថ្លែងការណ៍ជាតារាងនៃកាលបរិច្ឆេទនៃពិធីបុណ្យ, ការិយាល័យ, ថ្ងៃបរិសុទ្ធ, ល។, ឧ។",
-    "exampleKhmer": "ប្រតិទិន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រតិទិន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good calendar",
+      "the calendar is",
+      "to use a calendar"
+    ]
   },
   {
     "id": "costs",
@@ -8562,12 +11004,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncosts"
     ],
-    "image": "nature-costs",
+    "image": "/images/vocab/costs.jpg",
     "audioPlaceholder": "costs",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការចំណាយ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ចំណាយ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ចំណាយ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to costs immediately",
+      "can costs easily",
+      "please costs"
+    ]
   },
   {
     "id": "style",
@@ -8583,12 +11031,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstyle"
     ],
-    "image": "daily-conversation-style",
+    "image": "/images/vocab/style.jpg",
     "audioPlaceholder": "style",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ម្ជុល ឬ gnomon នៃ​ការ​ចុច ស្រមោល​ដែល​បង្ហាញ​ម៉ោង។",
-    "exampleKhmer": "រចនាប័ទ្ម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រចនាប័ទ្ម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good style",
+      "the style is",
+      "to use a style"
+    ]
   },
   {
     "id": "front",
@@ -8604,12 +11058,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfront"
     ],
-    "image": "family-front",
+    "image": "/images/vocab/front.jpg",
     "audioPlaceholder": "front",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងផ្នែកខាងមុខ ឬខាងមុខ។",
-    "exampleKhmer": "ផ្នែកខាងមុខត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផ្នែកខាងមុខត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good front",
+      "the front is",
+      "to use a front"
+    ]
   },
   {
     "id": "update",
@@ -8625,12 +11085,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unupdate"
     ],
-    "image": "food-update",
+    "image": "/images/vocab/update.jpg",
     "audioPlaceholder": "update",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយការអាប់ដេត។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ទាន់សម័យយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ទាន់សម័យយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very update",
+      "a update person",
+      "seems to be update"
+    ]
   },
   {
     "id": "parts",
@@ -8646,12 +11112,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unparts"
     ],
-    "image": "animals-parts",
+    "image": "/images/vocab/parts.jpg",
     "audioPlaceholder": "parts",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃផ្នែក។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្នែក' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្នែក' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to parts immediately",
+      "can parts easily",
+      "please parts"
+    ]
   },
   {
     "id": "early",
@@ -8667,12 +11139,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unearly"
     ],
-    "image": "school-early",
+    "image": "/images/vocab/early.jpg",
     "audioPlaceholder": "early",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ឆាប់ៗនេះ។",
-    "exampleKhmer": "ដើមដំបូងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ដើមដំបូងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good early",
+      "the early is",
+      "to use a early"
+    ]
   },
   {
     "id": "miles",
@@ -8688,12 +11166,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmiles"
     ],
-    "image": "travel-miles",
+    "image": "/images/vocab/miles.jpg",
     "audioPlaceholder": "miles",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយម៉ាយល៍។",
-    "exampleKhmer": "យើងត្រូវកំណត់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកំណត់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to miles immediately",
+      "can miles easily",
+      "please miles"
+    ]
   },
   {
     "id": "sound",
@@ -8709,12 +11193,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsound"
     ],
-    "image": "business-sound",
+    "image": "/images/vocab/sound.jpg",
     "audioPlaceholder": "sound",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "ប្លោកនោមខ្យល់របស់ត្រី។",
-    "exampleKhmer": "សំឡេង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សំឡេង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good sound",
+      "the sound is",
+      "to use a sound"
+    ]
   },
   {
     "id": "resource",
@@ -8730,12 +11220,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unresource"
     ],
-    "image": "technology-resource",
+    "image": "/images/vocab/resource.jpg",
     "audioPlaceholder": "resource",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "Pecuuniary មានន័យថា។",
-    "exampleKhmer": "ធនធានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាល���ីម្សិលមិញ។"
+    "exampleKhmer": "ធនធានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាល���ីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good resource",
+      "the resource is",
+      "to use a resource"
+    ]
   },
   {
     "id": "present",
@@ -8751,12 +11247,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpresent"
     ],
-    "image": "health-present",
+    "image": "/images/vocab/present.jpg",
     "audioPlaceholder": "present",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "លិខិត ឬឧបករណ៍បច្ចុប្បន្ន ជាលិខិតផ្ទេរសិទ្ធិ កិច្ចសន្យាជួល សំបុត្រមេធាវី ឬការសរសេរផ្សេងទៀត។",
-    "exampleKhmer": "បច្ចុប្បន្ន​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "បច្ចុប្បន្ន​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good present",
+      "the present is",
+      "to use a present"
+    ]
   },
   {
     "id": "either",
@@ -8772,12 +11274,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uneither"
     ],
-    "image": "shopping-either",
+    "image": "/images/vocab/either.jpg",
     "audioPlaceholder": "either",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "នាំមុខពីរ ឬច្រើន ផ្សំពាក្យ ឬឃ្លា និងណែនាំពីជម្រើសមួយ។",
-    "exampleKhmer": "ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good either",
+      "the either is",
+      "to use a either"
+    ]
   },
   {
     "id": "document",
@@ -8793,12 +11301,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undocument"
     ],
-    "image": "sports-document",
+    "image": "/images/vocab/document.jpg",
     "audioPlaceholder": "document",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយឯកសារ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ជា​ឯកសារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ជា​ឯកសារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very document",
+      "a document person",
+      "seems to be document"
+    ]
   },
   {
     "id": "works",
@@ -8814,12 +11328,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unworks"
     ],
-    "image": "nature-works",
+    "image": "/images/vocab/works.jpg",
     "audioPlaceholder": "works",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការងារ។",
-    "exampleKhmer": "នេះគឺជាឧទាហ���ណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ធ្វើការ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហ���ណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ធ្វើការ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to works immediately",
+      "can works easily",
+      "please works"
+    ]
   },
   {
     "id": "material",
@@ -8835,12 +11355,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmaterial"
     ],
-    "image": "daily-conversation-material",
+    "image": "/images/vocab/material.jpg",
     "audioPlaceholder": "material",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ទាក់ទងនឹងបញ្ហា ផ្ទុយពីទម្រង់នៃរឿង។ សូមមើលបញ្ហា។",
-    "exampleKhmer": "សម្ភារៈត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សម្ភារៈត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good material",
+      "the material is",
+      "to use a material"
+    ]
   },
   {
     "id": "written",
@@ -8856,12 +11382,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwritten"
     ],
-    "image": "family-written",
+    "image": "/images/vocab/written.jpg",
     "audioPlaceholder": "written",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ទំ.",
-    "exampleKhmer": "ការសរសេរត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការសរសេរត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good written",
+      "the written is",
+      "to use a written"
+    ]
   },
   {
     "id": "federal",
@@ -8877,12 +11409,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfederal"
     ],
-    "image": "food-federal",
+    "image": "/images/vocab/federal.jpg",
     "audioPlaceholder": "federal",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "សូមមើល Federalist ។",
-    "exampleKhmer": "សហព័ន្ធត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សហព័ន្ធត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good federal",
+      "the federal is",
+      "to use a federal"
+    ]
   },
   {
     "id": "hosting",
@@ -8898,12 +11436,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhosting"
     ],
-    "image": "animals-hosting",
+    "image": "/images/vocab/hosting.jpg",
     "audioPlaceholder": "hosting",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការធ្វើជាម្ចាស់ផ្ទះ។",
-    "exampleKhmer": "នេះជាឧ��ាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បង្ហោះ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧ��ាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បង្ហោះ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to hosting immediately",
+      "can hosting easily",
+      "please hosting"
+    ]
   },
   {
     "id": "rules",
@@ -8919,12 +11463,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrules"
     ],
-    "image": "school-rules",
+    "image": "/images/vocab/rules.jpg",
     "audioPlaceholder": "rules",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងច្បាប់។",
-    "exampleKhmer": "ច្បាប់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ច្បាប់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good rules",
+      "the rules is",
+      "to use a rules"
+    ]
   },
   {
     "id": "final",
@@ -8940,12 +11490,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfinal"
     ],
-    "image": "travel-final",
+    "image": "/images/vocab/final.jpg",
     "audioPlaceholder": "final",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយចុងក្រោយ។",
-    "exampleKhmer": "យើងត្រូវបញ្ចប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវបញ្ចប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to final immediately",
+      "can final easily",
+      "please final"
+    ]
   },
   {
     "id": "adult",
@@ -8961,12 +11517,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unadult"
     ],
-    "image": "business-adult",
+    "image": "/images/vocab/adult.jpg",
     "audioPlaceholder": "adult",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "ដោយបានមកដល់ភាពពេញវ័យ ឬដល់ទំហំ និងកម្លាំងពេញលេញ។",
-    "exampleKhmer": "មនុស្សពេញវ័យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មនុស្សពេញវ័យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good adult",
+      "the adult is",
+      "to use a adult"
+    ]
   },
   {
     "id": "tickets",
@@ -8982,12 +11544,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untickets"
     ],
-    "image": "technology-tickets",
+    "image": "/images/vocab/tickets.jpg",
     "audioPlaceholder": "tickets",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃសំបុត្រ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សំបុត្រ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សំបុត្រ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to tickets immediately",
+      "can tickets easily",
+      "please tickets"
+    ]
   },
   {
     "id": "thing",
@@ -9003,12 +11571,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthing"
     ],
-    "image": "health-thing",
+    "image": "/images/vocab/thing.jpg",
     "audioPlaceholder": "thing",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "សំលៀកបំពាក់។",
-    "exampleKhmer": "រឿង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រឿង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good thing",
+      "the thing is",
+      "to use a thing"
+    ]
   },
   {
     "id": "centre",
@@ -9024,12 +11598,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncentre"
     ],
-    "image": "shopping-centre",
+    "image": "/images/vocab/centre.jpg",
     "audioPlaceholder": "centre",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "សូមមើលមជ្ឈមណ្ឌល។",
-    "exampleKhmer": "មជ្ឈមណ្ឌល​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "មជ្ឈមណ្ឌល​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good centre",
+      "the centre is",
+      "to use a centre"
+    ]
   },
   {
     "id": "cheap",
@@ -9045,12 +11625,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncheap"
     ],
-    "image": "sports-cheap",
+    "image": "/images/vocab/cheap.jpg",
     "audioPlaceholder": "cheap",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ការចរចា។",
-    "exampleKhmer": "តម្លៃថោកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "តម្លៃថោកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good cheap",
+      "the cheap is",
+      "to use a cheap"
+    ]
   },
   {
     "id": "finance",
@@ -9066,12 +11652,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfinance"
     ],
-    "image": "nature-finance",
+    "image": "/images/vocab/finance.jpg",
     "audioPlaceholder": "finance",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "finance",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃហិរញ្ញវត្ថុ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ហិរញ្ញវត្ថុ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ហិរញ្ញវត្ថុ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to finance immediately",
+      "can finance easily",
+      "please finance"
+    ]
   },
   {
     "id": "minutes",
@@ -9087,12 +11679,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unminutes"
     ],
-    "image": "daily-conversation-minutes",
+    "image": "/images/vocab/minutes.jpg",
     "audioPlaceholder": "minutes",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងនាទី។",
-    "exampleKhmer": "កំណត់ហេតុត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កំណត់ហេតុត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good minutes",
+      "the minutes is",
+      "to use a minutes"
+    ]
   },
   {
     "id": "third",
@@ -9108,12 +11706,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthird"
     ],
-    "image": "family-third",
+    "image": "/images/vocab/third.jpg",
     "audioPlaceholder": "third",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "សម្លេងទីបីនៃមាត្រដ្ឋាន។",
-    "exampleKhmer": "ទី​បី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទី​បី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good third",
+      "the third is",
+      "to use a third"
+    ]
   },
   {
     "id": "gifts",
@@ -9129,12 +11733,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungifts"
     ],
-    "image": "food-gifts",
+    "image": "/images/vocab/gifts.jpg",
     "audioPlaceholder": "gifts",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយអំណោយ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​អំណោយ​យ៉ាង​ខ្លាំង​ក្នុង​ការ​ពន្យល់​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​អំណោយ​យ៉ាង​ខ្លាំង​ក្នុង​ការ​ពន្យល់​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very gifts",
+      "a gifts person",
+      "seems to be gifts"
+    ]
   },
   {
     "id": "europe",
@@ -9150,12 +11760,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uneurope"
     ],
-    "image": "animals-europe",
+    "image": "/images/vocab/europe.jpg",
     "audioPlaceholder": "europe",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ភាព​អឺរ៉ុប។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អឺរ៉ុប' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អឺរ៉ុប' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to europe immediately",
+      "can europe easily",
+      "please europe"
+    ]
   },
   {
     "id": "reading",
@@ -9171,12 +11787,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreading"
     ],
-    "image": "school-reading",
+    "image": "/images/vocab/reading.jpg",
     "audioPlaceholder": "reading",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក���ទងនឹងការអាន។",
-    "exampleKhmer": "ការ​អាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​អាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good reading",
+      "the reading is",
+      "to use a reading"
+    ]
   },
   {
     "id": "topics",
@@ -9192,12 +11814,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untopics"
     ],
-    "image": "travel-topics",
+    "image": "/images/vocab/topics.jpg",
     "audioPlaceholder": "topics",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងប្រធានបទ។",
-    "exampleKhmer": "យើងត្រូវដាក់ប្រធានបទលើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវដាក់ប្រធានបទលើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to topics immediately",
+      "can topics easily",
+      "please topics"
+    ]
   },
   {
     "id": "cover",
@@ -9213,12 +11841,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncover"
     ],
-    "image": "business-cover",
+    "image": "/images/vocab/cover.jpg",
     "audioPlaceholder": "cover",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "ឈើ​ប្រណិត​ជាដើម ដែល​ជា​ទី​ជំរក និង​បិទបាំង​ល្បែង ។",
-    "exampleKhmer": "គម្របត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "គម្របត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good cover",
+      "the cover is",
+      "to use a cover"
+    ]
   },
   {
     "id": "usually",
@@ -9234,12 +11868,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unusually"
     ],
-    "image": "technology-usually",
+    "image": "/images/vocab/usually.jpg",
     "audioPlaceholder": "usually",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​ធម្មតា​។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជាធម្មតា' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជាធម្មតា' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to usually immediately",
+      "can usually easily",
+      "please usually"
+    ]
   },
   {
     "id": "together",
@@ -9255,12 +11895,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untogether"
     ],
-    "image": "health-together",
+    "image": "/images/vocab/together.jpg",
     "audioPlaceholder": "together",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពនៃការទាក់ទងជាមួយគ្នា។",
-    "exampleKhmer": "ការរួមគ្នាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការរួមគ្នាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good together",
+      "the together is",
+      "to use a together"
+    ]
   },
   {
     "id": "videos",
@@ -9276,12 +11922,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvideos"
     ],
-    "image": "shopping-videos",
+    "image": "/images/vocab/videos.jpg",
     "audioPlaceholder": "videos",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយវីដេអូ។",
-    "exampleKhmer": "យើងត្រូវវីដេអូកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវវីដេអូកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to videos immediately",
+      "can videos easily",
+      "please videos"
+    ]
   },
   {
     "id": "percent",
@@ -9297,12 +11949,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpercent"
     ],
-    "image": "sports-percent",
+    "image": "/images/vocab/percent.jpg",
     "audioPlaceholder": "percent",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយភាគរយ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ភាគ​រយ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ភាគ​រយ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very percent",
+      "a percent person",
+      "seems to be percent"
+    ]
   },
   {
     "id": "function",
@@ -9318,12 +11976,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfunction"
     ],
-    "image": "nature-function",
+    "image": "/images/vocab/function.jpg",
     "audioPlaceholder": "function",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "សកម្មភាពសមស្របនៃសរីរាង្គពិសេសណាមួយ ឬផ្នែកនៃសារពាង្គកាយសត្វ ឬបន្លែ។",
-    "exampleKhmer": "មុខងារនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មុខងារនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good function",
+      "the function is",
+      "to use a function"
+    ]
   },
   {
     "id": "getting",
@@ -9339,12 +12003,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungetting"
     ],
-    "image": "daily-conversation-getting",
+    "image": "/images/vocab/getting.jpg",
     "audioPlaceholder": "getting",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការទទួល។",
-    "exampleKhmer": "ការទទួលបានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការទទួលបានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good getting",
+      "the getting is",
+      "to use a getting"
+    ]
   },
   {
     "id": "global",
@@ -9360,12 +12030,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unglobal"
     ],
-    "image": "family-global",
+    "image": "/images/vocab/global.jpg",
     "audioPlaceholder": "global",
     "difficulty": "B1",
-    "category": "family",
+    "category": "environment",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយសកល។",
-    "exampleKhmer": "យើងត្រូវធ្វើកិច្ចការនេះទូទាំងពិភពលោកឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន។"
+    "exampleKhmer": "យើងត្រូវធ្វើកិច្ចការនេះទូទាំងពិភពលោកឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន។",
+    "audio": "",
+    "commonCollocations": [
+      "to global immediately",
+      "can global easily",
+      "please global"
+    ]
   },
   {
     "id": "economic",
@@ -9381,12 +12057,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uneconomic"
     ],
-    "image": "food-economic",
+    "image": "/images/vocab/economic.jpg",
     "audioPlaceholder": "economic",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយសេដ្ឋកិច្ច។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់សេដ្ឋកិច្ចយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់សេដ្ឋកិច្ចយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very economic",
+      "a economic person",
+      "seems to be economic"
+    ]
   },
   {
     "id": "player",
@@ -9402,12 +12084,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unplayer"
     ],
-    "image": "animals-player",
+    "image": "/images/vocab/player.jpg",
     "audioPlaceholder": "player",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​អ្នក​លេង។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អ្នកលេង' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អ្នកលេង' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to player immediately",
+      "can player easily",
+      "please player"
+    ]
   },
   {
     "id": "projects",
@@ -9423,12 +12111,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprojects"
     ],
-    "image": "school-projects",
+    "image": "/images/vocab/projects.jpg",
     "audioPlaceholder": "projects",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងគម្រោង។",
-    "exampleKhmer": "គម្រោង​ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "គម្រោង​ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good projects",
+      "the projects is",
+      "to use a projects"
+    ]
   },
   {
     "id": "lyrics",
@@ -9444,12 +12138,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlyrics"
     ],
-    "image": "travel-lyrics",
+    "image": "/images/vocab/lyrics.jpg",
     "audioPlaceholder": "lyrics",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយអត្ថបទចម្រៀង។",
-    "exampleKhmer": "យើងត្រូវបកស្រាយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវបកស្រាយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to lyrics immediately",
+      "can lyrics easily",
+      "please lyrics"
+    ]
   },
   {
     "id": "often",
@@ -9465,12 +12165,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoften"
     ],
-    "image": "business-often",
+    "image": "/images/vocab/often.jpg",
     "audioPlaceholder": "often",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "ញឹកញាប់។",
-    "exampleKhmer": "ជាញឹកញាប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជាញឹកញាប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good often",
+      "the often is",
+      "to use a often"
+    ]
   },
   {
     "id": "submit",
@@ -9486,12 +12192,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsubmit"
     ],
-    "image": "technology-submit",
+    "image": "/images/vocab/submit.jpg",
     "audioPlaceholder": "submit",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការដាក់ស្នើ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បញ្ជូន' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បញ្ជូន' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to submit immediately",
+      "can submit easily",
+      "please submit"
+    ]
   },
   {
     "id": "germany",
@@ -9507,12 +12219,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungermany"
     ],
-    "image": "health-germany",
+    "image": "/images/vocab/germany.jpg",
     "audioPlaceholder": "germany",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងប្រទេសអាល្លឺម៉ង់។",
-    "exampleKhmer": "ប្រទេស​អាល្លឺម៉ង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រទេស​អាល្លឺម៉ង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good germany",
+      "the germany is",
+      "to use a germany"
+    ]
   },
   {
     "id": "amount",
@@ -9528,12 +12246,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unamount"
     ],
-    "image": "shopping-amount",
+    "image": "/images/vocab/amount.jpg",
     "audioPlaceholder": "amount",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីបញ្ជាក់។",
-    "exampleKhmer": "ចំនួនទឹកប្រាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ចំនួនទឹកប្រាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good amount",
+      "the amount is",
+      "to use a amount"
+    ]
   },
   {
     "id": "watch",
@@ -9549,12 +12273,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwatch"
     ],
-    "image": "sports-watch",
+    "image": "/images/vocab/watch.jpg",
     "audioPlaceholder": "watch",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ដើម្បីបម្រើគោលបំណងរបស់អ្នកយាមដោយអណ្តែតឱ្យបានត្រឹមត្រូវនៅកន្លែងរបស់វា។",
-    "exampleKhmer": "នាឡិកា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "នាឡិកា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good watch",
+      "the watch is",
+      "to use a watch"
+    ]
   },
   {
     "id": "included",
@@ -9570,12 +12300,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unincluded"
     ],
-    "image": "nature-included",
+    "image": "/images/vocab/included.jpg",
     "audioPlaceholder": "included",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "បិទ។",
-    "exampleKhmer": "ការរួមបញ្ចូលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការរួមបញ្ចូលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good included",
+      "the included is",
+      "to use a included"
+    ]
   },
   {
     "id": "though",
@@ -9591,12 +12327,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthough"
     ],
-    "image": "daily-conversation-though",
+    "image": "/images/vocab/though.jpg",
     "audioPlaceholder": "though",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ការផ្តល់ ទទួលយក ឬសន្មត់ថា។",
-    "exampleKhmer": "ទោះ​បី​ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។"
+    "exampleKhmer": "ទោះ​បី​ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good though",
+      "the though is",
+      "to use a though"
+    ]
   },
   {
     "id": "thanks",
@@ -9612,12 +12354,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthanks"
     ],
-    "image": "family-thanks",
+    "image": "/images/vocab/thanks.jpg",
     "audioPlaceholder": "thanks",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការអរគុណ។",
-    "exampleKhmer": "យើង​ត្រូវ​អរគុណ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​អរគុណ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to thanks immediately",
+      "can thanks easily",
+      "please thanks"
+    ]
   },
   {
     "id": "deals",
@@ -9633,12 +12381,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undeals"
     ],
-    "image": "food-deals",
+    "image": "/images/vocab/deals.jpg",
     "audioPlaceholder": "deals",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយកិច្ចព្រមព្រៀង។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងយកចិត្តទុកដាក��អំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងយកចិត្តទុកដាក��អំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very deals",
+      "a deals person",
+      "seems to be deals"
+    ]
   },
   {
     "id": "various",
@@ -9654,12 +12408,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvarious"
     ],
-    "image": "animals-various",
+    "image": "/images/vocab/various.jpg",
     "audioPlaceholder": "various",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ភាព​ខុស​គ្នា​។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្សេងៗ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្សេងៗ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to various immediately",
+      "can various easily",
+      "please various"
+    ]
   },
   {
     "id": "words",
@@ -9675,12 +12435,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwords"
     ],
-    "image": "school-words",
+    "image": "/images/vocab/words.jpg",
     "audioPlaceholder": "words",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅដែលតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងពាក្យ។",
-    "exampleKhmer": "ពាក្យនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពាក្យនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good words",
+      "the words is",
+      "to use a words"
+    ]
   },
   {
     "id": "linux",
@@ -9696,12 +12462,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlinux"
     ],
-    "image": "travel-linux",
+    "image": "/images/vocab/linux.jpg",
     "audioPlaceholder": "linux",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយលីនុច។",
-    "exampleKhmer": "យើងត្រូវការលីនុចកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការ។"
+    "exampleKhmer": "យើងត្រូវការលីនុចកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការ។",
+    "audio": "",
+    "commonCollocations": [
+      "to linux immediately",
+      "can linux easily",
+      "please linux"
+    ]
   },
   {
     "id": "james",
@@ -9717,12 +12489,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unjames"
     ],
-    "image": "business-james",
+    "image": "/images/vocab/james.jpg",
     "audioPlaceholder": "james",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយ ជេមស៍។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ពី James អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ពី James អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very james",
+      "a james person",
+      "seems to be james"
+    ]
   },
   {
     "id": "weight",
@@ -9738,12 +12516,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unweight"
     ],
-    "image": "technology-weight",
+    "image": "/images/vocab/weight.jpg",
     "audioPlaceholder": "weight",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ភាពធន់នឹងការដ���លម៉ាស៊ីនធ្វើសកម្មភាព ផ្ទុយទៅនឹងថាមពលដែលផ្លាស់ទីវា។",
-    "exampleKhmer": "ទម្ងន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទម្ងន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good weight",
+      "the weight is",
+      "to use a weight"
+    ]
   },
   {
     "id": "heart",
@@ -9759,12 +12543,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unheart"
     ],
-    "image": "health-heart",
+    "image": "/images/vocab/heart.jpg",
     "audioPlaceholder": "heart",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "សរីរាង្គសាច់ដុំប្រហោង ដែលដោយការកន្ត្រាក់ជាចង្វាក់ ធ្វើឱ្យឈាមរត់បានស្រួល។ ហេតុអ្វីបានជាឈាមរបស់ខ្ញុំប្រមូលផ្តុំយ៉ាងនេះ! សាក់។",
-    "exampleKhmer": "បេះដូង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "បេះដូង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good heart",
+      "the heart is",
+      "to use a heart"
+    ]
   },
   {
     "id": "received",
@@ -9780,12 +12570,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreceived"
     ],
-    "image": "shopping-received",
+    "image": "/images/vocab/received.jpg",
     "audioPlaceholder": "received",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយការទទួល។",
-    "exampleKhmer": "យើងត្រូវទទួលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវទទួលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to received immediately",
+      "can received easily",
+      "please received"
+    ]
   },
   {
     "id": "choose",
@@ -9801,12 +12597,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchoose"
     ],
-    "image": "sports-choose",
+    "image": "/images/vocab/choose.jpg",
     "audioPlaceholder": "choose",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយជ្រើសរើស។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជ្រើសរើសពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជ្រើសរើសពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very choose",
+      "a choose person",
+      "seems to be choose"
+    ]
   },
   {
     "id": "archives",
@@ -9822,12 +12624,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unarchives"
     ],
-    "image": "nature-archives",
+    "image": "/images/vocab/archives.jpg",
     "audioPlaceholder": "archives",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ទុក​ជា​ប័ណ្ណសារ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បណ្ណសារ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បណ្ណសារ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to archives immediately",
+      "can archives easily",
+      "please archives"
+    ]
   },
   {
     "id": "points",
@@ -9843,12 +12651,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpoints"
     ],
-    "image": "daily-conversation-points",
+    "image": "/images/vocab/points.jpg",
     "audioPlaceholder": "points",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងចំណុច។",
-    "exampleKhmer": "ចំណុច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ចំណុច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good points",
+      "the points is",
+      "to use a points"
+    ]
   },
   {
     "id": "magazine",
@@ -9864,12 +12678,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmagazine"
     ],
-    "image": "family-magazine",
+    "image": "/images/vocab/magazine.jpg",
     "audioPlaceholder": "magazine",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីរក្សាទុកនៅក្នុង ឬដូចនៅក្នុងទស្សនាវដ្តី។",
-    "exampleKhmer": "ទស្សនាវដ្ដី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ទស្សនាវដ្ដី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good magazine",
+      "the magazine is",
+      "to use a magazine"
+    ]
   },
   {
     "id": "error",
@@ -9885,12 +12705,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unerror"
     ],
-    "image": "food-error",
+    "image": "/images/vocab/error.jpg",
     "audioPlaceholder": "error",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ភាពខុសគ្នារវាងលទ្ធផលប្រហាក់ប្រហែល និងលទ្ធផលពិត។",
-    "exampleKhmer": "កំហុស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "កំហុស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good error",
+      "the error is",
+      "to use a error"
+    ]
   },
   {
     "id": "camera",
@@ -9906,12 +12732,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncamera"
     ],
-    "image": "animals-camera",
+    "image": "/images/vocab/camera.jpg",
     "audioPlaceholder": "camera",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "អង្គជំនុំជម្រះ ឬឧបករណ៍ដែលមានអង្គជំនុំជម្រះ។",
-    "exampleKhmer": "កាមេរ៉ា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កាមេរ៉ា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good camera",
+      "the camera is",
+      "to use a camera"
+    ]
   },
   {
     "id": "clear",
@@ -9927,12 +12759,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unclear"
     ],
-    "image": "school-clear",
+    "image": "/images/vocab/clear.jpg",
     "audioPlaceholder": "clear",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "វិសាលភាពពេញលេញ។",
-    "exampleKhmer": "ភាពច្បាស់លាស់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាពច្បាស់លាស់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good clear",
+      "the clear is",
+      "to use a clear"
+    ]
   },
   {
     "id": "receive",
@@ -9948,12 +12786,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreceive"
     ],
-    "image": "travel-receive",
+    "image": "/images/vocab/receive.jpg",
     "audioPlaceholder": "receive",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីវាយបក (បាល់) នៅពេលបម្រើ។",
-    "exampleKhmer": "ការទទួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការទទួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good receive",
+      "the receive is",
+      "to use a receive"
+    ]
   },
   {
     "id": "domain",
@@ -9969,12 +12813,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undomain"
     ],
-    "image": "business-domain",
+    "image": "/images/vocab/domain.jpg",
     "audioPlaceholder": "domain",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "កម្មសិទ្ធិលើដី។",
-    "exampleKhmer": "ដែនត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ដែនត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good domain",
+      "the domain is",
+      "to use a domain"
+    ]
   },
   {
     "id": "methods",
@@ -9990,12 +12840,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmethods"
     ],
-    "image": "technology-methods",
+    "image": "/images/vocab/methods.jpg",
     "audioPlaceholder": "methods",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃវិធីសាស្រ្ត។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'វិធីសាស្រ្ត' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'វិធីសាស្រ្ត' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to methods immediately",
+      "can methods easily",
+      "please methods"
+    ]
   },
   {
     "id": "chapter",
@@ -10011,12 +12867,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchapter"
     ],
-    "image": "health-chapter",
+    "image": "/images/vocab/chapter.jpg",
     "audioPlaceholder": "chapter",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងជំ���ូក។",
-    "exampleKhmer": "ជំពូក​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ជំពូក​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good chapter",
+      "the chapter is",
+      "to use a chapter"
+    ]
   },
   {
     "id": "makes",
@@ -10032,12 +12894,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmakes"
     ],
-    "image": "shopping-makes",
+    "image": "/images/vocab/makes.jpg",
     "audioPlaceholder": "makes",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយការបង្កើត។",
-    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to makes immediately",
+      "can makes easily",
+      "please makes"
+    ]
   },
   {
     "id": "policies",
@@ -10053,12 +12921,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpolicies"
     ],
-    "image": "sports-policies",
+    "image": "/images/vocab/policies.jpg",
     "audioPlaceholder": "policies",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយគោលនយោបាយ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​អំពី​គោល​នយោបាយ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​អំពី​គោល​នយោបាយ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very policies",
+      "a policies person",
+      "seems to be policies"
+    ]
   },
   {
     "id": "beauty",
@@ -10074,12 +12948,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbeauty"
     ],
-    "image": "nature-beauty",
+    "image": "/images/vocab/beauty.jpg",
     "audioPlaceholder": "beauty",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​ស្ទីល​ដែល​ជា​លក្ខណៈ​នៃ​ភាពស្រស់ស្អាត។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សម្រស់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សម្រស់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to beauty immediately",
+      "can beauty easily",
+      "please beauty"
+    ]
   },
   {
     "id": "manager",
@@ -10095,12 +12975,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmanager"
     ],
-    "image": "daily-conversation-manager",
+    "image": "/images/vocab/manager.jpg",
     "audioPlaceholder": "manager",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងអ្នកគ្រប់គ្រង។",
-    "exampleKhmer": "អ្នកគ្រប់គ្រងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អ្នកគ្រប់គ្រងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good manager",
+      "the manager is",
+      "to use a manager"
+    ]
   },
   {
     "id": "india",
@@ -10116,12 +13002,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unindia"
     ],
-    "image": "family-india",
+    "image": "/images/vocab/india.jpg",
     "audioPlaceholder": "india",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ប្រទេសមួយនៅអាស៊ីខាងត្បូង។",
-    "exampleKhmer": "ឥណ្ឌា​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឥណ្ឌា​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good india",
+      "the india is",
+      "to use a india"
+    ]
   },
   {
     "id": "position",
@@ -10137,12 +13029,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unposition"
     ],
-    "image": "food-position",
+    "image": "/images/vocab/position.jpg",
     "audioPlaceholder": "position",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "វិធីសាស្រ្តនៃការដោះស្រាយបញ្ហាដោយការសន្មត់មួយឬពីរ។",
-    "exampleKhmer": "មុខតំណែងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មុខតំណែងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good position",
+      "the position is",
+      "to use a position"
+    ]
   },
   {
     "id": "taken",
@@ -10158,12 +13056,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untaken"
     ],
-    "image": "animals-taken",
+    "image": "/images/vocab/taken.jpg",
     "audioPlaceholder": "taken",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ទំ.",
-    "exampleKhmer": "ការ​យក​មក​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​យក​មក​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good taken",
+      "the taken is",
+      "to use a taken"
+    ]
   },
   {
     "id": "listings",
@@ -10179,12 +13083,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlistings"
     ],
-    "image": "school-listings",
+    "image": "/images/vocab/listings.jpg",
     "audioPlaceholder": "listings",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការចុះបញ្ជី។",
-    "exampleKhmer": "បញ្ជីរាយនាមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "បញ្ជីរាយនាមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good listings",
+      "the listings is",
+      "to use a listings"
+    ]
   },
   {
     "id": "models",
@@ -10200,12 +13110,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmodels"
     ],
-    "image": "travel-models",
+    "image": "/images/vocab/models.jpg",
     "audioPlaceholder": "models",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្ន���ងដំណើរការដែលភ្ជាប់ជាមួយគំរូ។",
-    "exampleKhmer": "យើងត្រូវធ្វើគំរូកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវធ្វើគំរូកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to models immediately",
+      "can models easily",
+      "please models"
+    ]
   },
   {
     "id": "michael",
@@ -10221,12 +13137,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmichael"
     ],
-    "image": "business-michael",
+    "image": "/images/vocab/michael.jpg",
     "audioPlaceholder": "michael",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយ ម៉ៃឃើល ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងខ្លាំងពីលោក Michael អំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងខ្លាំងពីលោក Michael អំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very michael",
+      "a michael person",
+      "seems to be michael"
+    ]
   },
   {
     "id": "known",
@@ -10242,12 +13164,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unknown"
     ],
-    "image": "technology-known",
+    "image": "/images/vocab/known.jpg",
     "audioPlaceholder": "known",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "នៃដឹង។",
-    "exampleKhmer": "អ្នក​ស្គាល់​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នក​ស្គាល់​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good known",
+      "the known is",
+      "to use a known"
+    ]
   },
   {
     "id": "cases",
@@ -10263,12 +13191,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncases"
     ],
-    "image": "health-cases",
+    "image": "/images/vocab/cases.jpg",
     "audioPlaceholder": "cases",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងករណី។",
-    "exampleKhmer": "ករណី​ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ករណី​ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good cases",
+      "the cases is",
+      "to use a cases"
+    ]
   },
   {
     "id": "florida",
@@ -10284,12 +13218,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unflorida"
     ],
-    "image": "shopping-florida",
+    "image": "/images/vocab/florida.jpg",
     "audioPlaceholder": "florida",
     "difficulty": "B1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងរដ្ឋផ្លរីដា។",
-    "exampleKhmer": "យើងត្រូវបំពេញកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីសម្រេចបាននូវវឌ្ឍនភាព។"
+    "exampleKhmer": "យើងត្រូវបំពេញកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីសម្រេចបាននូវវឌ្ឍនភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "to florida immediately",
+      "can florida easily",
+      "please florida"
+    ]
   },
   {
     "id": "simple",
@@ -10305,12 +13245,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsimple"
     ],
-    "image": "sports-simple",
+    "image": "/images/vocab/simple.jpg",
     "audioPlaceholder": "simple",
     "difficulty": "B1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ដោយគ្មានការបែងចែក។",
-    "exampleKhmer": "ភាពសាមញ្ញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាពសាមញ្ញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good simple",
+      "the simple is",
+      "to use a simple"
+    ]
   },
   {
     "id": "quick",
@@ -10326,12 +13272,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unquick"
     ],
-    "image": "nature-quick",
+    "image": "/images/vocab/quick.jpg",
     "audioPlaceholder": "quick",
     "difficulty": "B1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈរហ័ស។",
-    "exampleKhmer": "រហ័សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលម��ញ។"
+    "exampleKhmer": "រហ័សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលម��ញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good quick",
+      "the quick is",
+      "to use a quick"
+    ]
   },
   {
     "id": "wireless",
@@ -10347,12 +13299,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwireless"
     ],
-    "image": "daily-conversation-wireless",
+    "image": "/images/vocab/wireless.jpg",
     "audioPlaceholder": "wireless",
     "difficulty": "B1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ដោយមិនមានខ្សែ។",
-    "exampleKhmer": "ឥតខ្សែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ឥតខ្សែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good wireless",
+      "the wireless is",
+      "to use a wireless"
+    ]
   },
   {
     "id": "license",
@@ -10368,12 +13326,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlicense"
     ],
-    "image": "family-license",
+    "image": "/images/vocab/license.jpg",
     "audioPlaceholder": "license",
     "difficulty": "B1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "អនុញ្ញាត ឬអនុញ្ញាតដោយអាជ្ញាបណ្ណ។",
-    "exampleKhmer": "អាជ្ញាប័ណ្ណ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "អាជ្ញាប័ណ្ណ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good license",
+      "the license is",
+      "to use a license"
+    ]
   },
   {
     "id": "friday",
@@ -10389,12 +13353,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfriday"
     ],
-    "image": "food-friday",
+    "image": "/images/vocab/friday.jpg",
     "audioPlaceholder": "friday",
     "difficulty": "B1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ថ្ងៃទីប្រាំមួយនៃសប្តាហ៍បន្ទាប់ពីថ្ងៃព្រហស្បតិ៍និងថ្ងៃសៅរ៍មុន។",
-    "exampleKhmer": "ថ្ងៃសុក្រត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថ្ងៃសុក្រត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good friday",
+      "the friday is",
+      "to use a friday"
+    ]
   },
   {
     "id": "whole",
@@ -10410,12 +13380,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwhole"
     ],
-    "image": "animals-whole",
+    "image": "/images/vocab/whole.jpg",
     "audioPlaceholder": "whole",
     "difficulty": "B1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការទាំងមូល។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប���រើពាក្យ 'ទាំងមូល' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប���រើពាក្យ 'ទាំងមូល' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to whole immediately",
+      "can whole easily",
+      "please whole"
+    ]
   },
   {
     "id": "annual",
@@ -10431,12 +13407,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unannual"
     ],
-    "image": "school-annual",
+    "image": "/images/vocab/annual.jpg",
     "audioPlaceholder": "annual",
     "difficulty": "B1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "អភិបូជា​ស��្រាប់​បុគ្គល​ដែល​បាន​ស្លាប់ ឬ​សម្រាប់​វត្ថុ​ពិសេស​មួយ​ចំនួន ដែល​បាន​និយាយ​ជា​រៀងរាល់​ថ្ងៃ​សម្រាប់​មួយ​ឆ្នាំ ឬ​ក្នុង​ថ្ងៃ​គម្រប់​ខួប។",
-    "exampleKhmer": "ប្រចាំឆ្នាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រចាំឆ្នាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good annual",
+      "the annual is",
+      "to use a annual"
+    ]
   },
   {
     "id": "later",
@@ -10452,12 +13434,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlater"
     ],
-    "image": "travel-later",
+    "image": "/images/vocab/later.jpg",
     "audioPlaceholder": "later",
     "difficulty": "B1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ឥដ្ឋឬក្បឿង។",
-    "exampleKhmer": "ក្រោយ​មក​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ក្រោយ​មក​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good later",
+      "the later is",
+      "to use a later"
+    ]
   },
   {
     "id": "basic",
@@ -10473,12 +13461,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbasic"
     ],
-    "image": "business-basic",
+    "image": "/images/vocab/basic.jpg",
     "audioPlaceholder": "basic",
     "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "និយាយពីថ្មគ្រីស្តាល់ដែលមានភាគរយទាបនៃស៊ីលីកា ដូចជា basalt ។",
-    "exampleKhmer": "មូលដ្ឋានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មូលដ្ឋានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good basic",
+      "the basic is",
+      "to use a basic"
+    ]
   },
   {
     "id": "shows",
@@ -10494,12 +13488,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unshows"
     ],
-    "image": "technology-shows",
+    "image": "/images/vocab/shows.jpg",
     "audioPlaceholder": "shows",
     "difficulty": "B1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការបង្ហាញ។",
-    "exampleKhmer": "នេះជាឧទាហ��ណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បង្ហាញ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហ��ណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បង្ហាញ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to shows immediately",
+      "can shows easily",
+      "please shows"
+    ]
   },
   {
     "id": "google",
@@ -10515,12 +13515,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungoogle"
     ],
-    "image": "health-google",
+    "image": "/images/vocab/google.jpg",
     "audioPlaceholder": "google",
     "difficulty": "B1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹង Google ។",
-    "exampleKhmer": "ហ្គូហ្គោលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ហ្គូហ្គោលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good google",
+      "the google is",
+      "to use a google"
+    ]
   },
   {
     "id": "church",
@@ -10536,12 +13542,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchurch"
     ],
-    "image": "shopping-church",
+    "image": "/images/vocab/church.jpg",
     "audioPlaceholder": "church",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីប្រទានពរតាមទម្រង់ដែលបានកំណត់ ឬដើម្បីរួបរួមជាមួយនឹងការអរព្រះគុណជាសាធារណៈនៅក្នុងព្រះវិហារ ដូចជាបន្ទាប់ពីការរំដោះពីគ្រោះថ្នាក់នៃការសម្រាលកូន។",
-    "exampleKhmer": "ព្រះវិហារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ព្រះវិហារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good church",
+      "the church is",
+      "to use a church"
+    ]
   },
   {
     "id": "method",
@@ -10557,12 +13569,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmethod"
     ],
-    "image": "sports-method",
+    "image": "/images/vocab/method.jpg",
     "audioPlaceholder": "method",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ចំណាត់ថ្នាក់។",
-    "exampleKhmer": "វិធីសាស្ត្រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "វិធីសាស្ត្រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good method",
+      "the method is",
+      "to use a method"
+    ]
   },
   {
     "id": "purchase",
@@ -10578,12 +13596,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpurchase"
     ],
-    "image": "nature-purchase",
+    "image": "/images/vocab/purchase.jpg",
     "audioPlaceholder": "purchase",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ការទិញយកដី ឬផ្ទះជួលដោយមធ្យោបាយផ្សេងក្រៅពីមរតកពីអ្នកបន្តពូជ ពោលគឺដោយទង្វើ ឬកិច្ចព្រមព្��ៀងផ្ទាល់ខ្លួន។",
-    "exampleKhmer": "ការទិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ"
+    "exampleKhmer": "ការទិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ",
+    "audio": "",
+    "commonCollocations": [
+      "a good purchase",
+      "the purchase is",
+      "to use a purchase"
+    ]
   },
   {
     "id": "active",
@@ -10599,12 +13623,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unactive"
     ],
-    "image": "daily-conversation-active",
+    "image": "/images/vocab/active.jpg",
     "audioPlaceholder": "active",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសកម្ម។",
-    "exampleKhmer": "សកម្មត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សកម្មត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good active",
+      "the active is",
+      "to use a active"
+    ]
   },
   {
     "id": "response",
@@ -10620,12 +13650,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unresponse"
     ],
-    "image": "family-response",
+    "image": "/images/vocab/response.jpg",
     "audioPlaceholder": "response",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការឆ្លើយតប។",
-    "exampleKhmer": "យើងត្រូវឆ្លើយតបនឹងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវឆ្លើយតបនឹងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to response immediately",
+      "can response easily",
+      "please response"
+    ]
   },
   {
     "id": "practice",
@@ -10641,12 +13677,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpractice"
     ],
-    "image": "food-practice",
+    "image": "/images/vocab/practice.jpg",
     "audioPlaceholder": "practice",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "វិធីសាស្រ្តងាយស្រួល និងសង្ខេបនៃការអនុវត្តច្បាប់នៃសំណួរនព្វន្ធដែលកើតឡើងក្នុងពាណិជ្ជកម្ម និងអាជីវកម្ម។",
-    "exampleKhmer": "ការអនុវត្តត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការអនុវត្តត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good practice",
+      "the practice is",
+      "to use a practice"
+    ]
   },
   {
     "id": "hardware",
@@ -10662,12 +13704,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhardware"
     ],
-    "image": "animals-hardware",
+    "image": "/images/vocab/hardware.jpg",
     "audioPlaceholder": "hardware",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "គ្រឿងធ្វើពីដែក ប្រដាប់ប្រដាប្រើប្រាស់ក្នុងផ្ទះបាយ និងផ្សេងៗទៀត។",
-    "exampleKhmer": "ផ្នែករឹងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផ្នែករឹងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good hardware",
+      "the hardware is",
+      "to use a hardware"
+    ]
   },
   {
     "id": "figure",
@@ -10683,12 +13731,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfigure"
     ],
-    "image": "school-figure",
+    "image": "/images/vocab/figure.jpg",
     "audioPlaceholder": "figure",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ដ្យាក្រាមឬគំនូរ។",
-    "exampleKhmer": "តួ​លេខ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "តួ​លេខ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good figure",
+      "the figure is",
+      "to use a figure"
+    ]
   },
   {
     "id": "holiday",
@@ -10704,12 +13758,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unholiday"
     ],
-    "image": "travel-holiday",
+    "image": "/images/vocab/holiday.jpg",
     "audioPlaceholder": "holiday",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ថ្ងៃកំណត់ដោយច្បាប់សម្រាប់ការផ្អាកអាជីវកម្ម។",
-    "exampleKhmer": "ថ្ងៃឈប់សម្រាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថ្ងៃឈប់សម្រាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good holiday",
+      "the holiday is",
+      "to use a holiday"
+    ]
   },
   {
     "id": "enough",
@@ -10725,12 +13785,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unenough"
     ],
-    "image": "business-enough",
+    "image": "/images/vocab/enough.jpg",
     "audioPlaceholder": "enough",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "បំណងប្រាថ្នាពេញចិត្ត។",
-    "exampleKhmer": "គ្រប់គ្រាន់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "គ្រប់គ្រាន់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good enough",
+      "the enough is",
+      "to use a enough"
+    ]
   },
   {
     "id": "designed",
@@ -10746,12 +13812,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undesigned"
     ],
-    "image": "technology-designed",
+    "image": "/images/vocab/designed.jpg",
     "audioPlaceholder": "designed",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "arts",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការរចនា។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រចនា' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រចនា' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to designed immediately",
+      "can designed easily",
+      "please designed"
+    ]
   },
   {
     "id": "along",
@@ -10767,12 +13839,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unalong"
     ],
-    "image": "health-along",
+    "image": "/images/vocab/along.jpg",
     "audioPlaceholder": "along",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ដោយប្រវែងនៃ, ដូចដែលបានសម្គាល់ពី��ូទាំង។",
-    "exampleKhmer": "ជាមួយគ្នានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជាមួយគ្នានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good along",
+      "the along is",
+      "to use a along"
+    ]
   },
   {
     "id": "among",
@@ -10788,12 +13866,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unamong"
     ],
-    "image": "shopping-among",
+    "image": "/images/vocab/among.jpg",
     "audioPlaceholder": "among",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយក្នុងចំណោម។",
-    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to among immediately",
+      "can among easily",
+      "please among"
+    ]
   },
   {
     "id": "death",
@@ -10809,12 +13893,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undeath"
     ],
-    "image": "sports-death",
+    "image": "/images/vocab/death.jpg",
     "audioPlaceholder": "death",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ការបាត់បង់ជីវិតខាងវិញ្ញាណ។",
-    "exampleKhmer": "ការ​ស្លាប់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ស្លាប់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good death",
+      "the death is",
+      "to use a death"
+    ]
   },
   {
     "id": "writing",
@@ -10830,12 +13920,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwriting"
     ],
-    "image": "nature-writing",
+    "image": "/images/vocab/writing.jpg",
     "audioPlaceholder": "writing",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការសរសេរ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សរសេរ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សរសេរ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to writing immediately",
+      "can writing easily",
+      "please writing"
+    ]
   },
   {
     "id": "speed",
@@ -10851,12 +13947,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unspeed"
     ],
-    "image": "daily-conversation-speed",
+    "image": "/images/vocab/speed.jpg",
     "audioPlaceholder": "speed",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងល្បឿន។",
-    "exampleKhmer": "ល្បឿនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ល្បឿនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good speed",
+      "the speed is",
+      "to use a speed"
+    ]
   },
   {
     "id": "brand",
@@ -10872,12 +13974,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbrand"
     ],
-    "image": "family-brand",
+    "image": "/images/vocab/brand.jpg",
     "audioPlaceholder": "brand",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ផ្សិតនាទីណាមួ���ដែលបង្កើតរូបរាងឆេះនៅក្នុងរុក្ខជាតិ។ ម៉ាកមានច្រើនប្រភេទ និងប្រភេទជាច្រើននៃលំដាប់Pucciniæi។",
-    "exampleKhmer": "ម៉ាកនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ម៉ាកនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good brand",
+      "the brand is",
+      "to use a brand"
+    ]
   },
   {
     "id": "discount",
@@ -10893,12 +14001,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undiscount"
     ],
-    "image": "food-discount",
+    "image": "/images/vocab/discount.jpg",
     "audioPlaceholder": "discount",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ផ្តល់ប្រាក់កម្ចី ឬអនុវត្តការខ្ចីប្រាក់ កាត់បន្ថយការបញ្ចុះតម្លៃ។",
-    "exampleKhmer": "ការបញ្ចុះតម្លៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបញ្ចុះតម្លៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good discount",
+      "the discount is",
+      "to use a discount"
+    ]
   },
   {
     "id": "higher",
@@ -10914,12 +14028,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhigher"
     ],
-    "image": "animals-higher",
+    "image": "/images/vocab/higher.jpg",
     "audioPlaceholder": "higher",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​ស្ទីល​ដែល​មាន​លក្ខណៈ​ខ្ពស់​ជាង។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ខ្ពស់ជាង' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ខ្ពស់ជាង' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to higher immediately",
+      "can higher easily",
+      "please higher"
+    ]
   },
   {
     "id": "effects",
@@ -10935,12 +14055,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uneffects"
     ],
-    "image": "school-effects",
+    "image": "/images/vocab/effects.jpg",
     "audioPlaceholder": "effects",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងឥទ្ធិពល។",
-    "exampleKhmer": "ផល​ប៉ះពាល់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ផល​ប៉ះពាល់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good effects",
+      "the effects is",
+      "to use a effects"
+    ]
   },
   {
     "id": "created",
@@ -10956,12 +14082,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncreated"
     ],
-    "image": "travel-created",
+    "image": "/images/vocab/created.jpg",
     "audioPlaceholder": "created",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយការបង្កើត។",
-    "exampleKhmer": "យើងត្រូវបង្កើតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវបង្កើតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to created immediately",
+      "can created easily",
+      "please created"
+    ]
   },
   {
     "id": "remember",
@@ -10977,12 +14109,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unremember"
     ],
-    "image": "business-remember",
+    "image": "/images/vocab/remember.jpg",
     "audioPlaceholder": "remember",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តឬមានថាមពលនៃការចងចាំ។",
-    "exampleKhmer": "ការចងចាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការចងចាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good remember",
+      "the remember is",
+      "to use a remember"
+    ]
   },
   {
     "id": "yellow",
@@ -10998,12 +14136,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unyellow"
     ],
-    "image": "technology-yellow",
+    "image": "/images/vocab/yellow.jpg",
     "audioPlaceholder": "yellow",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "មានពណ៌ភ្លឺដូចផ្កាឈូករ័ត្ន។",
-    "exampleKhmer": "ពណ៌លឿងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពណ៌លឿងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good yellow",
+      "the yellow is",
+      "to use a yellow"
+    ]
   },
   {
     "id": "increase",
@@ -11019,12 +14163,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unincrease"
     ],
-    "image": "health-increase",
+    "image": "/images/vocab/increase.jpg",
     "audioPlaceholder": "increase",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ដើម្បីកាន់តែជិតពេញ។",
-    "exampleKhmer": "ការកើនឡើងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការកើនឡើងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good increase",
+      "the increase is",
+      "to use a increase"
+    ]
   },
   {
     "id": "kingdom",
@@ -11040,12 +14190,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unkingdom"
     ],
-    "image": "shopping-kingdom",
+    "image": "/images/vocab/kingdom.jpg",
     "audioPlaceholder": "kingdom",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងនគរ។",
-    "exampleKhmer": "យើងត្រូវគ្រប់គ្រងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវគ្រប់គ្រងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to kingdom immediately",
+      "can kingdom easily",
+      "please kingdom"
+    ]
   },
   {
     "id": "thought",
@@ -11061,12 +14217,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthought"
     ],
-    "image": "sports-thought",
+    "image": "/images/vocab/thought.jpg",
     "audioPlaceholder": "thought",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "Imp",
-    "exampleKhmer": "គំនិតនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "គំនិតនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good thought",
+      "the thought is",
+      "to use a thought"
+    ]
   },
   {
     "id": "stuff",
@@ -11082,12 +14244,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstuff"
     ],
-    "image": "nature-stuff",
+    "image": "/images/vocab/stuff.jpg",
     "audioPlaceholder": "stuff",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ម៉ាស់រលាយនៃ turpentine, tallow, ល, ជាមួយនឹង themasts, ភាគី, និងបាតនៃកប៉ាល់មួយត្រូវបាន smeared សម្រាប់ប្រេងរំអិល។",
-    "exampleKhmer": "វត្ថុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "វត្ថុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good stuff",
+      "the stuff is",
+      "to use a stuff"
+    ]
   },
   {
     "id": "french",
@@ -11103,12 +14271,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfrench"
     ],
-    "image": "daily-conversation-french",
+    "image": "/images/vocab/french.jpg",
     "audioPlaceholder": "french",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នៃ ឬពាក់ព័ន្ធនឹងប្រទេសបារាំង ឬប្រជាជនរបស់ខ្លួន។",
-    "exampleKhmer": "ភាសាបារាំងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាសាបារាំងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good french",
+      "the french is",
+      "to use a french"
+    ]
   },
   {
     "id": "storage",
@@ -11124,12 +14298,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstorage"
     ],
-    "image": "family-storage",
+    "image": "/images/vocab/storage.jpg",
     "audioPlaceholder": "storage",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការផ្ទុក។",
-    "exampleKhmer": "យើងត្រូវរក្សាទុកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវរក្សាទុកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to storage immediately",
+      "can storage easily",
+      "please storage"
+    ]
   },
   {
     "id": "japan",
@@ -11145,12 +14325,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unjapan"
     ],
-    "image": "food-japan",
+    "image": "/images/vocab/japan.jpg",
     "audioPlaceholder": "japan",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ការងារលាបពណ៌ និងរចនាតាមបែបជប៉ុន។",
-    "exampleKhmer": "ជប៉ុន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ជប៉ុន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good japan",
+      "the japan is",
+      "to use a japan"
+    ]
   },
   {
     "id": "doing",
@@ -11166,12 +14352,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undoing"
     ],
-    "image": "animals-doing",
+    "image": "/images/vocab/doing.jpg",
     "audioPlaceholder": "doing",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "អ្វី​ដែល​បាន​ធ្វើ។",
-    "exampleKhmer": "ការ​ធ្វើ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្��ិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ធ្វើ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្��ិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good doing",
+      "the doing is",
+      "to use a doing"
+    ]
   },
   {
     "id": "loans",
@@ -11187,12 +14379,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unloans"
     ],
-    "image": "school-loans",
+    "image": "/images/vocab/loans.jpg",
     "audioPlaceholder": "loans",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងប្រាក់កម្ចី។",
-    "exampleKhmer": "ប្រាក់​កម្ចី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រាក់​កម្ចី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good loans",
+      "the loans is",
+      "to use a loans"
+    ]
   },
   {
     "id": "shoes",
@@ -11208,12 +14406,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unshoes"
     ],
-    "image": "travel-shoes",
+    "image": "/images/vocab/shoes.jpg",
     "audioPlaceholder": "shoes",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាពឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងស្បែកជើង។",
-    "exampleKhmer": "យើងត្រូវធ្វើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវធ្វើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to shoes immediately",
+      "can shoes easily",
+      "please shoes"
+    ]
   },
   {
     "id": "entry",
@@ -11229,12 +14433,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unentry"
     ],
-    "image": "business-entry",
+    "image": "/images/vocab/entry.jpg",
     "audioPlaceholder": "entry",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ការតាំងពិព័រណ៌ ឬការតម្កល់ឯកសាររបស់កប៉ាល់នៅឯផ្ទះទម្លាប់ ដើម្បីទទួលបា���អាជ្ញាប័ណ្ណសម្រាប់ទំនិញនៅលើគោក។",
-    "exampleKhmer": "ធាតុនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ធាតុនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good entry",
+      "the entry is",
+      "to use a entry"
+    ]
   },
   {
     "id": "nature",
@@ -11250,12 +14460,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnature"
     ],
-    "image": "technology-nature",
+    "image": "/images/vocab/nature.jpg",
     "audioPlaceholder": "nature",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "environment",
     "meaningKhmer": "ដើម្បីទទួលបានគុណសម្បតិ្តធម្មជាតិ។",
-    "exampleKhmer": "ធម្មជាតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ធម្មជាតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good nature",
+      "the nature is",
+      "to use a nature"
+    ]
   },
   {
     "id": "orders",
@@ -11271,12 +14487,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unorders"
     ],
-    "image": "health-orders",
+    "image": "/images/vocab/orders.jpg",
     "audioPlaceholder": "orders",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការបញ្ជា។",
-    "exampleKhmer": "ការបញ្ជាទិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបញ្ជាទិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good orders",
+      "the orders is",
+      "to use a orders"
+    ]
   },
   {
     "id": "africa",
@@ -11292,12 +14514,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unafrica"
     ],
-    "image": "shopping-africa",
+    "image": "/images/vocab/africa.jpg",
     "audioPlaceholder": "africa",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយអាហ្វ្រិក។",
-    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ក្នុង​ទ្វីប​អាហ្វ្រិក​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ក្នុង​ទ្វីប​អាហ្វ្រិក​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to africa immediately",
+      "can africa easily",
+      "please africa"
+    ]
   },
   {
     "id": "summary",
@@ -11313,12 +14541,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsummary"
     ],
-    "image": "sports-summary",
+    "image": "/images/vocab/summary.jpg",
     "audioPlaceholder": "summary",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "សេចក្តីថ្លែងការណ៍ទូទៅ ឬទូលំទូលាយ។",
-    "exampleKhmer": "សេចក្ដី​សង្ខេប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សេចក្ដី​សង្ខេប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good summary",
+      "the summary is",
+      "to use a summary"
+    ]
   },
   {
     "id": "growth",
@@ -11334,12 +14568,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungrowth"
     ],
-    "image": "nature-growth",
+    "image": "/images/vocab/growth.jpg",
     "audioPlaceholder": "growth",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការរីកលូតលាស់។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កំណើន' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កំណើន' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to growth immediately",
+      "can growth easily",
+      "please growth"
+    ]
   },
   {
     "id": "notes",
@@ -11355,12 +14595,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnotes"
     ],
-    "image": "daily-conversation-notes",
+    "image": "/images/vocab/notes.jpg",
     "audioPlaceholder": "notes",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅដែលតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងកំណត់ចំណាំ។",
-    "exampleKhmer": "កំណត់ចំណាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កំណត់ចំណាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good notes",
+      "the notes is",
+      "to use a notes"
+    ]
   },
   {
     "id": "agency",
@@ -11376,12 +14622,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unagency"
     ],
-    "image": "family-agency",
+    "image": "/images/vocab/agency.jpg",
     "audioPlaceholder": "agency",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយភ្នាក់ងារ។",
-    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to agency immediately",
+      "can agency easily",
+      "please agency"
+    ]
   },
   {
     "id": "monday",
@@ -11397,12 +14649,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmonday"
     ],
-    "image": "food-monday",
+    "image": "/images/vocab/monday.jpg",
     "audioPlaceholder": "monday",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ថ្ងៃទីពីរនៃសប្តាហ៍។",
-    "exampleKhmer": "ថ្ងៃច័ន្ទត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថ្ងៃច័ន្ទត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good monday",
+      "the monday is",
+      "to use a monday"
+    ]
   },
   {
     "id": "european",
@@ -11418,12 +14676,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uneuropean"
     ],
-    "image": "animals-european",
+    "image": "/images/vocab/european.jpg",
     "audioPlaceholder": "european",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងអឺរ៉ុប ឬអ្នករស់នៅរបស់វា។",
-    "exampleKhmer": "អឺរ៉ុប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "អឺរ៉ុប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good european",
+      "the european is",
+      "to use a european"
+    ]
   },
   {
     "id": "activity",
@@ -11439,12 +14703,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unactivity"
     ],
-    "image": "school-activity",
+    "image": "/images/vocab/activity.jpg",
     "audioPlaceholder": "activity",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ស្ថានភាព ឬគុណភាពនៃការសកម្ម។",
-    "exampleKhmer": "សកម្មភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សកម្មភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good activity",
+      "the activity is",
+      "to use a activity"
+    ]
   },
   {
     "id": "although",
@@ -11460,12 +14730,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unalthough"
     ],
-    "image": "travel-although",
+    "image": "/images/vocab/although.jpg",
     "audioPlaceholder": "although",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ផ្តល់អ្វីៗទាំងអស់នេះ។",
-    "exampleKhmer": "ទោះបីជាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញក៏ដោយ។"
+    "exampleKhmer": "ទោះបីជាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញក៏ដោយ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good although",
+      "the although is",
+      "to use a although"
+    ]
   },
   {
     "id": "western",
@@ -11481,12 +14757,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwestern"
     ],
-    "image": "business-western",
+    "image": "/images/vocab/western.jpg",
     "audioPlaceholder": "western",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយលោកខាងលិច។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីលោកខាងលិចអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីលោកខាងលិចអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very western",
+      "a western person",
+      "seems to be western"
+    ]
   },
   {
     "id": "income",
@@ -11502,12 +14784,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unincome"
     ],
-    "image": "technology-income",
+    "image": "/images/vocab/income.jpg",
     "audioPlaceholder": "income",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "អ្វី​ដែល​គេ​យក​ទៅ​ក្នុង​ខ្លួន​ជា​អាហារ។",
-    "exampleKhmer": "ប្រាក់​ចំណូល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រាក់​ចំណូល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good income",
+      "the income is",
+      "to use a income"
+    ]
   },
   {
     "id": "force",
@@ -11523,12 +14811,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unforce"
     ],
-    "image": "health-force",
+    "image": "/images/vocab/force.jpg",
     "audioPlaceholder": "force",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ទៅវត្ថុ។",
-    "exampleKhmer": "កម្លាំង​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កម្លាំង​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good force",
+      "the force is",
+      "to use a force"
+    ]
   },
   {
     "id": "overall",
@@ -11544,12 +14838,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoverall"
     ],
-    "image": "shopping-overall",
+    "image": "/images/vocab/overall.jpg",
     "audioPlaceholder": "overall",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "គ្រប់ទីកន្លែង។",
-    "exampleKhmer": "សរុប​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សរុប​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good overall",
+      "the overall is",
+      "to use a overall"
+    ]
   },
   {
     "id": "river",
@@ -11565,12 +14865,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unriver"
     ],
-    "image": "sports-river",
+    "image": "/images/vocab/river.jpg",
     "audioPlaceholder": "river",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ម្នាក់​ដែល​ត្រូវ​បាន​បំបែក​ឬ​បំបែក​។",
-    "exampleKhmer": "ទន្លេ​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទន្លេ​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good river",
+      "the river is",
+      "to use a river"
+    ]
   },
   {
     "id": "package",
@@ -11586,12 +14892,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpackage"
     ],
-    "image": "nature-package",
+    "image": "/images/vocab/package.jpg",
     "audioPlaceholder": "package",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃកញ្ចប់។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កញ្ចប់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កញ្ចប់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to package immediately",
+      "can package easily",
+      "please package"
+    ]
   },
   {
     "id": "contents",
@@ -11607,12 +14919,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncontents"
     ],
-    "image": "daily-conversation-contents",
+    "image": "/images/vocab/contents.jpg",
     "audioPlaceholder": "contents",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "មើលមាតិកា, ន។",
-    "exampleKhmer": "ខ្លឹមសារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ខ្លឹមសារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good contents",
+      "the contents is",
+      "to use a contents"
+    ]
   },
   {
     "id": "players",
@@ -11628,12 +14946,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unplayers"
     ],
-    "image": "family-players",
+    "image": "/images/vocab/players.jpg",
     "audioPlaceholder": "players",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយអ្នកលេង។",
-    "exampleKhmer": "យើងត្រូវឱ្យអ្នកលេងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវឱ្យអ្នកលេងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to players immediately",
+      "can players easily",
+      "please players"
+    ]
   },
   {
     "id": "engine",
@@ -11649,12 +14973,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unengine"
     ],
-    "image": "food-engine",
+    "image": "/images/vocab/engine.jpg",
     "audioPlaceholder": "engine",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ម៉ាស៊ីនផ្សំដែលថាមពលរូបវន្តណាមួយត្រូវបានអនុវត្ត ដើម្បីបង្កើតឥទ្ធិពលរាងកាយដែលបានផ្តល់ឱ្យ។",
-    "exampleKhmer": "ម៉ាស៊ីននេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ម៉ាស៊ីននេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good engine",
+      "the engine is",
+      "to use a engine"
+    ]
   },
   {
     "id": "album",
@@ -11670,12 +15000,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unalbum"
     ],
-    "image": "animals-album",
+    "image": "/images/vocab/album.jpg",
     "audioPlaceholder": "album",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ថេប្លេត​ពណ៌​ស​ដែល​ត្រូវ​បាន​ចារឹក​ជា​បញ្ជី​ឈ្មោះ។ល។",
-    "exampleKhmer": "អាល់ប៊ុមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អាល់ប៊ុមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good album",
+      "the album is",
+      "to use a album"
+    ]
   },
   {
     "id": "regional",
@@ -11691,12 +15027,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unregional"
     ],
-    "image": "school-regional",
+    "image": "/images/vocab/regional.jpg",
     "audioPlaceholder": "regional",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងតំបន់ជាក់លាក់មួយ។",
-    "exampleKhmer": "ថ្នាក់​តំបន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ថ្នាក់​តំបន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good regional",
+      "the regional is",
+      "to use a regional"
+    ]
   },
   {
     "id": "supplies",
@@ -11712,12 +15054,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsupplies"
     ],
-    "image": "travel-supplies",
+    "image": "/images/vocab/supplies.jpg",
     "audioPlaceholder": "supplies",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការផ្គត់ផ្គង់។",
-    "exampleKhmer": "យើងត្រូវផ្គត់ផ្គង់កិច្ចកា���នេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវផ្គត់ផ្គង់កិច្ចកា���នេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to supplies immediately",
+      "can supplies easily",
+      "please supplies"
+    ]
   },
   {
     "id": "started",
@@ -11733,12 +15081,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstarted"
     ],
-    "image": "business-started",
+    "image": "/images/vocab/started.jpg",
     "audioPlaceholder": "started",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការចាប់ផ្តើម។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ចាប់​ផ្តើម​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ចាប់​ផ្តើម​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very started",
+      "a started person",
+      "seems to be started"
+    ]
   },
   {
     "id": "views",
@@ -11754,12 +15108,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unviews"
     ],
-    "image": "technology-views",
+    "image": "/images/vocab/views.jpg",
     "audioPlaceholder": "views",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃទិដ្ឋភាព។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ទិដ្ឋភាព' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ទិដ្ឋភាព' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to views immediately",
+      "can views easily",
+      "please views"
+    ]
   },
   {
     "id": "plans",
@@ -11775,12 +15135,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unplans"
     ],
-    "image": "health-plans",
+    "image": "/images/vocab/plans.jpg",
     "audioPlaceholder": "plans",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងផែនការ។",
-    "exampleKhmer": "ផែនការត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផែនការត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good plans",
+      "the plans is",
+      "to use a plans"
+    ]
   },
   {
     "id": "double",
@@ -11796,12 +15162,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undouble"
     ],
-    "image": "shopping-double",
+    "image": "/images/vocab/double.jpg",
     "audioPlaceholder": "double",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ការមានផ្កានៅក្នុងផ្កាកើនឡើងគួរឱ្យកត់សម្គាល់លើសពីចំនួនធម្មជាតិ ដែលជាធម្មតាជាលទ្ធផលនៃការដាំដុះ និងការចំណាយនៃ stamens ឬ stamens និង pistils ។",
-    "exampleKhmer": "ពីរ​នាក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ពីរ​នាក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good double",
+      "the double is",
+      "to use a double"
+    ]
   },
   {
     "id": "build",
@@ -11817,12 +15189,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbuild"
     ],
-    "image": "sports-build",
+    "image": "/images/vocab/build.jpg",
     "audioPlaceholder": "build",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ទម្រង់ឬទម្រង់នៃការសាងសង់។",
-    "exampleKhmer": "ការស្ថាបនានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់រៀនកាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការស្ថាបនានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់រៀនកាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good build",
+      "the build is",
+      "to use a build"
+    ]
   },
   {
     "id": "screen",
@@ -11838,12 +15216,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unscreen"
     ],
-    "image": "nature-screen",
+    "image": "/images/vocab/screen.jpg",
     "audioPlaceholder": "screen",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ជញ្ជាំង​មនុស្សតឿ ឬ​ភាគថាស​មាន​ការ​បំបែក​កម្ពស់​ជាក់លាក់​មួយ និង​ការ​ការពារ ដូចជា​នៅ​ក្នុង​ព្រះវិហារ ដើម្បី​បំបែក​ច្រកផ្លូវ​ពី​ក្រុម​ចម្រៀង ឬ​ក៏​ដូច​គ្នា​ដែរ។",
-    "exampleKhmer": "អេក្រង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "អេក្រង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good screen",
+      "the screen is",
+      "to use a screen"
+    ]
   },
   {
     "id": "exchange",
@@ -11859,12 +15243,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unexchange"
     ],
-    "image": "daily-conversation-exchange",
+    "image": "/images/vocab/exchange.jpg",
     "audioPlaceholder": "exchange",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ដំណើរការនៃការកំណត់គណនី ឬបំណុលរវាងភាគីដែលរស់នៅចម្ងាយឆ្ងាយពីគ្នាទៅវិញទៅមក ដោយគ្មានការជ្រៀតជ្រែកពីប្រាក់ ដោយការផ្លាស់ប្តូរការបញ្ជាទិញ ឬសេចក្តីព្រាង ហៅថា វិក្កយបត្រប្តូរប្រាក់។ ទាំងនេះអាចត្រូវបានទាញនៅក្នុងប្រទេសមួយ ហើយត្រូវបង់ក្នុងប្រទេសមួយទៀត ដែលក្នុងនោះគេហៅថា វិក័យប័ត្របរទេស។",
-    "exampleKhmer": "ការផ្លាស់ប្តូរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការផ្លាស់ប្តូរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good exchange",
+      "the exchange is",
+      "to use a exchange"
+    ]
   },
   {
     "id": "types",
@@ -11880,12 +15270,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untypes"
     ],
-    "image": "family-types",
+    "image": "/images/vocab/types.jpg",
     "audioPlaceholder": "types",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងប្រភេទ។",
-    "exampleKhmer": "យើងត្រូវវាយបញ្ចូលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវវាយបញ្ចូលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to types immediately",
+      "can types easily",
+      "please types"
+    ]
   },
   {
     "id": "lines",
@@ -11901,12 +15297,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlines"
     ],
-    "image": "food-lines",
+    "image": "/images/vocab/lines.jpg",
     "audioPlaceholder": "lines",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយបន្ទាត់។",
-    "exampleKhmer": "នាង​បាន​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very lines",
+      "a lines person",
+      "seems to be lines"
+    ]
   },
   {
     "id": "continue",
@@ -11922,12 +15324,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncontinue"
     ],
-    "image": "animals-continue",
+    "image": "/images/vocab/continue.jpg",
     "audioPlaceholder": "continue",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការបន្ត។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បន្ត' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បន្ត' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to continue immediately",
+      "can continue easily",
+      "please continue"
+    ]
   },
   {
     "id": "across",
@@ -11943,12 +15351,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unacross"
     ],
-    "image": "school-across",
+    "image": "/images/vocab/across.jpg",
     "audioPlaceholder": "across",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ពីចំហៀងទៅម្ខាង។",
-    "exampleKhmer": "ជុំវិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជុំវិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good across",
+      "the across is",
+      "to use a across"
+    ]
   },
   {
     "id": "benefits",
@@ -11964,12 +15378,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbenefits"
     ],
-    "image": "travel-benefits",
+    "image": "/images/vocab/benefits.jpg",
     "audioPlaceholder": "benefits",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬច���លរួមក្នុងដំណើរការដែលទាក់ទងនឹងអត្ថប្រយោជន៍។",
-    "exampleKhmer": "យើងត្រូវផ្តល់អត្ថប្រយោជន៍ដល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវផ្តល់អត្ថប្រយោជន៍ដល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to benefits immediately",
+      "can benefits easily",
+      "please benefits"
+    ]
   },
   {
     "id": "needed",
@@ -11985,12 +15405,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unneeded"
     ],
-    "image": "business-needed",
+    "image": "/images/vocab/needed.jpg",
     "audioPlaceholder": "needed",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយតម្រូវការ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលត្រូវការយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលត្រូវការយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very needed",
+      "a needed person",
+      "seems to be needed"
+    ]
   },
   {
     "id": "season",
@@ -12006,12 +15432,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unseason"
     ],
-    "image": "technology-season",
+    "image": "/images/vocab/season.jpg",
     "audioPlaceholder": "season",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃរដូវកាល។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រដូវ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រដូវ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to season immediately",
+      "can season easily",
+      "please season"
+    ]
   },
   {
     "id": "apply",
@@ -12027,12 +15459,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unapply"
     ],
-    "image": "health-apply",
+    "image": "/images/vocab/apply.jpg",
     "audioPlaceholder": "apply",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការអនុវត្តន៍។",
-    "exampleKhmer": "ការ​ដាក់​ពាក្យ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ដាក់​ពាក្យ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good apply",
+      "the apply is",
+      "to use a apply"
+    ]
   },
   {
     "id": "someone",
@@ -12048,12 +15486,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsomeone"
     ],
-    "image": "shopping-someone",
+    "image": "/images/vocab/someone.jpg",
     "audioPlaceholder": "someone",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយនរណាម្នាក់។",
-    "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​នរណា​ម្នាក់​ធ្វើ​ការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន​។"
+    "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​នរណា​ម្នាក់​ធ្វើ​ការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន​។",
+    "audio": "",
+    "commonCollocations": [
+      "to someone immediately",
+      "can someone easily",
+      "please someone"
+    ]
   },
   {
     "id": "anything",
@@ -12069,12 +15513,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unanything"
     ],
-    "image": "sports-anything",
+    "image": "/images/vocab/anything.jpg",
     "audioPlaceholder": "anything",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងវិធានការណាមួយ។",
-    "exampleKhmer": "អ្វី​ៗ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្វី​ៗ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good anything",
+      "the anything is",
+      "to use a anything"
+    ]
   },
   {
     "id": "printer",
@@ -12090,12 +15540,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprinter"
     ],
-    "image": "nature-printer",
+    "image": "/images/vocab/printer.jpg",
     "audioPlaceholder": "printer",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "អ្នកដែលបោះពុម្ព។",
-    "exampleKhmer": "ម៉ាស៊ីនបោះពុម្ពត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ម៉ាស៊ីនបោះពុម្ពត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good printer",
+      "the printer is",
+      "to use a printer"
+    ]
   },
   {
     "id": "believe",
@@ -12111,12 +15567,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbelieve"
     ],
-    "image": "daily-conversation-believe",
+    "image": "/images/vocab/believe.jpg",
     "audioPlaceholder": "believe",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តជំនឿលើ។",
-    "exampleKhmer": "ជំនឿត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជំនឿត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good believe",
+      "the believe is",
+      "to use a believe"
+    ]
   },
   {
     "id": "effect",
@@ -12132,12 +15594,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uneffect"
     ],
-    "image": "family-effect",
+    "image": "/images/vocab/effect.jpg",
     "audioPlaceholder": "effect",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ទំនិញ។",
-    "exampleKhmer": "ឥទ្ធិពល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឥទ្ធិពល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good effect",
+      "the effect is",
+      "to use a effect"
+    ]
   },
   {
     "id": "asked",
@@ -12153,12 +15621,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unasked"
     ],
-    "image": "food-asked",
+    "image": "/images/vocab/asked.jpg",
     "audioPlaceholder": "asked",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយការសួរ។",
-    "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់សួរយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់សួរយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very asked",
+      "a asked person",
+      "seems to be asked"
+    ]
   },
   {
     "id": "sunday",
@@ -12174,12 +15648,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsunday"
     ],
-    "image": "animals-sunday",
+    "image": "/images/vocab/sunday.jpg",
     "audioPlaceholder": "sunday",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ថ្ងៃដំបូងនៃសប្តាហ៍ - ឧទ្ទិសក្នុងចំណោមពួកគ្រីស្ទាន ដកខ្លួនចេញពីការងារខាងលោកិយ និងដល់ការថ្វាយបង្���ំសាសនា។",
-    "exampleKhmer": "ថ្ងៃអាទិត្យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថ្ងៃអាទិត្យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good sunday",
+      "the sunday is",
+      "to use a sunday"
+    ]
   },
   {
     "id": "casino",
@@ -12195,12 +15675,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncasino"
     ],
-    "image": "school-casino",
+    "image": "/images/vocab/casino.jpg",
     "audioPlaceholder": "casino",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកាស៊ីណូ។",
-    "exampleKhmer": "កាស៊ីណូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "កាស៊ីណូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good casino",
+      "the casino is",
+      "to use a casino"
+    ]
   },
   {
     "id": "volume",
@@ -12216,12 +15702,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvolume"
     ],
-    "image": "travel-volume",
+    "image": "/images/vocab/volume.jpg",
     "audioPlaceholder": "volume",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "បរិមាណ ភាពពេញលេញ បរិមាណ ឬកម្រិតសំឡេង ឬសម្លេង។",
-    "exampleKhmer": "បរិមាណត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "បរិមាណត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good volume",
+      "the volume is",
+      "to use a volume"
+    ]
   },
   {
     "id": "cross",
@@ -12237,12 +15729,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncross"
     ],
-    "image": "business-cross",
+    "image": "/images/vocab/cross.jpg",
     "audioPlaceholder": "cross",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "វិមាន​ក្នុង​ទម្រង់​ជា​ឈើ​ឆ្កាង ឬ​ឡើង​លើ​ឈើ​ឆ្កាង តាំង​នៅ​ទី​សាធារណៈ។",
-    "exampleKhmer": "ឈើឆ្កាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឈើឆ្កាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good cross",
+      "the cross is",
+      "to use a cross"
+    ]
   },
   {
     "id": "anyone",
@@ -12258,12 +15756,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unanyone"
     ],
-    "image": "technology-anyone",
+    "image": "/images/vocab/anyone.jpg",
     "audioPlaceholder": "anyone",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "មួយ​យក​ដោយ​ចៃដន្យ ជាជាង​ការ​ជ្រើសរើស។",
-    "exampleKhmer": "នរណាម្នាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "នរណាម្នាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good anyone",
+      "the anyone is",
+      "to use a anyone"
+    ]
   },
   {
     "id": "mortgage",
@@ -12279,12 +15783,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmortgage"
     ],
-    "image": "health-mortgage",
+    "image": "/images/vocab/mortgage.jpg",
     "audioPlaceholder": "mortgage",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ការដឹកជញ្ជូនទ្រព្យសម្បត្តិ តាមលក្ខខណ្ឌ ជាសន្តិសុខសម្រាប់ការសងបំណុល ឬការអនុលោមតាមកាតព្វកិច្ច និងក្លាយជាមោឃៈនៅពេលការទូទាត់ ឬការអនុវត្តតាមលក្ខខណ្ឌដែលបានកំណត់។",
-    "exampleKhmer": "ការបញ្ចាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបញ្ចាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good mortgage",
+      "the mortgage is",
+      "to use a mortgage"
+    ]
   },
   {
     "id": "silver",
@@ -12300,12 +15810,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsilver"
     ],
-    "image": "shopping-silver",
+    "image": "/images/vocab/silver.jpg",
     "audioPlaceholder": "silver",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ធាតុលោហធាតុពណ៌សទន់, sonorous, ductile, verymalleable, និងមានសមត្ថភាពនៃការប៉ូឡូញកម្រិតខ្ពស់។",
-    "exampleKhmer": "ប្រាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good silver",
+      "the silver is",
+      "to use a silver"
+    ]
   },
   {
     "id": "inside",
@@ -12321,12 +15837,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uninside"
     ],
-    "image": "sports-inside",
+    "image": "/images/vocab/inside.jpg",
     "audioPlaceholder": "inside",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងជ្រុងនៃ។",
-    "exampleKhmer": "ផ្នែកខាងក្នុងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផ្នែកខាងក្នុងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good inside",
+      "the inside is",
+      "to use a inside"
+    ]
   },
   {
     "id": "solution",
@@ -12342,12 +15864,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsolution"
     ],
-    "image": "nature-solution",
+    "image": "/images/vocab/solution.jpg",
     "audioPlaceholder": "solution",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "សកម្មភាព ឬដំណើរការដែលរាងកាយ (មិនថារឹង រាវ សរីរាង្គ) ត្រូវបានស្រូបចូលទៅក្នុងអង្គធាតុរាវ ហើយនៅសល់ ឬក្លាយជាសារធាតុរាវ ត្រូវបានសាយភាយពាសពេញសារធាតុរំលាយ។",
-    "exampleKhmer": "ដំណោះ​ស្រាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។"
+    "exampleKhmer": "ដំណោះ​ស្រាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good solution",
+      "the solution is",
+      "to use a solution"
+    ]
   },
   {
     "id": "mature",
@@ -12363,12 +15891,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmature"
     ],
-    "image": "daily-conversation-mature",
+    "image": "/images/vocab/mature.jpg",
     "audioPlaceholder": "mature",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ដើម្បី​នាំ​ឬ​ប្រញាប់​ទៅ​ដល់​កាល​កំណត់​។",
-    "exampleKhmer": "ចាស់ទុំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ចាស់ទុំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good mature",
+      "the mature is",
+      "to use a mature"
+    ]
   },
   {
     "id": "rather",
@@ -12384,12 +15918,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrather"
     ],
-    "image": "family-rather",
+    "image": "/images/vocab/rather.jpg",
     "audioPlaceholder": "rather",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "មុន។",
-    "exampleKhmer": "ជាជាងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជាជាងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good rather",
+      "the rather is",
+      "to use a rather"
+    ]
   },
   {
     "id": "weeks",
@@ -12405,12 +15945,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unweeks"
     ],
-    "image": "food-weeks",
+    "image": "/images/vocab/weeks.jpg",
     "audioPlaceholder": "weeks",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយសប្តាហ៍។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ជាច្រើនសប្តាហ៍អំ��ីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ជាច្រើនសប្តាហ៍អំ��ីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very weeks",
+      "a weeks person",
+      "seems to be weeks"
+    ]
   },
   {
     "id": "addition",
@@ -12426,12 +15972,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaddition"
     ],
-    "image": "animals-addition",
+    "image": "/images/vocab/addition.jpg",
     "audioPlaceholder": "addition",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ផ្នែកនព្វន្ធដែលព្យាបាលការបូកលេខ។",
-    "exampleKhmer": "ការបន្ថែមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបន្ថែមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good addition",
+      "the addition is",
+      "to use a addition"
+    ]
   },
   {
     "id": "supply",
@@ -12447,12 +15999,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsupply"
     ],
-    "image": "school-supply",
+    "image": "/images/vocab/supply.jpg",
     "audioPlaceholder": "supply",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "បម្រើដើម្បីផ្ទុក ចែកចាយ ឬគ្រប់គ្រងការផ្គត់ផ្គង់អ្វីមួយ។",
-    "exampleKhmer": "ការ​ផ្គត់ផ្គង់​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ផ្គត់ផ្គង់​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good supply",
+      "the supply is",
+      "to use a supply"
+    ]
   },
   {
     "id": "nothing",
@@ -12468,12 +16026,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnothing"
     ],
-    "image": "travel-nothing",
+    "image": "/images/vocab/nothing.jpg",
     "audioPlaceholder": "nothing",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "លេខសម្ងាត់មួយ។",
-    "exampleKhmer": "គ្មានអ្វីត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "គ្មានអ្វីត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good nothing",
+      "the nothing is",
+      "to use a nothing"
+    ]
   },
   {
     "id": "certain",
@@ -12489,12 +16053,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncertain"
     ],
-    "image": "business-certain",
+    "image": "/images/vocab/certain.jpg",
     "audioPlaceholder": "certain",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ពិតប្រាកដ។",
-    "exampleKhmer": "អ្វី​ដែល​ជាក់លាក់​ត្រូវ​បា��​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្វី​ដែល​ជាក់លាក់​ត្រូវ​បា��​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good certain",
+      "the certain is",
+      "to use a certain"
+    ]
   },
   {
     "id": "running",
@@ -12510,12 +16080,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrunning"
     ],
-    "image": "technology-running",
+    "image": "/images/vocab/running.jpg",
     "audioPlaceholder": "running",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ពង្រីក​ដោយ​ការ​ឡើង​ចុះ ឬ​តាម​ដើម​ស្ដើង។",
-    "exampleKhmer": "ការរត់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការរត់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good running",
+      "the running is",
+      "to use a running"
+    ]
   },
   {
     "id": "lower",
@@ -12531,12 +16107,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlower"
     ],
-    "image": "health-lower",
+    "image": "/images/vocab/lower.jpg",
     "audioPlaceholder": "lower",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ប្រៀបធៀប។",
-    "exampleKhmer": "ថ្នាក់​ក្រោម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ថ្នាក់​ក្រោម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good lower",
+      "the lower is",
+      "to use a lower"
+    ]
   },
   {
     "id": "union",
@@ -12552,12 +16134,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ununion"
     ],
-    "image": "shopping-union",
+    "image": "/images/vocab/union.jpg",
     "audioPlaceholder": "union",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ការតភ្ជាប់ ឬការតភ្ជាប់ផ្សេងទៀតដែលបង្រួបបង្រួមផ្នែកនៃគ្រឿងម៉ាស៊ីន ឬដូចគ្នានេះ ជាបំពង់យឺតនៃការដេញថ្លៃដែលភ្ជាប់វាជាមួយនឹងបំពង់ចំណីរបស់ម៉ាស៊ីនក្បាលរថភ្លើង។",
-    "exampleKhmer": "សហជីព​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "សហជីព​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good union",
+      "the union is",
+      "to use a union"
+    ]
   },
   {
     "id": "jewelry",
@@ -12573,12 +16161,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unjewelry"
     ],
-    "image": "sports-jewelry",
+    "image": "/images/vocab/jewelry.jpg",
     "audioPlaceholder": "jewelry",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយគ្រឿងអលង្ការ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់អំពីគ្រឿងអលង្ការយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់អំពីគ្រឿងអលង្ការយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very jewelry",
+      "a jewelry person",
+      "seems to be jewelry"
+    ]
   },
   {
     "id": "clothing",
@@ -12594,12 +16188,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unclothing"
     ],
-    "image": "nature-clothing",
+    "image": "/images/vocab/clothing.jpg",
     "audioPlaceholder": "clothing",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "សូមមើលសម្លៀកបំពាក់កាត នៅក្រោមកាត 3d ។",
-    "exampleKhmer": "សម្លៀក​បំពាក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សម្លៀក​បំពាក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good clothing",
+      "the clothing is",
+      "to use a clothing"
+    ]
   },
   {
     "id": "names",
@@ -12615,12 +16215,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnames"
     ],
-    "image": "daily-conversation-names",
+    "image": "/images/vocab/names.jpg",
     "audioPlaceholder": "names",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងឈ្មោះ។",
-    "exampleKhmer": "ឈ្មោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឈ្មោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good names",
+      "the names is",
+      "to use a names"
+    ]
   },
   {
     "id": "robert",
@@ -12636,12 +16242,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrobert"
     ],
-    "image": "family-robert",
+    "image": "/images/vocab/robert.jpg",
     "audioPlaceholder": "robert",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "សូមមើល Herb Robert នៅក្រោម Herb ។",
-    "exampleKhmer": "រ៉ូបឺត​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រ៉ូបឺត​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good robert",
+      "the robert is",
+      "to use a robert"
+    ]
   },
   {
     "id": "homepage",
@@ -12657,12 +16269,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhomepage"
     ],
-    "image": "food-homepage",
+    "image": "/images/vocab/homepage.jpg",
     "audioPlaceholder": "homepage",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយគេហទំព័រ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​នៅ​ទំព័រ​ដើម​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​នៅ​ទំព័រ​ដើម​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very homepage",
+      "a homepage person",
+      "seems to be homepage"
+    ]
   },
   {
     "id": "skills",
@@ -12678,12 +16296,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unskills"
     ],
-    "image": "animals-skills",
+    "image": "/images/vocab/skills.jpg",
     "audioPlaceholder": "skills",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬស្ទីលដែលជាលក្ខណៈនៃជំនាញ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជំនាញ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជំនាញ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to skills immediately",
+      "can skills easily",
+      "please skills"
+    ]
   },
   {
     "id": "islands",
@@ -12699,12 +16323,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unislands"
     ],
-    "image": "school-islands",
+    "image": "/images/vocab/islands.jpg",
     "audioPlaceholder": "islands",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកោះ។",
-    "exampleKhmer": "កោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "កោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good islands",
+      "the islands is",
+      "to use a islands"
+    ]
   },
   {
     "id": "advice",
@@ -12720,12 +16350,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unadvice"
     ],
-    "image": "travel-advice",
+    "image": "/images/vocab/advice.jpg",
     "audioPlaceholder": "advice",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ការប្រឹក្��ាដើម្បីអនុវត្តអំពើខុសច្បាប់ជាក់លាក់មួយ។",
-    "exampleKhmer": "ដំបូន្មាន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ដំបូន្មាន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good advice",
+      "the advice is",
+      "to use a advice"
+    ]
   },
   {
     "id": "career",
@@ -12741,12 +16377,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncareer"
     ],
-    "image": "business-career",
+    "image": "/images/vocab/career.jpg",
     "audioPlaceholder": "career",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ការប្រយុទ្ធរបស់សត្វស្ទាំង។",
-    "exampleKhmer": "អាជីព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អាជីព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good career",
+      "the career is",
+      "to use a career"
+    ]
   },
   {
     "id": "military",
@@ -12762,12 +16404,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmilitary"
     ],
-    "image": "technology-military",
+    "image": "/images/vocab/military.jpg",
     "audioPlaceholder": "military",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "សាកសពទាហានទាំងមូល។",
-    "exampleKhmer": "យោធា​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្��ាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "យោធា​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្��ាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good military",
+      "the military is",
+      "to use a military"
+    ]
   },
   {
     "id": "rental",
@@ -12783,12 +16431,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrental"
     ],
-    "image": "health-rental",
+    "image": "/images/vocab/rental.jpg",
     "audioPlaceholder": "rental",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការជួល។",
-    "exampleKhmer": "ការជួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការជួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good rental",
+      "the rental is",
+      "to use a rental"
+    ]
   },
   {
     "id": "decision",
@@ -12804,12 +16458,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undecision"
     ],
-    "image": "shopping-decision",
+    "image": "/images/vocab/decision.jpg",
     "audioPlaceholder": "decision",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការសម្រេចចិត្ត។",
-    "exampleKhmer": "យើងត្រូវសម្រេចកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវសម្រេចកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to decision immediately",
+      "can decision easily",
+      "please decision"
+    ]
   },
   {
     "id": "leave",
@@ -12825,12 +16485,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unleave"
     ],
-    "image": "sports-leave",
+    "image": "/images/vocab/leave.jpg",
     "audioPlaceholder": "leave",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ដើម្បីផ្ញើស្លឹក។",
-    "exampleKhmer": "ការឈប់សម្រាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការឈប់សម្រាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good leave",
+      "the leave is",
+      "to use a leave"
+    ]
   },
   {
     "id": "british",
@@ -12846,12 +16512,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbritish"
     ],
-    "image": "nature-british",
+    "image": "/images/vocab/british.jpg",
     "audioPlaceholder": "british",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងចក្រភពអង់គ្លេស ឬប្រជាជនរបស់ខ្លួន។",
-    "exampleKhmer": "ជនជាតិ​អង់គ្លេស​ត្���ូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ជនជាតិ​អង់គ្លេស​ត្���ូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good british",
+      "the british is",
+      "to use a british"
+    ]
   },
   {
     "id": "teens",
@@ -12867,12 +16539,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unteens"
     ],
-    "image": "daily-conversation-teens",
+    "image": "/images/vocab/teens.jpg",
     "audioPlaceholder": "teens",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ឆ្នាំនៃអាយុរបស់មនុស្សម្នាក់មានការបញ្ចប់ -teen ចាប់ផ្តើមដោយដប់បីនិងបញ្ចប់ដោយដប់ប្រាំបួន។",
-    "exampleKhmer": "ក្មេងជំទង់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ក្មេងជំទង់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good teens",
+      "the teens is",
+      "to use a teens"
+    ]
   },
   {
     "id": "woman",
@@ -12888,12 +16566,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwoman"
     ],
-    "image": "family-woman",
+    "image": "/images/vocab/woman.jpg",
     "audioPlaceholder": "woman",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ភាពជាស្ត្រី។",
-    "exampleKhmer": "ស្ត្រី​រូប​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ស្ត្រី​រូប​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good woman",
+      "the woman is",
+      "to use a woman"
+    ]
   },
   {
     "id": "sellers",
@@ -12909,12 +16593,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsellers"
     ],
-    "image": "food-sellers",
+    "image": "/images/vocab/sellers.jpg",
     "audioPlaceholder": "sellers",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយអ្នកលក់។",
-    "exampleKhmer": "នាងបានពន្យល់អ្នកលក់យ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានពន្យល់អ្នកលក់យ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very sellers",
+      "a sellers person",
+      "seems to be sellers"
+    ]
   },
   {
     "id": "middle",
@@ -12930,12 +16620,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmiddle"
     ],
-    "image": "animals-middle",
+    "image": "/images/vocab/middle.jpg",
     "audioPlaceholder": "middle",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ចំនុច ឬផ្នែកដែលនៅឆ្ងាយពីចុងអវយវៈ ឬដែនកំណ���់ខាងក្រៅ ដូចជាបន្ទាត់ ផ្ទៃ ឬរឹង។",
-    "exampleKhmer": "ថ��នាក់កណ្តាលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថ��នាក់កណ្តាលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good middle",
+      "the middle is",
+      "to use a middle"
+    ]
   },
   {
     "id": "cable",
@@ -12951,12 +16647,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncable"
     ],
-    "image": "school-cable",
+    "image": "/images/vocab/cable.jpg",
     "audioPlaceholder": "cable",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ការ​បង្កើត​រាង​រាង​ជ្រុង​នៃ​ជួរ​ឈរ ឬ​សមាជិក​ផ្សេង​ទៀត​នៃ​ផ្នែក​រាង​មូល ដែល​ធ្វើ​ឡើង​ដើម្បី​ស្រដៀង​នឹង​ការ​បង្វិល​ខ្សែ​ពួរ។",
-    "exampleKhmer": "ខ្សែនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ខ្សែនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good cable",
+      "the cable is",
+      "to use a cable"
+    ]
   },
   {
     "id": "taking",
@@ -12972,12 +16674,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untaking"
     ],
-    "image": "travel-taking",
+    "image": "/images/vocab/taking.jpg",
     "audioPlaceholder": "taking",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការទទួលយក។",
-    "exampleKhmer": "យើងត្រូវទទួលយកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវទទួលយកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to taking immediately",
+      "can taking easily",
+      "please taking"
+    ]
   },
   {
     "id": "values",
@@ -12993,12 +16701,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvalues"
     ],
-    "image": "business-values",
+    "image": "/images/vocab/values.jpg",
     "audioPlaceholder": "values",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយគុណតម្លៃ���",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដ៏មានតម្លៃបំផុតអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដ៏មានតម្លៃបំផុតអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very values",
+      "a values person",
+      "seems to be values"
+    ]
   },
   {
     "id": "division",
@@ -13014,12 +16728,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undivision"
     ],
-    "image": "technology-division",
+    "image": "/images/vocab/division.jpg",
     "audioPlaceholder": "division",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ដំណើរការនៃការស្វែងរកចំនួនដង ឬបរិមាណមួយមាននៅក្នុងមួយផ្សេងទៀត។",
-    "exampleKhmer": "ការបែងចែកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបែងចែកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good division",
+      "the division is",
+      "to use a division"
+    ]
   },
   {
     "id": "coming",
@@ -13035,12 +16755,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncoming"
     ],
-    "image": "health-coming",
+    "image": "/images/vocab/coming.jpg",
     "audioPlaceholder": "coming",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការមកដល់។",
-    "exampleKhmer": "ការ​មក​ដល់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​មក​ដល់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good coming",
+      "the coming is",
+      "to use a coming"
+    ]
   },
   {
     "id": "tuesday",
@@ -13056,12 +16782,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untuesday"
     ],
-    "image": "shopping-tuesday",
+    "image": "/images/vocab/tuesday.jpg",
     "audioPlaceholder": "tuesday",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ថ្ងៃទីបីនៃសប្តាហ៍បន្ទាប់ពីថ្ងៃចន្ទ និងថ្ងៃពុធមុន។",
-    "exampleKhmer": "ថ្ងៃអង្គារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថ្ងៃអង្គារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good tuesday",
+      "the tuesday is",
+      "to use a tuesday"
+    ]
   },
   {
     "id": "object",
@@ -13077,12 +16809,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unobject"
     ],
-    "image": "sports-object",
+    "image": "/images/vocab/object.jpg",
     "audioPlaceholder": "object",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ធ្វើ​ការ​ប្រឆាំង​ដោយ​ពាក្យ​សម្ដី​ឬ​ការ​ប្រកែក។",
-    "exampleKhmer": "វត្ថុ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "វត្ថុ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good object",
+      "the object is",
+      "to use a object"
+    ]
   },
   {
     "id": "lesbian",
@@ -13098,12 +16836,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlesbian"
     ],
-    "image": "nature-lesbian",
+    "image": "/images/vocab/lesbian.jpg",
     "audioPlaceholder": "lesbian",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងកោះដែលពីបុរាណហៅថា Lesbos, ឥឡូវនេះMitylene នៅក្នុងប្រជុំកោះ Grecian ។",
-    "exampleKhmer": "ស្ត្រីស្រឡាញ់ភេទដូចគ្នាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ស្ត្រីស្រឡាញ់ភេទដូចគ្នាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good lesbian",
+      "the lesbian is",
+      "to use a lesbian"
+    ]
   },
   {
     "id": "machine",
@@ -13119,12 +16863,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmachine"
     ],
-    "image": "daily-conversation-machine",
+    "image": "/images/vocab/machine.jpg",
     "audioPlaceholder": "machine",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ជាកម្មវត្ថុនៃសកម្មភាពរបស់ម៉ាស៊ីន។",
-    "exampleKhmer": "ម៉ាស៊ីន​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ម៉ាស៊ីន​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good machine",
+      "the machine is",
+      "to use a machine"
+    ]
   },
   {
     "id": "length",
@@ -13140,12 +16890,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlength"
     ],
-    "image": "family-length",
+    "image": "/images/vocab/length.jpg",
     "audioPlaceholder": "length",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីពង្រីក។",
-    "exampleKhmer": "រយៈពេល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រយៈពេល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good length",
+      "the length is",
+      "to use a length"
+    ]
   },
   {
     "id": "actually",
@@ -13161,12 +16917,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unactually"
     ],
-    "image": "food-actually",
+    "image": "/images/vocab/actually.jpg",
     "audioPlaceholder": "actually",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយការពិត។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងពិតប្រាកដអំ��ីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងពិតប្រាកដអំ��ីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very actually",
+      "a actually person",
+      "seems to be actually"
+    ]
   },
   {
     "id": "score",
@@ -13182,12 +16944,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unscore"
     ],
-    "image": "animals-score",
+    "image": "/images/vocab/score.jpg",
     "audioPlaceholder": "score",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "សេចក្តីព្រាងច្បាប់ដើម និងទាំងមូល ឬប្រតិចារឹករបស់វា នៃការផ្សំជាមួយនឹងផ្នែកសម្រាប់ឧបករណ៍ផ្សេងៗ ឬស��ឡេងដែលសរសេរនៅលើជើងឈើមួយពីលើមួយទៀត ដូច្នេះពួកគេអាចអានបានមួយភ្លែត។",
-    "exampleKhmer": "ពិន្ទុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ពិន្ទុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good score",
+      "the score is",
+      "to use a score"
+    ]
   },
   {
     "id": "client",
@@ -13203,12 +16971,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unclient"
     ],
-    "image": "school-client",
+    "image": "/images/vocab/client.jpg",
     "audioPlaceholder": "client",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ពលរដ្ឋ​ដែល​ដាក់​ខ្លួន​ឲ្យ​ស្ថិត​ក្រោម​ការ​ការពារ​របស់​បុរស​ដែល​មាន​ភាព​ខុស​ប្លែក​ពី​គេ និង​ឥទ្ធិពល​ដែល​គេ​ហៅ​ថា​អ្នក​គាំទ្រ​របស់​គាត់។",
-    "exampleKhmer": "អតិថិជនត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អតិថិជនត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good client",
+      "the client is",
+      "to use a client"
+    ]
   },
   {
     "id": "returns",
@@ -13224,12 +16998,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreturns"
     ],
-    "image": "travel-returns",
+    "image": "/images/vocab/returns.jpg",
     "audioPlaceholder": "returns",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការត្រឡប់មកវិញ។",
-    "exampleKhmer": "យើងត្រូវប្រគល់កិច្ចការនេះវិញឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវប្រគល់កិច្ចការនេះវិញឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to returns immediately",
+      "can returns easily",
+      "please returns"
+    ]
   },
   {
     "id": "capital",
@@ -13245,12 +17025,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncapital"
     ],
-    "image": "business-capital",
+    "image": "/images/vocab/capital.jpg",
     "audioPlaceholder": "capital",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ក្បាល ឬ​សមាជិក​ខាង​លើ​បំផុត​នៃ​ជួរ​ឈរ, pilaster ។ល។",
-    "exampleKhmer": "រាជធានី​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "រាជធានី​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good capital",
+      "the capital is",
+      "to use a capital"
+    ]
   },
   {
     "id": "follow",
@@ -13266,12 +17052,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfollow"
     ],
-    "image": "technology-follow",
+    "image": "/images/vocab/follow.jpg",
     "audioPlaceholder": "follow",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ទៅឬមកក្រោយ។",
-    "exampleKhmer": "ខាងក្រោមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ខាងក្រោមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good follow",
+      "the follow is",
+      "to use a follow"
+    ]
   },
   {
     "id": "sample",
@@ -13287,12 +17079,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsample"
     ],
-    "image": "health-sample",
+    "image": "/images/vocab/sample.jpg",
     "audioPlaceholder": "sample",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងគំរូ។",
-    "exampleKhmer": "គំរូត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "គំរូត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good sample",
+      "the sample is",
+      "to use a sample"
+    ]
   },
   {
     "id": "shown",
@@ -13308,12 +17106,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unshown"
     ],
-    "image": "shopping-shown",
+    "image": "/images/vocab/shown.jpg",
     "audioPlaceholder": "shown",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ទំ.",
-    "exampleKhmer": "ការបង្ហាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបង្ហាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good shown",
+      "the shown is",
+      "to use a shown"
+    ]
   },
   {
     "id": "saturday",
@@ -13329,12 +17133,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsaturday"
     ],
-    "image": "sports-saturday",
+    "image": "/images/vocab/saturday.jpg",
     "audioPlaceholder": "saturday",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ថ្ងៃទីប្រាំពីរឬថ្ងៃចុងក្រោយនៃសប្តាហ៍។",
-    "exampleKhmer": "ថ្ងៃសៅរ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថ្ងៃសៅរ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good saturday",
+      "the saturday is",
+      "to use a saturday"
+    ]
   },
   {
     "id": "england",
@@ -13350,12 +17160,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unengland"
     ],
-    "image": "nature-england",
+    "image": "/images/vocab/england.jpg",
     "audioPlaceholder": "england",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​ន���​ប្រទេស​អង់គ្លេស។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អង់គ្លេស' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អង់គ្លេស' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to england immediately",
+      "can england easily",
+      "please england"
+    ]
   },
   {
     "id": "culture",
@@ -13371,12 +17187,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unculture"
     ],
-    "image": "daily-conversation-culture",
+    "image": "/images/vocab/culture.jpg",
     "audioPlaceholder": "culture",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ដើម្បីដាំដុះ។",
-    "exampleKhmer": "វប្បធម៌​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "វប្បធម៌​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good culture",
+      "the culture is",
+      "to use a culture"
+    ]
   },
   {
     "id": "flash",
@@ -13392,12 +17214,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unflash"
     ],
-    "image": "family-flash",
+    "image": "/images/vocab/flash.jpg",
     "audioPlaceholder": "flash",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីគ្របដណ្តប់ជាមួយស្រទាប់ស្តើងមួយដូចជាវត្ថុនៃកញ្ចក់ជាមួយនឹងកញ្ចក់នៃពណ៌ផ្សេងគ្នា។",
-    "exampleKhmer": "ពន្លឺត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពន្លឺត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good flash",
+      "the flash is",
+      "to use a flash"
+    ]
   },
   {
     "id": "george",
@@ -13413,12 +17241,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungeorge"
     ],
-    "image": "food-george",
+    "image": "/images/vocab/george.jpg",
     "audioPlaceholder": "george",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយចច។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ដល់​លោក George អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ដល់​លោក George អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very george",
+      "a george person",
+      "seems to be george"
+    ]
   },
   {
     "id": "choice",
@@ -13434,12 +17268,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchoice"
     ],
-    "image": "animals-choice",
+    "image": "/images/vocab/choice.jpg",
     "audioPlaceholder": "choice",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការជ្រើសរើស។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជម្រើស' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជម្រើស' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to choice immediately",
+      "can choice easily",
+      "please choice"
+    ]
   },
   {
     "id": "starting",
@@ -13455,12 +17295,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstarting"
     ],
-    "image": "school-starting",
+    "image": "/images/vocab/starting.jpg",
     "audioPlaceholder": "starting",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ពីការចាប់ផ្តើម, v ។",
-    "exampleKhmer": "ការចាប់ផ្តើមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការចាប់ផ្តើមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good starting",
+      "the starting is",
+      "to use a starting"
+    ]
   },
   {
     "id": "thursday",
@@ -13476,12 +17322,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthursday"
     ],
-    "image": "travel-thursday",
+    "image": "/images/vocab/thursday.jpg",
     "audioPlaceholder": "thursday",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ថ្ងៃទីប្រាំនៃសប្តាហ៍បន្ទាប់ពីថ្ងៃពុធ និងថ្ងៃសុក្រមុន។",
-    "exampleKhmer": "ថ្ងៃ​ព្រហស្បតិ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ថ្ងៃ​ព្រហស្បតិ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good thursday",
+      "the thursday is",
+      "to use a thursday"
+    ]
   },
   {
     "id": "courses",
@@ -13497,12 +17349,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncourses"
     ],
-    "image": "business-courses",
+    "image": "/images/vocab/courses.jpg",
     "audioPlaceholder": "courses",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយវគ្គសិក្សា។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very courses",
+      "a courses person",
+      "seems to be courses"
+    ]
   },
   {
     "id": "consumer",
@@ -13518,12 +17376,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unconsumer"
     ],
-    "image": "technology-consumer",
+    "image": "/images/vocab/consumer.jpg",
     "audioPlaceholder": "consumer",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "អ្នកដែលឬរបស់ដែលប្រើប្រាស់។",
-    "exampleKhmer": "អតិថិជន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អតិថិជន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good consumer",
+      "the consumer is",
+      "to use a consumer"
+    ]
   },
   {
     "id": "airport",
@@ -13539,12 +17403,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unairport"
     ],
-    "image": "health-airport",
+    "image": "/images/vocab/airport.jpg",
     "audioPlaceholder": "airport",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងអាកាសយានដ្ឋាន។",
-    "exampleKhmer": "អាកាសយានដ្ឋាន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "អាកាសយានដ្ឋាន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good airport",
+      "the airport is",
+      "to use a airport"
+    ]
   },
   {
     "id": "foreign",
@@ -13560,12 +17430,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unforeign"
     ],
-    "image": "shopping-foreign",
+    "image": "/images/vocab/foreign.jpg",
     "audioPlaceholder": "foreign",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសក��្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយបរទេស។",
-    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to foreign immediately",
+      "can foreign easily",
+      "please foreign"
+    ]
   },
   {
     "id": "artist",
@@ -13581,12 +17457,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unartist"
     ],
-    "image": "sports-artist",
+    "image": "/images/vocab/artist.jpg",
     "audioPlaceholder": "artist",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "arts",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយសិល្បករ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ដល់​សិល្បករ​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ដល់​សិល្បករ​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very artist",
+      "a artist person",
+      "seems to be artist"
+    ]
   },
   {
     "id": "outside",
@@ -13602,12 +17484,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoutside"
     ],
-    "image": "nature-outside",
+    "image": "/images/vocab/outside.jpg",
     "audioPlaceholder": "outside",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ឬរៀបចំ។",
-    "exampleKhmer": "ខាង​ក្រៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ខាង​ក្រៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good outside",
+      "the outside is",
+      "to use a outside"
+    ]
   },
   {
     "id": "levels",
@@ -13623,12 +17511,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlevels"
     ],
-    "image": "daily-conversation-levels",
+    "image": "/images/vocab/levels.jpg",
     "audioPlaceholder": "levels",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកម្រិត។",
-    "exampleKhmer": "កម្រិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កម្រិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good levels",
+      "the levels is",
+      "to use a levels"
+    ]
   },
   {
     "id": "channel",
@@ -13644,12 +17538,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchannel"
     ],
-    "image": "family-channel",
+    "image": "/images/vocab/channel.jpg",
     "audioPlaceholder": "channel",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ច្រកសមុទ្រ ឬសមុទ្រតូចចង្អៀត រវាងផ្នែកពីរនៃដី។",
-    "exampleKhmer": "ឆានែលនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ឆានែលនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good channel",
+      "the channel is",
+      "to use a channel"
+    ]
   },
   {
     "id": "letter",
@@ -13665,12 +17565,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unletter"
     ],
-    "image": "food-letter",
+    "image": "/images/vocab/letter.jpg",
     "audioPlaceholder": "letter",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "អ្នកដែលអនុញ្ញាត ឬអនុញ្ញាត។",
-    "exampleKhmer": "សំបុត្រ​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សំបុត្រ​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good letter",
+      "the letter is",
+      "to use a letter"
+    ]
   },
   {
     "id": "phones",
@@ -13686,12 +17592,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unphones"
     ],
-    "image": "animals-phones",
+    "image": "/images/vocab/phones.jpg",
     "audioPlaceholder": "phones",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃទូរស័ព្ទ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ទូរស័ព្ទ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ទូរស័ព្ទ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to phones immediately",
+      "can phones easily",
+      "please phones"
+    ]
   },
   {
     "id": "ideas",
@@ -13707,12 +17619,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unideas"
     ],
-    "image": "school-ideas",
+    "image": "/images/vocab/ideas.jpg",
     "audioPlaceholder": "ideas",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងគំនិត។",
-    "exampleKhmer": "គំនិត​ទាំង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "គំនិត​ទាំង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good ideas",
+      "the ideas is",
+      "to use a ideas"
+    ]
   },
   {
     "id": "summer",
@@ -13728,12 +17646,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsummer"
     ],
-    "image": "travel-summer",
+    "image": "/images/vocab/summer.jpg",
     "audioPlaceholder": "summer",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "អ្នកដែលបូក។",
-    "exampleKhmer": "រដូវក្តៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "រដូវក្តៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good summer",
+      "the summer is",
+      "to use a summer"
+    ]
   },
   {
     "id": "allow",
@@ -13749,12 +17673,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unallow"
     ],
-    "image": "business-allow",
+    "image": "/images/vocab/allow.jpg",
     "audioPlaceholder": "allow",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ដើម្បីទទួលស្គាល់។",
-    "exampleKhmer": "ការអនុញ្ញាតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអ��ឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការអនុញ្ញាតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអ��ឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good allow",
+      "the allow is",
+      "to use a allow"
+    ]
   },
   {
     "id": "degree",
@@ -13770,12 +17700,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undegree"
     ],
-    "image": "technology-degree",
+    "image": "/images/vocab/degree.jpg",
     "audioPlaceholder": "degree",
     "difficulty": "B1+",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ចម្ងាយជាក់លាក់មួយឬដកចេញនៅក្នុងបន្ទាត់នៃការធ្លាក់ចុះ, កំណត់ភាពជិតនៃឈាម។",
-    "exampleKhmer": "សញ្ញាបត្រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "សញ្ញាបត្រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good degree",
+      "the degree is",
+      "to use a degree"
+    ]
   },
   {
     "id": "contract",
@@ -13791,12 +17727,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncontract"
     ],
-    "image": "health-contract",
+    "image": "/images/vocab/contract.jpg",
     "audioPlaceholder": "contract",
     "difficulty": "B1+",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "កាត់​ឲ្យ​ខ្លី​ដោយ​លុប​អក្សរ ឬ​អក្សរ ឬ​ដោយ​កាត់​ស្រៈ ឬ​ព្យាង្គ​ពីរ​ឬ​ច្រើន​មក​មួយ។",
-    "exampleKhmer": "កិច្ច​សន្យា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "កិច្ច​សន្យា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good contract",
+      "the contract is",
+      "to use a contract"
+    ]
   },
   {
     "id": "button",
@@ -13812,12 +17754,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbutton"
     ],
-    "image": "shopping-button",
+    "image": "/images/vocab/button.jpg",
     "audioPlaceholder": "button",
     "difficulty": "B1+",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីភ្ជាប់ដោយប៊ូតុងឬប៊ូតុង។",
-    "exampleKhmer": "ប៊ូតុង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ប៊ូតុង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good button",
+      "the button is",
+      "to use a button"
+    ]
   },
   {
     "id": "releases",
@@ -13833,12 +17781,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreleases"
     ],
-    "image": "sports-releases",
+    "image": "/images/vocab/releases.jpg",
     "audioPlaceholder": "releases",
     "difficulty": "B1+",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការចេញផ្សាយ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very releases",
+      "a releases person",
+      "seems to be releases"
+    ]
   },
   {
     "id": "homes",
@@ -13854,12 +17808,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhomes"
     ],
-    "image": "nature-homes",
+    "image": "/images/vocab/homes.jpg",
     "audioPlaceholder": "homes",
     "difficulty": "B1+",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃផ្ទះ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្ទះ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្ទះ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to homes immediately",
+      "can homes easily",
+      "please homes"
+    ]
   },
   {
     "id": "super",
@@ -13875,12 +17835,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsuper"
     ],
-    "image": "daily-conversation-super",
+    "image": "/images/vocab/super.jpg",
     "audioPlaceholder": "super",
     "difficulty": "B1+",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ការ​បង្រួញ​នៃ​លេខ​លើស​ពី​ក្នុង​ន័យ ២.",
-    "exampleKhmer": "កំពូលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កំពូលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good super",
+      "the super is",
+      "to use a super"
+    ]
   },
   {
     "id": "matter",
@@ -13896,12 +17862,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmatter"
     ],
-    "image": "family-matter",
+    "image": "/images/vocab/matter.jpg",
     "audioPlaceholder": "matter",
     "difficulty": "B1+",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "អ្វីដែលជាអចិន្ត្រៃយ៍ ឬត្រូវបានគេសន្មត់ថាផ្តល់ឱ្យ និងនៅក្នុង orupon ដែលការផ្លាស់ប្តូរត្រូវបានជះឥទ្ធិពលដោយដំណើរការផ្លូវចិត្ត ឬរាងកាយ និងទំនាក់ទំនង។",
-    "exampleKhmer": "បញ្ហា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "បញ្ហា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good matter",
+      "the matter is",
+      "to use a matter"
+    ]
   },
   {
     "id": "custom",
@@ -13917,12 +17889,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncustom"
     ],
-    "image": "food-custom",
+    "image": "/images/vocab/custom.jpg",
     "audioPlaceholder": "custom",
     "difficulty": "B1+",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ការអនុវត្ត​ដែល​បាន​បង្កើត​ជា​យូរ​មក​ហើយ ចាត់​ទុក​ថា​ជា​ច្បាប់​ដែល​មិន​បាន​សរសេរ និង​ការ​សម្រាក​សម្រាប់​អាជ្ញាធរ​ដោយ​ការ​យល់ព្រម​ជា​យូរ។",
-    "exampleKhmer": "ទំនៀម​ទម្លាប់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទំនៀម​ទម្លាប់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good custom",
+      "the custom is",
+      "to use a custom"
+    ]
   },
   {
     "id": "virginia",
@@ -13938,12 +17916,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvirginia"
     ],
-    "image": "animals-virginia",
+    "image": "/images/vocab/virginia.jpg",
     "audioPlaceholder": "virginia",
     "difficulty": "B1+",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "រដ្ឋមួយនៃសហរដ្ឋអាមេរិក។-- ក.",
-    "exampleKhmer": "ព្រហ្មចារី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ព្រហ្មចារី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good virginia",
+      "the virginia is",
+      "to use a virginia"
+    ]
   },
   {
     "id": "almost",
@@ -13959,12 +17943,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unalmost"
     ],
-    "image": "school-almost",
+    "image": "/images/vocab/almost.jpg",
     "audioPlaceholder": "almost",
     "difficulty": "B1+",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ជិត។",
-    "exampleKhmer": "ស្ទើរតែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ស្ទើរតែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good almost",
+      "the almost is",
+      "to use a almost"
+    ]
   },
   {
     "id": "located",
@@ -13980,12 +17970,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlocated"
     ],
-    "image": "travel-located",
+    "image": "/images/vocab/located.jpg",
     "audioPlaceholder": "located",
     "difficulty": "B1+",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយទីតាំង។",
-    "exampleKhmer": "យើងត្រូវកំណត់ភារកិច្ចនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកំណត់ភារកិច្ចនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to located immediately",
+      "can located easily",
+      "please located"
+    ]
   },
   {
     "id": "multiple",
@@ -14001,12 +17997,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmultiple"
     ],
-    "image": "business-multiple",
+    "image": "/images/vocab/multiple.jpg",
     "audioPlaceholder": "multiple",
     "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានច្រើនជាងមួយដង ឬច្រើនជាងមួយ។",
-    "exampleKhmer": "ពហុវចនៈត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពហុវចនៈត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good multiple",
+      "the multiple is",
+      "to use a multiple"
+    ]
   },
   {
     "id": "asian",
@@ -14022,12 +18024,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unasian"
     ],
-    "image": "technology-asian",
+    "image": "/images/vocab/asian.jpg",
     "audioPlaceholder": "asian",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "នៃឬទាក់ទងនឹងអាស៊ី។",
-    "exampleKhmer": "អាស៊ី​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "អាស៊ី​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good asian",
+      "the asian is",
+      "to use a asian"
+    ]
   },
   {
     "id": "editor",
@@ -14043,12 +18051,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uneditor"
     ],
-    "image": "health-editor",
+    "image": "/images/vocab/editor.jpg",
     "audioPlaceholder": "editor",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "អ្នកដែលកែ។",
-    "exampleKhmer": "អ្នកកែសម្រួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អ្នកកែសម្រួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good editor",
+      "the editor is",
+      "to use a editor"
+    ]
   },
   {
     "id": "cause",
@@ -14064,12 +18078,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncause"
     ],
-    "image": "shopping-cause",
+    "image": "/images/vocab/cause.jpg",
     "audioPlaceholder": "cause",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "បណ្តឹងឬសកម្មភាពនៅក្នុងតុលាការ។",
-    "exampleKhmer": "មូលហេតុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ា��​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មូលហេតុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ា��​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good cause",
+      "the cause is",
+      "to use a cause"
+    ]
   },
   {
     "id": "focus",
@@ -14085,12 +18105,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfocus"
     ],
-    "image": "sports-focus",
+    "image": "/images/vocab/focus.jpg",
     "audioPlaceholder": "focus",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ចំណុចមួយដែលកាំរស្មីនៃពន្លឺជួបគ្នា បន្ទាប់ពីត្រូវបានឆ្លុះបញ្ចាំង ឬឆ្លុះបញ្ចាំង និងដែលរូបភាពត្រូវបានបង្កើតឡើង។",
-    "exampleKhmer": "ការផ្តោតអារម្មណ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការផ្តោតអារម្មណ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good focus",
+      "the focus is",
+      "to use a focus"
+    ]
   },
   {
     "id": "featured",
@@ -14106,12 +18132,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfeatured"
     ],
-    "image": "nature-featured",
+    "image": "/images/vocab/featured.jpg",
     "audioPlaceholder": "featured",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​មាន​លក្ខណៈ​ពិសេស​។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'លក្ខណៈពិសេស' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'លក្ខណៈពិសេស' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to featured immediately",
+      "can featured easily",
+      "please featured"
+    ]
   },
   {
     "id": "rooms",
@@ -14127,12 +18159,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrooms"
     ],
-    "image": "daily-conversation-rooms",
+    "image": "/images/vocab/rooms.jpg",
     "audioPlaceholder": "rooms",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងបន្ទប់។",
-    "exampleKhmer": "បន្ទប់ត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "បន្ទប់ត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good rooms",
+      "the rooms is",
+      "to use a rooms"
+    ]
   },
   {
     "id": "female",
@@ -14148,12 +18186,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfemale"
     ],
-    "image": "family-female",
+    "image": "/images/vocab/female.jpg",
     "audioPlaceholder": "female",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "រុក្ខជាតិដែលបង្កើតបានតែសរីរាង្គបន្តពូជប្រភេទនោះ ដែលមានសមត្ថភាពបង្កើតផ្លែបន្ទាប់ពីការបង្កកំណើតដោយ impregnation orfertilization។",
-    "exampleKhmer": "ស្ត្រី​រូប​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ស្ត្រី​រូប​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good female",
+      "the female is",
+      "to use a female"
+    ]
   },
   {
     "id": "thomas",
@@ -14169,12 +18213,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthomas"
     ],
-    "image": "food-thomas",
+    "image": "/images/vocab/thomas.jpg",
     "audioPlaceholder": "thomas",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយថូម៉ាស។",
-    "exampleKhmer": "នាងបានពន្យល់ថូម៉ាសអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានពន្យល់ថូម៉ាសអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very thomas",
+      "a thomas person",
+      "seems to be thomas"
+    ]
   },
   {
     "id": "primary",
@@ -14190,12 +18240,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprimary"
     ],
-    "image": "animals-primary",
+    "image": "/images/vocab/primary.jpg",
     "audioPlaceholder": "primary",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "បង្កើតឡើងដំបូងបំផុត។",
-    "exampleKhmer": "បឋមសិក្សាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "បឋមសិក្សាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good primary",
+      "the primary is",
+      "to use a primary"
+    ]
   },
   {
     "id": "cancer",
@@ -14211,12 +18267,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncancer"
     ],
-    "image": "school-cancer",
+    "image": "/images/vocab/cancer.jpg",
     "audioPlaceholder": "cancer",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ប្រភេទមួយនៃ decapod Crustacea រួមទាំងក្តាមច្រាំងភាគច្រើនបំផុតនៃទ្វីបអឺរ៉ុប និងអាមេរិកខាងជើង ដូចជាក្តាមថ្ម Jonahcrab ជាដើម។",
-    "exampleKhmer": "មហារីក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "មហារីក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good cancer",
+      "the cancer is",
+      "to use a cancer"
+    ]
   },
   {
     "id": "numbers",
@@ -14232,12 +18294,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnumbers"
     ],
-    "image": "travel-numbers",
+    "image": "/images/vocab/numbers.jpg",
     "audioPlaceholder": "numbers",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "នៃលេខ។",
-    "exampleKhmer": "លេខ​ទាំង​នោះ​ត្រូវ​ប��ន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "លេខ​ទាំង​នោះ​ត្រូវ​ប��ន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good numbers",
+      "the numbers is",
+      "to use a numbers"
+    ]
   },
   {
     "id": "reason",
@@ -14253,12 +18321,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreason"
     ],
-    "image": "business-reason",
+    "image": "/images/vocab/reason.jpg",
     "audioPlaceholder": "reason",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "សមាមាត្រ។",
-    "exampleKhmer": "ហេតុផល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ហេតុផល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good reason",
+      "the reason is",
+      "to use a reason"
+    ]
   },
   {
     "id": "browser",
@@ -14274,12 +18348,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbrowser"
     ],
-    "image": "technology-browser",
+    "image": "/images/vocab/browser.jpg",
     "audioPlaceholder": "browser",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "សត្វដែលរុករក។",
-    "exampleKhmer": "កម្មវិធីរុករកតាមអ៊ីនធឺណិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កម្មវិធីរុករកតាមអ៊ីនធឺណិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good browser",
+      "the browser is",
+      "to use a browser"
+    ]
   },
   {
     "id": "spring",
@@ -14295,12 +18375,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unspring"
     ],
-    "image": "health-spring",
+    "image": "/images/vocab/spring.jpg",
     "audioPlaceholder": "spring",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ជាយុវជនសកម្ម និងនិទាឃរដូវ។",
-    "exampleKhmer": "និទាឃរដូវត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "និទាឃរដូវត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good spring",
+      "the spring is",
+      "to use a spring"
+    ]
   },
   {
     "id": "answer",
@@ -14316,12 +18402,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unanswer"
     ],
-    "image": "shopping-answer",
+    "image": "/images/vocab/answer.jpg",
     "audioPlaceholder": "answer",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "សេចក្តីថ្លែងការណ៍ប្រឆាំងនឹងការពិតនៅក្នុងវគ្គនៃការប្តឹងតវ៉ា។",
-    "exampleKhmer": "ចម្លើយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ចម្លើយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good answer",
+      "the answer is",
+      "to use a answer"
+    ]
   },
   {
     "id": "voice",
@@ -14337,12 +18429,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvoice"
     ],
-    "image": "sports-voice",
+    "image": "/images/vocab/voice.jpg",
     "audioPlaceholder": "voice",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "សំឡេង​ប្រភេទ ឬ​គុណភាព​ដែល​ឮ​ក្នុង​ការ​និយាយ ឬ​ចម្រៀង​ក្នុង​ព្យញ្ជនៈ ខ, វ, ឃ ។ល។ និង​ក្នុង​ស្រៈ។",
-    "exampleKhmer": "សំឡេង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សំឡេង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good voice",
+      "the voice is",
+      "to use a voice"
+    ]
   },
   {
     "id": "friendly",
@@ -14358,12 +18456,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfriendly"
     ],
-    "image": "nature-friendly",
+    "image": "/images/vocab/friendly.jpg",
     "audioPlaceholder": "friendly",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "តាមរបៀបមិត្តភក្តិ។",
-    "exampleKhmer": "មិត្តភាព​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មិត្តភាព​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good friendly",
+      "the friendly is",
+      "to use a friendly"
+    ]
   },
   {
     "id": "schedule",
@@ -14379,12 +18483,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unschedule"
     ],
-    "image": "daily-conversation-schedule",
+    "image": "/images/vocab/schedule.jpg",
     "audioPlaceholder": "schedule",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "រមូរដែលសរសេរ ឬបោះពុម្ព ឬសន្លឹកក្រដាស។",
-    "exampleKhmer": "កាលវិភាគ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កាលវិភាគ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good schedule",
+      "the schedule is",
+      "to use a schedule"
+    ]
   },
   {
     "id": "purpose",
@@ -14400,12 +18510,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpurpose"
     ],
-    "image": "family-purpose",
+    "image": "/images/vocab/purpose.jpg",
     "audioPlaceholder": "purpose",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "មានគោលបំណងឬចេតនា។",
-    "exampleKhmer": "គោលបំណងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "គោលបំណងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good purpose",
+      "the purpose is",
+      "to use a purpose"
+    ]
   },
   {
     "id": "feature",
@@ -14421,12 +18537,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfeature"
     ],
-    "image": "food-feature",
+    "image": "/images/vocab/feature.jpg",
     "audioPlaceholder": "feature",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយលក្ខណៈ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងពិសេសអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងពិសេសអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very feature",
+      "a feature person",
+      "seems to be feature"
+    ]
   },
   {
     "id": "comes",
@@ -14442,12 +18564,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncomes"
     ],
-    "image": "animals-comes",
+    "image": "/images/vocab/comes.jpg",
     "audioPlaceholder": "comes",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ចម្លើយចំពោះប្រធានបទ (dux) នៅក្នុង fugue ។",
-    "exampleKhmer": "ការមកដល់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការមកដល់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good comes",
+      "the comes is",
+      "to use a comes"
+    ]
   },
   {
     "id": "police",
@@ -14463,12 +18591,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpolice"
     ],
-    "image": "school-police",
+    "image": "/images/vocab/police.jpg",
     "audioPlaceholder": "police",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "កង​រាជ​អាវុធ​ហត្ថ​ សាកសព​ទាហាន​បាន​រៀប​រាប់​លម្អិត​ពី​ការ​រក្សា​សណ្តាប់​ធ្នាប់​ និង​ចូល​រួម​ក្នុង​ការ​រៀប​ចំ​អនាម័យ​នៅ​ក្នុង​យោធភូមិ​ភាគ។",
-    "exampleKhmer": "ប៉ូលិស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប៉ូលិស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good police",
+      "the police is",
+      "to use a police"
+    ]
   },
   {
     "id": "everyone",
@@ -14484,12 +18618,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uneveryone"
     ],
-    "image": "travel-everyone",
+    "image": "/images/vocab/everyone.jpg",
     "audioPlaceholder": "everyone",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ទាំងអស់គ្នា។",
-    "exampleKhmer": "អ្នក​រាល់​គ្នា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នក​រាល់​គ្នា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good everyone",
+      "the everyone is",
+      "to use a everyone"
+    ]
   },
   {
     "id": "approach",
@@ -14505,12 +18645,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unapproach"
     ],
-    "image": "business-approach",
+    "image": "/images/vocab/approach.jpg",
     "audioPlaceholder": "approach",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ដើម្បីទទួលយកវិធីសាស្រ្ត។",
-    "exampleKhmer": "វិធីសាស្រ្តនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "វិធីសាស្រ្តនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good approach",
+      "the approach is",
+      "to use a approach"
+    ]
   },
   {
     "id": "cameras",
@@ -14526,12 +18672,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncameras"
     ],
-    "image": "technology-cameras",
+    "image": "/images/vocab/cameras.jpg",
     "audioPlaceholder": "cameras",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃកាមេរ៉ា។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កាមេរ៉ា' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កាមេរ៉ា' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to cameras immediately",
+      "can cameras easily",
+      "please cameras"
+    ]
   },
   {
     "id": "brown",
@@ -14547,12 +18699,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbrown"
     ],
-    "image": "health-brown",
+    "image": "/images/vocab/brown.jpg",
     "audioPlaceholder": "brown",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ពណ៌ងងឹត មានស្រមោលផ្សេងៗរវាងពណ៌ខ្មៅ និងក្រហម។ ថ្ពាល់ពណ៌ត្នោតដូចស្លឹកឈើអុក។",
-    "exampleKhmer": "ពណ៌ត្នោតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពណ៌ត្នោតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good brown",
+      "the brown is",
+      "to use a brown"
+    ]
   },
   {
     "id": "physical",
@@ -14568,12 +18726,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unphysical"
     ],
-    "image": "shopping-physical",
+    "image": "/images/vocab/physical.jpg",
     "audioPlaceholder": "physical",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងរាងកាយ។",
-    "exampleKhmer": "យើងត្រូវរៀបចំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវរៀបចំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to physical immediately",
+      "can physical easily",
+      "please physical"
+    ]
   },
   {
     "id": "medicine",
@@ -14589,12 +18753,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmedicine"
     ],
-    "image": "sports-medicine",
+    "image": "/images/vocab/medicine.jpg",
     "audioPlaceholder": "medicine",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "គ្រូពេទ្យម្នាក់។",
-    "exampleKhmer": "ថ្នាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថ្នាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good medicine",
+      "the medicine is",
+      "to use a medicine"
+    ]
   },
   {
     "id": "ratings",
@@ -14610,12 +18780,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unratings"
     ],
-    "image": "nature-ratings",
+    "image": "/images/vocab/ratings.jpg",
     "audioPlaceholder": "ratings",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការវាយតម្លៃ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រ���ពាក្យ 'ចំណាត់ថ្នាក់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រ���ពាក្យ 'ចំណាត់ថ្នាក់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to ratings immediately",
+      "can ratings easily",
+      "please ratings"
+    ]
   },
   {
     "id": "chicago",
@@ -14631,12 +18807,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchicago"
     ],
-    "image": "daily-conversation-chicago",
+    "image": "/images/vocab/chicago.jpg",
     "audioPlaceholder": "chicago",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងឈីកាហ្គោ។",
-    "exampleKhmer": "ទីក្រុងឈីកាហ្គោត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ទីក្រុងឈីកាហ្គោត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good chicago",
+      "the chicago is",
+      "to use a chicago"
+    ]
   },
   {
     "id": "forms",
@@ -14652,12 +18834,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unforms"
     ],
-    "image": "family-forms",
+    "image": "/images/vocab/forms.jpg",
     "audioPlaceholder": "forms",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយទម្រង់។",
-    "exampleKhmer": "យើងត្រូវបង្កើតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវបង្កើតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to forms immediately",
+      "can forms easily",
+      "please forms"
+    ]
   },
   {
     "id": "glass",
@@ -14673,12 +18861,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unglass"
     ],
-    "image": "food-glass",
+    "image": "/images/vocab/glass.jpg",
     "audioPlaceholder": "glass",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "សារធាតុណាមួយដែលមានរូបរាងកញ្ចក់ប្លែក និងការបាក់ឆ្អឹង aconchoidal ហើយជាធម្មតាត្រូវបានផលិតដោយការលាយបញ្ចូលគ្នា។",
-    "exampleKhmer": "កែវ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កែវ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good glass",
+      "the glass is",
+      "to use a glass"
+    ]
   },
   {
     "id": "happy",
@@ -14694,12 +18888,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhappy"
     ],
-    "image": "animals-happy",
+    "image": "/images/vocab/happy.jpg",
     "audioPlaceholder": "happy",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​ស្ទីល​ដែល​ជា​លក្ខណៈ​នៃ​ការ​សប្បាយ។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រីករាយ' នៅក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រីករាយ' នៅក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to happy immediately",
+      "can happy easily",
+      "please happy"
+    ]
   },
   {
     "id": "smith",
@@ -14715,12 +18915,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsmith"
     ],
-    "image": "school-smith",
+    "image": "/images/vocab/smith.jpg",
     "audioPlaceholder": "smith",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ដើម្បីវាយទៅជារាង។",
-    "exampleKhmer": "ជាងដែក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ជាងដែក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good smith",
+      "the smith is",
+      "to use a smith"
+    ]
   },
   {
     "id": "wanted",
@@ -14736,12 +18942,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwanted"
     ],
-    "image": "travel-wanted",
+    "image": "/images/vocab/wanted.jpg",
     "audioPlaceholder": "wanted",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការចង់បាន។",
-    "exampleKhmer": "យើងត្រូវចង់បានកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវចង់បានកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to wanted immediately",
+      "can wanted easily",
+      "please wanted"
+    ]
   },
   {
     "id": "thank",
@@ -14757,12 +18969,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unthank"
     ],
-    "image": "business-thank",
+    "image": "/images/vocab/thank.jpg",
     "audioPlaceholder": "thank",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ការបង្ហាញនៃការដឹងគុណ។",
-    "exampleKhmer": "ការថ្លែងអំណរគុណត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការថ្លែងអំណរគុណត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good thank",
+      "the thank is",
+      "to use a thank"
+    ]
   },
   {
     "id": "unique",
@@ -14778,12 +18996,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ununique"
     ],
-    "image": "technology-unique",
+    "image": "/images/vocab/unique.jpg",
     "audioPlaceholder": "unique",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ការ​ដែល​គ្មាន​ភាព​ដូច​ឬ​ស្មើ​។",
-    "exampleKhmer": "ចំណុចពិសេសនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ចំណុចពិសេសនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good unique",
+      "the unique is",
+      "to use a unique"
+    ]
   },
   {
     "id": "survey",
@@ -14799,12 +19023,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsurvey"
     ],
-    "image": "health-survey",
+    "image": "/images/vocab/survey.jpg",
     "audioPlaceholder": "survey",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការស្ទង់មតិ។",
-    "exampleKhmer": "ការស្ទង់មតិនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការស្ទង់មតិនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good survey",
+      "the survey is",
+      "to use a survey"
+    ]
   },
   {
     "id": "prior",
@@ -14820,12 +19050,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprior"
     ],
-    "image": "shopping-prior",
+    "image": "/images/vocab/prior.jpg",
     "audioPlaceholder": "prior",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "នាំមុខតាមលំដាប់នៃពេលវេលា។",
-    "exampleKhmer": "មុន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "មុន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good prior",
+      "the prior is",
+      "to use a prior"
+    ]
   },
   {
     "id": "sport",
@@ -14841,12 +19077,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsport"
     ],
-    "image": "sports-sport",
+    "image": "/images/vocab/sport.jpg",
     "audioPlaceholder": "sport",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "រុក្ខជាតិ ឬសត្វ ឬផ្នែកនៃរុក្ខជាតិ ឬសត្វ ដែលមានលក្ខណៈប្លែកពីគេ ជាធម្មតាមិនឃើញនៅក្នុងប្រភេទសត្វនោះទេ។",
-    "exampleKhmer": "កីឡា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "កីឡា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good sport",
+      "the sport is",
+      "to use a sport"
+    ]
   },
   {
     "id": "ready",
@@ -14862,12 +19104,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unready"
     ],
-    "image": "nature-ready",
+    "image": "/images/vocab/ready.jpg",
     "audioPlaceholder": "ready",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ពាក្យបញ្ជា ឬទីតាំងមួយនៅក្នុងសៀវភៅដៃ ដែល��ុំនោះត្រូវបានក្រឡុក និងកាន់ក្នុងទីតាំងដើម្បីប្រតិបត្តិភ្លាមៗនូវពាក្យបញ្ជាបន្ទាប់ ដែលជាគោលបំណង។",
-    "exampleKhmer": "ការ​ត្រៀម​ខ្លួន​ជា​ស្រេច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ត្រៀម​ខ្លួន​ជា​ស្រេច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good ready",
+      "the ready is",
+      "to use a ready"
+    ]
   },
   {
     "id": "animal",
@@ -14883,12 +19131,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unanimal"
     ],
-    "image": "daily-conversation-animal",
+    "image": "/images/vocab/animal.jpg",
     "audioPlaceholder": "animal",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នៃ, ទាក់ទងនឹង, ឬប្រហាក់ប្រហែល, សត្វ។",
-    "exampleKhmer": "សត្វនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សត្វនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good animal",
+      "the animal is",
+      "to use a animal"
+    ]
   },
   {
     "id": "sources",
@@ -14904,12 +19158,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsources"
     ],
-    "image": "family-sources",
+    "image": "/images/vocab/sources.jpg",
     "audioPlaceholder": "sources",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយប្រភព។",
-    "exampleKhmer": "យើងត្រូវផ្តល់ប្រភពកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវផ្តល់ប្រភពកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to sources immediately",
+      "can sources easily",
+      "please sources"
+    ]
   },
   {
     "id": "mexico",
@@ -14925,12 +19185,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmexico"
     ],
-    "image": "food-mexico",
+    "image": "/images/vocab/mexico.jpg",
     "audioPlaceholder": "mexico",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយម៉ិកស៊ិក។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​��ារ​ពន្យល់​ម៉ិកស៊ិក​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​��ារ​ពន្យល់​ម៉ិកស៊ិក​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very mexico",
+      "a mexico person",
+      "seems to be mexico"
+    ]
   },
   {
     "id": "regular",
@@ -14946,12 +19212,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unregular"
     ],
-    "image": "animals-regular",
+    "image": "/images/vocab/regular.jpg",
     "audioPlaceholder": "regular",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "មានផ្នែកទាំងអស់នៃប្រភេទដូចគ្នាទាំងទំហំ និងរូបរាង។",
-    "exampleKhmer": "ភាពទៀងទាត់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាពទៀងទាត់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good regular",
+      "the regular is",
+      "to use a regular"
+    ]
   },
   {
     "id": "secure",
@@ -14967,12 +19239,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsecure"
     ],
-    "image": "school-secure",
+    "image": "/images/vocab/secure.jpg",
     "audioPlaceholder": "secure",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសុវត្ថិភាព។",
-    "exampleKhmer": "សុវត្ថិភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សុវត្ថិភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good secure",
+      "the secure is",
+      "to use a secure"
+    ]
   },
   {
     "id": "simply",
@@ -14988,12 +19266,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsimply"
     ],
-    "image": "travel-simply",
+    "image": "/images/vocab/simply.jpg",
     "audioPlaceholder": "simply",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "សូមមើល Simulacrum ។",
-    "exampleKhmer": "អ្វី​ដែល​សាមញ្ញ​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្វី​ដែល​សាមញ្ញ​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good simply",
+      "the simply is",
+      "to use a simply"
+    ]
   },
   {
     "id": "evidence",
@@ -15009,12 +19293,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unevidence"
     ],
-    "image": "business-evidence",
+    "image": "/images/vocab/evidence.jpg",
     "audioPlaceholder": "evidence",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ដែលត្រូវបានបញ្ជូនតាមផ្លូវច្បាប់ទៅកាន់សាលាក្តីមានសមត្ថកិច្ច ដើម្បីស្វែងរកការពិតនៃបញ្ហាដែលចោទប្រកាន់ណាមួយនៃអង្គហេតុ ការស៊ើបអង្កេតមិនគ្រប់មុនពេលវា។",
-    "exampleKhmer": "ភ័ស្តុតាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ភ័ស្តុតាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good evidence",
+      "the evidence is",
+      "to use a evidence"
+    ]
   },
   {
     "id": "station",
@@ -15030,12 +19320,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstation"
     ],
-    "image": "technology-station",
+    "image": "/images/vocab/station.jpg",
     "audioPlaceholder": "station",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ទីកន្លែងជាក់លាក់ ឬប្រភេទនៃស្ថានភាព ដែលប្រភេទសត្វកើតឡើងដោយធម្មជាតិ។",
-    "exampleKhmer": "ស្ថានីយ៍នេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ស្ថានីយ៍នេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good station",
+      "the station is",
+      "to use a station"
+    ]
   },
   {
     "id": "round",
@@ -15051,12 +19347,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unround"
     ],
-    "image": "health-round",
+    "image": "/images/vocab/round.jpg",
     "audioPlaceholder": "round",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ខ្សឹប។",
-    "exampleKhmer": "ជុំនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជុំនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good round",
+      "the round is",
+      "to use a round"
+    ]
   },
   {
     "id": "paypal",
@@ -15072,12 +19374,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpaypal"
     ],
-    "image": "shopping-paypal",
+    "image": "/images/vocab/paypal.jpg",
     "audioPlaceholder": "paypal",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយ paypal ។",
-    "exampleKhmer": "យើងត្រូវ paypal កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការ។"
+    "exampleKhmer": "យើងត្រូវ paypal កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការ។",
+    "audio": "",
+    "commonCollocations": [
+      "to paypal immediately",
+      "can paypal easily",
+      "please paypal"
+    ]
   },
   {
     "id": "favorite",
@@ -15093,12 +19401,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfavorite"
     ],
-    "image": "sports-favorite",
+    "image": "/images/vocab/favorite.jpg",
     "audioPlaceholder": "favorite",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "អង្កាញ់​ខ្លី​ព្យួរ​លើ​ប្រាសាទ។",
-    "exampleKhmer": "សំណព្វ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សំណព្វ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good favorite",
+      "the favorite is",
+      "to use a favorite"
+    ]
   },
   {
     "id": "option",
@@ -15114,12 +19428,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoption"
     ],
-    "image": "nature-option",
+    "image": "/images/vocab/option.jpg",
     "audioPlaceholder": "option",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "សិទ្ធិដែលពីមុនជាកម្មសិទ្ធិរបស់អាចារ្យក្នុងការជ្រើសរើសភាពថ្លៃថ្នូរ ឬអត្ថប្រយោជន៍ណាមួយនៅក្នុងអំ��ោយរបស់ប៊ីស្សពបសុទ្ឋដែលបានឧទ្ទិស ឬបញ្ជាក់ដោយគាត់ សម្រាប់ផ្តល់ឱ្យដោយខ្លួនឯងនៅពេលបន្ទាប់ទំនេរ។",
-    "exampleKhmer": "ជម្រើស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ជម្រើស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good option",
+      "the option is",
+      "to use a option"
+    ]
   },
   {
     "id": "master",
@@ -15135,12 +19455,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmaster"
     ],
-    "image": "daily-conversation-master",
+    "image": "/images/vocab/master.jpg",
     "audioPlaceholder": "master",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "កប៉ាល់ដែលមានបង្គោល (ច្រើន) ។",
-    "exampleKhmer": "មេត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មេត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good master",
+      "the master is",
+      "to use a master"
+    ]
   },
   {
     "id": "valley",
@@ -15156,12 +19482,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvalley"
     ],
-    "image": "family-valley",
+    "image": "/images/vocab/valley.jpg",
     "audioPlaceholder": "valley",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងជ្រលងភ្នំ។",
-    "exampleKhmer": "យើងត្រូវកាត់បន្ថយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកាត់បន្ថយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to valley immediately",
+      "can valley easily",
+      "please valley"
+    ]
   },
   {
     "id": "recently",
@@ -15177,12 +19509,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrecently"
     ],
-    "image": "food-recently",
+    "image": "/images/vocab/recently.jpg",
     "audioPlaceholder": "recently",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ថ្មីៗ។",
-    "exampleKhmer": "ថ្មីៗ​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ថ្មីៗ​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good recently",
+      "the recently is",
+      "to use a recently"
+    ]
   },
   {
     "id": "probably",
@@ -15198,12 +19536,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprobably"
     ],
-    "image": "animals-probably",
+    "image": "/images/vocab/probably.jpg",
     "audioPlaceholder": "probably",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ទំនង។",
-    "exampleKhmer": "ប្រហែល​ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រហែល​ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good probably",
+      "the probably is",
+      "to use a probably"
+    ]
   },
   {
     "id": "rentals",
@@ -15219,12 +19563,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrentals"
     ],
-    "image": "school-rentals",
+    "image": "/images/vocab/rentals.jpg",
     "audioPlaceholder": "rentals",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការជួល។",
-    "exampleKhmer": "ការជួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការជួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good rentals",
+      "the rentals is",
+      "to use a rentals"
+    ]
   },
   {
     "id": "built",
@@ -15240,12 +19590,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbuilt"
     ],
-    "image": "travel-built",
+    "image": "/images/vocab/built.jpg",
     "audioPlaceholder": "built",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "រាង។",
-    "exampleKhmer": "ការ​សាង​សង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។"
+    "exampleKhmer": "ការ​សាង​សង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good built",
+      "the built is",
+      "to use a built"
+    ]
   },
   {
     "id": "blood",
@@ -15261,12 +19617,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unblood"
     ],
-    "image": "business-blood",
+    "image": "/images/vocab/blood.jpg",
     "audioPlaceholder": "blood",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "តំណពូជពីឪពុកម្ត���យនៃពូជដែលទទួលស្គាល់។",
-    "exampleKhmer": "ឈាម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឈាម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good blood",
+      "the blood is",
+      "to use a blood"
+    ]
   },
   {
     "id": "improve",
@@ -15282,12 +19644,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unimprove"
     ],
-    "image": "technology-improve",
+    "image": "/images/vocab/improve.jpg",
     "audioPlaceholder": "improve",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការកែលម្អ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កែលម្អ' ក្នុងប្រយោគមួ���។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កែលម្អ' ក្នុងប្រយោគមួ���។",
+    "audio": "",
+    "commonCollocations": [
+      "to improve immediately",
+      "can improve easily",
+      "please improve"
+    ]
   },
   {
     "id": "larger",
@@ -15303,12 +19671,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlarger"
     ],
-    "image": "health-larger",
+    "image": "/images/vocab/larger.jpg",
     "audioPlaceholder": "larger",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងទំហំធំ។",
-    "exampleKhmer": "ធំជាងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ធំជាងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good larger",
+      "the larger is",
+      "to use a larger"
+    ]
   },
   {
     "id": "networks",
@@ -15324,12 +19698,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnetworks"
     ],
-    "image": "shopping-networks",
+    "image": "/images/vocab/networks.jpg",
     "audioPlaceholder": "networks",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយបណ្តាញ។",
-    "exampleKhmer": "យើងត្រូវភ្ជាប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវភ្ជាប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to networks immediately",
+      "can networks easily",
+      "please networks"
+    ]
   },
   {
     "id": "earth",
@@ -15345,12 +19725,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unearth"
     ],
-    "image": "sports-earth",
+    "image": "/images/vocab/earth.jpg",
     "audioPlaceholder": "earth",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ដើម្បីជីក។",
-    "exampleKhmer": "ផែនដី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ផែនដី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good earth",
+      "the earth is",
+      "to use a earth"
+    ]
   },
   {
     "id": "parents",
@@ -15366,12 +19752,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unparents"
     ],
-    "image": "nature-parents",
+    "image": "/images/vocab/parents.jpg",
     "audioPlaceholder": "parents",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​ស្��ីល​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​មាតាបិតា។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀ��ប្រើពាក្យ 'ឪពុកម្តាយ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀ��ប្រើពាក្យ 'ឪពុកម្តាយ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to parents immediately",
+      "can parents easily",
+      "please parents"
+    ]
   },
   {
     "id": "nokia",
@@ -15387,12 +19779,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnokia"
     ],
-    "image": "daily-conversation-nokia",
+    "image": "/images/vocab/nokia.jpg",
     "audioPlaceholder": "nokia",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹង ណូគា។",
-    "exampleKhmer": "ណូគា​ត្រូវ​បាន​លើក​យក​មក​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ណូគា​ត្រូវ​បាន​លើក​យក​មក​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good nokia",
+      "the nokia is",
+      "to use a nokia"
+    ]
   },
   {
     "id": "impact",
@@ -15408,12 +19806,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unimpact"
     ],
-    "image": "family-impact",
+    "image": "/images/vocab/impact.jpg",
     "audioPlaceholder": "impact",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីបើកឡានឱ្យជិត។",
-    "exampleKhmer": "ផល​ប៉ះពាល់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ផល​ប៉ះពាល់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good impact",
+      "the impact is",
+      "to use a impact"
+    ]
   },
   {
     "id": "transfer",
@@ -15429,12 +19833,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untransfer"
     ],
-    "image": "food-transfer",
+    "image": "/images/vocab/transfer.jpg",
     "audioPlaceholder": "transfer",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ការផ្ទេរសិទ្ធិ កម្មសិទ្ធិ ឬទ្រព្យសម្បត្តិ ទាំងផ្ទាល់ខ្លួនពិត ពីមនុស្សម្នាក់ទៅមនុស្សម្នាក់ទៀត ទោះដោយការលក់ ដោយអំណោយ ឬបើមិនដូច្នេះទេ ខ្ញុំសូមចាត់ទុកវាថាជាការផ្ទេរកម្មសិទ្ធិតែប៉ុណ្ណោះ។",
-    "exampleKhmer": "ការផ្ទេរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការផ្ទេរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good transfer",
+      "the transfer is",
+      "to use a transfer"
+    ]
   },
   {
     "id": "kitchen",
@@ -15450,12 +19860,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unkitchen"
     ],
-    "image": "animals-kitchen",
+    "image": "/images/vocab/kitchen.jpg",
     "audioPlaceholder": "kitchen",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ដើម្បីផ្តល់អាហារដល់។",
-    "exampleKhmer": "ផ្ទះបាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផ្ទះបាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good kitchen",
+      "the kitchen is",
+      "to use a kitchen"
+    ]
   },
   {
     "id": "strong",
@@ -15471,12 +19887,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstrong"
     ],
-    "image": "school-strong",
+    "image": "/images/vocab/strong.jpg",
     "audioPlaceholder": "strong",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ទំនោរទៅរកតម្លៃខ្ពស់។",
-    "exampleKhmer": "អ្នកខ្លាំង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នកខ្លាំង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good strong",
+      "the strong is",
+      "to use a strong"
+    ]
   },
   {
     "id": "carolina",
@@ -15492,12 +19914,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncarolina"
     ],
-    "image": "travel-carolina",
+    "image": "/images/vocab/carolina.jpg",
     "audioPlaceholder": "carolina",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយ ខារ៉ូលីណា។",
-    "exampleKhmer": "យើងត្រូវការ៉ូលីណាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីធ្វើឱ្យមានការរីកចម្រើន។"
+    "exampleKhmer": "យើងត្រូវការ៉ូលីណាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីធ្វើឱ្យមានការរីកចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to carolina immediately",
+      "can carolina easily",
+      "please carolina"
+    ]
   },
   {
     "id": "wedding",
@@ -15513,12 +19941,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwedding"
     ],
-    "image": "business-wedding",
+    "image": "/images/vocab/wedding.jpg",
     "audioPlaceholder": "wedding",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ពិធីមង្គលការ។",
-    "exampleKhmer": "អាពាហ៍ពិពាហ៍​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អាពាហ៍ពិពាហ៍​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good wedding",
+      "the wedding is",
+      "to use a wedding"
+    ]
   },
   {
     "id": "hospital",
@@ -15534,12 +19968,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhospital"
     ],
-    "image": "technology-hospital",
+    "image": "/images/vocab/hospital.jpg",
     "audioPlaceholder": "hospital",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "រាក់ទាក់។",
-    "exampleKhmer": "មន្ទីរពេទ្យ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "មន្ទីរពេទ្យ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good hospital",
+      "the hospital is",
+      "to use a hospital"
+    ]
   },
   {
     "id": "ground",
@@ -15555,12 +19995,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unground"
     ],
-    "image": "health-ground",
+    "image": "/images/vocab/ground.jpg",
     "audioPlaceholder": "ground",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "កំរាលឥដ្ឋ ឬកំរាលឥដ្ឋដែលសន្មត់ថាសម្រាកនៅលើផែនដី។",
-    "exampleKhmer": "ដី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ដី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good ground",
+      "the ground is",
+      "to use a ground"
+    ]
   },
   {
     "id": "overview",
@@ -15576,12 +20022,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoverview"
     ],
-    "image": "shopping-overview",
+    "image": "/images/vocab/overview.jpg",
     "audioPlaceholder": "overview",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ការត្រួតពិនិត្យឬមើលរំលង។",
-    "exampleKhmer": "ទិដ្ឋភាព​ទូទៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទិដ្ឋភាព​ទូទៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good overview",
+      "the overview is",
+      "to use a overview"
+    ]
   },
   {
     "id": "owners",
@@ -15597,12 +20049,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unowners"
     ],
-    "image": "sports-owners",
+    "image": "/images/vocab/owners.jpg",
     "audioPlaceholder": "owners",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយម្ចាស់។",
-    "exampleKhmer": "នាង​បាន​ពន្យល់​���្ចាស់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ពន្យល់​���្ចាស់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very owners",
+      "a owners person",
+      "seems to be owners"
+    ]
   },
   {
     "id": "disease",
@@ -15618,12 +20076,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undisease"
     ],
-    "image": "nature-disease",
+    "image": "/images/vocab/disease.jpg",
     "audioPlaceholder": "disease",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ជំងឺ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជំងឺ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជំងឺ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to disease immediately",
+      "can disease easily",
+      "please disease"
+    ]
   },
   {
     "id": "italy",
@@ -15639,12 +20103,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unitaly"
     ],
-    "image": "daily-conversation-italy",
+    "image": "/images/vocab/italy.jpg",
     "audioPlaceholder": "italy",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងប្រទេសអ៊ីតាលី។",
-    "exampleKhmer": "ប្រទេស​អ៊ីតាលី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រទេស​អ៊ីតាលី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good italy",
+      "the italy is",
+      "to use a italy"
+    ]
   },
   {
     "id": "perfect",
@@ -15660,12 +20130,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unperfect"
     ],
-    "image": "family-perfect",
+    "image": "/images/vocab/perfect.jpg",
     "audioPlaceholder": "perfect",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "Hermaphrodite ។",
-    "exampleKhmer": "ភាពល្អឥតខ្ចោះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាពល្អឥតខ្ចោះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good perfect",
+      "the perfect is",
+      "to use a perfect"
+    ]
   },
   {
     "id": "classic",
@@ -15681,12 +20157,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unclassic"
     ],
-    "image": "food-classic",
+    "image": "/images/vocab/classic.jpg",
     "audioPlaceholder": "classic",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយបុរាណ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់បែបបុរាណអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់បែបបុរាណអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very classic",
+      "a classic person",
+      "seems to be classic"
+    ]
   },
   {
     "id": "basis",
@@ -15702,12 +20184,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbasis"
     ],
-    "image": "animals-basis",
+    "image": "/images/vocab/basis.jpg",
     "audioPlaceholder": "basis",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃមូលដ្ឋាន។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មូលដ្ឋាន' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មូលដ្ឋាន' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to basis immediately",
+      "can basis easily",
+      "please basis"
+    ]
   },
   {
     "id": "command",
@@ -15723,12 +20211,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncommand"
     ],
-    "image": "school-command",
+    "image": "/images/vocab/command.jpg",
     "audioPlaceholder": "command",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងពាក្យបញ្ជា។",
-    "exampleKhmer": "ពាក្យ​បញ្ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ពាក្យ​បញ្ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good command",
+      "the command is",
+      "to use a command"
+    ]
   },
   {
     "id": "cities",
@@ -15744,12 +20238,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncities"
     ],
-    "image": "travel-cities",
+    "image": "/images/vocab/cities.jpg",
     "audioPlaceholder": "cities",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងទីក្រុង។",
-    "exampleKhmer": "យើង​ត្រូវ​ការ​ក្រុង​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន��"
+    "exampleKhmer": "យើង​ត្រូវ​ការ​ក្រុង​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន��",
+    "audio": "",
+    "commonCollocations": [
+      "to cities immediately",
+      "can cities easily",
+      "please cities"
+    ]
   },
   {
     "id": "william",
@@ -15765,12 +20265,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwilliam"
     ],
-    "image": "business-william",
+    "image": "/images/vocab/william.jpg",
     "audioPlaceholder": "william",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយវីលៀ���។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់វីលៀមយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់វីលៀមយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very william",
+      "a william person",
+      "seems to be william"
+    ]
   },
   {
     "id": "express",
@@ -15786,12 +20292,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unexpress"
     ],
-    "image": "technology-express",
+    "image": "/images/vocab/express.jpg",
     "audioPlaceholder": "express",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​បង្ហាញ​។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'express' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'express' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to express immediately",
+      "can express easily",
+      "please express"
+    ]
   },
   {
     "id": "award",
@@ -15807,12 +20319,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaward"
     ],
-    "image": "health-award",
+    "image": "/images/vocab/award.jpg",
     "audioPlaceholder": "award",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ផ្តល់ដោយការកាត់ទោស ឬការសម្រេចរបស់តុលាការ។",
-    "exampleKhmer": "ពាន​រង្វាន់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ពាន​រង្វាន់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good award",
+      "the award is",
+      "to use a award"
+    ]
   },
   {
     "id": "distance",
@@ -15828,12 +20346,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undistance"
     ],
-    "image": "shopping-distance",
+    "image": "/images/vocab/distance.jpg",
     "audioPlaceholder": "distance",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "កន្លែង​មួយ​បាន​សម្គាល់​នៅ​ផ្នែក​ចុងក្រោយ​នៃ​វគ្គ​ប្រណាំង។ សេះ​ដែល​រត់​ពេញ​ទីលាន​ឆ្ងាយ។",
-    "exampleKhmer": "ចម្ងាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិ���មិញ។"
+    "exampleKhmer": "ចម្ងាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិ���មិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good distance",
+      "the distance is",
+      "to use a distance"
+    ]
   },
   {
     "id": "peter",
@@ -15849,12 +20373,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpeter"
     ],
-    "image": "sports-peter",
+    "image": "/images/vocab/peter.jpg",
     "audioPlaceholder": "peter",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ឈ្មោះបុណ្យជ្រមុជទឹកធម្មតាសម្រាប់បុរស។",
-    "exampleKhmer": "ពេត្រុស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ពេត្រុស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good peter",
+      "the peter is",
+      "to use a peter"
+    ]
   },
   {
     "id": "ensure",
@@ -15870,12 +20400,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unensure"
     ],
-    "image": "nature-ensure",
+    "image": "/images/vocab/ensure.jpg",
     "audioPlaceholder": "ensure",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការធានា។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ធានា' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ធានា' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to ensure immediately",
+      "can ensure easily",
+      "please ensure"
+    ]
   },
   {
     "id": "involved",
@@ -15891,12 +20427,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uninvolved"
     ],
-    "image": "daily-conversation-involved",
+    "image": "/images/vocab/involved.jpg",
     "audioPlaceholder": "involved",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ដូចគ្នានឹង Involute ។",
-    "exampleKhmer": "អ្នក​ពាក់ព័ន្ធ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នក​ពាក់ព័ន្ធ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good involved",
+      "the involved is",
+      "to use a involved"
+    ]
   },
   {
     "id": "extra",
@@ -15912,12 +20454,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unextra"
     ],
-    "image": "family-extra",
+    "image": "/images/vocab/extra.jpg",
     "audioPlaceholder": "extra",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "លើសពីអ្វីដែលត្រូវកំណត់ ធម្មតា រំពឹងទុក ឬចាំបាច់។",
-    "exampleKhmer": "ការបន្ថែមត្រូវបានពិភាក្សាយ៉ា���លម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការបន្ថែមត្រូវបានពិភាក្សាយ៉ា���លម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good extra",
+      "the extra is",
+      "to use a extra"
+    ]
   },
   {
     "id": "partners",
@@ -15933,12 +20481,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpartners"
     ],
-    "image": "food-partners",
+    "image": "/images/vocab/partners.jpg",
     "audioPlaceholder": "partners",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយដៃគូ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីដៃគូយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីដៃគូយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very partners",
+      "a partners person",
+      "seems to be partners"
+    ]
   },
   {
     "id": "budget",
@@ -15954,12 +20508,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbudget"
     ],
-    "image": "animals-budget",
+    "image": "/images/vocab/budget.jpg",
     "audioPlaceholder": "budget",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "finance",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃថវិកា។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ថវិកា' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ថវិកា' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to budget immediately",
+      "can budget easily",
+      "please budget"
+    ]
   },
   {
     "id": "rated",
@@ -15975,12 +20535,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrated"
     ],
-    "image": "school-rated",
+    "image": "/images/vocab/rated.jpg",
     "audioPlaceholder": "rated",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការវាយតម្លៃ។",
-    "exampleKhmer": "ការវាយតម្លៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការវាយតម្លៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good rated",
+      "the rated is",
+      "to use a rated"
+    ]
   },
   {
     "id": "guides",
@@ -15996,12 +20562,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unguides"
     ],
-    "image": "travel-guides",
+    "image": "/images/vocab/guides.jpg",
     "audioPlaceholder": "guides",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយការណែនាំ។",
-    "exampleKhmer": "យើងត្រូវណែនាំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវណែនាំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to guides immediately",
+      "can guides easily",
+      "please guides"
+    ]
   },
   {
     "id": "success",
@@ -16017,12 +20589,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsuccess"
     ],
-    "image": "business-success",
+    "image": "/images/vocab/success.jpg",
     "audioPlaceholder": "success",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយជោគជ័យ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជោគជ័យអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជោគជ័យអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very success",
+      "a success person",
+      "seems to be success"
+    ]
   },
   {
     "id": "maximum",
@@ -16038,12 +20616,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmaximum"
     ],
-    "image": "technology-maximum",
+    "image": "/images/vocab/maximum.jpg",
     "audioPlaceholder": "maximum",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "បរិមាណ ឬតម្លៃធំបំផុតដែលអាចទទួលបាននៅក្នុងករណីដែលបានផ្តល់ឱ្យ។",
-    "exampleKhmer": "អតិបរមាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អតិបរមាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good maximum",
+      "the maximum is",
+      "to use a maximum"
+    ]
   },
   {
     "id": "existing",
@@ -16059,12 +20643,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unexisting"
     ],
-    "image": "health-existing",
+    "image": "/images/vocab/existing.jpg",
     "audioPlaceholder": "existing",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងការដែលមានស្រាប់។",
-    "exampleKhmer": "��ែលមានស្រាប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "��ែលមានស្រាប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good existing",
+      "the existing is",
+      "to use a existing"
+    ]
   },
   {
     "id": "quite",
@@ -16080,12 +20670,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unquite"
     ],
-    "image": "shopping-quite",
+    "image": "/images/vocab/quite.jpg",
     "audioPlaceholder": "quite",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "សូមមើល Quit ។",
-    "exampleKhmer": "ការពិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការពិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good quite",
+      "the quite is",
+      "to use a quite"
+    ]
   },
   {
     "id": "selected",
@@ -16101,12 +20697,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unselected"
     ],
-    "image": "sports-selected",
+    "image": "/images/vocab/selected.jpg",
     "audioPlaceholder": "selected",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយជ្រើសរើស។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលបានជ្រើសរើសយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលបានជ្រើសរើសយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very selected",
+      "a selected person",
+      "seems to be selected"
+    ]
   },
   {
     "id": "amazon",
@@ -16122,12 +20724,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unamazon"
     ],
-    "image": "nature-amazon",
+    "image": "/images/vocab/amazon.jpg",
     "audioPlaceholder": "amazon",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ឈ្មោះសត្វសេកជាច្រើនប្រភេទនៅអាមេរិកខាងត្បូងនៃ genus Chrysotis Amazon ant (Zoöl.) ដែលជាប្រភេទស្រមោច (Polyergus rufescens) នៃទ្វីបអឺរ៉ុប និងអាមេរិក។",
-    "exampleKhmer": "អាម៉ាហ្សូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អាម៉ាហ្សូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good amazon",
+      "the amazon is",
+      "to use a amazon"
+    ]
   },
   {
     "id": "patients",
@@ -16143,12 +20751,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpatients"
     ],
-    "image": "daily-conversation-patients",
+    "image": "/images/vocab/patients.jpg",
     "audioPlaceholder": "patients",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងអ្នកជំងឺ។",
-    "exampleKhmer": "អ្នកជំងឺ​���្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នកជំងឺ​���្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good patients",
+      "the patients is",
+      "to use a patients"
+    ]
   },
   {
     "id": "warning",
@@ -16164,12 +20778,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwarning"
     ],
-    "image": "family-warning",
+    "image": "/images/vocab/warning.jpg",
     "audioPlaceholder": "warning",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ផ្តល់ការជូនដំណឹងពីមុន។",
-    "exampleKhmer": "ការ​ព្រមាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ព្រមាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good warning",
+      "the warning is",
+      "to use a warning"
+    ]
   },
   {
     "id": "horse",
@@ -16185,12 +20805,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhorse"
     ],
-    "image": "food-horse",
+    "image": "/images/vocab/horse.jpg",
     "audioPlaceholder": "horse",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ជើងបួនជ្រុងនៃ genus Equus ។",
-    "exampleKhmer": "សេះត្រូវបានពិភាក្សាយ៉ាងល្អិតល្អន់ក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សេះត្រូវបានពិភាក្សាយ៉ាងល្អិតល្អន់ក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good horse",
+      "the horse is",
+      "to use a horse"
+    ]
   },
   {
     "id": "forward",
@@ -16206,12 +20832,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unforward"
     ],
-    "image": "animals-forward",
+    "image": "/images/vocab/forward.jpg",
     "audioPlaceholder": "forward",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "កិច្ចព្រមព្រៀងមួយ។",
-    "exampleKhmer": "អ្នក​នាំ​មុខ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នក​នាំ​មុខ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good forward",
+      "the forward is",
+      "to use a forward"
+    ]
   },
   {
     "id": "flowers",
@@ -16227,12 +20859,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unflowers"
     ],
-    "image": "school-flowers",
+    "image": "/images/vocab/flowers.jpg",
     "audioPlaceholder": "flowers",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងផ្កា។",
-    "exampleKhmer": "ផ្កាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផ្កាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good flowers",
+      "the flowers is",
+      "to use a flowers"
+    ]
   },
   {
     "id": "stars",
@@ -16248,12 +20886,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstars"
     ],
-    "image": "travel-stars",
+    "image": "/images/vocab/stars.jpg",
     "audioPlaceholder": "stars",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយផ្កាយ។",
-    "exampleKhmer": "យើងត្រូវដាក់ផ្កាយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវដាក់ផ្កាយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to stars immediately",
+      "can stars easily",
+      "please stars"
+    ]
   },
   {
     "id": "lists",
@@ -16269,12 +20913,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlists"
     ],
-    "image": "business-lists",
+    "image": "/images/vocab/lists.jpg",
     "audioPlaceholder": "lists",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយបញ្ជី។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្រើន​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្រើន​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very lists",
+      "a lists person",
+      "seems to be lists"
+    ]
   },
   {
     "id": "owner",
@@ -16290,12 +20940,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unowner"
     ],
-    "image": "technology-owner",
+    "image": "/images/vocab/owner.jpg",
     "audioPlaceholder": "owner",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "អ្នកដែលជាម្ចាស់។",
-    "exampleKhmer": "ម្ចាស់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ម្ចាស់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good owner",
+      "the owner is",
+      "to use a owner"
+    ]
   },
   {
     "id": "retail",
@@ -16311,12 +20967,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unretail"
     ],
-    "image": "health-retail",
+    "image": "/images/vocab/retail.jpg",
     "audioPlaceholder": "retail",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ការលក់ទំនិញក្នុងបរិមាណតិចតួច ឬក្បាលដី។",
-    "exampleKhmer": "ការ​លក់​រាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​លក់​រាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good retail",
+      "the retail is",
+      "to use a retail"
+    ]
   },
   {
     "id": "animals",
@@ -16332,12 +20994,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unanimals"
     ],
-    "image": "shopping-animals",
+    "image": "/images/vocab/animals.jpg",
     "audioPlaceholder": "animals",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងសត្វ។",
-    "exampleKhmer": "យើងត្រូវធ្វើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវធ្វើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to animals immediately",
+      "can animals easily",
+      "please animals"
+    ]
   },
   {
     "id": "useful",
@@ -16353,12 +21021,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unuseful"
     ],
-    "image": "sports-useful",
+    "image": "/images/vocab/useful.jpg",
     "audioPlaceholder": "useful",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ពេញលេញនៃការប្រើប្រាស់ អត្ថប្រយោជន៍ ឬប្រាក់ចំណេញ។",
-    "exampleKhmer": "ប្រយោជន៍​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រយោជន៍​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good useful",
+      "the useful is",
+      "to use a useful"
+    ]
   },
   {
     "id": "directly",
@@ -16374,12 +21048,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undirectly"
     ],
-    "image": "nature-directly",
+    "image": "/images/vocab/directly.jpg",
     "audioPlaceholder": "directly",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចន��ប័ទ្មដែលជាលក្ខណៈនៃការដោយផ្ទាល់។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ដោយផ្ទាល់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ដោយផ្ទាល់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to directly immediately",
+      "can directly easily",
+      "please directly"
+    ]
   },
   {
     "id": "housing",
@@ -16395,12 +21075,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhousing"
     ],
-    "image": "daily-conversation-housing",
+    "image": "/images/vocab/housing.jpg",
     "audioPlaceholder": "housing",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ស៊ុម ឬជំនួយសម្រាប់ដាក់អ្វីមួយនៅនឹងកន្លែង ដូចជាប្រអប់សារជាដើម។",
-    "exampleKhmer": "លំនៅឋាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "លំនៅឋាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good housing",
+      "the housing is",
+      "to use a housing"
+    ]
   },
   {
     "id": "takes",
@@ -16416,12 +21102,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untakes"
     ],
-    "image": "family-takes",
+    "image": "/images/vocab/takes.jpg",
     "audioPlaceholder": "takes",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការចំណាយពេល។",
-    "exampleKhmer": "យើង​ត្រូវ​ទទួល​យក​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ទទួល​យក​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to takes immediately",
+      "can takes easily",
+      "please takes"
+    ]
   },
   {
     "id": "bring",
@@ -16437,12 +21129,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbring"
     ],
-    "image": "food-bring",
+    "image": "/images/vocab/bring.jpg",
     "audioPlaceholder": "bring",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយការនាំមក។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​នាំ​មក​នូវ​ស្ថានភាព​យ៉ាង​ខ្លាំង។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​នាំ​មក​នូវ​ស្ថានភាព​យ៉ាង​ខ្លាំង។",
+    "audio": "",
+    "commonCollocations": [
+      "very bring",
+      "a bring person",
+      "seems to be bring"
+    ]
   },
   {
     "id": "catalog",
@@ -16458,12 +21156,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncatalog"
     ],
-    "image": "animals-catalog",
+    "image": "/images/vocab/catalog.jpg",
     "audioPlaceholder": "catalog",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "កាតាឡុក។",
-    "exampleKhmer": "កាតាឡុក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "កាតាឡុក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good catalog",
+      "the catalog is",
+      "to use a catalog"
+    ]
   },
   {
     "id": "searches",
@@ -16479,12 +21183,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsearches"
     ],
-    "image": "school-searches",
+    "image": "/images/vocab/searches.jpg",
     "audioPlaceholder": "searches",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការស្វែងរក។",
-    "exampleKhmer": "ការស្វែងរកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការស្វែងរកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good searches",
+      "the searches is",
+      "to use a searches"
+    ]
   },
   {
     "id": "trying",
@@ -16500,12 +21210,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untrying"
     ],
-    "image": "travel-trying",
+    "image": "/images/vocab/trying.jpg",
     "audioPlaceholder": "trying",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "សម្របខ្លួនដើម្បីព្យាយាម ឬដាក់ឱ្យមានការសាកល្បងធ្ងន់ធ្ងរ។",
-    "exampleKhmer": "ការ​ព្យាយាម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ព្យាយាម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good trying",
+      "the trying is",
+      "to use a trying"
+    ]
   },
   {
     "id": "mother",
@@ -16521,12 +21237,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmother"
     ],
-    "image": "business-mother",
+    "image": "/images/vocab/mother.jpg",
     "audioPlaceholder": "mother",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ទទួលបានពីកំណើតឬពីបុព្វបុរស។",
-    "exampleKhmer": "ម្តាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អ��ត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ម្តាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អ��ត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good mother",
+      "the mother is",
+      "to use a mother"
+    ]
   },
   {
     "id": "traffic",
@@ -16542,12 +21264,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untraffic"
     ],
-    "image": "technology-traffic",
+    "image": "/images/vocab/traffic.jpg",
     "audioPlaceholder": "traffic",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ដើម្បីផ្លាស់ប្តូរចរាចរណ៍។",
-    "exampleKhmer": "ចរាចរណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ចរាចរណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good traffic",
+      "the traffic is",
+      "to use a traffic"
+    ]
   },
   {
     "id": "joined",
@@ -16563,12 +21291,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unjoined"
     ],
-    "image": "health-joined",
+    "image": "/images/vocab/joined.jpg",
     "audioPlaceholder": "joined",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងការភ្ជាប់។",
-    "exampleKhmer": "អ្នក​ដែល​បាន​ចូល​រួម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នក​ដែល​បាន​ចូល​រួម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good joined",
+      "the joined is",
+      "to use a joined"
+    ]
   },
   {
     "id": "input",
@@ -16584,12 +21318,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uninput"
     ],
-    "image": "shopping-input",
+    "image": "/images/vocab/input.jpg",
     "audioPlaceholder": "input",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដ���ម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយនឹងការបញ្ចូល។",
-    "exampleKhmer": "យើងត្រូវបញ្ចូលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវបញ្ចូលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to input immediately",
+      "can input easily",
+      "please input"
+    ]
   },
   {
     "id": "strategy",
@@ -16605,12 +21345,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstrategy"
     ],
-    "image": "sports-strategy",
+    "image": "/images/vocab/strategy.jpg",
     "audioPlaceholder": "strategy",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយយុទ្ធសាស្ត្រ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យុទ្ធសាស្ត្រ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យុទ្ធសាស្ត្រ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very strategy",
+      "a strategy person",
+      "seems to be strategy"
+    ]
   },
   {
     "id": "agent",
@@ -16626,12 +21372,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unagent"
     ],
-    "image": "nature-agent",
+    "image": "/images/vocab/agent.jpg",
     "audioPlaceholder": "agent",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "សកម្មភាពអ្នកជម្ងឺ ឬការទ្រទ្រង់។",
-    "exampleKhmer": "ភ្នាក់ងារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ភ្នាក់ងារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good agent",
+      "the agent is",
+      "to use a agent"
+    ]
   },
   {
     "id": "valid",
@@ -16647,12 +21399,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvalid"
     ],
-    "image": "daily-conversation-valid",
+    "image": "/images/vocab/valid.jpg",
     "audioPlaceholder": "valid",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "មានកម្លាំង ឬកម្លាំងច្បាប់។",
-    "exampleKhmer": "សុពលភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សុពលភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good valid",
+      "the valid is",
+      "to use a valid"
+    ]
   },
   {
     "id": "modern",
@@ -16668,12 +21426,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmodern"
     ],
-    "image": "family-modern",
+    "image": "/images/vocab/modern.jpg",
     "audioPlaceholder": "modern",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "មនុស្សម្នាក់នៃសម័យទំនើប។",
-    "exampleKhmer": "ទំនើបត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ទំនើបត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good modern",
+      "the modern is",
+      "to use a modern"
+    ]
   },
   {
     "id": "senior",
@@ -16689,12 +21453,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsenior"
     ],
-    "image": "food-senior",
+    "image": "/images/vocab/senior.jpg",
     "audioPlaceholder": "senior",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយ��ាន់ខ្ពស់។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងចាស់ដៃអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងចាស់ដៃអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very senior",
+      "a senior person",
+      "seems to be senior"
+    ]
   },
   {
     "id": "ireland",
@@ -16710,12 +21480,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unireland"
     ],
-    "image": "animals-ireland",
+    "image": "/images/vocab/ireland.jpg",
     "audioPlaceholder": "ireland",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃអៀរឡង់។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អៀរឡង់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អៀរឡង់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to ireland immediately",
+      "can ireland easily",
+      "please ireland"
+    ]
   },
   {
     "id": "teaching",
@@ -16731,12 +21507,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unteaching"
     ],
-    "image": "school-teaching",
+    "image": "/images/vocab/teaching.jpg",
     "audioPlaceholder": "teaching",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "សកម្មភាព ឬអាជីវកម្មនៃការណែនាំ។",
-    "exampleKhmer": "ការ​បង្រៀន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​បង្រៀន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good teaching",
+      "the teaching is",
+      "to use a teaching"
+    ]
   },
   {
     "id": "grand",
@@ -16752,12 +21534,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungrand"
     ],
-    "image": "travel-grand",
+    "image": "/images/vocab/grand.jpg",
     "audioPlaceholder": "grand",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយមហា",
-    "exampleKhmer": "យើងត្រូវពង្រីកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវពង្រីកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to grand immediately",
+      "can grand easily",
+      "please grand"
+    ]
   },
   {
     "id": "testing",
@@ -16773,12 +21561,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untesting"
     ],
-    "image": "business-testing",
+    "image": "/images/vocab/testing.jpg",
     "audioPlaceholder": "testing",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ប្រតិបត្តិការនៃការចម្រាញ់មាស ឬប្រាក់នៅក្នុងការធ្វើតេស្ត ឬពែង។",
-    "exampleKhmer": "ការ​ធ្វើ​តេស្ដ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ធ្វើ​តេស្ដ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good testing",
+      "the testing is",
+      "to use a testing"
+    ]
   },
   {
     "id": "trial",
@@ -16794,12 +21588,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untrial"
     ],
-    "image": "technology-trial",
+    "image": "/images/vocab/trial.jpg",
     "audioPlaceholder": "trial",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ការ​ពិនិត្យ​ជា​ផ្លូវ​ការ​លើ​បញ្ហា​នេះ​ក្នុង​បុព្វហេតុ​នៅ​ចំពោះ​មុខ​សាលា​ក្តី​មាន​សមត្ថកិច្ច។",
-    "exampleKhmer": "ការ​ជំនុំ​ជម្រះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ជំនុំ​ជម្រះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good trial",
+      "the trial is",
+      "to use a trial"
+    ]
   },
   {
     "id": "charge",
@@ -16815,12 +21615,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncharge"
     ],
-    "image": "health-charge",
+    "image": "/images/vocab/charge.jpg",
     "audioPlaceholder": "charge",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "សន្មតថាជាបន្ទុក។",
-    "exampleKhmer": "ការ​ចោទ​ប្រកាន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ចោទ​ប្រកាន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good charge",
+      "the charge is",
+      "to use a charge"
+    ]
   },
   {
     "id": "units",
@@ -16836,12 +21642,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ununits"
     ],
-    "image": "shopping-units",
+    "image": "/images/vocab/units.jpg",
     "audioPlaceholder": "units",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងគ្រឿង។",
-    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to units immediately",
+      "can units easily",
+      "please units"
+    ]
   },
   {
     "id": "instead",
@@ -16857,12 +21669,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uninstead"
     ],
-    "image": "sports-instead",
+    "image": "/images/vocab/instead.jpg",
     "audioPlaceholder": "instead",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយជំនួសវិញ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ជំនួស​វិញ​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ជំនួស​វិញ​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very instead",
+      "a instead person",
+      "seems to be instead"
+    ]
   },
   {
     "id": "canadian",
@@ -16878,12 +21696,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncanadian"
     ],
-    "image": "nature-canadian",
+    "image": "/images/vocab/canadian.jpg",
     "audioPlaceholder": "canadian",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងប្រទេសកាណាដា។-- ន.",
-    "exampleKhmer": "ជនជាតិកាណាដាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជនជាតិកាណាដាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good canadian",
+      "the canadian is",
+      "to use a canadian"
+    ]
   },
   {
     "id": "normal",
@@ -16899,12 +21723,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnormal"
     ],
-    "image": "daily-conversation-normal",
+    "image": "/images/vocab/normal.jpg",
     "audioPlaceholder": "normal",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "យោងទៅតាមការ៉េឬក្បួន។",
-    "exampleKhmer": "ធម្មតាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ធម្មតាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good normal",
+      "the normal is",
+      "to use a normal"
+    ]
   },
   {
     "id": "wrote",
@@ -16920,12 +21750,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwrote"
     ],
-    "image": "family-wrote",
+    "image": "/images/vocab/wrote.jpg",
     "audioPlaceholder": "wrote",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីចាក់ឬសជាមួយច្រមុះ។",
-    "exampleKhmer": "ការ​សរសេរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​សរសេរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good wrote",
+      "the wrote is",
+      "to use a wrote"
+    ]
   },
   {
     "id": "ships",
@@ -16941,12 +21777,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unships"
     ],
-    "image": "food-ships",
+    "image": "/images/vocab/ships.jpg",
     "audioPlaceholder": "ships",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយកប៉ាល់។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជ្រាលជ្រៅដល់នាវាអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជ្រាលជ្រៅដល់នាវាអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very ships",
+      "a ships person",
+      "seems to be ships"
+    ]
   },
   {
     "id": "entire",
@@ -16962,12 +21804,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unentire"
     ],
-    "image": "animals-entire",
+    "image": "/images/vocab/entire.jpg",
     "audioPlaceholder": "entire",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ឈ្មោះដំបូងត្រូវបានផ្តល់ទៅឱ្យស្រាបៀរមួយប្រភេទដែលរួមបញ្ចូលគ្នានូវគុណភាពនៃប្រភេទស្រាបៀរផ្សេងៗគ្នា។",
-    "exampleKhmer": "ទាំងមូលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ទាំងមូលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good entire",
+      "the entire is",
+      "to use a entire"
+    ]
   },
   {
     "id": "leading",
@@ -16983,12 +21831,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unleading"
     ],
-    "image": "school-leading",
+    "image": "/images/vocab/leading.jpg",
     "audioPlaceholder": "leading",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ការណែនាំ។",
-    "exampleKhmer": "អ្នកដឹកនាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អ្នកដឹកនាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good leading",
+      "the leading is",
+      "to use a leading"
+    ]
   },
   {
     "id": "metal",
@@ -17004,12 +21858,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmetal"
     ],
-    "image": "travel-metal",
+    "image": "/images/vocab/metal.jpg",
     "audioPlaceholder": "metal",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "សារធាតុបឋម ដូចជាសូដ្យូម កាល់ស្យូម ឬទង់ដែង ដែលអុកស៊ីត ឬអ៊ីដ្រូអុកស៊ីតមានមូលដ្ឋានជាជាងលក្ខណៈសម្បត្តិអាស៊ីត ផ្ទុយពីលោហៈ ឬលោហធាតុ។",
-    "exampleKhmer": "លោហៈ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "លោហៈ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good metal",
+      "the metal is",
+      "to use a metal"
+    ]
   },
   {
     "id": "positive",
@@ -17025,12 +21885,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpositive"
     ],
-    "image": "business-positive",
+    "image": "/images/vocab/positive.jpg",
     "audioPlaceholder": "positive",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ត្រូវគ្នានឹងដើមទាក់ទងនឹងទីតាំងនៃពន្លឺ និងស្រមោល ជំនួសឱ្យពន្លឺ និងស្រមោលបញ្ច្រាស។",
-    "exampleKhmer": "ភាពវិជ្ជមានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាពវិជ្ជមានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good positive",
+      "the positive is",
+      "to use a positive"
+    ]
   },
   {
     "id": "fitness",
@@ -17046,12 +21912,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfitness"
     ],
-    "image": "technology-fitness",
+    "image": "/images/vocab/fitness.jpg",
     "audioPlaceholder": "fitness",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ស្ថានភាព ឬគុណភាពនៃការសម។",
-    "exampleKhmer": "កាយសម្បទា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កាយសម្បទា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good fitness",
+      "the fitness is",
+      "to use a fitness"
+    ]
   },
   {
     "id": "chinese",
@@ -17067,12 +21939,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchinese"
     ],
-    "image": "health-chinese",
+    "image": "/images/vocab/chinese.jpg",
     "audioPlaceholder": "chinese",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "អំពី ឬពាក់ព័ន្ធជាមួយប្រទេសចិន។",
-    "exampleKhmer": "ភាសាចិនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាសាចិនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good chinese",
+      "the chinese is",
+      "to use a chinese"
+    ]
   },
   {
     "id": "opinion",
@@ -17088,12 +21966,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unopinion"
     ],
-    "image": "shopping-opinion",
+    "image": "/images/vocab/opinion.jpg",
     "audioPlaceholder": "opinion",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "សេចក្តីសម្រេចជាផ្លូវការ ឬការបញ្ចេញមតិ របស់ចៅក្រម កំពូល ទីប្រឹក្សា ឬភាគីផ្សេងទៀត បានអំពាវនាវជាផ្លូវការឱ្យពិចារណា និងសម្រេចលើបញ្ហា ឬចំណុចដែលប���នដាក់ជូន។",
-    "exampleKhmer": "មតិ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មតិ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good opinion",
+      "the opinion is",
+      "to use a opinion"
+    ]
   },
   {
     "id": "football",
@@ -17109,12 +21993,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfootball"
     ],
-    "image": "sports-football",
+    "image": "/images/vocab/football.jpg",
     "audioPlaceholder": "football",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "បាល់បំប៉ោងមួយដែលត្រូវទាត់ក្នុងកីឡា ជាធម្មតាផលិតនៅ Indianrubber ឬប្លោកនោមដាក់ក្នុងស្បែក។",
-    "exampleKhmer": "ការ​ប្រកួត​បាល់​ទាត់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ប្រកួត​បាល់​ទាត់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good football",
+      "the football is",
+      "to use a football"
+    ]
   },
   {
     "id": "abstract",
@@ -17130,12 +22020,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unabstract"
     ],
-    "image": "nature-abstract",
+    "image": "/images/vocab/abstract.jpg",
     "audioPlaceholder": "abstract",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ដើម្បីបំបែកជាផ្នែកដែលងាយនឹងបង្កជាហេតុ ឬរលាយកាន់តែច្រើននៃសារធាតុ ដោយការចម្រាញ់ ឬដំណើរការគីមីផ្សេងទៀត។",
-    "exampleKhmer": "អរូបី​ត្រូវ​បាន​ពិភាក្សា​យ���ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អរូបី​ត្រូវ​បាន​ពិភាក្សា​យ���ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good abstract",
+      "the abstract is",
+      "to use a abstract"
+    ]
   },
   {
     "id": "output",
@@ -17151,12 +22047,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoutput"
     ],
-    "image": "daily-conversation-output",
+    "image": "/images/vocab/output.jpg",
     "audioPlaceholder": "output",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ដែលត្រូវបានបោះចោលជាផលិតផលនៃសកម្មភាពមេតាប៉ូលីសនៃរាងកាយ។",
-    "exampleKhmer": "លទ្ធផល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "លទ្ធផល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good output",
+      "the output is",
+      "to use a output"
+    ]
   },
   {
     "id": "funds",
@@ -17172,12 +22074,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfunds"
     ],
-    "image": "family-funds",
+    "image": "/images/vocab/funds.jpg",
     "audioPlaceholder": "funds",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងមូលនិធិ។",
-    "exampleKhmer": "យើងត្រូវផ្តល់ថវិកាដល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវផ្តល់ថវិកាដល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to funds immediately",
+      "can funds easily",
+      "please funds"
+    ]
   },
   {
     "id": "greater",
@@ -17193,12 +22101,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungreater"
     ],
-    "image": "food-greater",
+    "image": "/images/vocab/greater.jpg",
     "audioPlaceholder": "greater",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយធំជាង។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​កាន់​តែ​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​កាន់​តែ​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very greater",
+      "a greater person",
+      "seems to be greater"
+    ]
   },
   {
     "id": "likely",
@@ -17214,12 +22128,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlikely"
     ],
-    "image": "animals-likely",
+    "image": "/images/vocab/likely.jpg",
     "audioPlaceholder": "likely",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងប្រូបាប៊ីលីតេទាំងអស់។",
-    "exampleKhmer": "ទំនង​ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ទំនង​ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good likely",
+      "the likely is",
+      "to use a likely"
+    ]
   },
   {
     "id": "develop",
@@ -17235,12 +22155,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undevelop"
     ],
-    "image": "school-develop",
+    "image": "/images/vocab/develop.jpg",
     "audioPlaceholder": "develop",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ដើម្បីផ្លាស់ប្តូរទម្រង់នៃកន្សោមពិជគណិត ដោយការប្រតិបត្តិប្រតិបត្តិការដែលបានចង្អុលបង្ហាញជាក់លាក់ដោយមិនផ្លាស់ប្តូរតម្លៃ។",
-    "exampleKhmer": "ការអភិវឌ្ឍន៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការអភិវឌ្ឍន៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good develop",
+      "the develop is",
+      "to use a develop"
+    ]
   },
   {
     "id": "artists",
@@ -17256,12 +22182,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unartists"
     ],
-    "image": "travel-artists",
+    "image": "/images/vocab/artists.jpg",
     "audioPlaceholder": "artists",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "arts",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយសិល្បករ។",
-    "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​សិល្បករ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​សិល្បករ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to artists immediately",
+      "can artists easily",
+      "please artists"
+    ]
   },
   {
     "id": "guest",
@@ -17277,12 +22209,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unguest"
     ],
-    "image": "business-guest",
+    "image": "/images/vocab/guest.jpg",
     "audioPlaceholder": "guest",
     "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ដើម្បីទទួល ឬកម្សាន្តដោយរាក់ទាក់។",
-    "exampleKhmer": "ភ្ញៀវ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ភ្ញៀវ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good guest",
+      "the guest is",
+      "to use a guest"
+    ]
   },
   {
     "id": "seems",
@@ -17298,12 +22236,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unseems"
     ],
-    "image": "technology-seems",
+    "image": "/images/vocab/seems.jpg",
     "audioPlaceholder": "seems",
     "difficulty": "B2",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការហាក់ដូចជា។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ហាក់' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ហាក់' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to seems immediately",
+      "can seems easily",
+      "please seems"
+    ]
   },
   {
     "id": "trust",
@@ -17319,12 +22263,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untrust"
     ],
-    "image": "health-trust",
+    "image": "/images/vocab/trust.jpg",
     "audioPlaceholder": "trust",
     "difficulty": "B2",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "អចលនវត្ថុដែលបានរៀបចំ ឬផ្តល់ដោយទំនុកចិត្តថាអ្នករៀបចំរៀបចំនឹងបញ្ជូនវា ឬបោះចោលប្រាក់ចំណេញតាមឆន្ទៈ ឬដើម្បីផលប្រយោជន៍ពីអ្នកដទៃ។",
-    "exampleKhmer": "ការ​ទុក​ចិត្ត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ទុក​ចិត្ត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good trust",
+      "the trust is",
+      "to use a trust"
+    ]
   },
   {
     "id": "contains",
@@ -17340,12 +22290,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncontains"
     ],
-    "image": "shopping-contains",
+    "image": "/images/vocab/contains.jpg",
     "audioPlaceholder": "contains",
     "difficulty": "B2",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយ មាន។",
-    "exampleKhmer": "យើងត្រូវមានភារកិច្ចនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវមានភារកិច្ចនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to contains immediately",
+      "can contains easily",
+      "please contains"
+    ]
   },
   {
     "id": "session",
@@ -17361,12 +22317,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsession"
     ],
-    "image": "sports-session",
+    "image": "/images/vocab/session.jpg",
     "audioPlaceholder": "session",
     "difficulty": "B2",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយសម័យប្រជុំ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very session",
+      "a session person",
+      "seems to be session"
+    ]
   },
   {
     "id": "multi",
@@ -17382,12 +22344,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmulti"
     ],
-    "image": "nature-multi",
+    "image": "/images/vocab/multi.jpg",
     "audioPlaceholder": "multi",
     "difficulty": "B2",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​មួយ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ពហុ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ច្រើន' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ច្រើន' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to multi immediately",
+      "can multi easily",
+      "please multi"
+    ]
   },
   {
     "id": "republic",
@@ -17403,12 +22371,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrepublic"
     ],
-    "image": "daily-conversation-republic",
+    "image": "/images/vocab/republic.jpg",
     "audioPlaceholder": "republic",
     "difficulty": "B2",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសាធារណរដ្ឋ។",
-    "exampleKhmer": "សាធារណរដ្ឋ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "សាធារណរដ្ឋ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good republic",
+      "the republic is",
+      "to use a republic"
+    ]
   },
   {
     "id": "vacation",
@@ -17424,12 +22398,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvacation"
     ],
-    "image": "family-vacation",
+    "image": "/images/vocab/vacation.jpg",
     "audioPlaceholder": "vacation",
     "difficulty": "B2",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ការផ្អាកដំណើរការនីតិវិធីតុលាការ។",
-    "exampleKhmer": "វិស្សមកាល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "វិស្សមកាល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good vacation",
+      "the vacation is",
+      "to use a vacation"
+    ]
   },
   {
     "id": "century",
@@ -17445,12 +22425,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncentury"
     ],
-    "image": "food-century",
+    "image": "/images/vocab/century.jpg",
     "audioPlaceholder": "century",
     "difficulty": "B2",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយសតវត្ស។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់មួយសតវត្សរ៍អំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់មួយសតវត្សរ៍អំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very century",
+      "a century person",
+      "seems to be century"
+    ]
   },
   {
     "id": "academic",
@@ -17466,12 +22452,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unacademic"
     ],
-    "image": "animals-academic",
+    "image": "/images/vocab/academic.jpg",
     "audioPlaceholder": "academic",
     "difficulty": "B2",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​សិក្សា។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សិក្សា' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សិក្សា' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to academic immediately",
+      "can academic easily",
+      "please academic"
+    ]
   },
   {
     "id": "graphics",
@@ -17487,12 +22479,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungraphics"
     ],
-    "image": "school-graphics",
+    "image": "/images/vocab/graphics.jpg",
     "audioPlaceholder": "graphics",
     "difficulty": "B2",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "សិល្បៈឬវិទ្យាសាស្ត្រនៃការគូរ។",
-    "exampleKhmer": "ក្រាហ្វិក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ក្រាហ្វិក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good graphics",
+      "the graphics is",
+      "to use a graphics"
+    ]
   },
   {
     "id": "indian",
@@ -17508,12 +22506,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unindian"
     ],
-    "image": "travel-indian",
+    "image": "/images/vocab/indian.jpg",
     "audioPlaceholder": "indian",
     "difficulty": "B2",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយជនជាតិឥណ្ឌា។",
-    "exampleKhmer": "យើងត្រូវការឥណ្ឌាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវការឥណ្ឌាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to indian immediately",
+      "can indian easily",
+      "please indian"
+    ]
   },
   {
     "id": "expected",
@@ -17529,12 +22533,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unexpected"
     ],
-    "image": "business-expected",
+    "image": "/images/vocab/expected.jpg",
     "audioPlaceholder": "expected",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយការរំពឹងទុក។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលរំពឹងទុកយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលរំពឹងទុកយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very expected",
+      "a expected person",
+      "seems to be expected"
+    ]
   },
   {
     "id": "grade",
@@ -17550,12 +22560,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungrade"
     ],
-    "image": "technology-grade",
+    "image": "/images/vocab/grade.jpg",
     "audioPlaceholder": "grade",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "លទ្ធផលនៃការឆ្លងកាត់ពូជដើមដែលមានពូជល្អជាង។ ប្រសិនបើកូនកាត់មានឈាមច្រើនជាង 3/4 នោះវាត្រូវបានគេហៅថាកម្រិតខ្ពស់។",
-    "exampleKhmer": "ថ្នាក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ថ្នាក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good grade",
+      "the grade is",
+      "to use a grade"
+    ]
   },
   {
     "id": "dating",
@@ -17571,12 +22587,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undating"
     ],
-    "image": "health-dating",
+    "image": "/images/vocab/dating.jpg",
     "audioPlaceholder": "dating",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការណាត់ជួប។",
-    "exampleKhmer": "ការណាត់ជួបត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការណាត់ជួបត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good dating",
+      "the dating is",
+      "to use a dating"
+    ]
   },
   {
     "id": "pacific",
@@ -17592,12 +22614,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpacific"
     ],
-    "image": "shopping-pacific",
+    "image": "/images/vocab/pacific.jpg",
     "audioPlaceholder": "pacific",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ឬទាក់ទងនឹងសន្តិភាព។",
-    "exampleKhmer": "ប៉ាស៊ីហ្វិកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប៉ាស៊ីហ្វិកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good pacific",
+      "the pacific is",
+      "to use a pacific"
+    ]
   },
   {
     "id": "mountain",
@@ -17613,12 +22641,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmountain"
     ],
-    "image": "sports-mountain",
+    "image": "/images/vocab/mountain.jpg",
     "audioPlaceholder": "mountain",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ជួរ ខ្សែសង្វាក់ ឬក្រុមនៃការកើនឡើងបែបនេះ។",
-    "exampleKhmer": "ភ្នំ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ភ្នំ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good mountain",
+      "the mountain is",
+      "to use a mountain"
+    ]
   },
   {
     "id": "filter",
@@ -17634,12 +22668,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfilter"
     ],
-    "image": "nature-filter",
+    "image": "/images/vocab/filter.jpg",
     "audioPlaceholder": "filter",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "សារធាតុ porous ណាមួយ ដូចជាក្រណាត់ ក្រដាស ខ្សាច់ ឬធ្យូង ដែលតាមរយៈទឹក ឬវត្ថុរាវផ្សេងទៀតអាចឆ្លងកាត់ ដើម្បីសម្អាតវាពីវត្ថុរឹង ឬមិនបរិសុទ្ធ ដែលជាប់នៅក្នុងព្យួរ។",
-    "exampleKhmer": "តម្រងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "តម្រងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good filter",
+      "the filter is",
+      "to use a filter"
+    ]
   },
   {
     "id": "mailing",
@@ -17655,12 +22695,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmailing"
     ],
-    "image": "daily-conversation-mailing",
+    "image": "/images/vocab/mailing.jpg",
     "audioPlaceholder": "mailing",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "កសិដ្ឋានមួយ។",
-    "exampleKhmer": "ការផ្ញើសំបុត្រត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការផ្ញើសំបុត្រត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good mailing",
+      "the mailing is",
+      "to use a mailing"
+    ]
   },
   {
     "id": "vehicle",
@@ -17676,12 +22722,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvehicle"
     ],
-    "image": "family-vehicle",
+    "image": "/images/vocab/vehicle.jpg",
     "audioPlaceholder": "vehicle",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "សារធាតុដែលថ្នាំត្រូវបានលេប។",
-    "exampleKhmer": "រថយន្ត​នេះ​ត្រូវ​បាន​គេ​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រថយន្ត​នេះ​ត្រូវ​បាន​គេ​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good vehicle",
+      "the vehicle is",
+      "to use a vehicle"
+    ]
   },
   {
     "id": "longer",
@@ -17697,12 +22749,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unlonger"
     ],
-    "image": "food-longer",
+    "image": "/images/vocab/longer.jpg",
     "audioPlaceholder": "longer",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "អ្នកដែលចង់បានអ្វីទាំងអស់។",
-    "exampleKhmer": "យូរជាងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "យូរជាងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good longer",
+      "the longer is",
+      "to use a longer"
+    ]
   },
   {
     "id": "consider",
@@ -17718,12 +22776,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unconsider"
     ],
-    "image": "animals-consider",
+    "image": "/images/vocab/consider.jpg",
     "audioPlaceholder": "consider",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការពិចារណា។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ពិចារណា' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ពិចារណា' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to consider immediately",
+      "can consider easily",
+      "please consider"
+    ]
   },
   {
     "id": "northern",
@@ -17739,12 +22803,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unnorthern"
     ],
-    "image": "school-northern",
+    "image": "/images/vocab/northern.jpg",
     "audioPlaceholder": "northern",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងភាគខាងជើង។",
-    "exampleKhmer": "ភាគខាងជើងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាគខាងជើងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good northern",
+      "the northern is",
+      "to use a northern"
+    ]
   },
   {
     "id": "behind",
@@ -17760,12 +22830,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbehind"
     ],
-    "image": "travel-behind",
+    "image": "/images/vocab/behind.jpg",
     "audioPlaceholder": "behind",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ផ្នែកខាងក្រោយ។",
-    "exampleKhmer": "អ្នក​នៅ​ពី​ក្រោយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នក​នៅ​ពី​ក្រោយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good behind",
+      "the behind is",
+      "to use a behind"
+    ]
   },
   {
     "id": "panel",
@@ -17781,12 +22857,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpanel"
     ],
-    "image": "business-panel",
+    "image": "/images/vocab/panel.jpg",
     "audioPlaceholder": "panel",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "បន���ទប់ដែលលិចជាមួយនឹងរឹមដែលលើកឡើង ធ្វើផ្សិត ឬបើមិនដូច្នេះទេ ដូចជានៅក្នុងពិដាន ផ្ទាំងក្រណាត់ជាដើម។",
-    "exampleKhmer": "ក្រុម​ប្រឹក្សា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ក្រុម​ប្រឹក្សា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good panel",
+      "the panel is",
+      "to use a panel"
+    ]
   },
   {
     "id": "floor",
@@ -17802,12 +22884,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfloor"
     ],
-    "image": "technology-floor",
+    "image": "/images/vocab/floor.jpg",
     "audioPlaceholder": "floor",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ផ្នែកនៃបាតនៃនាវានៅផ្នែកម្ខាងនៃ keelson ដែលស្ទើរតែផ្ដេកបំផុត។",
-    "exampleKhmer": "ជាន់នេះត្រូវបានពិ���ាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជាន់នេះត្រូវបានពិ���ាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good floor",
+      "the floor is",
+      "to use a floor"
+    ]
   },
   {
     "id": "german",
@@ -17823,12 +22911,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungerman"
     ],
-    "image": "health-german",
+    "image": "/images/vocab/german.jpg",
     "audioPlaceholder": "german",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ជិតទាក់ទង។",
-    "exampleKhmer": "អាឡឺម៉ង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "អាឡឺម៉ង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good german",
+      "the german is",
+      "to use a german"
+    ]
   },
   {
     "id": "buying",
@@ -17844,12 +22938,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbuying"
     ],
-    "image": "shopping-buying",
+    "image": "/images/vocab/buying.jpg",
     "audioPlaceholder": "buying",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការទិញ។",
-    "exampleKhmer": "យើងត្រូវការទិញកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវការទិញកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to buying immediately",
+      "can buying easily",
+      "please buying"
+    ]
   },
   {
     "id": "match",
@@ -17865,12 +22965,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmatch"
     ],
-    "image": "sports-match",
+    "image": "/images/vocab/match.jpg",
     "audioPlaceholder": "match",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "អ្វីក៏ដោយដែលប្រើសម្រាប់ចាប់ និ���រក្សាទុក ឬទំនាក់ទំនងភ្លើង ធ្វើពីសារធាតុមួយចំនួនដែលងាយឆេះ ឬឆេះយូរ។",
-    "exampleKhmer": "ការ​ប្រកួត​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាល​ពី​ម្សិល​មិញ។"
+    "exampleKhmer": "ការ​ប្រកួត​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាល​ពី​ម្សិល​មិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good match",
+      "the match is",
+      "to use a match"
+    ]
   },
   {
     "id": "proposed",
@@ -17886,12 +22992,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unproposed"
     ],
-    "image": "nature-proposed",
+    "image": "/images/vocab/proposed.jpg",
     "audioPlaceholder": "proposed",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ស្នើ​ឡើង​។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បានស្នើឡើង' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បានស្នើឡើង' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to proposed immediately",
+      "can proposed easily",
+      "please proposed"
+    ]
   },
   {
     "id": "default",
@@ -17907,12 +23019,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undefault"
     ],
-    "image": "daily-conversation-default",
+    "image": "/images/vocab/default.jpg",
     "audioPlaceholder": "default",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ការធ្វេសប្រហែស ឬការខកខានក្នុងការអនុវត្ត ជំហានមួយចំនួនដែលចាំបាច់ ដើម្បីទទួលបានអត្ថប្រយោជន៍នៃច្បាប់ ដោយសារការខកខានក្នុងការបង្ហាញខ្លួននៅតុលាការតាមការចាត់តាំងប្រចាំថ្ងៃ ជាពិសេសជនជាប់ចោទនៅក្នុងបណ្តឹងនៅពេលហៅឱ្យឆ្លើយ។",
-    "exampleKhmer": "លំនាំដើមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "លំនាំដើមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good default",
+      "the default is",
+      "to use a default"
+    ]
   },
   {
     "id": "require",
@@ -17928,12 +23046,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrequire"
     ],
-    "image": "family-require",
+    "image": "/images/vocab/require.jpg",
     "audioPlaceholder": "require",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងតម្រូវការ។",
-    "exampleKhmer": "យើងត្រូវទាមទារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវទាមទារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to require immediately",
+      "can require easily",
+      "please require"
+    ]
   },
   {
     "id": "outdoor",
@@ -17949,12 +23073,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoutdoor"
     ],
-    "image": "food-outdoor",
+    "image": "/images/vocab/outdoor.jpg",
     "audioPlaceholder": "outdoor",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "កំពុង ឬធ្វើនៅក្នុងខ្យល់។",
-    "exampleKhmer": "នៅខាងក្រៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្ស���លមិញ។"
+    "exampleKhmer": "នៅខាងក្រៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្ស���លមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good outdoor",
+      "the outdoor is",
+      "to use a outdoor"
+    ]
   },
   {
     "id": "morning",
@@ -17970,12 +23100,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmorning"
     ],
-    "image": "animals-morning",
+    "image": "/images/vocab/morning.jpg",
     "audioPlaceholder": "morning",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ទាក់ទងនឹងផ្នែកទីមួយ ឬផ្នែកដំបូងនៃថ្ងៃ។",
-    "exampleKhmer": "ពេលព្រឹកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពេលព្រឹកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good morning",
+      "the morning is",
+      "to use a morning"
+    ]
   },
   {
     "id": "allows",
@@ -17991,12 +23127,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unallows"
     ],
-    "image": "school-allows",
+    "image": "/images/vocab/allows.jpg",
     "audioPlaceholder": "allows",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការអនុញ្ញាត។",
-    "exampleKhmer": "ការអនុញ្ញាតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការអនុញ្ញាតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good allows",
+      "the allows is",
+      "to use a allows"
+    ]
   },
   {
     "id": "protein",
@@ -18012,12 +23154,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprotein"
     ],
-    "image": "travel-protein",
+    "image": "/images/vocab/protein.jpg",
     "audioPlaceholder": "protein",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "រាងកាយមួយដែលត្រូវបានគេស្គាល់ថាជាអាល់កាឡាំង albumin ប៉ុន្តែដើមឡើយត្រូវបានគេចាត់ទុកថាជាមូលដ្ឋាននៃសារធាតុអាល់កាឡាំងទាំងអស់ ដែលវាមានឈ្មោះ។ គ្រីស្តាល់ប្រូតេអ៊ីន។",
-    "exampleKhmer": "ប្រូតេអ៊ីន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រូតេអ៊ីន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good protein",
+      "the protein is",
+      "to use a protein"
+    ]
   },
   {
     "id": "plant",
@@ -18033,12 +23181,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unplant"
     ],
-    "image": "business-plant",
+    "image": "/images/vocab/plant.jpg",
     "audioPlaceholder": "plant",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "គ្រឿងចក្រ និងបរិក្ខារទាំងមូលប្រើប្រាស់ក្នុងការធ្វើពាណិជ្ជកម្ម ឬអាជីវកម្មមេកានិក។",
-    "exampleKhmer": "រោងចក្រ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉���ង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រោងចក្រ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉���ង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good plant",
+      "the plant is",
+      "to use a plant"
+    ]
   },
   {
     "id": "reported",
@@ -18054,12 +23208,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreported"
     ],
-    "image": "technology-reported",
+    "image": "/images/vocab/reported.jpg",
     "audioPlaceholder": "reported",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការរាយការណ៍។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បានរាយការណ៍' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បានរាយការណ៍' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to reported immediately",
+      "can reported easily",
+      "please reported"
+    ]
   },
   {
     "id": "politics",
@@ -18075,12 +23235,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpolitics"
     ],
-    "image": "health-politics",
+    "image": "/images/vocab/politics.jpg",
     "audioPlaceholder": "politics",
     "difficulty": "C1",
-    "category": "health",
+    "category": "politics",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងនយោបាយ។",
-    "exampleKhmer": "នយោបាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "នយោបាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good politics",
+      "the politics is",
+      "to use a politics"
+    ]
   },
   {
     "id": "partner",
@@ -18096,12 +23262,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpartner"
     ],
-    "image": "shopping-partner",
+    "image": "/images/vocab/partner.jpg",
     "audioPlaceholder": "partner",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "សហការីក្នុងអាជីវកម្ម ឬមុខរបរណាមួយ។",
-    "exampleKhmer": "ដៃគូត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ដៃគូត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good partner",
+      "the partner is",
+      "to use a partner"
+    ]
   },
   {
     "id": "authors",
@@ -18117,12 +23289,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unauthors"
     ],
-    "image": "sports-authors",
+    "image": "/images/vocab/authors.jpg",
     "audioPlaceholder": "authors",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយអ្នកនិពន្ធ។",
-    "exampleKhmer": "នាងបានពន្យល់អ្នកនិពន្ធអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានពន្យល់អ្នកនិពន្ធអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very authors",
+      "a authors person",
+      "seems to be authors"
+    ]
   },
   {
     "id": "boards",
@@ -18138,12 +23316,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unboards"
     ],
-    "image": "nature-boards",
+    "image": "/images/vocab/boards.jpg",
     "audioPlaceholder": "boards",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​ក្តារ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ក្តារ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ក្តារ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to boards immediately",
+      "can boards easily",
+      "please boards"
+    ]
   },
   {
     "id": "faculty",
@@ -18159,12 +23343,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfaculty"
     ],
-    "image": "daily-conversation-faculty",
+    "image": "/images/vocab/faculty.jpg",
     "audioPlaceholder": "faculty",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "រាងកាយរបស់មនុស្សដែលត្រូវបានផ្តល់ការទុកចិត្តដល់រដ្ឋាភិបាល និងការណែនាំរបស់មហាវិទ្យាល័យ ឬសាកលវិទ្យាល័យ ឬនៃនាយកដ្ឋានណាមួយរបស់ខ្លួន។",
-    "exampleKhmer": "មហាវិទ្យាល័យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "មហាវិទ្យាល័យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good faculty",
+      "the faculty is",
+      "to use a faculty"
+    ]
   },
   {
     "id": "parties",
@@ -18180,12 +23370,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unparties"
     ],
-    "image": "family-parties",
+    "image": "/images/vocab/parties.jpg",
     "audioPlaceholder": "parties",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយភាគី។",
-    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to parties immediately",
+      "can parties easily",
+      "please parties"
+    ]
   },
   {
     "id": "mission",
@@ -18201,12 +23397,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmission"
     ],
-    "image": "food-mission",
+    "image": "/images/vocab/mission.jpg",
     "audioPlaceholder": "mission",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ដើម្បីផ្ញើបេសកកម្ម។",
-    "exampleKhmer": "បេសកកម្មត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "បេសកកម្មត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good mission",
+      "the mission is",
+      "to use a mission"
+    ]
   },
   {
     "id": "string",
@@ -18222,12 +23424,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstring"
     ],
-    "image": "animals-string",
+    "image": "/images/vocab/string.jpg",
     "audioPlaceholder": "string",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ជួរខាងក្នុងនៃបន្ទះពិដាន ដែលត្រូវគ្នាទៅនឹងស្រទាប់ខាងក្រៅ ហើយភ្ជាប់ទៅវា។",
-    "exampleKhmer": "ខ្សែអក្សរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ខ្សែអក្សរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good string",
+      "the string is",
+      "to use a string"
+    ]
   },
   {
     "id": "sense",
@@ -18243,12 +23451,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsense"
     ],
-    "image": "school-sense",
+    "image": "/images/vocab/sense.jpg",
     "audioPlaceholder": "sense",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "សភាវៈ​ដែល​សត្វ​មាន​ក្នុង​ការ​យល់​ឃើញ​វត្ថុ​ខាងក្រៅ​ដោយ​មធ្យោបាយ​នៃ​ការ​ចាប់​អារម្មណ៍​ដែល​កើត​ឡើង​លើ​សរីរាង្គ​មួយ​ចំនួន (សរីរវិទ្យា ឬ​សរីរាង្គ​វិញ្ញាណ) នៃ​រាងកាយ ឬ​នៃ​ការ​យល់​ឃើញ​នូវ​ការ​ប្រែប្រួល​នៃ​សភាព​នៃ​កាយ។",
-    "exampleKhmer": "អារម្មណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "អារម្មណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good sense",
+      "the sense is",
+      "to use a sense"
+    ]
   },
   {
     "id": "modified",
@@ -18264,12 +23478,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmodified"
     ],
-    "image": "travel-modified",
+    "image": "/images/vocab/modified.jpg",
     "audioPlaceholder": "modified",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការកែប្រែ។",
-    "exampleKhmer": "យើងត្រូវកែប្រែកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកែប្រែកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to modified immediately",
+      "can modified easily",
+      "please modified"
+    ]
   },
   {
     "id": "released",
@@ -18285,12 +23505,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreleased"
     ],
-    "image": "business-released",
+    "image": "/images/vocab/released.jpg",
     "audioPlaceholder": "released",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការចេញផ្សាយ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងច្បាស់លាស់អំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងច្បាស់លាស់អំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very released",
+      "a released person",
+      "seems to be released"
+    ]
   },
   {
     "id": "stage",
@@ -18306,12 +23532,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstage"
     ],
-    "image": "technology-stage",
+    "image": "/images/vocab/stage.jpg",
     "audioPlaceholder": "stage",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ដំណាក់កាលមួយក្នុងចំណោមដំណាក់កាល ឬដំណាក់កាលដែលបានសម្គាល់ជាច្រើនក្នុងការអភិវឌ្ឍន៍ និងការរីកលូតលាស់នៃសត្វ និងរុក្ខជាតិជាច្រើន។",
-    "exampleKhmer": "ដំណាក់កាល​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ដំណាក់កាល​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good stage",
+      "the stage is",
+      "to use a stage"
+    ]
   },
   {
     "id": "internal",
@@ -18327,12 +23559,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uninternal"
     ],
-    "image": "health-internal",
+    "image": "/images/vocab/internal.jpg",
     "audioPlaceholder": "internal",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ដេកទល់មុខយន្តហោះមេស៊ី",
-    "exampleKhmer": "ផ្ទៃក្នុង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ផ្ទៃក្នុង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good internal",
+      "the internal is",
+      "to use a internal"
+    ]
   },
   {
     "id": "goods",
@@ -18348,12 +23586,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungoods"
     ],
-    "image": "shopping-goods",
+    "image": "/images/vocab/goods.jpg",
     "audioPlaceholder": "goods",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "សូមមើល Good, n., ៣.",
-    "exampleKhmer": "ទំនិញត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ទំនិញត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good goods",
+      "the goods is",
+      "to use a goods"
+    ]
   },
   {
     "id": "unless",
@@ -18369,12 +23613,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ununless"
     ],
-    "image": "sports-unless",
+    "image": "/images/vocab/unless.jpg",
     "audioPlaceholder": "unless",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "តាមលក្ខខណ្ឌណាមួយតិចជាង (ការពិត ឬវត្ថុដែលមានចែងក្នុងប្រយោគទាំងនេះ ឬឃ្លាខាងក្រោម)។",
-    "exampleKhmer": "លុះត្រាតែត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "លុះត្រាតែត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good unless",
+      "the unless is",
+      "to use a unless"
+    ]
   },
   {
     "id": "richard",
@@ -18390,12 +23640,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrichard"
     ],
-    "image": "nature-richard",
+    "image": "/images/vocab/richard.jpg",
     "audioPlaceholder": "richard",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា Richard ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រីឆាត' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រីឆាត' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to richard immediately",
+      "can richard easily",
+      "please richard"
+    ]
   },
   {
     "id": "detailed",
@@ -18411,12 +23667,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undetailed"
     ],
-    "image": "daily-conversation-detailed",
+    "image": "/images/vocab/detailed.jpg",
     "audioPlaceholder": "detailed",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងលម្អិត។",
-    "exampleKhmer": "សេចក្ដី​លម្អិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សេចក្ដី​លម្អិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good detailed",
+      "the detailed is",
+      "to use a detailed"
+    ]
   },
   {
     "id": "japanese",
@@ -18432,12 +23694,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unjapanese"
     ],
-    "image": "family-japanese",
+    "image": "/images/vocab/japanese.jpg",
     "audioPlaceholder": "japanese",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "នៃ ឬពាក់ព័ន្ធនឹងប្រទេសជប៉ុន ឬប្រជាជនរបស់ខ្លួន។",
-    "exampleKhmer": "ភាសាជប៉ុនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាសាជប៉ុនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good japanese",
+      "the japanese is",
+      "to use a japanese"
+    ]
   },
   {
     "id": "approved",
@@ -18453,12 +23721,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unapproved"
     ],
-    "image": "food-approved",
+    "image": "/images/vocab/approved.jpg",
     "audioPlaceholder": "approved",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការយល់ព្រម។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងយល់ស្របអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងយល់ស្របអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very approved",
+      "a approved person",
+      "seems to be approved"
+    ]
   },
   {
     "id": "target",
@@ -18474,12 +23748,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untarget"
     ],
-    "image": "animals-target",
+    "image": "/images/vocab/target.jpg",
     "audioPlaceholder": "target",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "បន្��ះឈើឆ្កាងរអិល ឬបន្ទះក្តារនៅលើបុគ្គលិកកម្រិត។",
-    "exampleKhmer": "គោលដៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "គោលដៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good target",
+      "the target is",
+      "to use a target"
+    ]
   },
   {
     "id": "except",
@@ -18495,12 +23775,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unexcept"
     ],
-    "image": "school-except",
+    "image": "/images/vocab/except.jpg",
     "audioPlaceholder": "except",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ដើម្បីទទួលយកករណីលើកលែង។",
-    "exampleKhmer": "ការលើកលែងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការលើកលែងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good except",
+      "the except is",
+      "to use a except"
+    ]
   },
   {
     "id": "ability",
@@ -18516,12 +23802,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unability"
     ],
-    "image": "travel-ability",
+    "image": "/images/vocab/ability.jpg",
     "audioPlaceholder": "ability",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "គុណភាព ឬស្ថានភាពនៃលទ្ធភាព។",
-    "exampleKhmer": "សមត្ថភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សមត្ថភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good ability",
+      "the ability is",
+      "to use a ability"
+    ]
   },
   {
     "id": "maybe",
@@ -18537,12 +23829,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmaybe"
     ],
-    "image": "business-maybe",
+    "image": "/images/vocab/maybe.jpg",
     "audioPlaceholder": "maybe",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "ប្រហែល។",
-    "exampleKhmer": "ប្រហែល​ជា​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្រហែល​ជា​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good maybe",
+      "the maybe is",
+      "to use a maybe"
+    ]
   },
   {
     "id": "moving",
@@ -18558,12 +23856,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmoving"
     ],
-    "image": "technology-moving",
+    "image": "/images/vocab/moving.jpg",
     "audioPlaceholder": "moving",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ទង្វើនៃការផ្លាស់ប្តូរទីតាំង ឬឥរិយាបថ។",
-    "exampleKhmer": "ការផ្លាស់ប្តូរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការផ្លាស់ប្តូរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good moving",
+      "the moving is",
+      "to use a moving"
+    ]
   },
   {
     "id": "brands",
@@ -18579,12 +23883,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbrands"
     ],
-    "image": "health-brands",
+    "image": "/images/vocab/brands.jpg",
     "audioPlaceholder": "brands",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងម៉ាក។",
-    "exampleKhmer": "ម៉ាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ម៉ាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good brands",
+      "the brands is",
+      "to use a brands"
+    ]
   },
   {
     "id": "places",
@@ -18600,12 +23910,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unplaces"
     ],
-    "image": "shopping-places",
+    "image": "/images/vocab/places.jpg",
     "audioPlaceholder": "places",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយទីកន្លែង។",
-    "exampleKhmer": "យើងត្រូវដាក់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវដាក់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to places immediately",
+      "can places easily",
+      "please places"
+    ]
   },
   {
     "id": "pretty",
@@ -18621,12 +23937,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpretty"
     ],
-    "image": "sports-pretty",
+    "image": "/images/vocab/pretty.jpg",
     "audioPlaceholder": "pretty",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ក្នុងកម្រិតខ្លះ។",
-    "exampleKhmer": "ស្អាត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ស្អាត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good pretty",
+      "the pretty is",
+      "to use a pretty"
+    ]
   },
   {
     "id": "spain",
@@ -18642,12 +23964,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unspain"
     ],
-    "image": "nature-spain",
+    "image": "/images/vocab/spain.jpg",
     "audioPlaceholder": "spain",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ប្រទេស​អេស្ប៉ាញ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អេស្ប៉ាញ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អេស្ប៉ាញ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to spain immediately",
+      "can spain easily",
+      "please spain"
+    ]
   },
   {
     "id": "southern",
@@ -18663,12 +23991,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsouthern"
     ],
-    "image": "daily-conversation-southern",
+    "image": "/images/vocab/southern.jpg",
     "audioPlaceholder": "southern",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ឬទាក់ទងនឹងភាគខាងត្បូង។",
-    "exampleKhmer": "ភាគខាងត្បូងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាគខាងត្បូងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good southern",
+      "the southern is",
+      "to use a southern"
+    ]
   },
   {
     "id": "yourself",
@@ -18684,12 +24018,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unyourself"
     ],
-    "image": "family-yourself",
+    "image": "/images/vocab/yourself.jpg",
     "audioPlaceholder": "yourself",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ទម្រង់បញ្ជាក់ ឬឆ្លុះបញ្ចាំងនៃសព្វនាមរបស់មនុស្សទីពីរ។",
-    "exampleKhmer": "ខ្លួន​ឯង​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ខ្លួន​ឯង​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good yourself",
+      "the yourself is",
+      "to use a yourself"
+    ]
   },
   {
     "id": "winter",
@@ -18705,12 +24045,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwinter"
     ],
-    "image": "food-winter",
+    "image": "/images/vocab/winter.jpg",
     "audioPlaceholder": "winter",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ដើម្បីឆ្លងកាត់រដូវរងា។",
-    "exampleKhmer": "រដូវរងាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "រដូវរងាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good winter",
+      "the winter is",
+      "to use a winter"
+    ]
   },
   {
     "id": "battery",
@@ -18726,12 +24072,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbattery"
     ],
-    "image": "animals-battery",
+    "image": "/images/vocab/battery.jpg",
     "audioPlaceholder": "battery",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ការវាយដំដោយខុសច្បាប់។",
-    "exampleKhmer": "ថ្មត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡ��ងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ថ្មត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡ��ងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good battery",
+      "the battery is",
+      "to use a battery"
+    ]
   },
   {
     "id": "youth",
@@ -18747,12 +24099,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unyouth"
     ],
-    "image": "school-youth",
+    "image": "/images/vocab/youth.jpg",
     "audioPlaceholder": "youth",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងយុវជន។",
-    "exampleKhmer": "យុវជន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "យុវជន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good youth",
+      "the youth is",
+      "to use a youth"
+    ]
   },
   {
     "id": "pressure",
@@ -18768,12 +24126,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpressure"
     ],
-    "image": "travel-pressure",
+    "image": "/images/vocab/pressure.jpg",
     "audioPlaceholder": "pressure",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "សកម្មភាពរបស់កម្លាំងប្រឆាំងនឹងឧបសគ្គ ឬកម្លាំងប្រឆាំង។",
-    "exampleKhmer": "សម្ពាធ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "សម្ពាធ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good pressure",
+      "the pressure is",
+      "to use a pressure"
+    ]
   },
   {
     "id": "boston",
@@ -18789,12 +24153,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unboston"
     ],
-    "image": "business-boston",
+    "image": "/images/vocab/boston.jpg",
     "audioPlaceholder": "boston",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "ល្បែងបៀមួយសន្លឹកដែលលេងដោយមនុស្សបួននាក់ ជាមួយនឹងសន្លឹកបៀពីរសន្លឹកក្នុងមួយសន្លឹក។",
-    "exampleKhmer": "បូស្តុនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "បូស្តុនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good boston",
+      "the boston is",
+      "to use a boston"
+    ]
   },
   {
     "id": "keywords",
@@ -18810,12 +24180,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unkeywords"
     ],
-    "image": "technology-keywords",
+    "image": "/images/vocab/keywords.jpg",
     "audioPlaceholder": "keywords",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃពាក្យគន្លឹះ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ពាក្យគន្លឹះ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ពាក្យគន្លឹះ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to keywords immediately",
+      "can keywords easily",
+      "please keywords"
+    ]
   },
   {
     "id": "medium",
@@ -18831,12 +24207,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmedium"
     ],
-    "image": "health-medium",
+    "image": "/images/vocab/medium.jpg",
     "audioPlaceholder": "medium",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "សូមមើល Mean.(c) (Logic) មធ្យម ឬពាក្យកណ្តាលនៃ syllogism ។",
-    "exampleKhmer": "ឧបករណ៍ផ្ទុកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ឧបករណ៍ផ្ទុកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good medium",
+      "the medium is",
+      "to use a medium"
+    ]
   },
   {
     "id": "break",
@@ -18852,12 +24234,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbreak"
     ],
-    "image": "shopping-break",
+    "image": "/images/vocab/break.jpg",
     "audioPlaceholder": "break",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "សូមមើល Commutator ។",
-    "exampleKhmer": "ការសម្រាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការសម្រាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good break",
+      "the break is",
+      "to use a break"
+    ]
   },
   {
     "id": "purposes",
@@ -18873,12 +24261,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpurposes"
     ],
-    "image": "sports-purposes",
+    "image": "/images/vocab/purposes.jpg",
     "audioPlaceholder": "purposes",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយគោលបំណង។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​មាន​គោល​បំណង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​មាន​គោល​បំណង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very purposes",
+      "a purposes person",
+      "seems to be purposes"
+    ]
   },
   {
     "id": "dance",
@@ -18894,12 +24288,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undance"
     ],
-    "image": "nature-dance",
+    "image": "/images/vocab/dance.jpg",
     "audioPlaceholder": "dance",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ធ្វើ​ឱ្យ​រាំ ឬ​ធ្វើ​ចលនា​ដោយ​ស្ម័គ្រ​ចិត្ត ឬ​រីករាយ ឬ​ឡើង​ចុះ។",
-    "exampleKhmer": "របាំ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "របាំ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good dance",
+      "the dance is",
+      "to use a dance"
+    ]
   },
   {
     "id": "itself",
@@ -18915,12 +24315,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unitself"
     ],
-    "image": "daily-conversation-itself",
+    "image": "/images/vocab/itself.jpg",
     "audioPlaceholder": "itself",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "សព្វនាមអព្យាក្រឹតនៃវា ។",
-    "exampleKhmer": "ខ្លួន​វា​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ខ្លួន​វា​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good itself",
+      "the itself is",
+      "to use a itself"
+    ]
   },
   {
     "id": "defined",
@@ -18936,12 +24342,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undefined"
     ],
-    "image": "family-defined",
+    "image": "/images/vocab/defined.jpg",
     "audioPlaceholder": "defined",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដ��ម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការកំណត់។",
-    "exampleKhmer": "យើងត្រូវកំណត់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកំណត់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to defined immediately",
+      "can defined easily",
+      "please defined"
+    ]
   },
   {
     "id": "papers",
@@ -18957,12 +24369,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpapers"
     ],
-    "image": "food-papers",
+    "image": "/images/vocab/papers.jpg",
     "audioPlaceholder": "papers",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយឯកសារ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ជា​ឯកសារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ជា​ឯកសារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very papers",
+      "a papers person",
+      "seems to be papers"
+    ]
   },
   {
     "id": "playing",
@@ -18978,12 +24396,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unplaying"
     ],
-    "image": "animals-playing",
+    "image": "/images/vocab/playing.jpg",
     "audioPlaceholder": "playing",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "&vb.",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់លេងៗអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់លេងៗអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very playing",
+      "a playing person",
+      "seems to be playing"
+    ]
   },
   {
     "id": "awards",
@@ -18999,12 +24423,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unawards"
     ],
-    "image": "school-awards",
+    "image": "/images/vocab/awards.jpg",
     "audioPlaceholder": "awards",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងរង្វាន់។",
-    "exampleKhmer": "ពានរង្វាន់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពានរង្វាន់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good awards",
+      "the awards is",
+      "to use a awards"
+    ]
   },
   {
     "id": "studio",
@@ -19020,12 +24450,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstudio"
     ],
-    "image": "travel-studio",
+    "image": "/images/vocab/studio.jpg",
     "audioPlaceholder": "studio",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "បន្ទប់ធ្វើការរបស់វិចិត្រករ។",
-    "exampleKhmer": "ស្ទូឌីយ៉ូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ស្ទូឌីយ៉ូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good studio",
+      "the studio is",
+      "to use a studio"
+    ]
   },
   {
     "id": "reader",
@@ -19041,12 +24477,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unreader"
     ],
-    "image": "business-reader",
+    "image": "/images/vocab/reader.jpg",
     "audioPlaceholder": "reader",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយអ្នកអាន។",
-    "exampleKhmer": "នាងបានពន្យល់អ្នកអានយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានពន្យល់អ្នកអានយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very reader",
+      "a reader person",
+      "seems to be reader"
+    ]
   },
   {
     "id": "virtual",
@@ -19062,12 +24504,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvirtual"
     ],
-    "image": "technology-virtual",
+    "image": "/images/vocab/virtual.jpg",
     "audioPlaceholder": "virtual",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃនិម្មិត។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'និម្មិត' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'និម្មិត' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to virtual immediately",
+      "can virtual easily",
+      "please virtual"
+    ]
   },
   {
     "id": "device",
@@ -19083,12 +24531,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undevice"
     ],
-    "image": "health-device",
+    "image": "/images/vocab/device.jpg",
     "audioPlaceholder": "device",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងឧបករណ៍។",
-    "exampleKhmer": "ឧបករណ៍នេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ឧបករណ៍នេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good device",
+      "the device is",
+      "to use a device"
+    ]
   },
   {
     "id": "answers",
@@ -19104,12 +24558,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unanswers"
     ],
-    "image": "shopping-answers",
+    "image": "/images/vocab/answers.jpg",
     "audioPlaceholder": "answers",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយចម្លើយ។",
-    "exampleKhmer": "យើងត្រូវឆ្លើយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវឆ្លើយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to answers immediately",
+      "can answers easily",
+      "please answers"
+    ]
   },
   {
     "id": "remote",
@@ -19125,12 +24585,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unremote"
     ],
-    "image": "sports-remote",
+    "image": "/images/vocab/remote.jpg",
     "audioPlaceholder": "remote",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "បំបែកដោយចន្លោះពេលធំជាងធម្មតា។-- Re*mote\"ly, adv.-- Re*mote\"ness, n.",
-    "exampleKhmer": "ពីចម្ងាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពីចម្ងាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good remote",
+      "the remote is",
+      "to use a remote"
+    ]
   },
   {
     "id": "external",
@@ -19146,12 +24612,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unexternal"
     ],
-    "image": "nature-external",
+    "image": "/images/vocab/external.jpg",
     "audioPlaceholder": "external",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ឆ្ងាយពីយន្តហោះ mesial នៃរាងកាយ។",
-    "exampleKhmer": "ខាងក្រៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ខាងក្រៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good external",
+      "the external is",
+      "to use a external"
+    ]
   },
   {
     "id": "apple",
@@ -19167,12 +24639,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unapple"
     ],
-    "image": "daily-conversation-apple",
+    "image": "/images/vocab/apple.jpg",
     "audioPlaceholder": "apple",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ប្រភេទដើមឈើណាក៏ដោយ Pyrus ដែលមានដើមលិចចូលទៅក្នុងមូលដ្ឋាននៃផ្លែ។",
-    "exampleKhmer": "ផ្លែប៉ោមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផ្លែប៉ោមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good apple",
+      "the apple is",
+      "to use a apple"
+    ]
   },
   {
     "id": "offered",
@@ -19188,12 +24666,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unoffered"
     ],
-    "image": "family-offered",
+    "image": "/images/vocab/offered.jpg",
     "audioPlaceholder": "offered",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយការផ្តល់ជូន។",
-    "exampleKhmer": "យើងត្រូវផ្តល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវផ្តល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to offered immediately",
+      "can offered easily",
+      "please offered"
+    ]
   },
   {
     "id": "theory",
@@ -19209,12 +24693,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "untheory"
     ],
-    "image": "food-theory",
+    "image": "/images/vocab/theory.jpg",
     "audioPlaceholder": "theory",
     "difficulty": "C1",
-    "category": "food",
+    "category": "science",
     "meaningKhmer": "ទស្សនវិទូ។",
-    "exampleKhmer": "ទ្រឹស្ដី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ទ្រឹស្ដី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good theory",
+      "the theory is",
+      "to use a theory"
+    ]
   },
   {
     "id": "enjoy",
@@ -19230,12 +24720,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unenjoy"
     ],
-    "image": "animals-enjoy",
+    "image": "/images/vocab/enjoy.jpg",
     "audioPlaceholder": "enjoy",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ដើម្បីទទួលយកការពេញចិត្ត។",
-    "exampleKhmer": "ភាពរីករាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាពរីករាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good enjoy",
+      "the enjoy is",
+      "to use a enjoy"
+    ]
   },
   {
     "id": "remove",
@@ -19251,12 +24747,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unremove"
     ],
-    "image": "school-remove",
+    "image": "/images/vocab/remove.jpg",
     "audioPlaceholder": "remove",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ផ្លាស់ប្តូរទីកន្លែងតាម��បៀបណាមួយ ឬផ្លាស់ប្តូរទីកន្លែង។",
-    "exampleKhmer": "ការដកចេញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការដកចេញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good remove",
+      "the remove is",
+      "to use a remove"
+    ]
   },
   {
     "id": "surface",
@@ -19272,12 +24774,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsurface"
     ],
-    "image": "travel-surface",
+    "image": "/images/vocab/surface.jpg",
     "audioPlaceholder": "surface",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "មាត្រដ្ឋាន​ដែល​មាន​ប្រវែង និង​ទទឹង​គ្មាន​កម្រាស់។",
-    "exampleKhmer": "ផ្ទៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផ្ទៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good surface",
+      "the surface is",
+      "to use a surface"
+    ]
   },
   {
     "id": "minimum",
@@ -19293,12 +24801,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unminimum"
     ],
-    "image": "business-minimum",
+    "image": "/images/vocab/minimum.jpg",
     "audioPlaceholder": "minimum",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "បរិមាណតិចបំផុតដែលអាចអនុញ្ញាតបាន អាចទទួលយកបាន ឬអាចធ្វើទៅបាន ក្នុងករណីដែលបានបញ្ជាក់។",
-    "exampleKhmer": "អប្បបរមាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អប្បបរមាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good minimum",
+      "the minimum is",
+      "to use a minimum"
+    ]
   },
   {
     "id": "visual",
@@ -19314,12 +24828,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvisual"
     ],
-    "image": "technology-visual",
+    "image": "/images/vocab/visual.jpg",
     "audioPlaceholder": "visual",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការមើលឃើញ។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មើលឃើញ' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មើលឃើញ' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to visual immediately",
+      "can visual easily",
+      "please visual"
+    ]
   },
   {
     "id": "variety",
@@ -19335,12 +24855,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unvariety"
     ],
-    "image": "health-variety",
+    "image": "/images/vocab/variety.jpg",
     "audioPlaceholder": "variety",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងភាពចម្រុះ។",
-    "exampleKhmer": "ពូជនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ពូជនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good variety",
+      "the variety is",
+      "to use a variety"
+    ]
   },
   {
     "id": "teachers",
@@ -19356,12 +24882,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unteachers"
     ],
-    "image": "shopping-teachers",
+    "image": "/images/vocab/teachers.jpg",
     "audioPlaceholder": "teachers",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយគ្រូ។",
-    "exampleKhmer": "យើងត្រូវការគ្រូបង្រៀនកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវការគ្រូបង្រៀនកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to teachers immediately",
+      "can teachers easily",
+      "please teachers"
+    ]
   },
   {
     "id": "martin",
@@ -19377,12 +24909,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmartin"
     ],
-    "image": "sports-martin",
+    "image": "/images/vocab/martin.jpg",
     "audioPlaceholder": "martin",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "អ្នករត់មុខថ្មដែលមានប្រហោងសម្រាប់កិន។",
-    "exampleKhmer": "ម៉ាទីន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ម៉ាទីន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good martin",
+      "the martin is",
+      "to use a martin"
+    ]
   },
   {
     "id": "manual",
@@ -19398,12 +24936,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmanual"
     ],
-    "image": "nature-manual",
+    "image": "/images/vocab/manual.jpg",
     "audioPlaceholder": "manual",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ឬទាក់ទងនឹងដៃ។",
-    "exampleKhmer": "សៀវភៅណែនាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "សៀវភៅណែនាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good manual",
+      "the manual is",
+      "to use a manual"
+    ]
   },
   {
     "id": "block",
@@ -19419,12 +24963,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unblock"
     ],
-    "image": "daily-conversation-block",
+    "image": "/images/vocab/block.jpg",
     "audioPlaceholder": "block",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ប្រជ្រុយ​ដែល​សត្វ​ស្លាប​រក្សា​ទុក។",
-    "exampleKhmer": "ប្លុកនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្លុកនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good block",
+      "the block is",
+      "to use a block"
+    ]
   },
   {
     "id": "subjects",
@@ -19440,12 +24990,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsubjects"
     ],
-    "image": "family-subjects",
+    "image": "/images/vocab/subjects.jpg",
     "audioPlaceholder": "subjects",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងប្រធានបទ។",
-    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to subjects immediately",
+      "can subjects easily",
+      "please subjects"
+    ]
   },
   {
     "id": "agents",
@@ -19461,12 +25017,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unagents"
     ],
-    "image": "food-agents",
+    "image": "/images/vocab/agents.jpg",
     "audioPlaceholder": "agents",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយភ្នាក់ងារ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ដល់​ភ្នាក់ងារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ដល់​ភ្នាក់ងារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very agents",
+      "a agents person",
+      "seems to be agents"
+    ]
   },
   {
     "id": "repair",
@@ -19482,12 +25044,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrepair"
     ],
-    "image": "animals-repair",
+    "image": "/images/vocab/repair.jpg",
     "audioPlaceholder": "repair",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការជួសជុល។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជួសជុល' ក្នុងប្រយោ��មួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជួសជុល' ក្នុងប្រយោ��មួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to repair immediately",
+      "can repair easily",
+      "please repair"
+    ]
   },
   {
     "id": "civil",
@@ -19503,12 +25071,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncivil"
     ],
-    "image": "school-civil",
+    "image": "/images/vocab/civil.jpg",
     "audioPlaceholder": "civil",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងស៊ីវិល។",
-    "exampleKhmer": "រដ្ឋប្បវេណី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "រដ្ឋប្បវេណី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good civil",
+      "the civil is",
+      "to use a civil"
+    ]
   },
   {
     "id": "steel",
@@ -19524,12 +25098,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsteel"
     ],
-    "image": "travel-steel",
+    "image": "/images/vocab/steel.jpg",
     "audioPlaceholder": "steel",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ភាពខុសប្លែកគ្នានៃជាតិដែកកម្រិតមធ្យមនៅក្នុងសមាសភាព និងលក��ខណៈសម្បត្តិរវាងដែកធ្វើពីដែក និងដែកវណ្ណះ (មានចន្លោះពីពាក់កណ្តាលនៃមួយភាគរយ និងមួយនិងកន្លះភាគរយនៃកាបូន) និងមានធាតុផ្សំនៃជាតិដែកដែលមានជាតិដែកកាបូន។",
-    "exampleKhmer": "ដែក​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ដែក​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good steel",
+      "the steel is",
+      "to use a steel"
+    ]
   },
   {
     "id": "songs",
@@ -19545,12 +25125,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsongs"
     ],
-    "image": "business-songs",
+    "image": "/images/vocab/songs.jpg",
     "audioPlaceholder": "songs",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយបទចម្រៀង។",
-    "exampleKhmer": "នាង​បាន​ផ្ដល់​បទ​ចម្រៀង​យ៉ាង​ខ្លាំង​ដើម្បី​ពន្យល់​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្ដល់​បទ​ចម្រៀង​យ៉ាង​ខ្លាំង​ដើម្បី​ពន្យល់​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very songs",
+      "a songs person",
+      "seems to be songs"
+    ]
   },
   {
     "id": "fixed",
@@ -19566,12 +25152,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfixed"
     ],
-    "image": "technology-fixed",
+    "image": "/images/vocab/fixed.jpg",
     "audioPlaceholder": "fixed",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ស្ថិរភាព។",
-    "exampleKhmer": "ការ​ជួសជុល​ត��រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​ជួសជុល​ត��រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good fixed",
+      "the fixed is",
+      "to use a fixed"
+    ]
   },
   {
     "id": "wrong",
@@ -19587,12 +25179,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwrong"
     ],
-    "image": "health-wrong",
+    "image": "/images/vocab/wrong.jpg",
     "audioPlaceholder": "wrong",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "Imp",
-    "exampleKhmer": "ខុស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "ខុស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good wrong",
+      "the wrong is",
+      "to use a wrong"
+    ]
   },
   {
     "id": "hands",
@@ -19608,12 +25206,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhands"
     ],
-    "image": "shopping-hands",
+    "image": "/images/vocab/hands.jpg",
     "audioPlaceholder": "hands",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដ��លភ្ជាប់ជាមួយនឹងដៃ។",
-    "exampleKhmer": "យើងត្រូវប្រគល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវប្រគល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to hands immediately",
+      "can hands easily",
+      "please hands"
+    ]
   },
   {
     "id": "finally",
@@ -19629,12 +25233,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfinally"
     ],
-    "image": "sports-finally",
+    "image": "/images/vocab/finally.jpg",
     "audioPlaceholder": "finally",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយទីបំផុត។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very finally",
+      "a finally person",
+      "seems to be finally"
+    ]
   },
   {
     "id": "updates",
@@ -19650,12 +25260,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unupdates"
     ],
-    "image": "nature-updates",
+    "image": "/images/vocab/updates.jpg",
     "audioPlaceholder": "updates",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការធ្វើឱ្យទាន់សម័យ។",
-    "exampleKhmer": "នេះជាឧទាហ��ណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អាប់ដេត' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហ��ណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អាប់ដេត' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to updates immediately",
+      "can updates easily",
+      "please updates"
+    ]
   },
   {
     "id": "desktop",
@@ -19671,12 +25287,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undesktop"
     ],
-    "image": "daily-conversation-desktop",
+    "image": "/images/vocab/desktop.jpg",
     "audioPlaceholder": "desktop",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងផ្ទៃតុ។",
-    "exampleKhmer": "ផ្ទៃតុត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ផ្ទៃតុត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good desktop",
+      "the desktop is",
+      "to use a desktop"
+    ]
   },
   {
     "id": "classes",
@@ -19692,12 +25314,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unclasses"
     ],
-    "image": "family-classes",
+    "image": "/images/vocab/classes.jpg",
     "audioPlaceholder": "classes",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយថ្នាក់។",
-    "exampleKhmer": "យើងត្រូវចាត់ថ្នាក់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវចាត់ថ្នាក់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to classes immediately",
+      "can classes easily",
+      "please classes"
+    ]
   },
   {
     "id": "paris",
@@ -19713,12 +25341,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unparis"
     ],
-    "image": "food-paris",
+    "image": "/images/vocab/paris.jpg",
     "audioPlaceholder": "paris",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "រុក្ខជាតិទូទៅនៅអឺរ៉ុប (Paris quadrifolia) ។",
-    "exampleKhmer": "ទីក្រុងប៉ារីសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ទីក្រុងប៉ារីសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good paris",
+      "the paris is",
+      "to use a paris"
+    ]
   },
   {
     "id": "sector",
@@ -19734,12 +25368,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsector"
     ],
-    "image": "animals-sector",
+    "image": "/images/vocab/sector.jpg",
     "audioPlaceholder": "sector",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ផ្នែកមួយនៃរង្វង់ដែលយល់បានរវាងកាំពីរ និងធ្នូដែលរួមបញ្ចូល។",
-    "exampleKhmer": "វិស័យ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "វិស័យ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good sector",
+      "the sector is",
+      "to use a sector"
+    ]
   },
   {
     "id": "capacity",
@@ -19755,12 +25395,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncapacity"
     ],
-    "image": "school-capacity",
+    "image": "/images/vocab/capacity.jpg",
     "audioPlaceholder": "capacity",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "គុណវុឌ្ឍិផ្លូវច្បាប់ ឬធម្មតា តាមអាយុ ទីលំនៅ ចរិតលក្ខណៈ។ល។ ចាំបាច់សម្រាប់គោលបំណងជាក់លាក់ ដូចជាការកាន់តំណែង ការរៀបអាពាហ៍ពិពាហ៍ ដើម្បីធ្វើកិច្ចសន្យា ឆន្ទៈ។ល។",
-    "exampleKhmer": "សមត្ថភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សមត្ថភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good capacity",
+      "the capacity is",
+      "to use a capacity"
+    ]
   },
   {
     "id": "requires",
@@ -19776,12 +25422,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrequires"
     ],
-    "image": "travel-requires",
+    "image": "/images/vocab/requires.jpg",
     "audioPlaceholder": "requires",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធនឹងតម្រូវ។",
-    "exampleKhmer": "យើងត្រូវទាមទារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវទាមទារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to requires immediately",
+      "can requires easily",
+      "please requires"
+    ]
   },
   {
     "id": "jersey",
@@ -19797,12 +25449,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unjersey"
     ],
-    "image": "business-jersey",
+    "image": "/images/vocab/jersey.jpg",
     "audioPlaceholder": "jersey",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយអាវ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very jersey",
+      "a jersey person",
+      "seems to be jersey"
+    ]
   },
   {
     "id": "fully",
@@ -19818,12 +25476,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfully"
     ],
-    "image": "technology-fully",
+    "image": "/images/vocab/fully.jpg",
     "audioPlaceholder": "fully",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុងលក្ខណៈពេញលេញឬសញ្ញាបត្រ។",
-    "exampleKhmer": "ខ្លឹមសារនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ខ្លឹមសារនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good fully",
+      "the fully is",
+      "to use a fully"
+    ]
   },
   {
     "id": "father",
@@ -19839,12 +25503,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfather"
     ],
-    "image": "health-father",
+    "image": "/images/vocab/father.jpg",
     "audioPlaceholder": "father",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងឪពុក។",
-    "exampleKhmer": "ឪពុក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ឪពុក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good father",
+      "the father is",
+      "to use a father"
+    ]
   },
   {
     "id": "electric",
@@ -19860,12 +25530,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unelectric"
     ],
-    "image": "shopping-electric",
+    "image": "/images/vocab/electric.jpg",
     "audioPlaceholder": "electric",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ឧបករណ៍បញ្ជូនចរន្តអគ្គិសនី ដូចជា អំបែង កញ្ចក់ ជ័រជាដើម ប្រើដើម្បីជំរុញ ឬកកកុញអគ្គិសនី។",
-    "exampleKhmer": "អគ្គិសនី​ត្រូវ​បាន​គេ​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "អគ្គិសនី​ត្រូវ​បាន​គេ​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good electric",
+      "the electric is",
+      "to use a electric"
+    ]
   },
   {
     "id": "quotes",
@@ -19881,12 +25557,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unquotes"
     ],
-    "image": "sports-quotes",
+    "image": "/images/vocab/quotes.jpg",
     "audioPlaceholder": "quotes",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយសម្រង់។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្រើន​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្រើន​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very quotes",
+      "a quotes person",
+      "seems to be quotes"
+    ]
   },
   {
     "id": "officer",
@@ -19902,12 +25584,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unofficer"
     ],
-    "image": "nature-officer",
+    "image": "/images/vocab/officer.jpg",
     "audioPlaceholder": "officer",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ពិសេស​គឺ​មន្ត្រី​ដែល​មាន​ឋានន្តរស័ក្តិ​ខុសពី​មន្ត្រី​ដីកា។",
-    "exampleKhmer": "មន្ត្រី​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មន្ត្រី​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good officer",
+      "the officer is",
+      "to use a officer"
+    ]
   },
   {
     "id": "driver",
@@ -19923,12 +25611,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undriver"
     ],
-    "image": "daily-conversation-driver",
+    "image": "/images/vocab/driver.jpg",
     "audioPlaceholder": "driver",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "ផ្នែកដែលបញ្ជូនចលនាទៅផ្នែកផ្សេងទៀតដោយការទាក់ទងជាមួយវា ឬតាមរយៈផ្នែកដែលអាចផ្លាស់ទីបានកម្រិតមធ្យម ដូចជាប្រអប់លេខដែលជំរុញមួយផ្សេងទៀត ឬដងថ្លឹងដែលផ្លាស់ទីផ្សេងទៀតតាមរយៈតំណភ្ជាប់។ល។",
-    "exampleKhmer": "អ្នកបើកបរត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អ្នកបើកបរត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good driver",
+      "the driver is",
+      "to use a driver"
+    ]
   },
   {
     "id": "respect",
@@ -19944,12 +25638,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unrespect"
     ],
-    "image": "family-respect",
+    "image": "/images/vocab/respect.jpg",
     "audioPlaceholder": "respect",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ការបង្ហាញការគោរពនៃការគោរព។",
-    "exampleKhmer": "ការ​គោរព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​គោរព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good respect",
+      "the respect is",
+      "to use a respect"
+    ]
   },
   {
     "id": "unknown",
@@ -19965,12 +25665,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ununknown"
     ],
-    "image": "food-unknown",
+    "image": "/images/vocab/unknown.jpg",
     "audioPlaceholder": "unknown",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មិនស្គាល់។",
-    "exampleKhmer": "អ្នក​មិន​ស្គាល់​មុខ​ត្រូ���​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
+    "exampleKhmer": "អ្នក​មិន​ស្គាល់​មុខ​ត្រូ���​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good unknown",
+      "the unknown is",
+      "to use a unknown"
+    ]
   },
   {
     "id": "worth",
@@ -19986,12 +25692,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unworth"
     ],
-    "image": "animals-worth",
+    "image": "/images/vocab/worth.jpg",
     "audioPlaceholder": "worth",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ដើម្បីក្លាយជា។",
-    "exampleKhmer": "តម្លៃ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "តម្លៃ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good worth",
+      "the worth is",
+      "to use a worth"
+    ]
   },
   {
     "id": "teacher",
@@ -20007,12 +25719,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unteacher"
     ],
-    "image": "school-teacher",
+    "image": "/images/vocab/teacher.jpg",
     "audioPlaceholder": "teacher",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងគ្រូ។",
-    "exampleKhmer": "គ្រូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "គ្រូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good teacher",
+      "the teacher is",
+      "to use a teacher"
+    ]
   },
   {
     "id": "workers",
@@ -20028,12 +25746,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unworkers"
     ],
-    "image": "travel-workers",
+    "image": "/images/vocab/workers.jpg",
     "audioPlaceholder": "workers",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយកម្មករ។",
-    "exampleKhmer": "យើង​ត្រូវ​ឱ្យ​កម្មករ​បំពេញ​ការងារ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
+    "exampleKhmer": "យើង​ត្រូវ​ឱ្យ​កម្មករ​បំពេញ​ការងារ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។",
+    "audio": "",
+    "commonCollocations": [
+      "to workers immediately",
+      "can workers easily",
+      "please workers"
+    ]
   },
   {
     "id": "georgia",
@@ -20049,12 +25773,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungeorgia"
     ],
-    "image": "business-georgia",
+    "image": "/images/vocab/georgia.jpg",
     "audioPlaceholder": "georgia",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយហ្សកហ្ស៊ី។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​របស់​ហ្សកហ្ស៊ី​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​របស់​ហ្សកហ្ស៊ី​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very georgia",
+      "a georgia person",
+      "seems to be georgia"
+    ]
   },
   {
     "id": "peace",
@@ -20070,12 +25800,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpeace"
     ],
-    "image": "technology-peace",
+    "image": "/images/vocab/peace.jpg",
     "audioPlaceholder": "peace",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ភាពស្ងប់ស្ងាត់ឬភាពស្ងប់ស្ងាត់។",
-    "exampleKhmer": "សន្តិភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "សន្តិភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good peace",
+      "the peace is",
+      "to use a peace"
+    ]
   },
   {
     "id": "campus",
@@ -20091,12 +25827,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncampus"
     ],
-    "image": "health-campus",
+    "image": "/images/vocab/campus.jpg",
     "audioPlaceholder": "campus",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "មូលដ្ឋានសំខាន់នៃមហាវិទ្យាល័យ ឬសាលារៀន រវាងអគារ ឬក្នុងបរិវេណសំខាន់។",
-    "exampleKhmer": "បរិវេណសាលាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ"
+    "exampleKhmer": "បរិវេណសាលាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ",
+    "audio": "",
+    "commonCollocations": [
+      "a good campus",
+      "the campus is",
+      "to use a campus"
+    ]
   },
   {
     "id": "showing",
@@ -20112,12 +25854,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unshowing"
     ],
-    "image": "shopping-showing",
+    "image": "/images/vocab/showing.jpg",
     "audioPlaceholder": "showing",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការបង្ហាញ។",
-    "exampleKhmer": "យើងត្រូវបង្ហាញកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវបង្ហាញកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to showing immediately",
+      "can showing easily",
+      "please showing"
+    ]
   },
   {
     "id": "creative",
@@ -20133,12 +25881,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncreative"
     ],
-    "image": "sports-creative",
+    "image": "/images/vocab/creative.jpg",
     "audioPlaceholder": "creative",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "arts",
     "meaningKhmer": "មានអំណាចក្នុងការបង្កើត។",
-    "exampleKhmer": "ការច្នៃប្រឌិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការច្នៃប្រឌិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good creative",
+      "the creative is",
+      "to use a creative"
+    ]
   },
   {
     "id": "coast",
@@ -20154,12 +25908,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncoast"
     ],
-    "image": "nature-coast",
+    "image": "/images/vocab/coast.jpg",
     "audioPlaceholder": "coast",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ដើម្បីរអិលចុះពីលើភ្នំ។",
-    "exampleKhmer": "ឆ្នេរ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ឆ្នេរ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good coast",
+      "the coast is",
+      "to use a coast"
+    ]
   },
   {
     "id": "benefit",
@@ -20175,12 +25935,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbenefit"
     ],
-    "image": "daily-conversation-benefit",
+    "image": "/images/vocab/benefit.jpg",
     "audioPlaceholder": "benefit",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "អត្ថប្រយោជន៍ធម្មជាតិ។",
-    "exampleKhmer": "អត្ថប្រយោជន៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អត្ថប្រយោជន៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good benefit",
+      "the benefit is",
+      "to use a benefit"
+    ]
   },
   {
     "id": "progress",
@@ -20196,12 +25962,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unprogress"
     ],
-    "image": "family-progress",
+    "image": "/images/vocab/progress.jpg",
     "audioPlaceholder": "progress",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីឈានទៅមុខ។",
-    "exampleKhmer": "វឌ្ឍនភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "វឌ្ឍនភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good progress",
+      "the progress is",
+      "to use a progress"
+    ]
   },
   {
     "id": "funding",
@@ -20217,12 +25989,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfunding"
     ],
-    "image": "food-funding",
+    "image": "/images/vocab/funding.jpg",
     "audioPlaceholder": "funding",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយការផ្តល់មូលនិធិ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្រើន​អំពី​ស្ថានការណ៍។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្រើន​អំពី​ស្ថានការណ៍។",
+    "audio": "",
+    "commonCollocations": [
+      "very funding",
+      "a funding person",
+      "seems to be funding"
+    ]
   },
   {
     "id": "devices",
@@ -20238,12 +26016,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undevices"
     ],
-    "image": "animals-devices",
+    "image": "/images/vocab/devices.jpg",
     "audioPlaceholder": "devices",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃឧបករណ៍។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ឧបករណ៍' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ឧបករណ៍' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to devices immediately",
+      "can devices easily",
+      "please devices"
+    ]
   },
   {
     "id": "grant",
@@ -20259,12 +26043,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungrant"
     ],
-    "image": "school-grant",
+    "image": "/images/vocab/grant.jpg",
     "audioPlaceholder": "grant",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "យល់ព្រម។",
-    "exampleKhmer": "ជំនួយនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជំនួយនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good grant",
+      "the grant is",
+      "to use a grant"
+    ]
   },
   {
     "id": "agree",
@@ -20280,12 +26070,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unagree"
     ],
-    "image": "travel-agree",
+    "image": "/images/vocab/agree.jpg",
     "audioPlaceholder": "agree",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីឆ្លើយតបតាមភេទ លេខ ករណី ឬបុគ្គល។",
-    "exampleKhmer": "កិច្ច​ព្រម​ព្រៀង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "កិច្ច​ព្រម​ព្រៀង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good agree",
+      "the agree is",
+      "to use a agree"
+    ]
   },
   {
     "id": "fiction",
@@ -20301,12 +26097,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfiction"
     ],
-    "image": "business-fiction",
+    "image": "/images/vocab/fiction.jpg",
     "audioPlaceholder": "fiction",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "ការសន្មត់���ៃរឿងដែលអាចក្លាយជាការពិត ដោយមិនគិតពីសំណួរនៃការពិតរបស់វា។",
-    "exampleKhmer": "រឿង​ប្រឌិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "រឿង​ប្រឌិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good fiction",
+      "the fiction is",
+      "to use a fiction"
+    ]
   },
   {
     "id": "watches",
@@ -20322,12 +26124,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unwatches"
     ],
-    "image": "technology-watches",
+    "image": "/images/vocab/watches.jpg",
     "audioPlaceholder": "watches",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ស្លឹករបស់សារ៉ាស។",
-    "exampleKhmer": "នាឡិកាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កា��ពីម្សិលមិញ។"
+    "exampleKhmer": "នាឡិកាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កា��ពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good watches",
+      "the watches is",
+      "to use a watches"
+    ]
   },
   {
     "id": "careers",
@@ -20343,12 +26151,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncareers"
     ],
-    "image": "health-careers",
+    "image": "/images/vocab/careers.jpg",
     "audioPlaceholder": "careers",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងអាជីព។",
-    "exampleKhmer": "អាជីពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "អាជីពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good careers",
+      "the careers is",
+      "to use a careers"
+    ]
   },
   {
     "id": "beyond",
@@ -20364,12 +26178,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbeyond"
     ],
-    "image": "shopping-beyond",
+    "image": "/images/vocab/beyond.jpg",
     "audioPlaceholder": "beyond",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ឆ្ងាយទៀត។",
-    "exampleKhmer": "លើស​ពី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "លើស​ពី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good beyond",
+      "the beyond is",
+      "to use a beyond"
+    ]
   },
   {
     "id": "families",
@@ -20385,12 +26205,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unfamilies"
     ],
-    "image": "sports-families",
+    "image": "/images/vocab/families.jpg",
     "audioPlaceholder": "families",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយគ្រួសារ។",
-    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ដល់​គ្រួសារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
+    "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ដល់​គ្រួសារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very families",
+      "a families person",
+      "seems to be families"
+    ]
   },
   {
     "id": "museum",
@@ -20406,12 +26232,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmuseum"
     ],
-    "image": "nature-museum",
+    "image": "/images/vocab/museum.jpg",
     "audioPlaceholder": "museum",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ឃ្លាំង ឬបណ្តុំនៃធម្មជាតិ វិទ្យាសាស្រ្ត ចង់ដឹងចង់ឃើញតាមអក្សរសាស្ត្រ ឬស្នាដៃសិល្បៈ។",
-    "exampleKhmer": "សារមន្ទីរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សារមន្ទីរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good museum",
+      "the museum is",
+      "to use a museum"
+    ]
   },
   {
     "id": "blogs",
@@ -20427,12 +26259,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unblogs"
     ],
-    "image": "daily-conversation-blogs",
+    "image": "/images/vocab/blogs.jpg",
     "audioPlaceholder": "blogs",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងប្លុក។",
-    "exampleKhmer": "ប្លក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ប្លក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good blogs",
+      "the blogs is",
+      "to use a blogs"
+    ]
   },
   {
     "id": "accepted",
@@ -20448,12 +26286,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unaccepted"
     ],
-    "image": "family-accepted",
+    "image": "/images/vocab/accepted.jpg",
     "audioPlaceholder": "accepted",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយនឹងការទទួលយក។",
-    "exampleKhmer": "យើងត្រូវទទួលយកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវទទួលយកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to accepted immediately",
+      "can accepted easily",
+      "please accepted"
+    ]
   },
   {
     "id": "former",
@@ -20469,12 +26313,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unformer"
     ],
-    "image": "food-former",
+    "image": "/images/vocab/former.jpg",
     "audioPlaceholder": "former",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយអតីត។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីមុនយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីមុនយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very former",
+      "a former person",
+      "seems to be former"
+    ]
   },
   {
     "id": "complex",
@@ -20490,12 +26340,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncomplex"
     ],
-    "image": "animals-complex",
+    "image": "/images/vocab/complex.jpg",
     "audioPlaceholder": "complex",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ការប្រមូលផ្តុំវត្ថុពាក់ព័ន្ធ។",
-    "exampleKhmer": "ស្មុគ្រស្មាញ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ស្មុគ្រស្មាញ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good complex",
+      "the complex is",
+      "to use a complex"
+    ]
   },
   {
     "id": "agencies",
@@ -20511,12 +26367,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unagencies"
     ],
-    "image": "school-agencies",
+    "image": "/images/vocab/agencies.jpg",
     "audioPlaceholder": "agencies",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងភ្នាក់ងារ។",
-    "exampleKhmer": "ភ្នាក់ងារ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ភ្នាក់ងារ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good agencies",
+      "the agencies is",
+      "to use a agencies"
+    ]
   },
   {
     "id": "parent",
@@ -20532,12 +26394,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unparent"
     ],
-    "image": "travel-parent",
+    "image": "/images/vocab/parent.jpg",
     "audioPlaceholder": "parent",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយមាតាបិតា។",
-    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to parent immediately",
+      "can parent easily",
+      "please parent"
+    ]
   },
   {
     "id": "spanish",
@@ -20553,12 +26421,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unspanish"
     ],
-    "image": "business-spanish",
+    "image": "/images/vocab/spanish.jpg",
     "audioPlaceholder": "spanish",
     "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងអេស្ប៉ាញ ឬអេស្ប៉ាញ។",
-    "exampleKhmer": "ភាសាអេស្បាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ភាសាអេស្បាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good spanish",
+      "the spanish is",
+      "to use a spanish"
+    ]
   },
   {
     "id": "michigan",
@@ -20574,12 +26448,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmichigan"
     ],
-    "image": "technology-michigan",
+    "image": "/images/vocab/michigan.jpg",
     "audioPlaceholder": "michigan",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​រដ្ឋ Michigan ។",
-    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'michigan' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'michigan' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to michigan immediately",
+      "can michigan easily",
+      "please michigan"
+    ]
   },
   {
     "id": "columbia",
@@ -20595,12 +26475,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncolumbia"
     ],
-    "image": "health-columbia",
+    "image": "/images/vocab/columbia.jpg",
     "audioPlaceholder": "columbia",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "អាមេរិក។",
-    "exampleKhmer": "កូឡុំប៊ីត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កូឡុំប៊ីត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good columbia",
+      "the columbia is",
+      "to use a columbia"
+    ]
   },
   {
     "id": "setting",
@@ -20616,12 +26502,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unsetting"
     ],
-    "image": "shopping-setting",
+    "image": "/images/vocab/setting.jpg",
     "audioPlaceholder": "setting",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការកំណត់។",
-    "exampleKhmer": "យើងត្រូវកំណត់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវកំណត់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to setting immediately",
+      "can setting easily",
+      "please setting"
+    ]
   },
   {
     "id": "scale",
@@ -20637,12 +26529,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unscale"
     ],
-    "image": "sports-scale",
+    "image": "/images/vocab/scale.jpg",
     "audioPlaceholder": "scale",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "សញ្ញាឬតារានិករ Libra ។",
-    "exampleKhmer": "មាត្រដ្ឋាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "មាត្រដ្ឋាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good scale",
+      "the scale is",
+      "to use a scale"
+    ]
   },
   {
     "id": "stand",
@@ -20658,12 +26556,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unstand"
     ],
-    "image": "nature-stand",
+    "image": "/images/vocab/stand.jpg",
     "audioPlaceholder": "stand",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ដើម្បីរៀបចំវគ្គសិក្សានៅសមុទ្រ។",
-    "exampleKhmer": "ជំហរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "ជំហរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good stand",
+      "the stand is",
+      "to use a stand"
+    ]
   },
   {
     "id": "economy",
@@ -20679,12 +26583,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uneconomy"
     ],
-    "image": "daily-conversation-economy",
+    "image": "/images/vocab/economy.jpg",
     "audioPlaceholder": "economy",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "finance",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសេដ្ឋកិច្ច។",
-    "exampleKhmer": "សេដ្ឋកិច្ច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "សេដ្ឋកិច្ច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good economy",
+      "the economy is",
+      "to use a economy"
+    ]
   },
   {
     "id": "highest",
@@ -20700,12 +26610,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhighest"
     ],
-    "image": "family-highest",
+    "image": "/images/vocab/highest.jpg",
     "audioPlaceholder": "highest",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយនឹងកម្រិតខ្ពស់បំផុត។",
-    "exampleKhmer": "យើងត្រូវបំពេញការងារនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
+    "exampleKhmer": "យើងត្រូវបំពេញការងារនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។",
+    "audio": "",
+    "commonCollocations": [
+      "to highest immediately",
+      "can highest easily",
+      "please highest"
+    ]
   },
   {
     "id": "helpful",
@@ -20721,12 +26637,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unhelpful"
     ],
-    "image": "food-helpful",
+    "image": "/images/vocab/helpful.jpg",
     "audioPlaceholder": "helpful",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "ជំនួយគ្រឿងសង្ហារិម។",
-    "exampleKhmer": "ជំនួយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ជំនួយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good helpful",
+      "the helpful is",
+      "to use a helpful"
+    ]
   },
   {
     "id": "monthly",
@@ -20742,12 +26664,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmonthly"
     ],
-    "image": "animals-monthly",
+    "image": "/images/vocab/monthly.jpg",
     "audioPlaceholder": "monthly",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "ការបោះពុម្ពផ្សាយដែលបង្ហាញជាទៀងទាត់ម្តងក្នុងមួយខែ។",
-    "exampleKhmer": "ប្រចាំខែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រចាំខែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good monthly",
+      "the monthly is",
+      "to use a monthly"
+    ]
   },
   {
     "id": "critical",
@@ -20763,12 +26691,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "uncritical"
     ],
-    "image": "school-critical",
+    "image": "/images/vocab/critical.jpg",
     "audioPlaceholder": "critical",
     "difficulty": "C1",
-    "category": "school",
+    "category": "business",
     "meaningKhmer": "ទាក់ទងនឹង ឬការចង្អុលបង្ហាញ វិបត្តិ ចំណុចរបត់ ចំនុចប្រសព្វដ៏សំខាន់ជាពិសេស។",
-    "exampleKhmer": "ការ​រិះគន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "ការ​រិះគន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good critical",
+      "the critical is",
+      "to use a critical"
+    ]
   },
   {
     "id": "frame",
@@ -20784,12 +26718,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unframe"
     ],
-    "image": "travel-frame",
+    "image": "/images/vocab/frame.jpg",
     "audioPlaceholder": "frame",
     "difficulty": "C1",
-    "category": "travel",
+    "category": "business",
     "meaningKhmer": "ដើម្បីសាងសង់ដោយសម និងបង្រួបបង្រួមផ្នែកជាច្រើននៃគ្រោងឆ្អឹងនៃរចនាសម្ព័ន្ធណាមួយ។",
-    "exampleKhmer": "ស៊ុមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ស៊ុមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good frame",
+      "the frame is",
+      "to use a frame"
+    ]
   },
   {
     "id": "musical",
@@ -20805,12 +26745,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unmusical"
     ],
-    "image": "business-musical",
+    "image": "/images/vocab/musical.jpg",
     "audioPlaceholder": "musical",
     "difficulty": "C1",
-    "category": "business",
+    "category": "arts",
     "meaningKhmer": "ឬទាក់ទងនឹងតន្ត្រី។",
-    "exampleKhmer": "តន្ត្រី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "តន្ត្រី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good musical",
+      "the musical is",
+      "to use a musical"
+    ]
   },
   {
     "id": "angeles",
@@ -20826,12 +26772,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unangeles"
     ],
-    "image": "technology-angeles",
+    "image": "/images/vocab/angeles.jpg",
     "audioPlaceholder": "angeles",
     "difficulty": "C1",
-    "category": "technology",
+    "category": "business",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​ទេវតា។",
-    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ទេវតា' ក្នុងប្រយោគមួយ។"
+    "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ទេវតា' ក្នុងប្រយោគមួយ។",
+    "audio": "",
+    "commonCollocations": [
+      "to angeles immediately",
+      "can angeles easily",
+      "please angeles"
+    ]
   },
   {
     "id": "employee",
@@ -20847,12 +26799,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unemployee"
     ],
-    "image": "health-employee",
+    "image": "/images/vocab/employee.jpg",
     "audioPlaceholder": "employee",
     "difficulty": "C1",
-    "category": "health",
+    "category": "business",
     "meaningKhmer": "ម្នាក់ធ្វើការដោយមួយទៀត។",
-    "exampleKhmer": "បុគ្គលិក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "បុគ្គលិក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good employee",
+      "the employee is",
+      "to use a employee"
+    ]
   },
   {
     "id": "chief",
@@ -20868,12 +26826,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchief"
     ],
-    "image": "shopping-chief",
+    "image": "/images/vocab/chief.jpg",
     "audioPlaceholder": "chief",
     "difficulty": "C1",
-    "category": "shopping",
+    "category": "business",
     "meaningKhmer": "ផ្នែកខាងលើទីបីនៃវាល។",
-    "exampleKhmer": "ប្រធានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ប្រធានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good chief",
+      "the chief is",
+      "to use a chief"
+    ]
   },
   {
     "id": "gives",
@@ -20889,12 +26853,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "ungives"
     ],
-    "image": "sports-gives",
+    "image": "/images/vocab/gives.jpg",
     "audioPlaceholder": "gives",
     "difficulty": "C1",
-    "category": "sports",
+    "category": "business",
     "meaningKhmer": "ខ្សែក។",
-    "exampleKhmer": "ការផ្ដល់ជូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ការផ្ដល់ជូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good gives",
+      "the gives is",
+      "to use a gives"
+    ]
   },
   {
     "id": "bottom",
@@ -20910,12 +26880,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unbottom"
     ],
-    "image": "nature-bottom",
+    "image": "/images/vocab/bottom.jpg",
     "audioPlaceholder": "bottom",
     "difficulty": "C1",
-    "category": "nature",
+    "category": "business",
     "meaningKhmer": "ផ្នែកនៃកប៉ាល់ដែលជាធម្មតានៅក្រោមទឹក។",
-    "exampleKhmer": "ខាងក្រោមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "ខាងក្រោមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good bottom",
+      "the bottom is",
+      "to use a bottom"
+    ]
   },
   {
     "id": "packages",
@@ -20931,12 +26907,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unpackages"
     ],
-    "image": "daily-conversation-packages",
+    "image": "/images/vocab/packages.jpg",
     "audioPlaceholder": "packages",
     "difficulty": "C1",
-    "category": "daily-conversation",
+    "category": "business",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកញ្ចប់។",
-    "exampleKhmer": "កញ្ចប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
+    "exampleKhmer": "កញ្ចប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good packages",
+      "the packages is",
+      "to use a packages"
+    ]
   },
   {
     "id": "detail",
@@ -20952,12 +26934,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "undetail"
     ],
-    "image": "family-detail",
+    "image": "/images/vocab/detail.jpg",
     "audioPlaceholder": "detail",
     "difficulty": "C1",
-    "category": "family",
+    "category": "business",
     "meaningKhmer": "ការ​ជ្រើសរើស​សម្រាប់​សេវា​ជាក់លាក់​មួយ​របស់​បុគ្គល​ឬ​រាងកាយ​របស់​បុរស។",
-    "exampleKhmer": "សេចក្តី​លម្អិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​��េល​ថ្នាក់​រៀន​ម្សិលមិញ។"
+    "exampleKhmer": "សេចក្តី​លម្អិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​��េល​ថ្នាក់​រៀន​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good detail",
+      "the detail is",
+      "to use a detail"
+    ]
   },
   {
     "id": "changed",
@@ -20973,12 +26961,18 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unchanged"
     ],
-    "image": "food-changed",
+    "image": "/images/vocab/changed.jpg",
     "audioPlaceholder": "changed",
     "difficulty": "C1",
-    "category": "food",
+    "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការផ្លាស់ប្តូរ។",
-    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលផ្លាស់ប្តូរយ៉ាងខ្លាំងអំពីស្ថានភាព។"
+    "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលផ្លាស់ប្តូរយ៉ាងខ្លាំងអំពីស្ថានភាព។",
+    "audio": "",
+    "commonCollocations": [
+      "very changed",
+      "a changed person",
+      "seems to be changed"
+    ]
   },
   {
     "id": "heard",
@@ -20994,11 +26988,17 @@ export const vocabularyWords: VocabularyWord[] = [
     "antonyms": [
       "unheard"
     ],
-    "image": "animals-heard",
+    "image": "/images/vocab/heard.jpg",
     "audioPlaceholder": "heard",
     "difficulty": "C1",
-    "category": "animals",
+    "category": "business",
     "meaningKhmer": "Imp",
-    "exampleKhmer": "សវនាការ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
+    "exampleKhmer": "សវនាការ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។",
+    "audio": "",
+    "commonCollocations": [
+      "a good heard",
+      "the heard is",
+      "to use a heard"
+    ]
   }
 ];

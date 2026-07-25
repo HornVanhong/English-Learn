@@ -1,1385 +1,899 @@
 import { GrammarLesson } from '@/types';
 
 export const grammarLessons: GrammarLesson[] = [
+  // ==========================================
+  // A1 LEVEL LESSONS (7 Lessons)
+  // ==========================================
   {
-    "id": "be-verb",
-    "title": "The \"Be\" Verb",
-    "level": "A1",
-    "shortDesc": "Learn the forms and uses of the most fundamental verb in English: am, is, are.",
-    "explanation": "The verb \"to be\" is the most common and important verb in English. It is used to describe states of being, identities, qualities, and locations. Unlike other verbs, \"to be\" changes its form completely based on the subject (I, you, he/she/it, we, they) and the tense.",
-    "examples": [
-      {
-        "english": "I am a student.",
-        "translation": "Yo soy un estudiante / Ich bin ein Schüler.",
-        "translationKhmer": "ខ្ញុំជាសិស្ស។"
-      },
-      {
-        "english": "She is at school.",
-        "translation": "Ella está en la escuela / Sie ist in der Schule.",
-        "translationKhmer": "នាងនៅសាលា។"
-      },
-      {
-        "english": "They are very friendly.",
-        "translation": "Ellos son muy amigables / Sie sind sehr freundlich.",
-        "translationKhmer": "ពួកគេមានភាពរួសរាយរាក់ទាក់ណាស់។"
-      }
+    id: 'alphabet',
+    title: 'English Alphabet & Sounds',
+    level: 'A1',
+    shortDesc: 'Master the 26 letters, basic phonics, and pronunciation rules.',
+    shortDescKhmer: 'រៀនអក្សរទាំង ២៦ ការបញ្ចេញសំឡេង និងច្បាប់ប្រកបពាក្យមូលដ្ឋាន។',
+    explanation: 'The English alphabet consists of 26 letters: 5 vowels (A, E, I, O, U) and 21 consonants. Understanding alphabet pronunciation and phonetic sounds is crucial for spelling and pronunciation.',
+    explanationKhmer: 'អក្សរក្រមភាសាអង់គ្លេសមាន ២៦ តួ៖ ស្រៈ ៥ តួ (A, E, I, O, U) និងព្យញ្ជនៈ ២១ តួ។ ការយល់ដឹងអំពីការបញ្ចេញសំឡេងអក្សរក្រម និងសំឡេងសូរស័ព្ទ គឺមានសារៈសំខាន់ខ្លាំងណាស់សម្រាប់ការប្រកប និងការបញ្ចេញសំឡេង។',
+    formula: 'A, B, C... (26 Letters) | Vowels: A, E, I, O, U | Consonants: B, C, D...',
+    formulaKhmer: 'តួអក្សរ ២៦ | ស្រៈ: A, E, I, O, U | ព្យញ្ជនៈ: B, C, D, F, G...',
+    whenToUse: [
+      'Use letter names when spelling out names or codes.',
+      'Use phonetic sounds (phonics) to blend letters and read new words.'
     ],
-    "tips": [
-      "Use contractions in speech and informal writing: I'm, you're, he's, she's, it's, we're, they're.",
-      "To make questions, swap the subject and the verb: \"You are happy\" becomes \"Are you happy?\".",
-      "Add \"not\" to make a sentence negative: \"I am not tired\", \"He is not ready\"."
+    whenToUseKhmer: [
+      'ប្រើប្រាស់ឈ្មោះអក្សរនៅពេលប្រកបឈ្មោះ ឬកូដផ្សេងៗ។',
+      'ប្រើប្រាស់សំឡេងសូរស័ព្ទ (Phonics) ដើម្បីផ្សំអក្សរ និងអានពាក្យថ្មីៗ។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "They is very tired.",
-        "correct": "They are very tired.",
-        "explanation": "\"They\" is plural, so it requires the plural form \"are\"."
-      },
-      {
-        "incorrect": "I is a doctor.",
-        "correct": "I am a doctor.",
-        "explanation": "The subject pronoun \"I\" always pairs with \"am\" in the present tense."
-      }
+    positiveExamples: [
+      'A is for Apple (/ˈæp.əl/)',
+      'B is for Book (/bʊk/)',
+      'C is for Cat (/kæt/)'
     ],
-    "summary": "The verb \"to be\" has three present tense forms: am (for I), is (for he, she, it), and are (for you, we, they). It is used for identity, location, characteristics, and feelings.",
-    "practiceQuestions": [
-      {
-        "id": "be-q1",
-        "question": "Choose the correct verb: \"We ______ excited about the trip.\"",
-        "options": [
-          "am",
-          "is",
-          "are"
-        ],
-        "correctAnswer": "are"
-      },
-      {
-        "id": "be-q2",
-        "question": "Identify the correct question form:",
-        "options": [
-          "Is she a doctor?",
-          "She is a doctor?",
-          "Are she a doctor?"
-        ],
-        "correctAnswer": "Is she a doctor?"
-      },
-      {
-        "id": "be-q3",
-        "question": "Fill in the blank: \"It ______ cold outside today.\"",
-        "options": [
-          "am",
-          "is",
-          "are"
-        ],
-        "correctAnswer": "is"
-      }
+    positiveExamplesKhmer: [
+      'A សម្រាប់ពាក្យ Apple (ផ្លែប៉ោម)',
+      'B សម្រាប់ពាក្យ Book (សៀវភៅ)',
+      'C សម្រាប់ពាក្យ Cat (ឆ្មា)'
     ],
-    "shortDescKhmer": "រៀនទម្រង់ និងការប្រើប្រាស់កិរិយាសព្ទមូលដ្ឋានបំផុតជាភាសាអង់គ្លេស៖ am, is, are ។",
-    "explanationKhmer": "កិរិយាស័ព្ទ \"to be\" គឺជាកិរិយាសព្ទទូទៅ និងសំខាន់បំផុតនៅក្នុងភាសាអង់គ្លេស។ វា​ត្រូវ​បាន​ប្រើ​ដើម្បី​ពណ៌នា​អំពី​ស្ថានភាព​នៃ​ការ​រស់នៅ អត្តសញ្ញាណ គុណភាព និង​ទីតាំង។ មិនដូចកិរិយាស័ព្ទផ្សេងទៀត \"to be\" ផ្លាស់ប្តូរទម្រង់របស់វាទាំងស្រុងដោយផ្អែកលើប្រធានបទ (ខ្ញុំ, អ្នក, គាត់ / នាង / វា, យើង, ពួកគេ) និងភាពតានតឹង។",
-    "summaryKhmer": "កិរិយាស័ព្ទ \"to be\" មានទម្រង់តានតឹងបច្ចុប្បន្នចំនួនបី: am (សម្រាប់ខ្ញុំ), គឺ (សម្រាប់គាត់, នាង, វា) និងគឺ (សម្រាប់អ្នក, យើង, ពួកគេ) ។ វាត្រូវបានប្រើសម្រាប់អត្តសញ្ញាណ ទីតាំង លក្ខណៈ និងអារម្មណ៍។"
+    negativeExamples: [
+      'Vowels do not always have a single sound (e.g., "cat" /æ/ vs. "car" /ɑː/).',
+      'Consonants like "C" do not only sound hard (e.g., "cat" /k/ vs. "city" /s/).'
+    ],
+    negativeExamplesKhmer: [
+      'ស្រៈមិនមែនតែងតែមានសំឡេងតែមួយនោះទេ (ឧទាហរណ៍៖ "cat" សំឡេង /æ/ និង "car" សំឡេង /ɑː/)។',
+      'ព្យញ្ជនៈដូចជា "C" មិនមែនមានតែសំឡេងរឹងនោះទេ (ឧទាហរណ៍៖ "cat" សំឡេង /k/ និង "city" សំឡេង /s/)។'
+    ],
+    questionForm: 'How do you spell your name? | Can you repeat that letter?',
+    questionFormKhmer: 'តើអ្នកប្រកបឈ្មោះរបស់អ្នកយ៉ាងដូចម្តេច? | តើអ្នកអាចអានតួអក្សរនោះឡើងវិញបានទេ?',
+    visualTimeline: '[Letter Sound] --> [Word Blend] --> [Sentence Pronunciation]',
+    visualTimelineKhmer: '[សំឡេងអក្សរ] --> [ការផ្សំពាក្យ] --> [ការបញ្ចេញសំឡេងប្រយោគ]',
+    examples: [
+      { english: 'A - B - C - D - E - F - G', translation: 'Alphabet names practice.', translationKhmer: 'ការអនុវត្តឈ្មោះអក្សរក្រម។' }
+    ],
+    tips: [
+      'Practice the distinction between "B" (/biː/) and "V" (/viː/).',
+      'Vowels are the heart of syllables; every English word must contain a vowel sound.'
+    ],
+    commonMistakes: [
+      { incorrect: 'Pronouncing "recipe" as /res-aip/.', correct: 'Pronouncing "recipe" as /ˈres.ə.pi/.', explanation: 'Many English words are not pronounced exactly as they are written due to irregular phonetics.' }
+    ],
+    summary: 'The English alphabet has 26 letters. Vowels (a, e, i, o, u) can make short or long sounds. Consonants have fixed or conditional sounds.',
+    summaryKhmer: 'អក្សរក្រមអង់គ្លេសមាន ២៦ តួ។ ស្រៈ (a, e, i, o, u) អាចបង្កើតសំឡេងខ្លី ឬវែង។ ព្យញ្ជនៈមានសំឡេងថេរ ឬសំឡេងតាមលក្ខខណ្ឌ។',
+    practiceQuestions: [
+      { id: 'alp-q1', question: 'How many vowels are in the English alphabet?', options: ['3', '5', '7'], correctAnswer: '5' },
+      { id: 'alp-q2', question: 'Which of the following is a consonant?', options: ['A', 'E', 'F'], correctAnswer: 'F' }
+    ]
   },
   {
-    "id": "articles",
-    "title": "Articles (A, An, The)",
-    "level": "A1",
-    "shortDesc": "Understand when to use a/an (indefinite) versus the (definite article).",
-    "explanation": "Articles are words that define a noun as specific or unspecific. English has three articles: \"a\", \"an\", and \"the\". \"A\" and \"an\" are indefinite articles, used for singular countable nouns that are not specific. \"The\" is the definite article, used when both the speaker and listener know exactly which noun is being discussed.",
-    "examples": [
-      {
-        "english": "I saw a dog in the park. The dog was chasing a ball.",
-        "translation": "Vi un perro en el parque (cualquiera). El perro (el que vi) estaba persiguiendo una pelota.",
-        "translationKhmer": "ខ្ញុំបានឃើញឆ្កែនៅក្នុងឧទ្យាន។ ឆ្កែកំពុងដេញតាមបាល់។"
-      },
-      {
-        "english": "She wants an apple.",
-        "translation": "Ella quiere una manzana (cualquier manzana).",
-        "translationKhmer": "នាងចង់បានផ្លែប៉ោមមួយ។"
-      },
-      {
-        "english": "The moon is beautiful tonight.",
-        "translation": "La luna está hermosa esta noche (hay solo una luna).",
-        "translationKhmer": "ព្រះច័ន្ទគឺស្រស់ស្អាតណាស់យប់នេះ។"
-      }
+    id: 'pronouns',
+    title: 'Subject and Object Pronouns',
+    level: 'A1',
+    shortDesc: 'Learn how to substitute nouns with pronouns (I, you, he, she, it, me, him...).',
+    shortDescKhmer: 'រៀនពីរបៀបជំនួសនាមដោយសព្វនាម (I, you, he, she, it, me, him...)។',
+    explanation: 'Pronouns are words used to replace nouns to avoid repetition. Subject pronouns perform the action in a sentence (I, you, he, she, it, we, they), while object pronouns receive the action (me, you, him, her, it, us, them).',
+    explanationKhmer: 'សព្វនាមគឺជាពាក្យដែលប្រើដើម្បីជំនួសនាម ដើម្បីចៀសវាងការនិយាយដដែលៗ។ សព្វនាមប្រធាន (Subject Pronouns) ធ្វើសកម្មភាពក្នុងប្រយោគ (I, you, he, she, it, we, they) រីឯសព្វនាមកម្មបទ (Object Pronouns) ទទួលរងសកម្មភាព (me, you, him, her, it, us, them)។',
+    formula: 'Subject Pronoun + Verb | Subject + Verb + Object Pronoun',
+    formulaKhmer: 'សព្វនាមប្រធាន + កិរិយាសព្ទ | ប្រធាន + កិរិយាសព្ទ + សព្វនាមកម្មបទ',
+    whenToUse: [
+      'Use subject pronouns at the beginning of a sentence before the main verb.',
+      'Use object pronouns after a verb or after a preposition (to, with, for).'
     ],
-    "tips": [
-      "Use \"a\" before words starting with consonant sounds (e.g., a cat, a university - \"yoo-niversity\").",
-      "Use \"an\" before words starting with vowel sounds (e.g., an apple, an hour - the \"h\" is silent).",
-      "Do not use \"a/an\" with plural nouns or uncountable nouns: use \"some\" or no article (e.g., \"I love milk\", \"She has dogs\")."
+    whenToUseKhmer: [
+      'ប្រើសព្វនាមប្រធាននៅដើមប្រយោគ មុនកិរិយាសព្ទចម្បង។',
+      'ប្រើសព្វនាមកម្មបទបន្ទាប់ពីកិរិយាសព្ទ ឬបន្ទាប់ពីធ្នាក់ (to, with, for)។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "He is an university student.",
-        "correct": "He is a university student.",
-        "explanation": "\"University\" starts with a consonant sound (/j/), so it takes \"a\"."
-      },
-      {
-        "incorrect": "I want a apple.",
-        "correct": "I want an apple.",
-        "explanation": "\"Apple\" begins with a vowel sound, so it must take \"an\" for smooth pronunciation."
-      }
+    positiveExamples: [
+      'She loves her job.',
+      'They invited us to the party.'
     ],
-    "summary": "Use \"a/an\" for generic singular nouns. Use \"a\" for consonant sounds, and \"an\" for vowel sounds. Use \"the\" when a noun is unique, specific, or already mentioned.",
-    "practiceQuestions": [
-      {
-        "id": "art-q1",
-        "question": "Choose the correct article: \"Could you pass me ______ salt, please?\"",
-        "options": [
-          "a",
-          "an",
-          "the"
-        ],
-        "correctAnswer": "the"
-      },
-      {
-        "id": "art-q2",
-        "question": "Choose the correct article: \"He will arrive in ______ hour.\"",
-        "options": [
-          "a",
-          "an",
-          "the"
-        ],
-        "correctAnswer": "an"
-      },
-      {
-        "id": "art-q3",
-        "question": "Select the correct sentence:",
-        "options": [
-          "I love a books.",
-          "I bought a new book yesterday.",
-          "She is the doctor, but I don't know which one."
-        ],
-        "correctAnswer": "I bought a new book yesterday."
-      }
+    positiveExamplesKhmer: [
+      'នាងស្រឡាញ់ការងាររបស់នាង។',
+      'ពួកគេបានអញ្ជើញពួកយើងទៅកម្មវិធីជប់លៀង។'
     ],
-    "shortDescKhmer": "ស្វែងយល់ថាពេលណាត្រូវប្រើ a/an (មិនកំណត់) ធៀបនឹង (អត្ថបទច្បាស់លាស់)។",
-    "explanationKhmer": "អត���ថបទ គឺជាពាក្យដែលកំណត់នាមថាជាក់លាក់ ឬមិនជាក់លាក់។ ភាសាអង់គ្លេសមានអត្ថបទបីគឺ \"a\", \"an\" និង \"the\" ។ \"A\" និង \"an\" គឺជាអត្ថបទមិនកំណត់ ប្រើសម្រាប់នាមដែលអាចរាប់បានឯកវចនៈ ដែលមិនជាក់លាក់។ \"នេះ\" គឺជាអត្ថបទច្បាស់លាស់ ប្រើនៅពេលដែលអ្នកនិយាយ និងអ្នកស្តាប់ដឹងច្បាស់ថានាមណាមួយកំពុងត្រូវបានពិភាក្សា។",
-    "summaryKhmer": "ប្រើ \"a/an\" សម្រាប់នាមឯកវចនៈទូទៅ។ ប្រើ \"a\" សម្រាប់សំឡេងព្យញ្ជនៈ និង \"an\" សម្រាប់សំឡេងស្រៈ។ ប្��ើ \"the\" នៅពេលដែលនាមមានតែមួយគត់ ជាក់លាក់ ឬបានរៀបរាប់រួចហើយ។"
+    negativeExamples: [
+      'Me do not want to go. (Incorrect)',
+      'She gave he the book. (Incorrect)'
+    ],
+    negativeExamplesKhmer: [
+      'Me do not want to go. (ខុស - ត្រូវប្រើ I)',
+      'She gave he the book. (ខុស - ត្រូវប្រើ him)'
+    ],
+    questionForm: 'Did she call you? | Who wants to meet them?',
+    questionFormKhmer: 'តើនាងបានទូរស័ព្ទមកអ្នកទេ? | តើនរណាខ្លះចង់ជួបពួកគេ?',
+    visualTimeline: '[Subject Pronoun] --> (Verb Action) --> [Object Pronoun]',
+    visualTimelineKhmer: '[សព្វនាមប្រធាន] --> (សកម្មភាពកិរិយាសព្ទ) --> [សព្វនាមកម្មបទ]',
+    examples: [
+      { english: 'He saw her at the market.', translation: 'He (subject pronoun) saw her (object pronoun).', translationKhmer: 'គាត់បានឃើញនាងនៅផ្សារ។' }
+    ],
+    tips: [
+      'Always use a subject pronoun before the verb: say "She is happy," not "Her is happy."',
+      '"It" is used for animals, inanimate objects, and abstract concepts.'
+    ],
+    commonMistakes: [
+      { incorrect: 'John and me went to the store.', correct: 'John and I went to the store.', explanation: 'When sharing a subject, use "I" instead of "me" because it represents the subject of the sentence.' }
+    ],
+    summary: 'Subject pronouns (I, you, he, she, it, we, they) do the action. Object pronouns (me, you, him, her, it, us, them) receive the action.',
+    summaryKhmer: 'សព្វនាមប្រធាន (I, you, he, she, it, we, they) ធ្វើសកម្មភាព។ សព្វនាមកម្មបទ (me, you, him, her, it, us, them) ទទួលរងសកម្មភាព។',
+    practiceQuestions: [
+      { id: 'pro-q1', question: 'Fill in the blank: "______ am studying cybersecurity."', options: ['Me', 'I', 'Him'], correctAnswer: 'I' },
+      { id: 'pro-q2', question: 'Choose the correct object pronoun: "John bought a gift for ______ (Mary)."', options: ['she', 'her', 'hers'], correctAnswer: 'her' }
+    ]
   },
   {
-    "id": "pronouns",
-    "title": "Pronouns",
-    "level": "A1",
-    "shortDesc": "Learn subject, object, possessive pronouns, and possessive adjectives.",
-    "explanation": "Pronouns replace nouns to avoid repetition. There are different types: Subject pronouns (do the action), Object pronouns (receive the action), Possessive adjectives (show ownership before a noun), and Possessive pronouns (replace a noun showing ownership).",
-    "examples": [
-      {
-        "english": "She loves him.",
-        "translation": "Ella lo ama. (\"She\" is subject, \"him\" is object).",
-        "translationKhmer": "នាងស្រឡាញ់គាត់។"
-      },
-      {
-        "english": "This is my book. It is mine.",
-        "translation": "Este es mi libro. Es mío. (\"my\" is possessive adjective, \"mine\" is possessive pronoun).",
-        "translationKhmer": "នេះជាសៀវភៅរបស់ខ្ញុំ។ វាជារបស់ខ្ញុំ។"
-      },
-      {
-        "english": "They called us yesterday.",
-        "translation": "Ellos nos llamaron ayer. (\"They\" is subject, \"us\" is object).",
-        "translationKhmer": "ពួកគេបានទូរស័ព្ទមកយើងកាលពីម្សិលមិញ។"
-      }
+    id: 'be-verb',
+    title: 'The "Be" Verb (Am, Is, Are)',
+    level: 'A1',
+    shortDesc: 'Learn the forms and uses of the most fundamental verb in English.',
+    shortDescKhmer: 'រៀនទម្រង់ និងការប្រើប្រាស់កិរិយាសព្ទមូលដ្ឋានបំផុតជាភាសាអង់គ្លេស៖ am, is, are ។',
+    explanation: 'The verb "to be" describes identity, qualities, locations, and temporary states. Its present tense forms are "am", "is", and "are" depending on the subject.',
+    explanationKhmer: 'កិរិយាស័ព្ទ "to be" ពិពណ៌នាអំពីអត្តសញ្ញាណ គុណភាព ទីតាំង និងស្ថានភាពបណ្តោះអាសន្ន។ ទម្រង់បច្ចុប្បន្នរបស់វាគឺ "am", "is", និង "are" អាស្រ័យលើប្រធានបទ។',
+    formula: 'I am | He/She/It is | We/You/They are',
+    formulaKhmer: 'I + am | He/She/It + is | We/You/They + are',
+    whenToUse: [
+      'To state your name, job, or nationality.',
+      'To describe locations or physical states (hungry, cold).'
     ],
-    "tips": [
-      "Possessive adjectives (my, your, his, her, its, our, their) must be followed by a noun: \"This is my house.\"",
-      "Possessive pronouns (mine, yours, his, hers, ours, theirs) stand alone: \"This house is mine.\"",
-      "Make sure the pronoun agrees in number and gender with the noun it replaces."
+    whenToUseKhmer: [
+      'ដើម្បីបញ្ជាក់ឈ្មោះ ការងារ ឬសញ្ជាតិរបស់អ្នក។',
+      'ដើម្បីពិពណ៌នាអំពីទីតាំង ឬស្ថានភាពរាងកាយ (ឃ្លាន, ត្រជាក់)។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "This book is my.",
-        "correct": "This book is mine.",
-        "explanation": "\"My\" is an adjective and needs a noun. Use \"mine\" when there is no noun following."
-      },
-      {
-        "incorrect": "Him went to the store.",
-        "correct": "He went to the store.",
-        "explanation": "Use the subject pronoun \"He\" as the subject of the verb \"went\"."
-      }
+    positiveExamples: [
+      'I am at home.',
+      'She is a smart developer.'
     ],
-    "summary": "Subject pronouns (I, you, he, she, it, we, they) do the action. Object pronouns (me, you, him, her, it, us, them) receive the action. Possessive adjectives show ownership before nouns, and possessive pronouns show ownership alone.",
-    "practiceQuestions": [
-      {
-        "id": "pro-q1",
-        "question": "Replace the underlined word: \"John loves Mary. John bought a flower for <u>Mary</u>.\"",
-        "options": [
-          "she",
-          "her",
-          "hers"
-        ],
-        "correctAnswer": "her"
-      },
-      {
-        "id": "pro-q2",
-        "question": "Choose the correct word: \"Is this jacket ______?\"",
-        "options": [
-          "your",
-          "yours",
-          "you"
-        ],
-        "correctAnswer": "yours"
-      },
-      {
-        "id": "pro-q3",
-        "question": "Choose the correct pronoun: \"We are going to the park. Do you want to come with ______?\"",
-        "options": [
-          "we",
-          "us",
-          "our"
-        ],
-        "correctAnswer": "us"
-      }
+    positiveExamplesKhmer: [
+      'ខ្ញុំនៅផ្ទះ។',
+      'នាងគឺជាអ្នកអភិវឌ្ឍន៍ដ៏ឆ្លាតវៃម្នាក់។'
     ],
-    "shortDescKhmer": "រៀនមុខវិជ្ជា វត្ថុ សព្វនាម សព្វនាម និងគុណនាមកម្មសិទ្ធិ។",
-    "explanationKhmer": "សព្វនាម ជំនួសនាម ដើម្បីជៀសវាងពាក្យដដែលៗ។ មានប្រភេទផ្សេងៗគ្នា៖ Subject pronouns (do action), Object pronouns (receive the action), Possessive adjective (បង្ហាញភាពជាម្ចាស់មុននាមមួយ) និង Possessive pronouns (ជំនួសនាមបង្ហាញពីភាពជាម្ចាស់)។",
-    "summaryKhmer": "សព្វនាមប្រធានបទ (ខ្ញុំ, អ្នក, គាត់, នាង, វា, យើង, ពួកគេ) ធ្វើសកម្មភាព។ សព្វនាមវត្ថុ (ខ្ញុំ, អ្នក, គាត់, នាង, វា, យើង, ពួកគេ) ទទួលសកម្មភាព។ Possessive adjectives បង្ហាញពីភាពជាម្ចាស់នៅចំពោះមុខនាម ហើយសព្វនាមមានកម្មសិទ្ធិបង្ហាញពីភាពជាម្ចាស់តែម្នាក់ឯង។"
+    negativeExamples: [
+      'I am not tired.',
+      'They are not ready.'
+    ],
+    negativeExamplesKhmer: [
+      'ខ្ញុំមិនហត់នឿយទេ។',
+      'ពួកគេមិនទាន់រួចរាល់ទេ។'
+    ],
+    questionForm: 'Am I late? | Is he your friend? | Are they here?',
+    questionFormKhmer: 'តើខ្ញុំមកយឺតទេ? | តើគាត់ជាមិត្តរបស់អ្នកមែនទេ? | តើពួកគេនៅទីនេះទេ?',
+    visualTimeline: '[Past State] <--> [Present State: am / is / are] <--> [Future State]',
+    visualTimelineKhmer: '[ស្ថានភាពអតីតកាល] <--> [ស្ថានភាពបច្ចុប្បន្ន៖ am / is / are] <--> [ស្ថានភាពអនាគតកាល]',
+    examples: [
+      { english: 'We are students.', translation: 'We (plural subject) are (plural form of to be).', translationKhmer: 'ពួកយើងគឺជាសិស្ស។' }
+    ],
+    tips: [
+      'Use contractions in informal speaking: I\'m, he\'s, she\'s, you\'re, they\'re.',
+      'To make questions, simply swap the subject and the verb: "She is a doctor" -> "Is she a doctor?"'
+    ],
+    commonMistakes: [
+      { incorrect: 'They is very friendly.', correct: 'They are very friendly.', explanation: '"They" is plural, so it must pair with "are".' }
+    ],
+    summary: 'The verb "to be" has three present forms: am (for I), is (for singular subjects), and are (for plural subjects).',
+    summaryKhmer: 'កិរិយាស័ព្ទ "to be" មានទម្រង់បច្ចុប្បន្នចំនួនបី៖ am (សម្រាប់ I), is (សម្រាប់ឯកវចនៈ), និង are (សម្រាប់ពហុវចនៈ)។',
+    practiceQuestions: [
+      { id: 'bev-q1', question: 'Which form of the verb "to be" pairs with "We"?', options: ['am', 'is', 'are'], correctAnswer: 'are' },
+      { id: 'bev-q2', question: 'Fill in the blank: "She ______ a cybersecurity student."', options: ['am', 'is', 'are'], correctAnswer: 'is' }
+    ]
   },
   {
-    "id": "present-simple",
-    "title": "Present Simple",
-    "level": "A2",
-    "shortDesc": "Talk about habits, facts, and daily routines in the present.",
-    "explanation": "The Present Simple is used to express general truths, habits, facts, and routines. For spelling, verbs ending in consonants just take the base form. However, for third-person singular subjects (he, she, it), we add \"-s\" or \"-es\" to the base verb.",
-    "examples": [
-      {
-        "english": "I drink coffee every morning.",
-        "translation": "Bebo café todas las mañanas (routine).",
-        "translationKhmer": "ខ្ញុំផឹកកាហ្វេរាល់ព្រឹក។"
-      },
-      {
-        "english": "The sun rises in the east.",
-        "translation": "El sol sale por el este (general truth).",
-        "translationKhmer": "ព្រះអាទិត្យរះនៅទិសខាងកើត។"
-      },
-      {
-        "english": "He plays football on Saturdays.",
-        "translation": "Él juega fútbol los sábados (third person -s).",
-        "translationKhmer": "គាត់លេងបាល់ទាត់នៅថ្ងៃសៅរ៍។"
-      }
+    id: 'articles',
+    title: 'Articles (A, An, The)',
+    level: 'A1',
+    shortDesc: 'Understand definite versus indefinite articles.',
+    shortDescKhmer: 'ស្វែងយល់ពីរបៀបប្រើប្រាស់គុណនាមចង្អុល definite (the) និង indefinite (a/an)។',
+    explanation: 'Articles define whether a noun is specific (the definite article "the") or general (indefinite articles "a" and "an"). Use "a" before consonant sounds and "an" before vowel sounds.',
+    explanationKhmer: 'អត្ថបទ (Articles) កំណត់ថាតើនាមជាក់លាក់ (គុណនាមចង្អុលជាក់លាក់ "the") ឬទូទៅ (គុណនាមចង្អុលមិនជាក់លាក់ "a" និង "an")។ ប្រើ "a" មុនសំឡេងព្យញ្ជនៈ និង "an" មុនសំឡេងស្រៈ។',
+    formula: 'a + Consonant Sound | an + Vowel Sound | the + Specific Noun',
+    formulaKhmer: 'a + សំឡេងព្យញ្ជនៈ | an + សំឡេងស្រៈ | the + នាមជាក់លាក់',
+    whenToUse: [
+      'Use "a/an" when introducing a singular countable noun for the first time.',
+      'Use "the" when the listener already knows which specific noun you mean.'
     ],
-    "tips": [
-      "To make negative sentences, use \"do not / don't\" or \"does not / doesn't\" + base verb: \"I don't play\", \"She doesn't play\" (no -s on play!).",
-      "To make questions, start with \"Do\" or \"Does\" + subject + base verb: \"Does he speak English?\".",
-      "Look for keywords like: always, usually, often, sometimes, never, every day, once a week."
+    whenToUseKhmer: [
+      'ប្រើ "a/an" នៅពេលណែនាំនាមរាប់បានឯកវចនៈជាលើកដំបូង។',
+      'ប្រើ "the" នៅពេលអ្នកស្តាប់ដឹងរួចហើយថានាមជាក់លាក់មួយណាដែលអ្នកកំពុងចង់និយាយ។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "She live in London.",
-        "correct": "She lives in London.",
-        "explanation": "Always add \"-s\" or \"-es\" to the verb when the subject is he, she, or it in Present Simple affirmative."
-      },
-      {
-        "incorrect": "He doesn't likes apples.",
-        "correct": "He doesn't like apples.",
-        "explanation": "After the auxiliary \"does/doesn't\", the verb returns to its base form (no \"-s\")."
-      }
+    positiveExamples: [
+      'I saw a movie. The movie was fantastic.',
+      'She ordered an orange juice.'
     ],
-    "summary": "Use Present Simple for habits, facts, and schedules. For subjects he/she/it, add \"-s\" to the verb in positive sentences. Use \"do/does\" for questions and negatives.",
-    "practiceQuestions": [
-      {
-        "id": "ps-q1",
-        "question": "Choose the correct form: \"My brother ______ television after dinner.\"",
-        "options": [
-          "watch",
-          "watches",
-          "watching"
-        ],
-        "correctAnswer": "watches"
-      },
-      {
-        "id": "ps-q2",
-        "question": "Fill in the blank: \"They ______ live in New York anymore.\"",
-        "options": [
-          "don't",
-          "doesn't",
-          "not"
-        ],
-        "correctAnswer": "don't"
-      },
-      {
-        "id": "ps-q3",
-        "question": "Choose the correct question format:",
-        "options": [
-          "Does he plays soccer?",
-          "Do he play soccer?",
-          "Does he play soccer?"
-        ],
-        "correctAnswer": "Does he play soccer?"
-      }
+    positiveExamplesKhmer: [
+      'ខ្ញុំបានមើលកុនមួយ។ កុននោះល្អមើលណាស់។',
+      'នាងបានកុម្ម៉ង់ទឹកក្រូចមួយកែវ។'
     ],
-    "shortDescKhmer": "និយាយអំពីទម្លាប់ ការពិត និងទម្លាប់ប្រចាំថ្ងៃក្នុងពេលបច្ចុប្បន្ន។",
-    "explanationKhmer": "Present Simple ត្រូវបានប្រើដើម្បីបង្ហាញពីការពិតទូទៅ ទម្លាប់ ការពិត និងទម្លាប់។ សម្រាប់អក្ខរាវិរុទ្ធ កិរិយាស័ព្ទដែលបញ្ចប់ដោយព្យញ្ជនៈគ្រាន់តែយកទម្រង់មូលដ្ឋាន។ ទោះយ៉ាងណាក៏ដោយ សម្រាប់មុខវិជ្ជាឯកវចនៈបុគ្គលទីបី (គាត់ នាង វា) យើងបន្ថែម \"-s\" ឬ \"-es\" ទៅកិរិយាស័ព្ទមូលដ្ឋាន។",
-    "summaryKhmer": "ប្រើ Present Simple សម្រាប់ទម្លាប់ ការពិត និងកាលវិភាគ។ សម្រាប់មុខវិជ្ជាដែលគាត់/នាង/វា បន្ថែម \"-s\" ទៅកិរិយាស័ព្ទក្នុងប្រយោគវិជ្ជមាន។ ប្រើ \"ធ្វើ/ធ្វើ\" សម្រាប់សំណួរ និងអវិជ្ជមាន។"
+    negativeExamples: [
+      'I want an banana. (Incorrect)',
+      'The water is important. (Incorrect for general statements)'
+    ],
+    negativeExamplesKhmer: [
+      'I want an banana. (ខុស - ត្រូវប្រើ a banana)',
+      'The water is important. (ខុស បើនិយាយជាទូទៅ ត្រូវប្រើ Water without the)'
+    ],
+    questionForm: 'Do you have a laptop? | Where is the key?',
+    questionFormKhmer: 'តើអ្នកមានកុំព្យូទ័រយួរដៃទេ? | តើកូនសោនៅឯណា?',
+    visualTimeline: '[General Noun: a/an] ------------> [Specific Noun: the]',
+    visualTimelineKhmer: '[នាមទូទៅ៖ a/an] ------------> [នាមជាក់លាក់៖ the]',
+    examples: [
+      { english: 'She lives in an apartment.', translation: 'Apartment starts with vowel sound, so it uses "an".', translationKhmer: 'នាងរស់នៅក្នុងអាផាតមិនមួយ។' }
+    ],
+    tips: [
+      'Check the SOUND, not the spelling: "an hour" (silent H, starts with vowel sound /aʊə/), but "a university" (starts with consonant sound /j/).'
+    ],
+    commonMistakes: [
+      { incorrect: 'He is an university student.', correct: 'He is a university student.', explanation: 'The word "university" starts with a consonant /j/ sound (yoo-ni-ver-sity), not a vowel sound, so it requires "a".' }
+    ],
+    summary: 'Use "a/an" for non-specific singular countable nouns. Use "the" for specific nouns. Pay attention to the pronunciation sound when selecting a vs. an.',
+    summaryKhmer: 'ប្រើ "a/an" សម្រាប់នាមរាប់បានឯកវចនៈមិនជាក់លាក់។ ប្រើ "the" សម្រាប់នាមជាក់លាក់។ យកចិត្តទុកដាក់លើសំឡេងបញ្ចេញពេលជ្រើសរើស a ឬ an។',
+    practiceQuestions: [
+      { id: 'art-q1', question: 'Choose the correct article: "I have ______ uncle who lives in Siem Reap."', options: ['a', 'an', 'the'], correctAnswer: 'an' },
+      { id: 'art-q2', question: 'Fill in the blank: "Could you pass me ______ salt?" (referring to the salt on the table)', options: ['a', 'an', 'the'], correctAnswer: 'the' }
+    ]
   },
   {
-    "id": "present-continuous",
-    "title": "Present Continuous",
-    "level": "A2",
-    "shortDesc": "Describe actions happening right now, temporary situations, or future plans.",
-    "explanation": "The Present Continuous is formed using the present tense of the \"be\" verb (am, is, are) + the main verb ending in \"-ing\". It is used for actions happening right at this moment, temporary projects, or confirmed future arrangements.",
-    "examples": [
-      {
-        "english": "I am writing a letter right now.",
-        "translation": "Estoy escribiendo una carta en este momento.",
-        "translationKhmer": "ខ្ញុំ​កំពុង​សរសេរ​សំបុត្រ​មួយ​ឥឡូវ​នេះ។"
-      },
-      {
-        "english": "She is staying with her cousin this week.",
-        "translation": "Ella se está quedando con su prima esta semana (temporary).",
-        "translationKhmer": "នាងកំពុងស្នាក់នៅជាមួយបងប្អូនជីដូនមួយរបស់នាងក្នុងសប្តាហ៍នេះ។"
-      },
-      {
-        "english": "They are meeting the client tomorrow at noon.",
-        "translation": "Ellos se reunirán con el cliente mañana al mediodía (future plan).",
-        "translationKhmer": "ពួកគេ​នឹង​ជួប​អតិថិជន​នៅ​ថ្ងៃ​ស្អែក​។"
-      }
+    id: 'present-simple',
+    title: 'Present Simple Tense',
+    level: 'A1',
+    shortDesc: 'Talk about habits, facts, and daily routines.',
+    shortDescKhmer: 'និយាយអំពីទម្លាប់ ការពិតទូទៅ និងកិច្ចការប្រចាំថ្ងៃ។',
+    explanation: 'The Present Simple tense is used to describe regular habits, routines, immutable truths, and general facts. Add "s" or "es" to the base verb when the subject is third-person singular (he, she, it).',
+    explanationKhmer: 'កាលបច្ចុប្បន្នធម្មតា (Present Simple) ត្រូវប្រើដើម្បីពិពណ៌នាអំពីទម្លាប់ទៀងទាត់ កិច្ចការប្រចាំថ្ងៃ ការពិតមិនផ្លាស់ប្តូរ និងការពិតទូទៅ។ បន្ថែម "s" ឬ "es" ទៅកិរិយាសព្ទដើមនៅពេលប្រធានជាបុរសទី៣ ឯកវចនៈ (he, she, it)។',
+    formula: 'Subject + Verb (s/es) + Object | Don\'t / Doesn\'t + Verb',
+    formulaKhmer: 'ប្រធាន + កិរិយាសព្ទ (s/es) + កម្មបទ | Don\'t / Doesn\'t + កិរិយាសព្ទដើម',
+    whenToUse: [
+      'To state facts that are always true (The sun rises in the east).',
+      'To describe daily schedules or actions that repeat regularly (I study every day).'
     ],
-    "tips": [
-      "Do not use continuous forms with state/stative verbs like love, hate, know, believe, understand, want (e.g. say \"I know him\", not \"I am knowing him\").",
-      "For verbs ending in \"-e\", drop the \"e\" before adding \"-ing\" (e.g. write -> writing).",
-      "For short verbs ending in consonant-vowel-consonant, double the final consonant (e.g. run -> running, sit -> sitting)."
+    whenToUseKhmer: [
+      'ដើម្បីបញ្ជាក់ពីការពិតដែលតែងតែត្រឹមត្រូវ (ព្រះអាទិត្យរះនៅទិសខាងកើត)។',
+      'ដើម្បីពិពណ៌នាអំពីកាលវិភាគប្រចាំថ្ងៃ ឬសកម្មភាពដែលកើតឡើងដដែលៗ (ខ្ញុំរៀនរាល់ថ្ងៃ)។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "I am wanting some chocolate.",
-        "correct": "I want some chocolate.",
-        "explanation": "\"Want\" is a stative verb expressing a desire, which is not usually used in the continuous form."
-      },
-      {
-        "incorrect": "They playing basketball in the backyard.",
-        "correct": "They are playing basketball in the backyard.",
-        "explanation": "Always remember to include the helping \"be\" verb (am/is/are) in the Present Continuous."
-      }
+    positiveExamples: [
+      'She speaks fluent English.',
+      'They work in Phnom Penh.'
     ],
-    "summary": "Present Continuous is: [Am/Is/Are] + [Verb-ing]. Use it for actions in progress now, temporary situations, or near future arrangements. Avoid it with stative verbs.",
-    "practiceQuestions": [
-      {
-        "id": "pc-q1",
-        "question": "Fill in the blank: \"Look! The baby ______ sleeping in the crib.\"",
-        "options": [
-          "is",
-          "are",
-          "am"
-        ],
-        "correctAnswer": "is"
-      },
-      {
-        "id": "pc-q2",
-        "question": "Identify the incorrect sentence:",
-        "options": [
-          "She is cooking dinner.",
-          "I am reading a novel.",
-          "I am liking this soup."
-        ],
-        "correctAnswer": "I am liking this soup."
-      },
-      {
-        "id": "pc-q3",
-        "question": "Choose the correct form: \"We ______ to Paris this Friday.\"",
-        "options": [
-          "are flying",
-          "flies",
-          "flying"
-        ],
-        "correctAnswer": "are flying"
-      }
+    positiveExamplesKhmer: [
+      'នាងនិយាយភាសាអង់គ្លេសបានយ៉ាងស្ទាត់ជំនាញ។',
+      'ពួកគេធ្វើការនៅភ្នំពេញ។'
     ],
-    "shortDescKhmer": "ពិពណ៌នាអំពីសកម្មភាពដែលកើតឡើងនៅពេលនេះ ស្ថានភាពបណ្តោះអាសន្ន ឬផែនការអនាគត។",
-    "explanationKhmer": "Present Continuous ត្រូវបានបង្កើតឡើងដោយប្រើបច្ចុប្បន្នកាលនៃកិរិយាស័ព្ទ \"be\" (am, is, are) + កិរិយាសព្ទចម្បងដែលបញ្ចប់ដោយ \"-ing\" ។ វាត្រូវបានប្រើសម្រាប់សកម្មភាពដែលកំពុងកើតឡើងនៅពេលនេះ គម្រោងបណ្តោះអាសន្ន ឬបញ្ជាក់ការរៀបចំនាពេលអនាគត។",
-    "summaryKhmer": "Present Continuous គឺ៖ [Am/Is/Are] + [Verb-ing]។ ប្រើវាសម្រាប់សកម្មភាពដែលកំពុងដំណើរការឥឡូវនេះ ស្ថានភាពបណ្តោះអាសន្ន ឬការរៀបចំនាពេលខាង��ុខ។ ជៀសវាងវាដោយកិរិយាស័ព្ទថេរ។"
+    negativeExamples: [
+      'He does not play football on weekdays.',
+      'We do not need help.'
+    ],
+    negativeExamplesKhmer: [
+      'គាត់មិនលេងបាល់ទាត់នៅថ្ងៃធម្មតាទេ។',
+      'ពួកយើងមិនត្រូវការជំនួយទេ។'
+    ],
+    questionForm: 'Do you study cybersecurity? | Does she like coffee?',
+    questionFormKhmer: 'តើអ្នកសិក្សាផ្នែកសន្តិសុខបច្ចេកវិទ្យាទេ? | តើនាងចូលចិត្តកាហ្វេទេ?',
+    visualTimeline: '<--- [Repeated Actions / General Truths] --->',
+    visualTimelineKhmer: '<--- [សកម្មភាពកើតឡើងដដែលៗ / ការពិតទូទៅ] --->',
+    examples: [
+      { english: 'Water boils at 100 degrees Celsius.', translation: 'A general scientific fact.', translationKhmer: 'ទឹកពុះនៅសីតុណ្ហភាព ១០០ អង្សាសេ។' }
+    ],
+    tips: [
+      'Add "es" instead of "s" if verbs end in ch, sh, ss, x, or o: e.g., watch -> watches, go -> goes.',
+      'Adverbs of frequency like "always", "usually", "often" are commonly used with this tense.'
+    ],
+    commonMistakes: [
+      { incorrect: 'She study English every day.', correct: 'She studies English every day.', explanation: 'Third-person singular "she" requires the verb form "studies" (y to ies).' }
+    ],
+    summary: 'The Present Simple tense describes facts and routines. Plural subjects use the base verb, while singular subjects (he, she, it) require adding s/es to the verb.',
+    summaryKhmer: 'Present Simple ពិពណ៌នាអំពីការពិត និងទម្លាប់។ ប្រធានពហុវចនៈប្រើកិរិយាសព្ទដើម ចំណែកឯប្រធានឯកវចនៈ (he, she, it) ត្រូវការបន្ថែម s/es ទៅកិរិយាសព្ទ។',
+    practiceQuestions: [
+      { id: 'prs-q1', question: 'Which sentence is grammatically correct?', options: ['He live in Siem Reap.', 'He lives in Siem Reap.', 'He living in Siem Reap.'], correctAnswer: 'He lives in Siem Reap.' },
+      { id: 'prs-q2', question: 'Choose the correct negative form: "We ______ want that."', options: ['do not', 'does not', 'is not'], correctAnswer: 'do not' }
+    ]
   },
   {
-    "id": "past-simple",
-    "title": "Past Simple",
-    "level": "A2",
-    "shortDesc": "Talk about actions that started and finished in the past.",
-    "explanation": "The Past Simple is used to describe completed actions in the past. Regular verbs form the past tense by adding \"-ed\" or \"-d\" to the base form (e.g., walk -> walked). However, many common verbs are irregular and must be memorized individually (e.g., go -> went, see -> saw, buy -> bought).",
-    "examples": [
-      {
-        "english": "We visited Rome last summer.",
-        "translation": "Visitamos Roma el verano pasado (regular).",
-        "translationKhmer": "យើងបានទៅលេងទីក្រុងរ៉ូមកាលពីរដូវក្តៅមុន។"
-      },
-      {
-        "english": "He wrote three letters yesterday.",
-        "translation": "Él escribió tres cartas ayer (irregular: write -> wrote).",
-        "translationKhmer": "គាត់បានសរសេរសំបុត្រចំនួនបីកាលពីម្សិលមិញ។"
-      },
-      {
-        "english": "I did not sleep well last night.",
-        "translation": "No dormí bien anoche (negative with did not).",
-        "translationKhmer": "យប់មិញខ្ញុំគេ��មិនលក់ទេ។"
-      }
+    id: 'there-is-are',
+    title: 'There is / There are',
+    level: 'A1',
+    shortDesc: 'State the existence of things and nouns.',
+    shortDescKhmer: 'បង្ហាញអំពីវត្តមាន ឬអត្ថិភាពនៃវត្ថុ និងនាមផ្សេងៗ។',
+    explanation: 'Use "There is" for singular nouns or uncountable nouns. Use "There are" for plural nouns. This structure states that something exists in a particular location.',
+    explanationKhmer: 'ប្រើ "There is" សម្រាប់នាមឯកវចនៈ ឬនាមរាប់មិនបាន។ ប្រើ "There are" សម្រាប់នាមពហុវចនៈ។ ទម្រង់រចនាសម្ព័ន្ធនេះបញ្ជាក់ថាមានអ្វីមួយកំពុងមានវត្តមាននៅកន្លែងណាមួយ។',
+    formula: 'There is + Singular / Uncountable Noun | There are + Plural Noun',
+    formulaKhmer: 'There is + នាមឯកវចនៈ / នាមរាប់មិនបាន | There are + នាមពហុវចនៈ',
+    whenToUse: [
+      'To list contents of a room, city, or list.',
+      'To mention facts about availability (There is coffee in the kitchen).'
     ],
-    "tips": [
-      "Use the auxiliary \"did / did not (didn't)\" for negatives and questions, followed by the base form of the verb: \"Did you go?\" (not \"Did you went?\").",
-      "The past form of the \"be\" verb is was (for I, he, she, it) and were (for you, we, they). It does not use \"did\" in negatives or questions: \"I wasn't there\", \"Were you sick?\".",
-      "Look for past indicators: yesterday, ago, last week, in 2010."
+    whenToUseKhmer: [
+      'ដើម្បីរាយឈ្មោះវត្ថុនៅក្នុងបន្ទប់ ទីក្រុង ឬបញ្ជី។',
+      'ដើម្បីបញ្ជាក់ពីការមាននៅដែលអាចរកបាន (មានកាហ្វេនៅក្នុងផ្ទះបាយ)។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "Did you bought that phone?",
-        "correct": "Did you buy that phone?",
-        "explanation": "In questions, the past tense is already indicated by \"Did\". The main verb must be in its base form (\"buy\")."
-      },
-      {
-        "incorrect": "I was went to the cinema.",
-        "correct": "I went to the cinema.",
-        "explanation": "Do not combine \"was/were\" with a past tense action verb. Just use the action verb directly."
-      }
+    positiveExamples: [
+      'There is a book on the desk.',
+      'There are many people at the seminar.'
     ],
-    "summary": "Past Simple describes finished past actions. Regular verbs add \"-ed\". Irregular verbs change forms. Negative/Questions use \"did\" + base verb, except for the \"be\" verb (was/were).",
-    "practiceQuestions": [
-      {
-        "id": "pas-q1",
-        "question": "Choose the correct verb form: \"She ______ her keys on the table an hour ago.\"",
-        "options": [
-          "left",
-          "leave",
-          "leaves"
-        ],
-        "correctAnswer": "left"
-      },
-      {
-        "id": "pas-q2",
-        "question": "Fill in the blank: \"I ______ not see you at the party yesterday.\"",
-        "options": [
-          "do",
-          "did",
-          "was"
-        ],
-        "correctAnswer": "did"
-      },
-      {
-        "id": "pas-q3",
-        "question": "Choose the correct past sentence:",
-        "options": [
-          "Where did you went?",
-          "Where were you go?",
-          "Where did you go?"
-        ],
-        "correctAnswer": "Where did you go?"
-      }
+    positiveExamplesKhmer: [
+      'មានសៀវភៅមួយក្បាលនៅលើតុ។',
+      'មានមនុស្សជាច្រើននៅក្នុងសិក្ខាសាលា។'
     ],
-    "shortDescKhmer": "និយាយអំពីសកម្មភាពដែលបានចាប់ផ្តើម និងបញ្ចប់កាលពីអតីតកាល។",
-    "explanationKhmer": "Past Simple ត្រូវបានប្រើដើម្បីពិពណ៌នាអំពីសកម្មភាពដែលបានបញ្ចប់កាលពីអតីតកាល។ កិរិយាស័ព្ទធម្មតាបង្កើតជាអតីតកាលដោយបន្ថែម \"-ed\" ឬ \"-d\" ទៅទម្រង់មូលដ្ឋាន (ឧ. ដើរ -> ដើរ) ។ ទោះជាយ៉ាងណាក៏ដោយ កិរិយាសព្ទទូទៅជាច្រើនគឺមិនទៀងទាត់ ហើយត្រូវតែទន្ទេញចាំរៀងៗខ្លួន (ឧ. ទៅ -> ទ��, មើល -> saw, buy -> buy)។",
-    "summaryKhmer": "Past Simple ពិពណ៌នាអំពីសកម្មភាពអតីតកាលដែលបានបញ្ចប់។ កិរិយាស័ព្ទធម្មតាបន្ថែម \"-ed\" ។ កិរិយាស័ព្ទមិនទៀងទាត់ផ្លាស់ប្តូរទម្រង់។ សំណួរ/អវិជ្ជមានប្រើ \"did\" + កិរិយាសព្ទគោល លើកលែងតែកិរិយាស័ព្ទ \"be\" (was/were) ។"
+    negativeExamples: [
+      'There is not any milk left.',
+      'There are no cars in the garage.'
+    ],
+    negativeExamplesKhmer: [
+      'មិនមានសល់ទឹកដោះគោទាល់តែសោះ។',
+      'មិនមានឡាននៅក្នុងយានដ្ឋានឡើយ។'
+    ],
+    questionForm: 'Is there a toilet here? | Are there any questions?',
+    questionFormKhmer: 'តើមានបង្គន់នៅទីនេះទេ? | តើមានសំណួរអ្វីខ្លះទេ?',
+    visualTimeline: '[Existence Indicator] ---> (Location context)',
+    visualTimelineKhmer: '[សញ្ញាបង្ហាញវត្តមាន] ---> (បរិបទទីតាំង)',
+    examples: [
+      { english: 'There are twelve months in a year.', translation: 'Twelve months is plural, so it uses "There are".', translationKhmer: 'មានដប់ពីរខែក្នុងមួយឆ្នាំ។' }
+    ],
+    tips: [
+      'Use "any" in negative sentences and questions: "Are there any apples?", "There isn\'t any water."',
+      'Use "some" in positive plural sentences: "There are some books."'
+    ],
+    commonMistakes: [
+      { incorrect: 'There is many students in the library.', correct: 'There are many students in the library.', explanation: '"Many students" is a plural subject, so it requires "There are".' }
+    ],
+    summary: 'Use "There is" for singular and uncountable items. Use "There are" for plural items.',
+    summaryKhmer: 'ប្រើ "There is" សម្រាប់វត្ថុឯកវចនៈ និងរាប់មិនបាន។ ប្រើ "There are" សម្រាប់វត្ថុពហុវចនៈ។',
+    practiceQuestions: [
+      { id: 'tia-q1', question: 'Fill in the blank: "______ a computer on the table."', options: ['There is', 'There are', 'They are'], correctAnswer: 'There is' },
+      { id: 'tia-q2', question: 'Choose the correct form: "______ any cars in the street?"', options: ['Is there', 'Are there', 'There are'], correctAnswer: 'Are there' }
+    ]
   },
   {
-    "id": "future-tense",
-    "title": "Future Tense (Will & Going to)",
-    "level": "B1",
-    "shortDesc": "Express predictions, plans, decisions, and future outcomes using will and going to.",
-    "explanation": "There are two primary ways to express the future in English. Use \"will\" + base verb for instant decisions, offers, promises, and general predictions. Use \"be going to\" + base verb for plans, intentions, and predictions based on current evidence.",
-    "examples": [
-      {
-        "english": "I think it will rain tomorrow.",
-        "translation": "Creo que lloverá mañana (prediction).",
-        "translationKhmer": "ខ្ញុំគិតថានឹងមានភ្លៀងនៅថ្ងៃស្អែក។"
-      },
-      {
-        "english": "I am going to visit my parents this weekend.",
-        "translation": "Voy a visitar a mis padres este fin de semana (pre-made plan).",
-        "translationKhmer": "ខ្ញុំនឹងទៅលេងឪពុកម្តាយរបស់ខ្ញុំនៅចុងសប្តាហ៍នេះ។"
-      },
-      {
-        "english": "The phone is ringing. I'll answer it!",
-        "translation": "El teléfono está sonando. ¡Yo contestaré! (spontaneous decision).",
-        "translationKhmer": "ទូរសព្ទ​កំពុង​រោទ៍។ ខ្ញុំនឹងឆ្លើយ!"
-      }
+    id: 'can-cant',
+    title: 'Modal: Can / Can\'t',
+    level: 'A1',
+    shortDesc: 'Express ability, permission, and requests.',
+    shortDescKhmer: 'បង្ហាញអំពីសមត្ថភាព ការអនុញ្ញាត និងការស្នើសុំ។',
+    explanation: 'The modal verb "can" expresses ability to do something, permission, or possibilities. Its negative form is "cannot" (or the contraction "can\'t"). It is followed by the bare infinitive.',
+    explanationKhmer: 'កិរិយាសព្ទជំនួយ (Modal Verb) "can" បង្ហាញអំពីសមត្ថភាពអាចធ្វើអ្វីមួយ ការអនុញ្ញាត ឬលទ្ធភាព។ ទម្រង់បដិសេធរបស់វាគឺ "cannot" (ឬទម្រង់កាត់ "can\'t")។ វាត្រូវបានតាមពីក្រោយដោយកិរិយាសព្ទដើមគ្មាន "to" (Bare Infinitive)។',
+    formula: 'Subject + can/can\'t + Verb (Base form) | Can + Subject + Verb?',
+    formulaKhmer: 'ប្រធាន + can/can\'t + កិរិយាសព្ទដើម | Can + ប្រធាន + កិរិយាសព្ទដើម?',
+    whenToUse: [
+      'To speak about learned skills (I can speak English).',
+      'To ask for or give permission (You can go now).'
     ],
-    "tips": [
-      "Use \"will\" for spontaneous actions: \"I'll help you with those bags.\"",
-      "Use \"going to\" for plans already decided: \"We are going to buy a new car next month.\"",
-      "Use \"going to\" for logical physical predictions: \"Look at those dark clouds! It is going to rain.\""
+    whenToUseKhmer: [
+      'ដើម្បីនិយាយអំពីជំនាញដែលបានរៀន (ខ្ញុំអាចនិយាយភាសាអង់គ្លេសបាន)។',
+      'ដើម្បីសុំ ឬផ្តល់ការអនុញ្ញាត (អ្នកអាចទៅបានហើយ)។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "I will going to study medicine next year.",
-        "correct": "I am going to study medicine next year.",
-        "explanation": "Do not mix \"will\" and \"going to\". Use one or the other depending on the context."
-      },
-      {
-        "incorrect": "I think she will buys the red dress.",
-        "correct": "I think she will buy the red dress.",
-        "explanation": "After modal auxiliary \"will\", the verb must be in its bare base form (no \"-s\")."
-      }
+    positiveExamples: [
+      'I can swim.',
+      'She can write code.'
     ],
-    "summary": "Use \"will\" for predictions, promises, offers, and instant decisions. Use \"be going to\" for intentions, pre-made plans, and predictions supported by present evidence.",
-    "practiceQuestions": [
-      {
-        "id": "fut-q1",
-        "question": "Choose the correct option: \"I have decided. I ______ study Spanish.\"",
-        "options": [
-          "will",
-          "am going to",
-          "going to"
-        ],
-        "correctAnswer": "am going to"
-      },
-      {
-        "id": "fut-q2",
-        "question": "Choose the best response to \"I am so cold!\": \"Don't worry. I ______ close the window.\"",
-        "options": [
-          "will",
-          "am going to",
-          "going to"
-        ],
-        "correctAnswer": "will"
-      },
-      {
-        "id": "fut-q3",
-        "question": "Fill in the blank: \"Look at that runner! He is far ahead. He ______ win the race.\"",
-        "options": [
-          "will",
-          "is going to",
-          "wins"
-        ],
-        "correctAnswer": "is going to"
-      }
+    positiveExamplesKhmer: [
+      'ខ្ញុំអាចហែលទឹកបាន។',
+      'នាងអាចសរសេរកូដបាន។'
     ],
-    "shortDescKhmer": "បង្ហាញការព្យាករណ៍ ផែនការ ការសម្រេចចិត្ត និងលទ្ធផលនាពេលអនាគតដោយប្រើឆន្ទៈ និងទៅ។",
-    "explanationKhmer": "មានវិធីចម្បងពីរដើម្បីបង្ហាញពីអនាគតជាភាសាអង់គ្លេស។ ប្រើ \"ឆន្ទៈ\" + កិរិយាស័ព្ទមូលដ្ឋានសម្រាប់ការសម្រេចចិត្តភ្លាមៗ ការផ្តល់ជូន ការសន្យា និងការព្យាករណ៍ទូទៅ។ ប្រើ \"be going to\" + កិរិយាស័ព្ទមូលដ្ឋានសម្រាប់ផែនការ ចេតនា និងការព្យាករណ៍ដោយផ្អែកលើភស្តុតាងបច្ចុប្បន្ន។",
-    "summaryKhmer": "ប្រើ \"ឆន្ទៈ\" សម្រាប់ការទស្សន៍ទាយ ការសន្យា ការផ្តល់ជូន និងការសម្រេចចិត្តភ្លាមៗ។ ប្រើ \"នឹងទៅ\" សម្រាប់ចេតនា ផែនការដែលបានបង្កើតជាមុន និងការព្យាករណ៍ដែលគាំទ្រដោយភស្តុតាងបច្ចុប្បន្ន។"
+    negativeExamples: [
+      'He can\'t swim.',
+      'We cannot open the gate.'
+    ],
+    negativeExamplesKhmer: [
+      'គាត់មិនអាចហែលទឹកបានទេ។',
+      'ពួកយើងមិនអាចបើកទ្វារបានទេ។'
+    ],
+    questionForm: 'Can you help me? | Where can we buy tickets?',
+    questionFormKhmer: 'តើអ្នកអាចជួយខ្ញុំបានទេ? | តើយើងអាចទិញសំបុត្រនៅឯណា?',
+    visualTimeline: '[Ability State] ====> (Action Execution)',
+    visualTimelineKhmer: '[ស្ថានភាពសមត្ថភាព] ====> (ការអនុវត្តសកម្មភាព)',
+    examples: [
+      { english: 'You can sit here.', translation: 'Giving permission.', translationKhmer: 'អ្នកអាចអង្គុយទីនេះបាន។' }
+    ],
+    tips: [
+      'Do not add "s" to "can" for singular subjects (he/she/it): say "She can dance," not "She cans dance."',
+      'Never put "to" after can: say "I can speak," not "I can to speak."'
+    ],
+    commonMistakes: [
+      { incorrect: 'He can to speak English.', correct: 'He can speak English.', explanation: 'The modal verb "can" must be followed by a bare infinitive verb without "to".' }
+    ],
+    summary: 'Use "can" for abilities and permission. Never follow it with "to" and do not modify "can" for third-person singular subjects.',
+    summaryKhmer: 'ប្រើ "can" សម្រាប់សមត្ថភាព និងការអនុញ្ញាត។ មិនត្រូវតាមពីក្រោយដោយ "to" ឡើយ ហើយមិនត្រូវប្តូររូបរាង "can" ចំពោះប្រធានឯកវចនៈឡើយ។',
+    practiceQuestions: [
+      { id: 'cnc-q1', question: 'Which sentence is correct?', options: ['She can sings.', 'She can to sing.', 'She can sing.'], correctAnswer: 'She can sing.' },
+      { id: 'cnc-q2', question: 'Choose the correct negative option: "They ______ drive a car."', options: ['cant', 'can\'t', 'doesn\'t can'], correctAnswer: 'can\'t' }
+    ]
+  },
+
+  // ==========================================
+  // A2 LEVEL LESSONS (5 Lessons)
+  // ==========================================
+  {
+    id: 'present-continuous',
+    title: 'Present Continuous Tense',
+    level: 'A2',
+    shortDesc: 'Describe actions happening right now at the moment of speaking.',
+    shortDescKhmer: 'ពិពណ៌នាអំពីសកម្មភាពដែលកំពុងកើតឡើងនៅពេលកំពុងនិយាយ។',
+    explanation: 'The Present Continuous tense describes temporary actions in progress right now or around the present time. Form it using the Be Verb + present participle (verb-ing).',
+    explanationKhmer: 'កាលបច្ចុប្បន្នកំពុងបន្ត (Present Continuous) ពិពណ៌នាអំពីសកម្មភាពបណ្តោះអាសន្នដែលកំពុងកើតឡើងនៅពេលនេះ ឬជុំវិញពេលបច្ចុប្បន្ន។ បង្កើតវាដោយប្រើ Be Verb + កិរិយាសព្ទថែម -ing។',
+    formula: 'Subject + am/is/are + Verb-ing | Subject + am/is/are + not + Verb-ing',
+    formulaKhmer: 'ប្រធាន + am/is/are + កិរិយាសព្ទ-ing | ប្រធាន + am/is/are + not + កិរិយាសព្ទ-ing',
+    whenToUse: [
+      'For actions happening exactly now (I am typing a message).',
+      'For temporary situations that are true currently (She is living in Siem Reap this month).'
+    ],
+    whenToUseKhmer: [
+      'សម្រាប់សកម្មភាពដែលកំពុងកើតឡើងចំពេលនេះ (ខ្ញុំកំពុងវាយសារ)។',
+      'សម្រាប់ស្ថានភាពបណ្តោះអាសន្នដែលត្រឹមត្រូវនៅពេលបច្ចុប្បន្ន (នាងកំពុងស្នាក់នៅសៀមរាបខែនេះ)។'
+    ],
+    positiveExamples: [
+      'We are studying English grammar.',
+      'He is writing an email.'
+    ],
+    positiveExamplesKhmer: [
+      'ពួកយើងកំពុងសិក្សាវេយ្យាករណ៍ភាសាអង់គ្លេស។',
+      'គាត់កំពុងសរសេរអ៊ីមែល។'
+    ],
+    negativeExamples: [
+      'I am not playing games.',
+      'They are not working today.'
+    ],
+    negativeExamplesKhmer: [
+      'ខ្ញុំមិនកំពុងលេងហ្គេមទេ។',
+      'ពួកគេមិនកំពុងធ្វើការទេថ្ងៃនេះ។'
+    ],
+    questionForm: 'Are you listening? | What is she doing?',
+    questionFormKhmer: 'តើអ្នកកំពុងស្តាប់មែនទេ? | តើនាងកំពុងធ្វើអ្វី?',
+    visualTimeline: 'Past -------- [Action In Progress Right Now] --------> Future',
+    visualTimelineKhmer: 'អតីតកាល -------- [សកម្មភាពកំពុងបន្តកើតឡើងឥឡូវនេះ] --------> អនាគតកាល',
+    examples: [
+      { english: 'The baby is sleeping.', translation: 'Action in progress at this second.', translationKhmer: 'ទារកកំពុងគេងលក់។' }
+    ],
+    tips: [
+      'Look for keywords like "now", "at the moment", "look!", "listen!".',
+      'State verbs (like "know", "like", "love", "remember") are generally not used in the continuous form.'
+    ],
+    commonMistakes: [
+      { incorrect: 'I studying English now.', correct: 'I am studying English now.', explanation: 'Do not forget the helping auxiliary "am/is/are" verb in continuous structures.' }
+    ],
+    summary: 'The Present Continuous tense describes active events happening now. Form it with Subject + am/is/are + Verb-ing.',
+    summaryKhmer: 'Present Continuous ពិពណ៌នាអំពីព្រឹត្តិការណ៍សកម្មកំពុងកើតឡើងឥឡូវនេះ។ បង្កើតវាដោយប្រើ ប្រធាន + am/is/are + កិរិយាសព្ទ-ing។',
+    practiceQuestions: [
+      { id: 'prc-q1', question: 'Fill in the blank: "Listen! The birds ______ in the trees."', options: ['is singing', 'are singing', 'sing'], correctAnswer: 'are singing' },
+      { id: 'prc-q2', question: 'Identify the correct negative sentence:', options: ['He not working today.', 'He is not working today.', 'He is not work today.'], correctAnswer: 'He is not working today.' }
+    ]
   },
   {
-    "id": "modal-verbs",
-    "title": "Modal Verbs",
-    "level": "B1",
-    "shortDesc": "Understand modals expressing ability, permission, obligation, and advice: can, must, should.",
-    "explanation": "Modal verbs are auxiliary (helping) verbs that express ability, possibility, permission, advice, or obligation. They do not change form (no \"-s\" for he/she/it) and are always followed by the base form of the main verb without \"to\" (except for ought to / have to).",
-    "examples": [
-      {
-        "english": "I can speak three languages.",
-        "translation": "Puedo hablar tres idiomas (ability).",
-        "translationKhmer": "ខ្ញុំអាចនិយាយបានបីភាសា។"
-      },
-      {
-        "english": "You should see a doctor for your cough.",
-        "translation": "Deberías ver a un médico por tu tos (advice/recommendation).",
-        "translationKhmer": "អ្នកគួរតែទៅជួបគ្រូពេទ្យ ដើម្បីក្អករបស់អ្នក។"
-      },
-      {
-        "english": "Students must submit their assignments by Friday.",
-        "translation": "Los estudiantes deben entregar sus tareas antes del viernes (obligation).",
-        "translationKhmer": "សិស្សត្រូវបញ្ជូនកិច្ចការរបស់ពួកគេឱ្យបានមុនថ្ងៃសុក្រ។"
-      }
+    id: 'past-simple',
+    title: 'Past Simple Tense',
+    level: 'A2',
+    shortDesc: 'Talk about completed actions in the past.',
+    shortDescKhmer: 'និយាយអំពីសកម្មភាពដែលបានបញ្ចប់ទាំងស្រុងកាលពីអតីតកាល។',
+    explanation: 'The Past Simple tense is used to describe completed actions that occurred at a specific time in the past. Regular verbs add -ed, while irregular verbs have unique past forms.',
+    explanationKhmer: 'កាលអតីតកាលធម្មតា (Past Simple) ត្រូវប្រើដើម្បីពិពណ៌នាអំពីសកម្មភាពដែលបានបញ្ចប់ទាំងស្រុង ដែលបានកើតឡើងនៅពេលវេលាជាក់លាក់ណាមួយកាលពីអតីតកាល។ កិរិយាសព្ទមានទម្រង់ទៀងទាត់ត្រូវថែម -ed ចំណែកឯកិរិយាសព្ទមិនទៀងទាត់មានទម្រង់អតីតកាលផ្ទាល់ខ្លួនខុសៗគ្នា។',
+    formula: 'Subject + Verb-ed (or Irregular V2) | Did + Subject + Verb (Base)?',
+    formulaKhmer: 'ប្រធាន + កិរិយាសព្ទ-ed (ឬកិរិយាសព្ទខ្ទង់ទី២) | Did + ប្រធាន + កិរិយាសព្ទដើម?',
+    whenToUse: [
+      'To discuss finished actions (I visited Angkor Wat last month).',
+      'To tell stories or sequence past situations.'
     ],
-    "tips": [
-      "Do not add \"-s\" to modal verbs: \"He can swim\" (not \"He cans swim\").",
-      "Never put \"to\" between a modal verb and the main verb: \"I should go\" (not \"I should to go\").",
-      "For negatives, add \"not\" directly to the modal: cannot/can't, should not/shouldn't, must not/mustn't (mustn't means prohibition, not lack of necessity)."
+    whenToUseKhmer: [
+      'ដើម្បីពិភាក្សាអំពីសកម្មភាពដែលបានបញ្ចប់រួចរាល់ (ខ្ញុំបានទៅលេងអង្គរវត្តកាលពីខែមុន)។',
+      'ដើម្បីនិទានរឿង ឬរៀបរាប់ព្រឹត្តិការណ៍អតីតកាលតាមលំដាប់លំដោយ។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "She must to study harder.",
-        "correct": "She must study harder.",
-        "explanation": "Modal verbs are followed directly by the base verb without \"to\"."
-      },
-      {
-        "incorrect": "He shoulds eat more vegetables.",
-        "correct": "He should eat more vegetables.",
-        "explanation": "Modal verbs do not take \"-s\" in the third person singular."
-      }
+    positiveExamples: [
+      'We studied cybersecurity yesterday.',
+      'He went to the library last week.'
     ],
-    "summary": "Modal verbs (can, could, should, must, might, may) express conditions. They do not change endings, and are followed by base verbs without \"to\".",
-    "practiceQuestions": [
-      {
-        "id": "mod-q1",
-        "question": "Choose the correct sentence:",
-        "options": [
-          "He can to play the guitar.",
-          "He can plays the guitar.",
-          "He can play the guitar."
-        ],
-        "correctAnswer": "He can play the guitar."
-      },
-      {
-        "id": "mod-q2",
-        "question": "Fill in the blank for advice: \"You ______ drink plenty of water when it is hot.\"",
-        "options": [
-          "should",
-          "must",
-          "can"
-        ],
-        "correctAnswer": "should"
-      },
-      {
-        "id": "mod-q3",
-        "question": "Choose the correct form for prohibition: \"You ______ park here; it is illegal.\"",
-        "options": [
-          "shouldn't",
-          "mustn't",
-          "don't have to"
-        ],
-        "correctAnswer": "mustn't"
-      }
+    positiveExamplesKhmer: [
+      'ពួកយើងបានរៀនសន្តិសុខបច្ចេកវិទ្យាកាលពីម្សិលមិញ។',
+      'គាត់បានទៅបណ្ណាល័យកាលពីសប្តាហ៍មុន។'
     ],
-    "shortDescKhmer": "ស្វែងយល់អំពីម៉ូឌុលដែលបង្ហាញពីសមត្ថភាព ការអនុញ្ញាត កាតព្វកិច្ច និងដំបូន្មាន៖ អាច ត្រូវតែ គួរតែ។",
-    "explanationKhmer": "កិរិយាសព្ទ Modal គឺជាកិរិយាសព្ទជំនួយ (ជំនួយ) ដែលបង្ហាញពីសមត្ថភាព លទ្ធភាព ការអនុញ្ញាត ដំបូន្មាន ឬកាតព្វកិច្ច។ ពួកគេមិនផ្លាស់ប្តូរទម្រង់ (គ្មាន \"-s\" សម្រាប់គាត់ / នាង / វា) ហើយតែងតែត្រូវបានបន្តដោយទម្រង់មូលដ្ឋាននៃកិរិយាស័ព្ទចម្បងដោយគ្មាន \"ទៅ\" (លើកលែងតែគួរតែ / ត្រូវតែ) ។",
-    "summaryKhmer": "កិរិយាស័ព្ទគំរូ (អាច, អាច, គួរ, ត្រូវតែ, អាច, អាច) បង្ហាញលក្ខខណ្ឌ។ ពួកវាមិនផ្លាស់ប្តូរការបញ្ចប់ទេ ហើយត្រូវបានបន្តដោយកិរិយាស័ព្ទមូលដ្ឋានដោយគ្មាន \"ទៅ\" ។"
+    negativeExamples: [
+      'She did not pass the test.',
+      'They did not call us.'
+    ],
+    negativeExamplesKhmer: [
+      'នាងមិនបានប្រឡងជាប់ទេ។',
+      'ពួកគេមិនបានទូរស័ព្ទមកពួកយើងទេ។'
+    ],
+    questionForm: 'Did you sleep well? | Where did they go?',
+    questionFormKhmer: 'តើអ្នកគេងលក់ស្រួលទេ? | តើពួកគេបានទៅណា?',
+    visualTimeline: '--- [Completed Past Action] --x-- [Present Moment] --------> Future',
+    visualTimelineKhmer: '--- [សកម្មភាពអតីតកាលបានបញ្ចប់] --x-- [ពេលបច្ចុប្បន្ន] --------> អនាគតកាល',
+    examples: [
+      { english: 'I bought a new keyboard yesterday.', translation: 'Bought is the irregular past form of buy.', translationKhmer: 'ខ្ញុំបានទិញក្តារចុចថ្មីមួយកាលពីម្សិលមិញ។' }
+    ],
+    tips: [
+      'Look for time expressions: "yesterday", "ago", "last night", "in 2024".',
+      'In negative sentences and questions, use the auxiliary "did/did not" followed by the BASE form of the verb (not the past form).'
+    ],
+    commonMistakes: [
+      { incorrect: 'She did not went to school yesterday.', correct: 'She did not go to school yesterday.', explanation: 'After "did not" (or didn\'t), always use the bare base verb "go", not the past form "went".' }
+    ],
+    summary: 'The Past Simple describes completed actions. Regular verbs add -ed, while irregular verbs change forms. Negative and question forms require using "did".',
+    summaryKhmer: 'Past Simple ពិពណ៌នាអំពីសកម្មភាពដែលបានបញ្ចប់។ កិរិយាសព្ទទៀងទាត់បន្ថែម -ed ចំណែកឯកិរិយាសព្ទមិនទៀងទាត់ត្រូវផ្លាស់ប្តូររូបរាង។ ទម្រង់បដិសេធ និងសំណួរតម្រូវឱ្យប្រើ "did"។',
+    practiceQuestions: [
+      { id: 'pst-q1', question: 'What is the past form of the irregular verb "go"?', options: ['goed', 'went', 'gone'], correctAnswer: 'went' },
+      { id: 'pst-q2', question: 'Choose the correct negative past sentence:', options: ['I didn\'t saw him.', 'I didn\'t see him.', 'I don\'t saw him.'], correctAnswer: 'I didn\'t see him' }
+    ]
   },
   {
-    "id": "conditionals",
-    "title": "Conditionals (Zero, First, Second)",
-    "level": "B1",
-    "shortDesc": "Master structure and uses of different conditional sentences representing facts, plans, and imaginary scenarios.",
-    "explanation": "Conditional sentences describe a condition and a result. There are three primary types:\n1. **Zero Conditional**: (If + present, present) - Scientific facts or general truths.\n2. **First Conditional**: (If + present, will + verb) - Real, highly possible future situations.\n3. **Second Conditional**: (If + past simple, would + verb) - Imaginary, hypothetical, or unlikely situations in the present/future.",
-    "examples": [
-      {
-        "english": "If you heat ice, it melts.",
-        "translation": "Si calientas el hielo, se derrite (Zero Conditional - general fact).",
-        "translationKhmer": "ប្រសិនបើអ្នកកំដៅទឹកកកវារលាយ។"
-      },
-      {
-        "english": "If it rains tomorrow, we will cancel the picnic.",
-        "translation": "Si llueve mañana, cancelaremos el picnic (First Conditional - real possibility).",
-        "translationKhmer": "បើ​ភ្លៀង​ន��​ថ្ងៃ​ស្អែក យើង​នឹង​លុប​ចោល​ការ​ញ៉ាំ​អាហារ។"
-      },
-      {
-        "english": "If I won the lottery, I would buy a large house.",
-        "translation": "Si ganara la lotería, compraría una casa grande (Second Conditional - imaginary).",
-        "translationKhmer": "ប្រសិនបើខ្ញុំឈ្នះឆ្នោតខ្ញុំនឹងទិញផ្ទះធំមួយ។"
-      }
+    id: 'future-will-going-to',
+    title: 'Future: Will vs. Be Going To',
+    level: 'A2',
+    shortDesc: 'Distinguish predictions, promises, and pre-planned future actions.',
+    shortDescKhmer: 'បែងចែកលទ្ធភាពនាពេលអនាគត ការសន្យា និងគម្រោងដែលបានគ្រោងទុកជាមុន។',
+    explanation: 'Use "will" for instant decisions, predictions without strong evidence, promises, and offers. Use "be going to" for intentions, prior plans made before speaking, or predictions based on physical evidence.',
+    explanationKhmer: 'ប្រើ "will" សម្រាប់ការសម្រេចចិត្តភ្លាមៗ ការទស្សន៍ទាយដែលគ្មានភស្តុតាងច្បាស់លាស់ ការសន្យា និងការផ្តល់ជូនជំនួយ។ ប្រើ "be going to" សម្រាប់បំណងប្រាថ្នា ផែនការដែលបានគ្រោងទុកជាមុន ឬការទស្សន៍ទាយដែលមានភស្តុតាងជាក់ស្តែង។',
+    formula: 'Subject + will + Verb | Subject + am/is/are + going to + Verb',
+    formulaKhmer: 'ប្រធាន + will + កិរិយាសព្ទដើម | ប្រធាន + am/is/are + going to + កិរិយាសព្ទដើម',
+    whenToUse: [
+      'Use "will" to make a promise (I will help you tomorrow) or offer help (I will carry that).',
+      'Use "going to" when you already decided your plan (I am going to study abroad next semester).'
     ],
-    "tips": [
-      "You can swap the order of the clauses: \"If I am tired, I sleep\" is the same as \"I sleep if I am tired.\" Only use a comma when the \"if\" clause is first.",
-      "In the Second Conditional, \"were\" is preferred over \"was\" for all subjects: \"If I were you, I would study.\"",
-      "For First Conditional, do not use \"will\" in the \"if\" clause: \"If it will rain...\" is incorrect; say \"If it rains...\""
+    whenToUseKhmer: [
+      'ប្រើ "will" ដើម្បីធ្វើការសន្យា (ខ្ញុំនឹងជួយអ្នកនៅថ្ងៃស្អែក) ឬផ្តល់ជំនួយ (ខ្ញុំនឹងជួយកាន់របស់នោះ)។',
+      'ប្រើ "going to" នៅពេលអ្នកបានសម្រេចចិត្តលើផែនការរបស់អ្នករួចហើយ (ខ្ញុំនឹងទៅសិក្សានៅបរទេសនៅឆមាសក្រោយ)។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "If I will see her, I will tell her.",
-        "correct": "If I see her, I will tell her.",
-        "explanation": "In the First Conditional, use the simple present tense in the \"if\" clause, not \"will\"."
-      },
-      {
-        "incorrect": "If I was rich, I would travel around the world.",
-        "correct": "If I were rich, I would travel around the world.",
-        "explanation": "In Second Conditional sentences, \"were\" is grammatically preferred for all subject pronouns, including \"I\"."
-      }
+    positiveExamples: [
+      'I think it will rain tomorrow.',
+      'We are going to buy a new laptop this weekend.'
     ],
-    "summary": "Zero Conditional states facts (If present, present). First Conditional states possible future plans (If present, will). Second Conditional states hypothetical dreams (If past, would).",
-    "practiceQuestions": [
-      {
-        "id": "cond-q1",
-        "question": "Choose the correct form: \"If she studies hard, she ______ pass the exam next week.\"",
-        "options": [
-          "would",
-          "will",
-          "passed"
-        ],
-        "correctAnswer": "will"
-      },
-      {
-        "id": "cond-q2",
-        "question": "Complete the sentence: \"If I ______ you, I would take that job offer.\"",
-        "options": [
-          "am",
-          "was",
-          "were"
-        ],
-        "correctAnswer": "were"
-      },
-      {
-        "id": "cond-q3",
-        "question": "Choose the correct conditional sentence:",
-        "options": [
-          "If you freeze water, it becomes ice.",
-          "If you will freeze water, it will become ice.",
-          "If you freeze water, it would become ice."
-        ],
-        "correctAnswer": "If you freeze water, it becomes ice."
-      }
+    positiveExamplesKhmer: [
+      'ខ្ញុំគិតថាវានឹងភ្លៀងនៅថ្ងៃស្អែក។',
+      'ពួកយើងនឹងទិញកុំព្យូទ័រយួរដៃថ្មីមួយនៅចុងសប្តាហ៍នេះ។'
     ],
-    "shortDescKhmer": "រចនាសម្ព័ន្ធមេ និងការប្រើប្រាស់ប្រយោគតាមលក្ខខណ្ឌផ្សេងៗដែលតំណាងឱ្យការពិត ផែនការ និងសេណារីយ៉ូស្រមើលស្រមៃ។",
-    "explanationKhmer": "ប្រយោគតាមលក្ខខណ្ឌពិពណ៌នាអំពីលក្ខខណ្ឌ និងលទ្ធផល។ មានបីប្រភេទចម្បង៖",
-    "summaryKhmer": "Zero Conditional states ការពិត (ប្រសិនបើមានវត្តមាន មានវត្តមាន) ។ First Conditional states ផែនការអនាគតដែលអាចកើតមាន (ប្រសិនបើបច្ចុប្បន្ននឹង) ។ Second Conditional states សុបិននិម្មិត (ប្រសិនបើអតីតកាលនឹង) ។"
+    negativeExamples: [
+      'I won\'t tell anyone your secret.',
+      'They are not going to attend the meeting.'
+    ],
+    negativeExamplesKhmer: [
+      'ខ្ញុំនឹងមិនប្រាប់អាថ៌កំបាំងរបស់អ្នកទៅនរណាម្នាក់ឡើយ។',
+      'ពួកគេមិនទៅចូលរួមការប្រជុំនោះទេ។'
+    ],
+    questionForm: 'Will you marry me? | Are you going to visit Siem Reap?',
+    questionFormKhmer: 'តើអ្នកនឹងរៀបការជាមួយខ្ញុំទេ? | តើអ្នកនឹងទៅលេងសៀមរាបមែនទេ?',
+    visualTimeline: 'Past -------- Present --------> [Planned: going to] / [Promise: will] (Future)',
+    visualTimelineKhmer: 'អតីតកាល -------- បច្ចុប្បន្នកាល --------> [គម្រោង៖ going to] / [ការសន្យា៖ will] (អនាគតកាល)',
+    examples: [
+      { english: 'Look at those dark clouds! It is going to rain.', translation: 'Prediction based on evidence.', translationKhmer: 'មើលពពកខ្មៅទាំងនោះចុះ! មេឃហៀបនឹងភ្លៀងហើយ។' }
+    ],
+    tips: [
+      '"Won\'t" is the contraction of "will not".',
+      'Always include the verb "to be" before "going to": say "I am going to write," not "I going to write."'
+    ],
+    commonMistakes: [
+      { incorrect: 'I going to study tonight.', correct: 'I am going to study tonight.', explanation: 'Never omit the "be" verb (am/is/are) when using "be going to" structures.' }
+    ],
+    summary: '"Will" is for predictions, instant decisions, and promises. "Be going to" is for prior plans and predictions backed by evidence.',
+    summaryKhmer: '"Will" ប្រើសម្រាប់ការទស្សន៍ទាយ ការសម្រេចចិត្តភ្លាមៗ និងការសន្យា។ "Be going to" ប្រើសម្រាប់ផែនការដែលបានគ្រោងទុក និងការទស្សន៍ទាយដែលមានភស្តុតាង។',
+    practiceQuestions: [
+      { id: 'fww-q1', question: 'Fill in the blank: "I ______ help you with those heavy bags!" (Instant decision/offer)', options: ['will', 'going to', 'am going to'], correctAnswer: 'will' },
+      { id: 'fww-q2', question: 'Choose the correct sentence: "We are having a plan. We ______ visit Angkor Wat next Saturday."', options: ['will', 'are going to', 'shall'], correctAnswer: 'are going to' }
+    ]
   },
   {
-    "id": "passive-voice",
-    "title": "Passive Voice",
-    "level": "B1+",
-    "shortDesc": "Learn how to shift focus from the agent performing the action to the recipient of the action.",
-    "explanation": "In active sentences, the subject does the action (e.g., \"The chef cooked the meal\"). In passive sentences, the subject receives the action, shifting focus to the object (e.g., \"The meal was cooked by the chef\"). The passive voice is formed using: [Be Verb (in appropriate tense)] + [Past Participle of main verb].",
-    "examples": [
-      {
-        "english": "The house was built in 1990.",
-        "translation": "La casa fue construida en 1990 (recipient: house; builder is not mentioned).",
-        "translationKhmer": "ផ្ទះនេះត្រូវបានសាងសង់ក្នុងឆ្នាំ 1990 ។"
-      },
-      {
-        "english": "English is spoken all over the world.",
-        "translation": "El inglés se habla en todo el mundo (present passive).",
-        "translationKhmer": "ភាសាអង់គ្លេសត្រូវបាននិយាយទូទាំងពិភពលោក។"
-      },
-      {
-        "english": "The thieves were caught by the police.",
-        "translation": "Los ladrones fueron atrapados por la policía (agent mentioned with \"by\").",
-        "translationKhmer": "ចោរ​ត្រូវ​ប៉ូលិស​ចាប់​បាន។"
-      }
+    id: 'comparatives',
+    title: 'Comparatives & Superlatives',
+    level: 'A2',
+    shortDesc: 'Compare qualities and properties between nouns.',
+    shortDescKhmer: 'ប្រៀបធៀបគុណភាព និងលក្ខណៈសម្បត្តិរវាងនាមពីរ ឬច្រើន។',
+    explanation: 'Comparative adjectives compare two nouns (e.g., faster, more expensive). Superlative adjectives compare three or more nouns to show the extreme limit (e.g., the fastest, the most expensive).',
+    explanationKhmer: 'គុណនាមប្រៀបធៀប (Comparative Adjectives) ប្រើដើម្បីប្រៀបធៀបនាមពីរ (ឧទាហរណ៍៖ faster, more expensive)។ គុណនាមប្រៀបធៀបកម្រិតខ្ពស់បំផុត (Superlative Adjectives) ប្រើដើម្បីប្រៀបធៀបនាមចាប់ពីបីឡើងទៅ ដើម្បីបង្ហាញពីភាពបំផុត (ឧទាហរណ៍៖ the fastest, the most expensive)។',
+    formula: 'Adj-er + than | more + Adj + than | the + Adj-est | the most + Adj',
+    formulaKhmer: 'គុណនាមខ្លី-er + than | more + គុណនាមវែង + than | the + គុណនាមខ្លី-est | the most + គុណនាមវែង',
+    whenToUse: [
+      'Use comparatives when highlighting differences between two people or things.',
+      'Use superlatives when pointing out the top or bottom of a larger group.'
     ],
-    "tips": [
-      "Only transitive verbs (verbs that take an object) can be put into the passive voice.",
-      "Use \"by\" if you want to mention who did the action (the agent): \"Hamlet was written by Shakespeare.\"",
-      "Use the passive voice when the agent is unknown, obvious, or less important than the action itself."
+    whenToUseKhmer: [
+      'ប្រើគុណនាមប្រៀបធៀបនៅពេលបញ្ជាក់ពីភាពខុសគ្នារវាងមនុស្ស ឬវត្ថុពីរ។',
+      'ប្រើគុណនាមប្រៀបធៀបកម្រិតខ្ពស់បំផុតនៅពេលចង្អុលបង្ហាញពីចំណុចខ្ពស់បំផុត ឬទាបបំផុតនៃក្រុមធំមួយ។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "The book was wrote by him.",
-        "correct": "The book was written by him.",
-        "explanation": "Always use the past participle form of the main verb (\"written\") in passive constructions, not the simple past (\"wrote\")."
-      },
-      {
-        "incorrect": "Active: \"She cleans the room.\" Passive: \"The room is clean by she.\"",
-        "correct": "Active: \"She cleans the room.\" Passive: \"The room is cleaned by her.\"",
-        "explanation": "Make sure to use the past participle \"cleaned\" and the object pronoun \"her\" after \"by\"."
-      }
+    positiveExamples: [
+      'My laptop is faster than yours.',
+      'Angkor Wat is the most famous temple in Cambodia.'
     ],
-    "summary": "Form the passive voice using a form of \"to be\" + Past Participle. Use it to focus on the object receiving the action or when the actor is unknown.",
-    "practiceQuestions": [
-      {
-        "id": "pass-q1",
-        "question": "Convert to passive: \"The dog bit the boy.\"",
-        "options": [
-          "The boy was bitten by the dog.",
-          "The boy is bitten by the dog.",
-          "The dog was bitten by the boy."
-        ],
-        "correctAnswer": "The boy was bitten by the dog."
-      },
-      {
-        "id": "pass-q2",
-        "question": "Choose the correct passive verb: \"Thousands of books ______ published every year.\"",
-        "options": [
-          "are",
-          "is",
-          "were"
-        ],
-        "correctAnswer": "are"
-      },
-      {
-        "id": "pass-q3",
-        "question": "Fill in the blank: \"The painting was painted ______ a local artist.\"",
-        "options": [
-          "from",
-          "with",
-          "by"
-        ],
-        "correctAnswer": "by"
-      }
+    positiveExamplesKhmer: [
+      'កុំព្យូទ័រយួរដៃរបស់ខ្ញុំលឿនជាងកុំព្យូទ័ររបស់អ្នក។',
+      'ប្រាសាទអង្គរវត្តគឺជាប្រាសាទដែលល្បីល្បាញបំផុតនៅក្នុងប្រទេសកម្ពុជា។'
     ],
-    "shortDescKhmer": "ស្វែងយល់ពីរបៀបផ្លាស់ប្តូរការផ្តោតអារម្មណ៍ពីភ្នាក់ងារដែលអនុវត្តសកម្មភាពទៅអ្នកទទួលសកម្មភាព។",
-    "explanationKhmer": "1. ** Zero Conditional**: (ប្រសិនបើ + បច្ចុប្បន្ន, បច្ចុប្បន្ន) - ការពិតវិទ្យាសាស្រ្ត ឬការពិតទូទៅ។",
-    "summaryKhmer": "បង្កើតសំឡេងអកម្មដោយប្រើទម្រង់ \"to be\" + Past Participle ។ ប្រើវាដើម្បីផ្ដោតលើវត្ថុដែលទទួលសកម្មភាព ឬនៅពេលដែលតួអង្គមិនស្គាល់។"
+    negativeExamples: [
+      'Gold is more cheap than silver. (Incorrect)',
+      'She is the most smartest student. (Incorrect double comparison)'
+    ],
+    negativeExamplesKhmer: [
+      'Gold is more cheap than silver. (ខុស - ត្រូវប្រើ cheaper)',
+      'She is the most smartest student. (ខុស - មិនត្រូវប្រើ most រួមជាមួយ -est ឡើយ)'
+    ],
+    questionForm: 'Is English easier than French? | Who is the oldest in your family?',
+    questionFormKhmer: 'តើភាសាអង់គ្លេសងាយស្រួលជាងភាសាបារាំងទេ? | តើនរណាជាមនុស្សចាស់ជាងគេនៅក្នុងគ្រួសាររបស់អ្នក?',
+    visualTimeline: '[Noun A] === (cheaper / more efficient) ===> [Noun B]',
+    visualTimelineKhmer: '[នាម A] === (ថោកជាង / មានប្រសិទ្ធភាពជាង) ===> [នាម B]',
+    examples: [
+      { english: 'Today is warmer than yesterday.', translation: 'One-syllable adjectives add -er.', translationKhmer: 'ថ្ងៃនេះក្តៅជាងកាលពីម្សិលមិញ។' }
+    ],
+    tips: [
+      'One-syllable adjectives add "-er/-est" (cheaper, the cheapest).',
+      'Three-syllable adjectives use "more/most" (more beautiful, the most beautiful).',
+      'Irregular adjectives: good -> better -> best, bad -> worse -> worst.'
+    ],
+    commonMistakes: [
+      { incorrect: 'This is the most biggest screen.', correct: 'This is the biggest screen.', explanation: 'Do not mix "most" with the "-est" modifier. Use only one superlative form.' }
+    ],
+    summary: 'Use "-er" and "more" to compare two items. Use "-est" and "most" for superlatives showing the extreme of a group. Don\'t forget the irregular forms.',
+    summaryKhmer: 'ប្រើ "-er" និង "more" ដើម្បីប្រៀបធៀបវត្ថុពីរ។ ប្រើ "-est" និង "most" សម្រាប់កម្រិតខ្ពស់បំផុត។ កុំភ្លេចទម្រង់មិនទៀងទាត់។',
+    practiceQuestions: [
+      { id: 'cmp-q1', question: 'What is the comparative form of the adjective "good"?', options: ['gooder', 'better', 'best'], correctAnswer: 'better' },
+      { id: 'cmp-q2', question: 'Choose the correct superlative sentence:', options: ['This is the most beautiful flower.', 'This is the beautifulest flower.', 'This is the more beautiful flower.'], correctAnswer: 'This is the most beautiful flower.' }
+    ]
   },
   {
-    "id": "present-perfect",
-    "title": "Present Perfect",
-    "level": "B1+",
-    "shortDesc": "Talk about experiences, changes, or past actions with present relevance using has/have + past participle.",
-    "explanation": "The Present Perfect tense connects the past with the present. It is formed using \"have\" or \"has\" + the past participle of the verb (e.g. eaten, seen, walked). It is used for actions that happened at an unspecified time in the past, or actions that started in the past and continue into the present.",
-    "examples": [
-      {
-        "english": "I have traveled to Tokyo twice.",
-        "translation": "He viajado a Tokio dos veces (experience, time is not specified).",
-        "translationKhmer": "ខ្ញុំបានធ្វើដំណើរទៅតូក្យូពីរដង។"
-      },
-      {
-        "english": "She has lived here since 2018.",
-        "translation": "Ella ha vivido aquí desde 2018 (action started in the past and continues now).",
-        "translationKhmer": "នាង​បាន​រស់​នៅ​ទី​នេះ​តាំង​ពី​ឆ្នាំ ២០១៨។"
-      },
-      {
-        "english": "We have already finished our dinner.",
-        "translation": "Nosotros ya hemos terminado nuestra cena (past action with present relevance).",
-        "translationKhmer": "យើងបានបញ្ចប់អាហារពេលល្ងាចរួចហើយ។"
-      }
+    id: 'present-perfect',
+    title: 'Present Perfect Tense',
+    level: 'A2',
+    shortDesc: 'Connect past actions with their relevance to the present.',
+    shortDescKhmer: 'ភ្ជាប់សកម្មភាពកាលពីអតីតកាល ដែលមានទំនាក់ទំនងមកដល់ពេលបច្ចុប្បន្ន។',
+    explanation: 'The Present Perfect tense links the past to the present. Use it for life experiences, actions occurring at an unspecified past time, or actions that started in the past and continue today.',
+    explanationKhmer: 'កាលបច្ចុប្បន្នបរិបូរណ៍ (Present Perfect) ភ្ជាប់អតីតកាលទៅបច្ចុប្បន្នកាល។ ប្រើវាសម្រាប់បទពិសោធន៍ជីវិត សកម្មភាពដែលបានកើតឡើងនៅពេលវេលាមិនជាក់លាក់កាលពីអតីតកាល ឬសកម្មភាពដែលបានចាប់ផ្តើមកាលពីអតីតកាលហើយបន្តមកដល់សព្វថ្ងៃ។',
+    formula: 'Subject + have/has + Verb (Past Participle V3) | Haven\'t / Hasn\'t + V3',
+    formulaKhmer: 'ប្រធាន + have/has + កិរិយាសព្ទខ្ទង់ទី៣ (V3) | Haven\'t / Hasn\'t + V3',
+    whenToUse: [
+      'To discuss life experience (I have visited Siem Reap twice).',
+      'To show a recently completed action with present consequences (I have lost my key, so I cannot enter).'
     ],
-    "tips": [
-      "Use \"since\" for a specific point in time (e.g. since 5 o'clock, since Monday) and \"for\" for a duration of time (e.g. for three hours, for ten years).",
-      "Never use past time expressions like \"yesterday\", \"last week\", or \"in 2010\" with the Present Perfect. Use Past Simple instead.",
-      "Check for signals like: already, yet, ever, never, just, so far."
+    whenToUseKhmer: [
+      'ដើម្បីពិភាក្សាអំពីបទពិសោធន៍ជីវិត (ខ្ញុំបានទៅលេងសៀមរាបពីរដងហើយ)។',
+      'ដើម្បីបង្ហាញពីសកម្មភាពទើបតែបញ្ចប់ថ្មីៗដែលមានឥទ្ធិពលដល់បច្ចុប្បន្ន (ខ្ញុំបានបាត់សោ ដូច្នេះខ្ញុំចូលផ្ទះមិនបានទេ)។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "I have seen that movie yesterday.",
-        "correct": "I saw that movie yesterday.",
-        "explanation": "Because \"yesterday\" is a specific past time, you must use the Past Simple rather than the Present Perfect."
-      },
-      {
-        "incorrect": "She has lived here for 2015.",
-        "correct": "She has lived here since 2015.",
-        "explanation": "Use \"since\" for a starting point in time. Use \"for\" to represent durations like \"for five years\"."
-      }
+    positiveExamples: [
+      'She has learned 100 new words.',
+      'We have studied grammar today.'
     ],
-    "summary": "Form the Present Perfect with: [Have/Has] + [Past Participle]. Use it for experiences, actions that started in the past and continue now, or past actions that affect the present.",
-    "practiceQuestions": [
-      {
-        "id": "pp-q1",
-        "question": "Choose the correct form: \"They ______ never eaten sushi before.\"",
-        "options": [
-          "has",
-          "have",
-          "having"
-        ],
-        "correctAnswer": "have"
-      },
-      {
-        "id": "pp-q2",
-        "question": "Fill in the blank: \"He has been a teacher ______ ten years.\"",
-        "options": [
-          "since",
-          "for",
-          "ago"
-        ],
-        "correctAnswer": "for"
-      },
-      {
-        "id": "pp-q3",
-        "question": "Which sentence is grammatically correct?",
-        "options": [
-          "She has written three emails this morning.",
-          "She has written three emails yesterday.",
-          "She wrote three emails since Monday."
-        ],
-        "correctAnswer": "She has written three emails this morning."
-      }
+    positiveExamplesKhmer: [
+      'នាងបានរៀនពាក្យថ្មីចំនួន ១០០ ពាក្យហើយ។',
+      'ពួកយើងបានសិក្សាវេយ្យាករណ៍ហើយថ្ងៃនេះ។'
     ],
-    "shortDescKhmer": "និយាយអំពីបទពិសោធន៍ ការផ្លាស់ប្តូរ ឬសកម្មភាពអតីតកាលជាមួយនឹងភាពពាក់ព័ន្ធបច្ចុប្បន្នដោយប្រើ has/have + past participle។",
-    "explanationKhmer": "បច្ចុប្បន្ន Perfect Tense ភ្ជាប់អតីតកាលជាមួយបច្ចុប្បន្ន។ វា​ត្រូវ​បាន​បង្កើត​ឡើង​ដោយ​ប្រើ \"have\" ឬ \"has\" + ការ​ចូលរួម​ពី​អតីតកាល​នៃ​កិរិយាសព្ទ (ឧ. បរិភោគ, ឃើញ, ដើរ) ។ វា​ត្រូវ​បាន​ប្រើ​សម្រាប់​សកម្មភាព​ដែល​បាន​កើត​ឡើង​នៅ​ពេល​វេលា​ដែល​មិន​បាន​កំណត់​ក្នុង​អតីតកាល​ឬ​សកម្មភាព​ដែល​បាន​ចាប់​ផ្តើ​ម​នៅ​ក្នុង​អតីតកាល​និង​បន្ត​ទៅ​បច្ចុប្បន្ន​។",
-    "summaryKhmer": "បង្កើតបច្ចុប្បន្នល្អឥតខ្ចោះជាមួយ៖ [មាន/មាន] + [ការចូលរួមអតីតកាល] ។ ប្រើវាសម្រាប់បទពិសោធន៍ សកម្មភាពដែលបានចាប់ផ្តើមកាលពីអតីតកាល និងបន្តឥឡូវនេះ ឬសកម្មភាពអតីតកាលដែលប៉ះពាល់ដល់បច្ចុប្បន្ន។"
+    negativeExamples: [
+      'They have not finished the test yet.',
+      'He hasn\'t traveled abroad.'
+    ],
+    negativeExamplesKhmer: [
+      'ពួកគេមិនទាន់បានបញ្ចប់ការប្រឡងនៅឡើយទេ។',
+      'គាត់មិនទាន់បានធ្វើដំណើរទៅបរទេសទេ។'
+    ],
+    questionForm: 'Have you ever eaten Khmer food? | Has she completed the task?',
+    questionFormKhmer: 'តើអ្នកធ្លាប់ញ៉ាំម្ហូបខ្មែរទេ? | តើនាងបានបញ្ចប់ភារកិច្ចហើយឬនៅ?',
+    visualTimeline: 'Past ======= [Action connects here] =======> [Present: have/has V3] --------> Future',
+    visualTimelineKhmer: 'អតីតកាល ======= [សកម្មភាពភ្ជាប់មកដល់] =======> [បច្ចុប្បន្នកាល៖ have/has V3] --------> អនាគតកាល',
+    examples: [
+      { english: 'I have lived here since 2022.', translation: 'Action started in past and continues now.', translationKhmer: 'ខ្ញុំបានរស់នៅទីនេះតាំងពីឆ្នាំ ២០២២ មកម៉្លេះ។' }
+    ],
+    tips: [
+      'Use "since" for a specific point in time (since Monday, since 2018).',
+      'Use "for" for a duration or period of time (for 3 years, for 5 hours).',
+      'Common keywords: "ever", "never", "already", "yet", "just".'
+    ],
+    commonMistakes: [
+      { incorrect: 'I have went to Siem Reap last year.', correct: 'I went to Siem Reap last year.', explanation: 'Never use the Present Perfect tense with specific past time indicators (like "last year"). Use the Simple Past instead.' }
+    ],
+    summary: 'The Present Perfect links past actions to the present. Form it with have/has + V3. Use "since" for starting points and "for" for durations.',
+    summaryKhmer: 'Present Perfect ភ្ជាប់សកម្មភាពអតីតកាលមកបច្ចុប្បន្ន។ បង្កើតវាដោយប្រើ have/has + V3។ ប្រើ "since" សម្រាប់ចំណុចចាប់ផ្តើម និង "for" សម្រាប់រយៈពេល។',
+    practiceQuestions: [
+      { id: 'ppf-q1', question: 'Fill in the blank: "She ______ studied English for five years."', options: ['has', 'have', 'is'], correctAnswer: 'has' },
+      { id: 'ppf-q2', question: 'Choose the correct phrase: "I have lived in Phnom Penh ______ 2020."', options: ['for', 'since', 'ago'], correctAnswer: 'since' }
+    ]
+  },
+
+  // ==========================================
+  // B1 LEVEL LESSONS (4 Lessons)
+  // ==========================================
+  {
+    id: 'passive-voice',
+    title: 'Passive Voice',
+    level: 'B1',
+    shortDesc: 'Focus on the receiver of the action rather than the actor.',
+    shortDescKhmer: 'ផ្តោតលើកម្មបទដែលទទួលរងសកម្មភាព ជាជាងប្រធានដែលធ្វើសកម្មភាព។',
+    explanation: 'In the Active Voice, the subject does the action (e.g., "The cat chased the mouse"). In the Passive Voice, the object becomes the subject, focusing on the receiver of the action (e.g., "The mouse was chased by the cat").',
+    explanationKhmer: 'នៅក្នុងប្រយោគសកម្ម (Active Voice) ប្រធានជាអ្នកធ្វើសកម្មភាព (ឧទាហរណ៍៖ "ឆ្មាដេញចាប់កណ្តុរ")។ នៅក្នុងប្រយោគកម្មរង (Passive Voice) កម្មបទក្លាយជាប្រធានវិញ ដោយផ្តោតលើអ្នកទទួលរងសកម្មភាព (ឧទាហរណ៍៖ "កណ្តុរត្រូវបានដេញចាប់ដោយឆ្មា")។',
+    formula: 'Active Object -> Passive Subject + be + Verb (Past Participle V3) [+ by agent]',
+    formulaKhmer: 'កម្មបទសកម្ម -> ប្រធានកម្មរង + be + កិរិយាសព្ទខ្ទង់ទី៣ (V3) [+ by ភ្នាក់ងារធ្វើ]',
+    whenToUse: [
+      'When the actor of the action is unknown, obvious, or not important.',
+      'In formal, scientific, or news writing styles.'
+    ],
+    whenToUseKhmer: [
+      'នៅពេលដែលអ្នកធ្វើសកម្មភាពមិនត្រូវបានគេស្គាល់ ជាក់ស្តែងពេក ឬមិនសំខាន់។',
+      'នៅក្នុងរចនាប័ទ្មសរសេរផ្លូវការ វិទ្យាសាស្ត្រ ឬព័ត៌មាន។'
+    ],
+    positiveExamples: [
+      'The book was written in 1998.',
+      'All code is checked by senior engineers.'
+    ],
+    positiveExamplesKhmer: [
+      'សៀវភៅនេះត្រូវបានសរសេរឡើងនៅក្នុងឆ្នាំ ១៩៩៨។',
+      'កូដទាំងអស់ត្រូវបានត្រួតពិនិត្យដោយវិស្វករចម្បង។'
+    ],
+    negativeExamples: [
+      'The house was not built last year.',
+      'The reports are not generated automatically.'
+    ],
+    negativeExamplesKhmer: [
+      'ផ្ទះនេះមិនត្រូវបានសាងសង់ឡើងកាលពីឆ្នាំមុនទេ។',
+      'របាយការណ៍មិនត្រូវបានបង្កើតឡើងដោយស្វ័យប្រវត្តិនោះទេ។'
+    ],
+    questionForm: 'Was the thief caught? | How are databases secured?',
+    questionFormKhmer: 'តើចោរត្រូវបានចាប់ខ្លួនហើយឬនៅ? | តើមូលដ្ឋានទិន្នន័យ (Databases) ត្រូវបានការពារដោយរបៀបណា?',
+    visualTimeline: '(Actor does action) [Active] ===> (Action is done to subject) [Passive]',
+    visualTimelineKhmer: '(ប្រធានធ្វើសកម្មភាព) [Active] ===> (សកម្មភាពត្រូវធ្វើលើប្រធានរង) [Passive]',
+    examples: [
+      { english: 'Active: John cleans the room. | Passive: The room is cleaned by John.', translation: 'Present Simple passive.', translationKhmer: 'សកម្ម៖ John សម្អាតបន្ទប់។ | កម្មរង៖ បន្ទប់ត្រូវបានសម្អាតដោយ John។' }
+    ],
+    tips: [
+      'The tense of the auxiliary verb "be" changes to match the original tense: is/are (present), was/were (past), has/have been (present perfect).'
+    ],
+    commonMistakes: [
+      { incorrect: 'The email was send yesterday.', correct: 'The email was sent yesterday.', explanation: 'Passive voice structures always require the past participle (V3) form of the main verb ("sent"), not the base form.' }
+    ],
+    summary: 'The Passive Voice shifts emphasis from the actor to the receiver. Form it with a conjugation of the verb "be" followed by the past participle (V3).',
+    summaryKhmer: 'Passive Voice បង្វែរការសង្កត់ធ្ងន់ពីអ្នកធ្វើសកម្មភាពទៅអ្នកទទួល។ បង្កើតវាដោយប្រើការបំបែកកិរិយាសព្ទ "be" តាមដោយកិរិយាសព្ទខ្ទង់ទី៣ (V3)។',
+    practiceQuestions: [
+      { id: 'psv-q1', question: 'Convert to passive: "They build houses."', options: ['Houses is built.', 'Houses are built.', 'Houses are build.'], correctAnswer: 'Houses are built.' },
+      { id: 'psv-q2', question: 'Fill in the blank: "The database ______ updated yesterday."', options: ['is', 'was', 'has been'], correctAnswer: 'was' }
+    ]
   },
   {
-    "id": "present-perfect-continuous",
-    "title": "Present Perfect Continuous",
-    "level": "B1+",
-    "shortDesc": "Express actions that started in the past and are still continuing, or have recently finished with a clear result.",
-    "explanation": "The Present Perfect Continuous tense emphasizes the duration or ongoing nature of an action. It is formed using \"have/has been\" + [Verb-ing]. Use it for activities that began in the past, are still happening now, or have recently stopped and have a noticeable connection to the present.",
-    "examples": [
-      {
-        "english": "I have been studying English for two hours.",
-        "translation": "He estado estudiando inglés por dos horas (and I am still studying).",
-        "translationKhmer": "ខ្ញុំបានសិក្សាភាសាអង់គ្លេសរយៈពេលពីរម៉ោង។"
-      },
-      {
-        "english": "It has been raining all day.",
-        "translation": "Ha estado lloviendo todo el día (the ground is wet right now).",
-        "translationKhmer": "វាមានភ្លៀងពេញមួយថ្ងៃ។"
-      },
-      {
-        "english": "Why are you tired? I have been running.",
-        "translation": "¿Por qué estás cansado? He estado corriendo (recent action with present result).",
-        "translationKhmer": "ហេតុអ្វីបានជាអ្នកអស់កម្លាំង? ខ្ញុំបានរត់។"
-      }
+    id: 'conditionals',
+    title: 'Conditionals (0, 1st & 2nd)',
+    level: 'B1',
+    shortDesc: 'Understand logical outcomes, real possibilities, and imaginary situations.',
+    shortDescKhmer: 'ស្វែងយល់ពីលទ្ធផលឡូជីខល លទ្ធភាពជាក់ស្តែង និងស្ថានភាពសន្មត/ស្រមៃ។',
+    explanation: 'Zero conditional represents general facts (If water freezes, it turns to ice). 1st conditional represents real future possibilities (If it rains, I will stay). 2nd conditional represents imaginary present/future situations (If I won the lottery, I would buy a house).',
+    explanationKhmer: 'លក្ខខណ្ឌទី០ (Zero Conditional) តំណាងឱ្យការពិតទូទៅ (បើទឹកកក វាប្រែជាទឹកកក)។ លក្ខខណ្ឌទី១ (1st Conditional) តំណាងឱ្យលទ្ធភាពអនាគតជាក់ស្តែង (បើមេឃភ្លៀង ខ្ញុំនឹងស្នាក់នៅផ្ទះ)។ លក្ខខណ្ឌទី២ (2nd Conditional) តំណាងឱ្យស្ថានភាពសន្មត/ស្រមៃនៅពេលបច្ចុប្បន្ន ឬអនាគត (បើខ្ញុំឈ្នះឆ្នោត ខ្ញុំនឹងទិញផ្ទះមួយ)។',
+    formula: 'Zero: If + Present, Present | 1st: If + Present, will + Verb | 2nd: If + Past, would + Verb',
+    formulaKhmer: 'Zero: If + Present, Present | 1st: If + Present, will + V | 2nd: If + Past, would + V',
+    whenToUse: [
+      'Use 1st Conditional for promises, warnings, and future plans dependent on events.',
+      'Use 2nd Conditional for talking about dreams, fantasies, or things that are highly unlikely to happen.'
     ],
-    "tips": [
-      "Focus is on the process or duration, whereas Present Perfect Simple focus is on the result or completion (e.g. \"I have read 3 books\" vs \"I have been reading all day\").",
-      "Like other continuous tenses, do not use stative verbs (e.g. say \"I have known him\", not \"I have been knowing him\")."
+    whenToUseKhmer: [
+      'ប្រើលក្ខខណ្ឌទី១ សម្រាប់ការសន្យា ការព្រមាន និងផែនការអនាគតដែលអាស្រ័យលើព្រឹត្តិការណ៍ផ្សេង។',
+      'ប្រើលក្ខខណ្ឌទី២ សម្រាប់និយាយអំពីក្តីស្រមៃ ការស្រមើស្រមៃ ឬរឿងដែលមិនអាចកើតឡើងបាន។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "I have been knowing her for a long time.",
-        "correct": "I have known her for a long time.",
-        "explanation": "\"Know\" is a stative verb and cannot be used in the continuous form. Use Present Perfect Simple instead."
-      },
-      {
-        "incorrect": "She has playing tennis since morning.",
-        "correct": "She has been playing tennis since morning.",
-        "explanation": "Always include the helping word \"been\" in the Present Perfect Continuous construction."
-      }
+    positiveExamples: [
+      'If you heat ice, it melts.',
+      'If I study hard, I will pass the exam.',
+      'If I were you, I would take the job.'
     ],
-    "summary": "Form Present Perfect Continuous with: [Have/Has] + [Been] + [Verb-ing]. Use it to focus on the duration of ongoing or recently completed actions.",
-    "practiceQuestions": [
-      {
-        "id": "ppc-q1",
-        "question": "Choose the correct form: \"We ______ been waiting for you for an hour!\"",
-        "options": [
-          "has",
-          "have",
-          "had"
-        ],
-        "correctAnswer": "have"
-      },
-      {
-        "id": "ppc-q2",
-        "question": "Identify the incorrect sentence:",
-        "options": [
-          "They have been playing games.",
-          "She has been loving chocolate for years.",
-          "I have been working on this report."
-        ],
-        "correctAnswer": "She has been loving chocolate for years."
-      },
-      {
-        "id": "ppc-q3",
-        "question": "Fill in the blank: \"He is sweaty because he ______ been cutting the grass.\"",
-        "options": [
-          "has",
-          "is",
-          "have"
-        ],
-        "correctAnswer": "has"
-      }
+    positiveExamplesKhmer: [
+      'ប្រសិនបើអ្នកកម្តៅទឹកកក វានឹងរលាយ។',
+      'ប្រសិនបើខ្ញុំខំរៀន ខ្ញុំនឹងប្រឡងជាប់។',
+      'ប្រសិនបើខ្ញុំជាអ្នក ខ្ញុំនឹងទទួលយកការងារនោះ។'
     ],
-    "shortDescKhmer": "សកម្មភាពបញ្ចេញមតិដែលបានចាប់ផ្តើមកាលពីអតីតកាល និងកំពុងបន្ត ឬថ្មីៗនេះបានបញ្ចប់ដោយលទ្ធផលច្បាស់លាស់។",
-    "explanationKhmer": "បច្ចុប្បន្ន Perfect Continuous tense សង្កត់ធ្ងន់លើរយៈពេល ឬលក្ខណៈបន្តនៃសកម្មភាព។ វាត្រូវបានបង្កើតឡើងដោយប្រើ \"have / has been\" + [Verb-ing] ។ ប្រើវាសម្រាប់សកម្មភាពដែលបានចាប់ផ្តើមកាលពីអតីតកាល នៅតែកំពុងកើតឡើងឥឡូវនេះ ឬបានបញ្ឈប់ថ្មីៗនេះ និងមានទំនាក់ទំនងគួរឱ្យកត់សម្គាល់ជាមួយបច្ចុប្បន្ន។",
-    "summaryKhmer": "ទម្រង់ Present Perfect Continuous ជាមួយ៖ [Have/Has] + [Been] + [Verb-ing]។ ប្រើវាដើម្បីផ្តោតលើរយៈពេលនៃសកម្មភាពដែលកំពុងបន្ត ឬដែលបានបញ្ចប់ថ្មីៗនេះ។"
+    negativeExamples: [
+      'If she doesn\'t call, I won\'t go.',
+      'If they had money, they would not rent a flat.'
+    ],
+    negativeExamplesKhmer: [
+      'ប្រសិនបើនាងមិនទូរស័ព្ទមកទេ ខ្ញុំនឹងមិនទៅទេ។',
+      'ប្រសិនបើពួកគេមានលុយ ពួកគេនឹងមិនជួលផ្ទះល្វែងនោះទេ។'
+    ],
+    questionForm: 'What will you do if it rains? | Where would you live if you could choose?',
+    questionFormKhmer: 'តើអ្នកនឹងធ្វើអ្វីប្រសិនបើមេឃភ្លៀង? | តើអ្នកនឹងរស់នៅឯណាប្រសិនបើអ្នកអាចជ្រើសរើសបាន?',
+    visualTimeline: '[Condition Event] ---- (depends on probability) ----> [Outcome State]',
+    visualTimelineKhmer: '[ព្រឹត្តិការណ៍លក្ខខណ្ឌ] ---- (អាស្រ័យលើលទ្ធភាពជាក់ស្តែង) ----> [ស្ថានភាពលទ្ធផល]',
+    examples: [
+      { english: 'If I had a car, I would drive to Siem Reap.', translation: 'I don\'t have a car (imaginary scenario).', translationKhmer: 'ប្រសិនបើខ្ញុំមានឡាន ខ្ញុំនឹងបើកឡានទៅសៀមរាប។' }
+    ],
+    tips: [
+      'In the 2nd Conditional, use "were" instead of "was" for all subjects: e.g., "If I were you," "If he were here."',
+      'You can reverse the clause order without a comma: "I will go if she invites me."'
+    ],
+    commonMistakes: [
+      { incorrect: 'If I will see him, I will tell him.', correct: 'If I see him, I will tell him.', explanation: 'Do not use "will" in the "if" clause of the first conditional. Use the simple present instead.' }
+    ],
+    summary: 'Zero conditional is for facts. First conditional is for real future possibilities. Second conditional is for imaginary present/future situations.',
+    summaryKhmer: 'Zero Conditional សម្រាប់ការពិត។ First Conditional សម្រាប់លទ្ធភាពពិតប្រាកដនាពេលអនាគត។ Second Conditional សម្រាប់ស្ថានភាពស្រមៃក្នុងពេលបច្ចុប្បន្ន ឬអនាគត។',
+    practiceQuestions: [
+      { id: 'cnd-q1', question: 'Choose the correct form: "If she ______ time, she will help us tomorrow."', options: ['has', 'will have', 'had'], correctAnswer: 'has' },
+      { id: 'cnd-q2', question: 'Fill in the blank: "If I ______ a bird, I would fly."', options: ['was', 'were', 'am'], correctAnswer: 'were' }
+    ]
   },
   {
-    "id": "past-continuous",
-    "title": "Past Continuous",
-    "level": "B2",
-    "shortDesc": "Describe actions that were in progress at a specific moment in the past, often interrupted by another action.",
-    "explanation": "The Past Continuous describes an action that was going on or in progress at a specific time in the past. It is formed using \"was\" or \"were\" + [Verb-ing]. It is frequently used together with the Past Simple to show that a longer background action was interrupted by a shorter, sudden event.",
-    "examples": [
-      {
-        "english": "I was sleeping when the phone rang.",
-        "translation": "Yo estaba durmiendo cuando el teléfono sonó (sleeping is the background action, phone ringing is the interruption).",
-        "translationKhmer": "ខ្ញុំ​កំពុង​ដេក​នៅ​ពេល​ទូរសព្ទ​រោទ៍។"
-      },
-      {
-        "english": "They were studying at 8 PM yesterday.",
-        "translation": "Ellos estaban estudiando a las 8 PM ayer (action in progress at a specific past time).",
-        "translationKhmer": "ពួកគេរៀននៅម៉ោង ៨ យប់ម្សិលមិញ។"
-      },
-      {
-        "english": "While she was cooking, he was washing dishes.",
-        "translation": "Mientras ella estaba cocinando, él estaba lavando platos (parallel actions).",
-        "translationKhmer": "ពេលនាងកំពុងធ្វើម្ហូប គាត់កំពុងលាងចាន។"
-      }
+    id: 'reported-speech',
+    title: 'Reported Speech',
+    level: 'B1',
+    shortDesc: 'Report or describe what someone else said by shifting verb tenses.',
+    shortDescKhmer: 'រាយការណ៍ ឬរៀបរាប់ឡើងវិញនូវអ្វីដែលអ្នកដទៃបាននិយាយដោយផ្លាស់ប្តូរកាល។',
+    explanation: 'Direct Speech is the exact words spoken (e.g., "I am hungry"). Reported (Indirect) Speech relays what was said by shifting tenses backward in time (e.g., He said that he was hungry).',
+    explanationKhmer: 'សម្តីផ្ទាល់ (Direct Speech) គឺជាពាក្យពិតប្រាកដដែលបាននិយាយ (ឧទាហរណ៍៖ "I am hungry")។ សម្តីប្រយោល (Reported/Indirect Speech) បញ្ជូនបន្តនូវអ្វីដែលបាននិយាយដោយប្តូរកាលថយក្រោយមួយកម្រិត (ឧទាហរណ៍៖ He said that he was hungry)។',
+    formula: 'Direct Present -> Reported Past | Direct Past -> Reported Past Perfect | will -> would',
+    formulaKhmer: 'សម្តីផ្ទាល់បច្ចុប្បន្ន -> ប្រយោលអតីតកាល | សម្តីផ្ទាល់អតីតកាល -> ប្រយោល Past Perfect | will -> would',
+    whenToUse: [
+      'To pass on messages or report conversations to another person.',
+      'In journalistic reports, stories, and formal reviews.'
     ],
-    "tips": [
-      "Use \"while\" before Past Continuous sentences (longer actions): \"While I was studying...\"",
-      "Use \"when\" before Past Simple sentences (shorter events): \"...when you called.\"",
-      "Subject matching: was (I, he, she, it), were (you, we, they)."
+    whenToUseKhmer: [
+      'ដើម្បីបញ្ជូនសារបន្ត ឬរាយការណ៍ការសន្ទនាទៅកាន់អ្នកដទៃ។',
+      'នៅក្នុងរបាយការណ៍សារព័ត៌មាន រឿងនិទាន និងការពិនិត្យឡើងវិញផ្លូវការ។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "I was walk in the park when it started to rain.",
-        "correct": "I was walking in the park when it started to rain.",
-        "explanation": "Always add \"-ing\" to the main verb after was/were in the Past Continuous."
-      },
-      {
-        "incorrect": "We was studying when she arrived.",
-        "correct": "We were studying when she arrived.",
-        "explanation": "The plural pronoun \"We\" requires the auxiliary verb \"were\"."
-      }
+    positiveExamples: [
+      'Direct: "I like code." -> Reported: He said he liked code.',
+      'Direct: "I will study." -> Reported: She said she would study.'
     ],
-    "summary": "Form Past Continuous with: [Was/Were] + [Verb-ing]. Use it for background actions, specific moments in progress, or parallel past events.",
-    "practiceQuestions": [
-      {
-        "id": "pco-q1",
-        "question": "Choose the correct verb: \"While they ______ playing football, it began to snow.\"",
-        "options": [
-          "was",
-          "were",
-          "did"
-        ],
-        "correctAnswer": "were"
-      },
-      {
-        "id": "pco-q2",
-        "question": "Fill in the blank: \"I ______ watching TV when you called me.\"",
-        "options": [
-          "was",
-          "were",
-          "am"
-        ],
-        "correctAnswer": "was"
-      },
-      {
-        "id": "pco-q3",
-        "question": "Select the correct sentence:",
-        "options": [
-          "What did you do at 9 PM yesterday?",
-          "What were you doing at 9 PM yesterday?",
-          "What was you doing at 9 PM yesterday?"
-        ],
-        "correctAnswer": "What were you doing at 9 PM yesterday?"
-      }
+    positiveExamplesKhmer: [
+      'ផ្ទាល់៖ "ខ្ញុំចូលចិត្តកូដ។" -> ប្រយោល៖ គាត់និយាយថាគាត់ចូលចិត្តកូដ។',
+      'ផ្ទាល់៖ "ខ្ញុំនឹងរៀន។" -> ប្រយោល៖ នាងនិយាយថានាងនឹងរៀន។'
     ],
-    "shortDescKhmer": "ពិពណ៌នាអំពីសកម្មភាពដែលកំពុងដំណើរការនៅពេលជាក់លាក់មួយកាលពីអតីតកាល ដែលជារឿយៗត្រូវបានរំខានដោយសកម្មភាពផ្សេងទៀត។",
-    "explanationKhmer": "Past Continuous ពិពណ៌នាអំពីសកម្មភាពដែលកំពុងបន្ត ឬកំពុងដំណើរការនៅពេលជាក់លាក់មួយកាលពីអតីតកាល។ វាត្រូវបានបង្កើតឡើងដោយប្រើ \"was\" ឬ \"were\" + [Verb-ing] ។ វាត្រូវបានគេប្រើជាញឹកញាប់រួមគ្នាជាមួយ Past Simple ដើម្បីបង្ហាញថាសកម្មភាពផ្ទៃខាងក្រោយយូរជាងនេះត្រូវបានរំខានដោយព្រឹត្តិការណ៍ភ្លាមៗខ្លីជាង។",
-    "summaryKhmer": "ទម្រង់ Past Continuous ជាមួយ៖ [Was/Were] + [Verb-ing]។ ប្រើវាសម្រាប់សកម្មភាពផ្ទៃខាងក្រោយ គ្រាជាក់លាក់ដែលកំពុងដំណើរការ ឬព្រឹត្តិការណ៍អតីតកាលស្របគ្នា។"
+    negativeExamples: [
+      'He told me that he don\'t want to go. (Incorrect tense shift)',
+      'She said she will call me. (Incorrect will instead of would)'
+    ],
+    negativeExamplesKhmer: [
+      'He told me that he don\'t want to go. (ខុស - ត្រូវប្តូរទៅ didn\'t want)',
+      'She said she will call me. (ខុស - ត្រូវប្តូរទៅ would call)'
+    ],
+    questionForm: 'Direct: "Where do you live?" -> Reported: She asked me where I lived.',
+    questionFormKhmer: 'ផ្ទាល់៖ "តើអ្នករស់នៅឯណា?" -> ប្រយោល៖ នាងបានសួរខ្ញុំថាតើខ្ញុំរស់នៅឯណា។',
+    visualTimeline: 'Direct Quote: "I am ready" ======= (Tense shift back) =======> He said he was ready',
+    visualTimelineKhmer: 'សម្តីផ្ទាល់៖ "I am ready" ======= (ការថយក្រោយនៃកាល) =======> គាត់និយាយថាគាត់រួចរាល់ហើយ',
+    examples: [
+      { english: 'Direct: "I have seen that film." -> Reported: She said she had seen that film.', translation: 'Present perfect shifts to past perfect.', translationKhmer: 'ផ្ទាល់៖ "ខ្ញុំបានមើលរឿងនោះហើយ។" -> ប្រយោល៖ នាងនិយាយថានាងបានមើលរឿងនោះហើយ។' }
+    ],
+    tips: [
+      'Say vs. Tell: Use "tell" when naming the listener directly ("He told ME..."). Use "say" when not naming the listener ("He said that...").',
+      'Pronouns and time markers also shift: e.g., "today" -> "that day", "tomorrow" -> "the next day".'
+    ],
+    commonMistakes: [
+      { incorrect: 'She said me that she was tired.', correct: 'She told me that she was tired.', explanation: 'You cannot use "say" followed directly by a personal object pronoun without "to". Use "told" instead.' }
+    ],
+    summary: 'Reported speech shifts tenses back in time to relay messages. Direct present simple becomes reported past simple, direct will becomes would, and direct present perfect becomes past perfect.',
+    summaryKhmer: 'Reported Speech ផ្លាស់ប្តូរកាលថយក្រោយដើម្បីរាយការណ៍សារ។ ផ្ទាល់បច្ចុប្បន្នធម្មតាក្លាយជាប្រយោលអតីតកាលធម្មតា, direct will ក្លាយជា would, និង direct Present Perfect ក្លាយជា Past Perfect។',
+    practiceQuestions: [
+      { id: 'rep-q1', question: 'Convert to reported speech: "I am working," he said.', options: ['He said he is working.', 'He said he was working.', 'He told he was working.'], correctAnswer: 'He said he was working.' },
+      { id: 'rep-q2', question: 'Choose the correct reporting verb: "She ______ me that she would arrive late."', options: ['said', 'told', 'explained'], correctAnswer: 'told' }
+    ]
   },
   {
-    "id": "past-perfect",
-    "title": "Past Perfect",
-    "level": "B2",
-    "shortDesc": "Clearly sequence two past events by expressing the action that happened before another past action using had + past participle.",
-    "explanation": "The Past Perfect is the \"past of the past\". It is used to show which of two past actions happened first. It is formed using \"had\" + the past participle of the verb (e.g. had gone, had eaten). It is very helpful for storytelling and maintaining logical chronologies.",
-    "examples": [
-      {
-        "english": "When I arrived at the station, the train had already left.",
-        "translation": "Cuando llegué a la estación, el tren ya se había ido (the train left first, then I arrived).",
-        "translationKhmer": "ពេល​មក​ដល់​ស្ថានីយ រថភ្លើង​បាន​ចេញ​ទៅ​ហើយ។"
-      },
-      {
-        "english": "She had finished her homework before she went out to play.",
-        "translation": "Ella había terminado su tarea antes de salir a jugar.",
-        "translationKhmer": "នាងបានបញ្ចប់កិច្ចការផ្ទះមុនពេលនាងចេញទៅលេង។"
-      },
-      {
-        "english": "I recognized him because I had met him before.",
-        "translation": "Lo reconozí porque lo había conocido antes.",
-        "translationKhmer": "ខ្ញុំ​ស្គាល់​គាត់​ព្រោះ​ខ្ញុំ​ធ្លាប់​ជួប​គាត់​ពីមុន​មក។"
-      }
+    id: 'gerunds-infinitives',
+    title: 'Gerunds & Infinitives',
+    level: 'B1',
+    shortDesc: 'Understand when to follow verbs with -ing (gerund) versus "to + verb" (infinitive).',
+    shortDescKhmer: 'យល់ដឹងពីរបៀបប្រើកិរិយាសព្ទថែម -ing (Gerund) ឬប្រើ "to + កិរិយាសព្ទដើម" (Infinitive)។',
+    explanation: 'Some verbs in English are followed by a gerund (verb-ing) like "enjoy", "avoid", or "suggest". Other verbs must be followed by an infinitive (to + base verb) like "decide", "hope", or "want".',
+    explanationKhmer: 'កិរិយាសព្ទមួយចំនួននៅក្នុងភាសាអង់គ្លេសត្រូវតាមពីក្រោយដោយ Gerund (កិរិយាសព្ទថែម -ing) ដូចជា "enjoy", "avoid", ឬ "suggest"។ កិរិយាសព្ទផ្សេងទៀតត្រូវតាមពីក្រោយដោយ Infinitive (to + កិរិយាសព្ទដើម) ដូចជា "decide", "hope", ឬ "want"។',
+    formula: 'Verb + Verb-ing [Gerund] | Verb + to + Verb [Infinitive]',
+    formulaKhmer: 'កិរិយាសព្ទ + កិរិយាសព្ទ-ing [Gerund] | កិរិយាសព្ទ + to + កិរិយាសព្ទដើម [Infinitive]',
+    whenToUse: [
+      'Use a gerund after prepositions (good at coding, interested in learning).',
+      'Use an infinitive to express purpose or intent (I study to pass the exam).'
     ],
-    "tips": [
-      "Use Past Perfect for the action that happened first, and Past Simple for the action that happened second.",
-      "Check for keywords: before, after, already, by the time, as soon as.",
-      "If the order of events is clear from context, you can sometimes just use Past Simple, but Past Perfect adds absolute clarity."
+    whenToUseKhmer: [
+      'ប្រើ Gerund បន្ទាប់ពីធ្នាក់ (good at coding, interested in learning)។',
+      'ប្រើ Infinitive ដើម្បីបញ្ជាក់ពីគោលបំណង ឬបំណងប្រាថ្នា (ខ្ញុំរៀនដើម្បីប្រឡងជាប់)។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "The movie already started when we arrived.",
-        "correct": "The movie had already started when we arrived.",
-        "explanation": "Since the movie started before we arrived, we must use the Past Perfect for the earlier action."
-      },
-      {
-        "incorrect": "I had went to bed before he called.",
-        "correct": "I had gone to bed before he called.",
-        "explanation": "Always use the past participle (\"gone\") with the auxiliary \"had\", not the past simple form (\"went\")."
-      }
+    positiveExamples: [
+      'I enjoy learning English vocabulary.',
+      'We decided to study cybersecurity.'
     ],
-    "summary": "Form the Past Perfect with: [Had] + [Past Participle]. Use it for the earlier of two past actions.",
-    "practiceQuestions": [
-      {
-        "id": "ppf-q1",
-        "question": "Choose the correct verb form: \"By the time the police arrived, the thief ______ escaped.\"",
-        "options": [
-          "has",
-          "had",
-          "was"
-        ],
-        "correctAnswer": "had"
-      },
-      {
-        "id": "ppf-q2",
-        "question": "Complete the sentence: \"After she ______ dinner, she washed the dishes.\"",
-        "options": [
-          "had eaten",
-          "eats",
-          "has eaten"
-        ],
-        "correctAnswer": "had eaten"
-      },
-      {
-        "id": "ppf-q3",
-        "question": "Choose the correct past relationship: \"I did not have any money because I ______ my wallet.\"",
-        "options": [
-          "lose",
-          "had lost",
-          "was losing"
-        ],
-        "correctAnswer": "had lost"
-      }
+    positiveExamplesKhmer: [
+      'ខ្ញុំចូលចិត្តរៀនពាក្យភាសាអង់គ្លេស។',
+      'ពួកយើងបានសម្រេចចិត្តសិក្សាផ្នែកសន្តិសុខបច្ចេកវិទ្យា។'
     ],
-    "shortDescKhmer": "តម្រៀប​ព្រឹត្តិការណ៍​អតីតកាល​ពីរ​យ៉ាង​ច្បាស់​ដោយ​ការ​បង្ហាញ​សកម្មភាព​ដែល​បាន​កើត​ឡើង​មុន​សកម្មភាព​អតីតកាល​ផ្សេង​ទៀត​ដោយ​ប្រើ​ had + past participle។",
-    "explanationKhmer": "អតីតកាលល្អឥតខ្ចោះគឺជា \"អតីតកាលនៃអតីតកាល\" ។ វា​ត្រូវ​បាន​ប្រើ​ដើម្បី​បង្ហាញ​ពី​សកម្មភាព​អតីតកាល​ពីរ​ណា​ដែល​បាន​កើត​ឡើង​មុន​គេ។ វា​ត្រូវ​បាន​បង្កើត​ឡើង​ដោយ​ប្រើ \"had\" + past participle នៃ​កិរិយាសព្ទ (ឧ. បាន​ទៅ, បាន​បរិភោគ) ។ វាមានប្រយោជន៍ខ្លាំងណាស់សម្រាប់ការនិទានរឿង និងរក្សាកាលប្បវត្តិឡូជីខល។",
-    "summaryKhmer": "បង្កើតអតីតកាលល្អឥតខ្ចោះជាមួយ៖ [មាន] + [ការចូលរួមអតីតកាល] ។ ប្រើវាសម្រាប់សកម្មភាពពីមុនពីរមុន។"
-  },
-  {
-    "id": "past-perfect-continuous",
-    "title": "Past Perfect Continuous",
-    "level": "B2",
-    "shortDesc": "Show the duration of an ongoing past action up to the point when another past action occurred.",
-    "explanation": "The Past Perfect Continuous tense shows that an action started in the past, continued for a duration, and was still in progress or had just ended when another past event took place. It is formed using \"had been\" + [Verb-ing]. It emphasizes duration rather than completion.",
-    "examples": [
-      {
-        "english": "He had been working for ten hours before he finally went to sleep.",
-        "translation": "Él había estado trabajando durante diez horas antes de finalmente irse a dormir.",
-        "translationKhmer": "គាត់បានធ្វើការអស់រយៈពេលដប់ម៉ោង មុនពេលគាត់ចូលគេង។"
-      },
-      {
-        "english": "The road was wet because it had been raining.",
-        "translation": "La carretera estaba mojada porque había estado lloviendo.",
-        "translationKhmer": "ផ្លូវ​នេះ​សើម​ព្រោះ​ភ្លៀង​ធ្លាក់។"
-      },
-      {
-        "english": "We had been playing tennis for two hours when the storm broke.",
-        "translation": "Habíamos estado jugando al tenis durante dos horas cuando estalló la tormenta.",
-        "translationKhmer": "យើង​បាន​លេង​កីឡា​វាយ​កូន​បាល់​អស់​ពីរ​ម៉ោង​នៅ​ពេល​ដែល​ខ្���ល់​ព្យុះ​បក់​បោក។"
-      }
+    negativeExamples: [
+      'He promised not to tell anyone.',
+      'I avoid driving in heavy traffic.'
     ],
-    "tips": [
-      "Similar to Present Perfect Continuous, but all actions and reference points are completely in the past.",
-      "Avoid stative verbs. Say \"had owned\" rather than \"had been owning\"."
+    negativeExamplesKhmer: [
+      'គាត់បានសន្យាថានឹងមិនប្រាប់នរណាម្នាក់ឡើយ។',
+      'ខ្ញុំចៀសវាងការបើកបរក្នុងពេលមានចរាចរណ៍កកស្ទះខ្លាំង។'
     ],
-    "commonMistakes": [
-      {
-        "incorrect": "They had been knowing each other for years when they got married.",
-        "correct": "They had known each other for years when they got married.",
-        "explanation": "Use the Past Perfect Simple instead of the continuous form because \"know\" is a stative verb."
-      },
-      {
-        "incorrect": "I was tired because I had working hard all day.",
-        "correct": "I was tired because I had been working hard all day.",
-        "explanation": "\"Had working\" is incorrect. You must write \"had been working\" to form the Past Perfect Continuous."
-      }
+    questionForm: 'Do you want to come? | Do you mind opening the window?',
+    questionFormKhmer: 'តើអ្នកចង់មកជាមួយទេ? | តើអ្នកទាស់ចិត្តទេប្រសិនបើបើកបង្អួច?',
+    visualTimeline: '[Main Verb Action] ===> [Secondary Form: to-Verb / Verb-ing]',
+    visualTimelineKhmer: '[សកម្មភាពកិរិយាសព្ទចម្បង] ===> [ទម្រង់ទីពីរ៖ to-Verb / Verb-ing]',
+    examples: [
+      { english: 'I am interested in learning new technologies.', translation: 'Use gerund after preposition in.', translationKhmer: 'ខ្ញុំចាប់អារម្មណ៍ក្នុងការស្វែងយល់ពីបច្ចេកវិទ្យាថ្មីៗ។' }
     ],
-    "summary": "Form Past Perfect Continuous with: [Had] + [Been] + [Verb-ing]. Use it to describe the duration of a past action leading up to another past point.",
-    "practiceQuestions": [
-      {
-        "id": "ppfc-q1",
-        "question": "Choose the correct form: \"She was out of breath because she ______ running.\"",
-        "options": [
-          "had",
-          "had been",
-          "was"
-        ],
-        "correctAnswer": "had been"
-      },
-      {
-        "id": "ppfc-q2",
-        "question": "Complete the sentence: \"We ______ waiting for thirty minutes when the bus arrived.\"",
-        "options": [
-          "were",
-          "had been",
-          "have been"
-        ],
-        "correctAnswer": "had been"
-      },
-      {
-        "id": "ppfc-q3",
-        "question": "Fill in the blank: \"He ______ working at the company for five years before he got promoted.\"",
-        "options": [
-          "has been",
-          "had been",
-          "was"
-        ],
-        "correctAnswer": "had been"
-      }
+    tips: [
+      'Verbs of liking (like, love, hate) can take either form without a change in meaning (I like swimming / I like to swim).',
+      'Some verbs change meaning entirely: "stop to smoke" (stops walking to have a cigarette) vs. "stop smoking" (gives up the habit of smoking).'
     ],
-    "shortDescKhmer": "បង្ហាញរយៈពេលនៃសកម្មភាពអតីតកាលដែលកំពុងបន្តរហូតដល់ចំណុចនៅពេលដែលសកម្មភាពអតីតកាលមួយផ្សេងទៀតបានកើតឡើង។",
-    "explanationKhmer": "Past Perfect Continuous tense បង្ហាញ​ថា​សកម្មភាព​ដែល​បាន​ចាប់​ផ្តើម​ពី​អតីតកាល​បាន​បន្ត​ក្នុង​រយៈពេល​មួយ ហើយ​នៅ​តែ​កំពុង​ដំណើរការ​ឬ​ទើប​តែ​បាន​បញ្ចប់​នៅ​ពេល​ដែល​ព្រឹត្តិការណ៍​អតីតកាល​មួយ​ទៀត​បាន​កើត​ឡើង។ វាត្រូវបានបង្កើតឡើងដោយប្រើ \"ធ្លាប់\" + [កិរិយាសព្ទ-ing] ។ វាសង្កត់ធ្ងន់លើរយៈពេលជាជាងការបញ្ចប់។",
-    "summaryKhmer": "Form Past Perfect Continuous with: [Had] + [Been] + [Verb-ing] ។ ប្រើវាដើម្បីពិពណ៌នាអំពីរយៈពេលនៃសកម្មភាពអតីតកាលដែលនាំទៅដល់ចំណុចអតីតកាលមួយផ្សេងទៀត។"
-  },
-  {
-    "id": "future-continuous",
-    "title": "Future Continuous",
-    "level": "C1",
-    "shortDesc": "Describe actions that will be in progress at a specific time in the future.",
-    "explanation": "The Future Continuous describes an action that will be in progress or happening at a specific time in the future. It is formed using \"will be\" + [Verb-ing]. Use it to talk about ongoing events in the future or to make plans politely.",
-    "examples": [
-      {
-        "english": "This time tomorrow, I will be flying to London.",
-        "translation": "A esta hora mañana, estaré volando a Londres.",
-        "translationKhmer": "ស្អែកនេះ ខ្ញុំនឹងហោះទៅទីក្រុងឡុងដ៍។"
-      },
-      {
-        "english": "At noon, they will be having lunch.",
-        "translation": "Al mediodía, ellos estarán almorzando.",
-        "translationKhmer": "នៅពេលថ្ងៃត្រង់ពួកគេនឹងទទួលទានអាហារថ្ងៃត្រង់។"
-      },
-      {
-        "english": "Good luck on the test! I will be thinking of you.",
-        "translation": "¡Buena suerte en el examen! Estaré pensando en ti.",
-        "translationKhmer": "សូមសំណាងល្អក្នុងការប្រលង! ខ្ញុំនឹងគិតពីអ្នក។"
-      }
+    commonMistakes: [
+      { incorrect: 'I want studying cybersecurity.', correct: 'I want to study cybersecurity.', explanation: 'The verb "want" must always be followed by an infinitive with "to", not a gerund.' }
     ],
-    "tips": [
-      "Compare Future Simple vs Future Continuous: \"I will eat dinner at 8\" (I start at 8) vs \"I will be eating dinner at 8\" (dinner is already in progress at 8).",
-      "The negative form is \"will not be / won't be\" + [Verb-ing]."
-    ],
-    "commonMistakes": [
-      {
-        "incorrect": "I will playing computer games this evening.",
-        "correct": "I will be playing computer games this evening.",
-        "explanation": "Do not forget the helping word \"be\" after \"will\" in Future Continuous constructions."
-      },
-      {
-        "incorrect": "He will be knowing the answer tomorrow.",
-        "correct": "He will know the answer tomorrow.",
-        "explanation": "Do not use stative verbs like \"know\" in the continuous future. Use Future Simple instead."
-      }
-    ],
-    "summary": "Form Future Continuous with: [Will Be] + [Verb-ing]. Use it to describe events that will be in progress at a specific point in the future.",
-    "practiceQuestions": [
-      {
-        "id": "fc-q1",
-        "question": "Choose the correct form: \"At 10 PM tonight, she ______ sleeping.\"",
-        "options": [
-          "will",
-          "will be",
-          "is"
-        ],
-        "correctAnswer": "will be"
-      },
-      {
-        "id": "fc-q2",
-        "question": "Fill in the blank: \"They ______ be traveling next week.\"",
-        "options": [
-          "won't",
-          "not",
-          "don't"
-        ],
-        "correctAnswer": "won't"
-      },
-      {
-        "id": "fc-q3",
-        "question": "Choose the correct future continuous sentence:",
-        "options": [
-          "I will be studying when you arrive.",
-          "I will be study when you arrive.",
-          "I am studying when you arrive."
-        ],
-        "correctAnswer": "I will be studying when you arrive."
-      }
-    ],
-    "shortDescKhmer": "ពិពណ៌នាអំពីសកម្មភាពដែលនឹងដំណើរការនៅពេលជាក់លាក់ណាមួយនាពេលអនាគត។",
-    "explanationKhmer": "The Future Continuous ពិពណ៌នាអំពីសកម្មភាពដែលនឹងកំពុងដំណើរការ ឬកើតឡើងនៅពេលជាក់លាក់ណាមួយនាពេលអនាគត។ វាត្រូវបានបង្កើតឡើងដោយប្រើ \"នឹង\" + [កិរិយាសព្ទ-ing] ។ ប្រើវាដើម្បីនិយាយអំពីព្រឹត្តិការណ៍ដែលកំពុងបន្តនាពេលអនាគត ឬរៀបចំផែនការប្រកបដោយសុជីវធម៌។",
-    "summaryKhmer": "Form Future Continuous with: [Will Be] + [Verb-ing]។ ប្រើវាដើម្បីពិពណ៌នាអំពីព្រឹត្តិការណ៍ដែលនឹងដំណើរការនៅចំណុចជាក់លាក់មួយនាពេលអនាគត។"
-  },
-  {
-    "id": "future-perfect",
-    "title": "Future Perfect",
-    "level": "C1",
-    "shortDesc": "Talk about actions that will be completed before a certain point in the future using will have + past participle.",
-    "explanation": "The Future Perfect tense describes an action that will be completed or finished before a specific point in the future. It is formed using \"will have\" + the past participle of the verb (e.g. will have finished, will have arrived). It is useful for deadlines and forward projections.",
-    "examples": [
-      {
-        "english": "By next year, I will have graduated from university.",
-        "translation": "Para el próximo año, me habré graduado de la universidad.",
-        "translationKhmer": "នៅ​ឆ្នាំ​ក្រោយ​នេះ ខ្ញុំ​នឹង​បាន​បញ្ចប់​ការ​សិក្សា​ពី​សកលវិទ្យាល័យ។"
-      },
-      {
-        "english": "She will have written the report by Friday afternoon.",
-        "translation": "Ella habrá escrito el informe para el viernes por la tarde.",
-        "translationKhmer": "នាងនឹងសរសេររបាយការណ៍នេះនៅរសៀលថ្ងៃសុក្រ។"
-      },
-      {
-        "english": "Will you have eaten dinner by 8 PM?",
-        "translation": "¿Habrás cenado para las 8 PM?",
-        "translationKhmer": "តើអ្នកនឹងញ៉ាំអាហារពេលល្ងាចនៅម៉ោង 8 យប់ទេ?"
-      }
-    ],
-    "tips": [
-      "This tense is almost always used with time expressions starting with \"by\" (by then, by next week, by 2030) or \"by the time\".",
-      "The negative form is \"will not have / won't have\" + past participle."
-    ],
-    "commonMistakes": [
-      {
-        "incorrect": "By tomorrow, they will finished the project.",
-        "correct": "By tomorrow, they will have finished the project.",
-        "explanation": "Always include the auxiliary \"have\" in the Future Perfect structure."
-      },
-      {
-        "incorrect": "She will has completed the course by next week.",
-        "correct": "She will have completed the course by next week.",
-        "explanation": "Even for he/she/it, use \"have\" after the modal \"will\" (never use \"has\" after will)."
-      }
-    ],
-    "summary": "Form Future Perfect with: [Will Have] + [Past Participle]. Use it to look back from a point in the future and show completion.",
-    "practiceQuestions": [
-      {
-        "id": "fp-q1",
-        "question": "Choose the correct verb: \"By 2030, scientists ______ found a cure.\"",
-        "options": [
-          "will have",
-          "will has",
-          "have"
-        ],
-        "correctAnswer": "will have"
-      },
-      {
-        "id": "fp-q2",
-        "question": "Complete the sentence: \"By the time you arrive, we ______ cooked dinner.\"",
-        "options": [
-          "will have",
-          "will be",
-          "has"
-        ],
-        "correctAnswer": "will have"
-      },
-      {
-        "id": "fp-q3",
-        "question": "Identify the correct question:",
-        "options": [
-          "Will you have arrived by noon?",
-          "Will you arrived by noon?",
-          "Have you arrived by noon?"
-        ],
-        "correctAnswer": "Will you have arrived by noon?"
-      }
-    ],
-    "shortDescKhmer": "និយាយអំពីសកម្មភាពដែលនឹងត្រូវបានបញ្ចប់មុនពេលចំណុចជាក់លាក់មួយនាពេលអនាគតដោយប្រើនឹងមាន + ការចូលរួមពីអតីតកាល។",
-    "explanationKhmer": "Future Perfect tense ពិពណ៌នាអំពីសកម្មភាពដែលនឹងត្រូវបញ្ចប់ ឬបញ្ចប់មុនចំនុចជាក់លាក់មួយនាពេលអនាគត។ វា​ត្រូវ​បាន​បង្កើត​ឡើង​ដោយ​ប្រើ \"នឹង​មាន\" + ការ​ចូលរួម​អតីតកាល​នៃ​កិរិយាសព្ទ (ឧ. នឹង​បាន​បញ្ចប់, នឹង​បាន​មក​ដល់). វាមានប្រយោជន៍សម្រាប់ពេលវេលាកំណត់ និងការព្យាករណ៍ទៅមុខ។",
-    "summaryKhmer": "Form Future Perfect ជាមួយ៖ [Will Have] + [Past Participle]។ ប្រើវាដើម្បីមើលទៅក្រោយពីចំណុចមួយនាពេលអនាគត និងបង្ហាញការបញ្ចប់។"
-  },
-  {
-    "id": "future-perfect-continuous",
-    "title": "Future Perfect Continuous",
-    "level": "C1",
-    "shortDesc": "Express the duration of an ongoing action up to a specific time in the future.",
-    "explanation": "The Future Perfect Continuous tense describes an ongoing action that will continue up to a specific point in the future, highlighting the duration of that activity. It is formed using \"will have been\" + [Verb-ing].",
-    "examples": [
-      {
-        "english": "By next year, I will have been living in New York for five years.",
-        "translation": "Para el próximo año, habré estado viviendo en Nueva York durante cinco años.",
-        "translationKhmer": "នៅ​ឆ្នាំ​ក្រោយ ខ្ញុំ​នឹង​ទៅ​រស់​នៅ​ទីក្រុង​ញូវយ៉ក​រយៈពេល​ប្រាំ​ឆ្នាំ។"
-      },
-      {
-        "english": "In November, they will have been working together for a decade.",
-        "translation": "En noviembre, habrán estado trabajando juntos durante una década.",
-        "translationKhmer": "នៅក្នុងខែវិច្ឆិកា ពួកគេនឹងធ្វើការជាមួយគ្នាអស់មួយទសវត្សរ៍។"
-      },
-      {
-        "english": "By midnight, she will have been studying for eight hours.",
-        "translation": "Para la medianoche, ella habrá estado estudiando durante ocho horas.",
-        "translationKhmer": "ដល់ពាក���កណ្តាលអធ្រាត្រ នាងនឹងបានសិក្សារយៈពេលប្រាំបីម៉ោង។"
-      }
-    ],
-    "tips": [
-      "Focus is strictly on the ongoing duration up to a specific future milestone.",
-      "Always remember: \"will have been\" is constant for all subject pronouns (no changes)."
-    ],
-    "commonMistakes": [
-      {
-        "incorrect": "By next week, she will has been working here for a month.",
-        "correct": "By next week, she will have been working here for a month.",
-        "explanation": "Do not use \"has\" after \"will\". The correct form is \"will have been\"."
-      },
-      {
-        "incorrect": "By next year, they will have been knowing each other for ten years.",
-        "correct": "By next year, they will have known each other for ten years.",
-        "explanation": "Since \"know\" is a stative verb, you must use the Future Perfect Simple instead of the continuous form."
-      }
-    ],
-    "summary": "Form Future Perfect Continuous with: [Will Have Been] + [Verb-ing]. Use it to look forward and show how long an action will have lasted.",
-    "practiceQuestions": [
-      {
-        "id": "fpc-q1",
-        "question": "Choose the correct form: \"By midnight, we will ______ studying for six hours.\"",
-        "options": [
-          "have been",
-          "has been",
-          "be"
-        ],
-        "correctAnswer": "have been"
-      },
-      {
-        "id": "fpc-q2",
-        "question": "Complete the sentence: \"Next month, she will have been ______ at this school for two years.\"",
-        "options": [
-          "teaching",
-          "taught",
-          "teach"
-        ],
-        "correctAnswer": "teaching"
-      },
-      {
-        "id": "fpc-q3",
-        "question": "Identify the correct sentence:",
-        "options": [
-          "In June, I will have been working here for 5 years.",
-          "In June, I will been working here for 5 years.",
-          "In June, I will have working here for 5 years."
-        ],
-        "correctAnswer": "In June, I will have been working here for 5 years."
-      }
-    ],
-    "shortDescKhmer": "បង្ហាញពីរយៈពេលនៃសកម្មភាពដែលកំពុងបន្តរហូតដល់ពេលជាក់លាក់ណាមួយនាពេលអនាគត។",
-    "explanationKhmer": "Future Perfect Continuous tense ពិពណ៌នាអំពីសកម្មភាពបន្តដែលនឹងបន្តរហូតដល់ចំណុចជាក់លាក់មួយនាពេលអនាគត ដោយបញ្ជាក់ពីរយៈពេលនៃសកម្មភាពនោះ។ វាត្រូវបានបង្កើតឡើងដោយប្រើ \"នឹងបាន\" + [កិរិយាសព្ទ-ing] ។",
-    "summaryKhmer": "Form Future Perfect Continuous with: [Will Have Been] + [Verb-ing] ។ ប្រើវាដើម្បីទន្ទឹងរង់ចាំ និងបង្ហាញពីរយៈពេលដែលសកម្មភាពនឹងមានរយៈពេល។"
+    summary: 'Gerunds (verb-ing) follow prepositions and specific verbs like enjoy and avoid. Infinitives (to + verb) follow verbs of choice and express intention.',
+    summaryKhmer: 'Gerunds (verb-ing) តាមពីក្រោយធ្នាក់ និងកិរិយាសព្ទជាក់លាក់ដូចជា enjoy និង avoid។ Infinitives (to + verb) តាមពីក្រោយកិរិយាសព្ទនៃការជ្រើសរើស និងបញ្ជាក់ពីគោលបំណង។',
+    practiceQuestions: [
+      { id: 'gai-q1', question: 'Fill in the blank: "They suggested ______ (go) to the library."', options: ['to go', 'going', 'go'], correctAnswer: 'going' },
+      { id: 'gai-q2', question: 'Choose the correct form: "We hope ______ (pass) the test next week."', options: ['passing', 'to pass', 'pass'], correctAnswer: 'to pass' }
+    ]
   }
 ];

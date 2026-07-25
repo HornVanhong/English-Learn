@@ -19,8 +19,10 @@ export interface VocabularyWord {
   exampleKhmer?: string; // Khmer translation of the example sentence
   synonyms: string[];
   antonyms: string[];
-  image: string; // URL or local path placeholder
+  image?: string; // URL or local path placeholder
+  audio?: string; // URL to audio file
   audioPlaceholder: string; // Word representation for TTS
+  commonCollocations?: string[];
   difficulty: DifficultyLevel;
   category: string; // ID of the category
 }
@@ -53,6 +55,18 @@ export interface GrammarLesson {
   shortDescKhmer?: string; // Khmer translation of the short description
   explanation: string; // Markdown or rich text paragraphs
   explanationKhmer?: string; // Khmer translation of the grammar explanation
+  formula?: string;
+  formulaKhmer?: string;
+  whenToUse?: string[];
+  whenToUseKhmer?: string[];
+  positiveExamples?: string[];
+  positiveExamplesKhmer?: string[];
+  negativeExamples?: string[];
+  negativeExamplesKhmer?: string[];
+  questionForm?: string;
+  questionFormKhmer?: string;
+  visualTimeline?: string;
+  visualTimelineKhmer?: string;
   examples: GrammarExample[];
   tips: string[];
   commonMistakes: CommonMistake[];

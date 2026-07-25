@@ -11,6 +11,7 @@ export interface QuizAttempt {
 
 export interface ProgressState {
   learnedWords: string[];
+  favoriteWords: string[];
   completedLessons: string[];
   quizScores: Record<string, QuizAttempt[]>;
   streak: number;
@@ -23,6 +24,7 @@ export interface ProgressState {
   // Actions
   markWordLearned: (wordId: string) => void;
   unmarkWordLearned: (wordId: string) => void;
+  toggleFavoriteWord: (wordId: string) => void;
   completeLesson: (lessonId: string) => void;
   saveQuizResult: (quizId: string, score: number, total: number, xpReward: number) => void;
   updateStreak: () => void;
@@ -37,6 +39,7 @@ export const useProgressStore = create<ProgressState>()(
   persist(
     (set, get) => ({
       learnedWords: [],
+      favoriteWords: [],
       completedLessons: [],
       quizScores: {},
       streak: 0,
@@ -59,6 +62,17 @@ export const useProgressStore = create<ProgressState>()(
         const { learnedWords } = get();
         set({ learnedWords: learnedWords.filter((id) => id !== wordId) });
         useToastStore.getState().addToast('Removed from learned list', 'info');
+      },
+
+      toggleFavoriteWord: (wordId) => {
+        const { favoriteWords } = get();
+        if (favoriteWords.includes(wordId)) {
+          set({ favoriteWords: favoriteWords.filter((id) => id !== wordId) });
+          useToastStore.getState().addToast('Removed from favorites', 'info');
+        } else {
+          set({ favoriteWords: [...favoriteWords, wordId] });
+          useToastStore.getState().addToast('Added to favorites! ❤️', 'success');
+        }
       },
 
       completeLesson: (lessonId) => {
@@ -143,6 +157,7 @@ export const useProgressStore = create<ProgressState>()(
       resetProgress: () => {
         set({
           learnedWords: [],
+          favoriteWords: [],
           completedLessons: [],
           quizScores: {},
           streak: 0,

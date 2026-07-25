@@ -15,7 +15,7 @@ export default function VocabularyPage() {
   const searchParams = useSearchParams();
   const [, startTransition] = useTransition();
 
-  const { learnedWords, markWordLearned, unmarkWordLearned } = useProgressStore();
+  const { learnedWords, favoriteWords, markWordLearned, unmarkWordLearned, toggleFavoriteWord } = useProgressStore();
   const [mounted, setMounted] = useState(false);
 
   // States
@@ -25,11 +25,13 @@ export default function VocabularyPage() {
   const [selectedWord, setSelectedWord] = useState<typeof vocabularyWords[0] | null>(null);
   const [playingAudio, setPlayingAudio] = useState<string | null>(null);
   const [currentPage, setCurrentPage] = useState(1);
+  const [showFavoritesOnly, setShowFavoritesOnly] = useState(false);
+  const [imageErrors, setImageErrors] = useState<Record<string, boolean>>({});
 
   // Reset pagination limit on filter changes
   useEffect(() => {
     setCurrentPage(1);
-  }, [selectedLevel, selectedCategory, searchQuery]);
+  }, [selectedLevel, selectedCategory, searchQuery, showFavoritesOnly]);
 
   useEffect(() => {
     setMounted(true);
@@ -54,7 +56,8 @@ export default function VocabularyPage() {
     const matchesCategory = selectedCategory === 'all' || w.category === selectedCategory;
     const matchesSearch = w.word.toLowerCase().includes(searchQuery.toLowerCase()) || 
                           w.meaning.toLowerCase().includes(searchQuery.toLowerCase());
-    return matchesLevel && matchesCategory && matchesSearch;
+    const matchesFavorite = !showFavoritesOnly || favoriteWords.includes(w.id);
+    return matchesLevel && matchesCategory && matchesSearch && matchesFavorite;
   });
  
   const wordsPerPage = 18;
@@ -141,24 +144,40 @@ export default function VocabularyPage() {
           ))}
         </div>
 
-        {/* Search Bar */}
-        <div className="relative flex-1 max-w-sm">
-          <Icons.Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
-          <input
-            type="text"
-            placeholder="Search words or meanings..."
-            value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full bg-secondary/50 border border-border/50 rounded-xl pl-9 pr-4 py-2 text-xs font-medium focus:outline-none focus:ring-1 focus:ring-emerald-500 focus:border-emerald-500"
-          />
-          {searchQuery && (
-            <button
-              onClick={() => setSearchQuery('')}
-              className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
-            >
-              <Icons.X className="h-3 w-3" />
-            </button>
-          )}
+        {/* Search Bar & Favorites Filter */}
+        <div className="flex items-center gap-2 flex-1 max-w-md">
+          <div className="relative flex-1">
+            <Icons.Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
+            <input
+              type="text"
+              placeholder="Search words or meanings..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              className="w-full bg-secondary/50 border border-border/50 rounded-xl pl-9 pr-4 py-2 text-xs font-medium focus:outline-none focus:ring-1 focus:ring-emerald-500 focus:border-emerald-500"
+            />
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery('')}
+                className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
+              >
+                <Icons.X className="h-3 w-3" />
+              </button>
+            )}
+          </div>
+ 
+          <button
+            onClick={() => setShowFavoritesOnly(prev => !prev)}
+            className={cn(
+              "flex h-9 px-3 items-center justify-center gap-1.5 rounded-xl border font-extrabold text-xs transition-all active:scale-95 shrink-0",
+              showFavoritesOnly
+                ? "bg-rose-500 border-rose-500 text-white shadow-md shadow-rose-500/10"
+                : "bg-card border-border/40 text-muted-foreground hover:text-foreground hover:border-border"
+            )}
+            title="Toggle Favorites Only"
+          >
+            <Icons.Heart className={cn("h-4 w-4", showFavoritesOnly && "fill-current")} />
+            <span>Favorites</span>
+          </button>
         </div>
       </div>
 
@@ -221,9 +240,21 @@ export default function VocabularyPage() {
                   >
                     <div>
                       <div className="flex items-start justify-between gap-2 mb-2">
-                        <h4 className="text-xl font-extrabold text-foreground group-hover:text-emerald-500 transition-colors">
-                          {word.word}
-                        </h4>
+                        <div className="flex items-center gap-2">
+                          <h4 className="text-xl font-extrabold text-foreground group-hover:text-emerald-500 transition-colors">
+                            {word.word}
+                          </h4>
+                          <button
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              toggleFavoriteWord(word.id);
+                            }}
+                            className="text-muted-foreground/60 hover:text-rose-500 transition-colors active:scale-75 transform transition"
+                            title={favoriteWords.includes(word.id) ? "Remove from Favorites" : "Add to Favorites"}
+                          >
+                            <Icons.Heart className={cn("h-4 w-4", favoriteWords.includes(word.id) && "text-rose-500 fill-current")} />
+                          </button>
+                        </div>
                         {isLearned ? (
                           <span className="flex h-5 w-5 items-center justify-center rounded-full bg-emerald-100 dark:bg-emerald-950/50 text-emerald-600">
                             <Icons.Check className="h-3 w-3 stroke-[3]" />
@@ -373,24 +404,71 @@ export default function VocabularyPage() {
               </button>
 
               {/* Category Gradient Indicator */}
-              <div className={cn(
-                "h-1.5 w-24 rounded-full bg-gradient-to-r mb-5",
-                categories.find(c => c.id === selectedWord.category)?.color
-              )} />
+              <div className="flex items-center justify-between mb-5">
+                <div className={cn(
+                  "h-1.5 w-24 rounded-full bg-gradient-to-r",
+                  categories.find(c => c.id === selectedWord.category)?.color
+                )} />
+                <span className="text-[10px] font-black text-muted-foreground/60 uppercase tracking-widest">
+                  Level {selectedWord.difficulty}
+                </span>
+              </div>
 
-              {/* Title & Speech */}
-              <div className="flex items-center gap-3 mb-2">
-                <h3 className="text-3xl font-extrabold text-foreground tracking-tight">
-                  {selectedWord.word}
-                </h3>
+              {/* Word Image (with CSS fallback card) */}
+              {!imageErrors[selectedWord.id] ? (
+                <div className="relative w-full h-36 rounded-2xl overflow-hidden mb-5 border border-border/40 shadow-inner bg-secondary/20">
+                  <img
+                    src={selectedWord.image || `/images/vocab/${selectedWord.id}.jpg`}
+                    alt={selectedWord.word}
+                    onError={() => {
+                      setImageErrors(prev => ({ ...prev, [selectedWord.id]: true }));
+                    }}
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+              ) : (
+                <div className={cn(
+                  "w-full h-32 rounded-2xl flex items-center justify-center mb-5 bg-gradient-to-tr text-white shadow-inner relative overflow-hidden",
+                  categories.find(c => c.id === selectedWord.category)?.color || 'from-indigo-500 to-purple-600'
+                )}>
+                  <span className="text-5xl font-black opacity-10 absolute select-none right-4 bottom-2 leading-none uppercase">
+                    {selectedWord.partOfSpeech}
+                  </span>
+                  <div className="text-center space-y-1 z-10">
+                    <span className="text-4xl font-black tracking-tight">{selectedWord.word.charAt(0)}</span>
+                    <span className="block text-[10px] uppercase font-bold tracking-widest opacity-80">
+                      {categories.find(c => c.id === selectedWord.category)?.name}
+                    </span>
+                  </div>
+                </div>
+              )}
+
+              {/* Title & Speech & Favorite */}
+              <div className="flex items-center justify-between gap-3 mb-2">
+                <div className="flex items-center gap-3">
+                  <h3 className="text-3xl font-extrabold text-foreground tracking-tight">
+                    {selectedWord.word}
+                  </h3>
+                  <button
+                    onClick={() => playWordAudio(selectedWord.word)}
+                    className={cn(
+                      "flex h-9 w-9 items-center justify-center rounded-xl border border-border hover:bg-secondary text-muted-foreground hover:text-foreground transition-all duration-200 active:scale-95",
+                      playingAudio === selectedWord.word && "bg-emerald-50 text-emerald-500 dark:bg-emerald-950/30 border-emerald-500/30 animate-pulse"
+                    )}
+                    title="Listen Pronunciation"
+                  >
+                    <Icons.Volume2 className="h-5 w-5" />
+                  </button>
+                </div>
                 <button
-                  onClick={() => playWordAudio(selectedWord.word)}
+                  onClick={() => toggleFavoriteWord(selectedWord.id)}
                   className={cn(
-                    "flex h-9 w-9 items-center justify-center rounded-xl border border-border hover:bg-secondary text-muted-foreground hover:text-foreground transition-all duration-200 active:scale-95",
-                    playingAudio === selectedWord.word && "bg-emerald-50 text-emerald-500 dark:bg-emerald-950/30 border-emerald-500/30 animate-pulse"
+                    "flex h-9 w-9 items-center justify-center rounded-xl border border-border hover:bg-secondary text-muted-foreground transition-all duration-200 active:scale-95",
+                    favoriteWords.includes(selectedWord.id) ? "text-rose-500 bg-rose-50 border-rose-200 dark:bg-rose-950/20 dark:border-rose-900/50" : "hover:text-rose-500"
                   )}
+                  title={favoriteWords.includes(selectedWord.id) ? "Remove from Favorites" : "Add to Favorites"}
                 >
-                  <Icons.Volume2 className="h-5 w-5" />
+                  <Icons.Heart className={cn("h-5 w-5", favoriteWords.includes(selectedWord.id) && "fill-current")} />
                 </button>
               </div>
 
@@ -403,7 +481,7 @@ export default function VocabularyPage() {
                 </span>
                 <span className="h-1.5 w-1.5 rounded-full bg-border" />
                 <span className="text-xs font-bold text-muted-foreground uppercase">
-                  {selectedWord.difficulty}
+                  {categories.find(c => c.id === selectedWord.category)?.name}
                 </span>
               </div>
 
@@ -411,18 +489,18 @@ export default function VocabularyPage() {
               <div className="space-y-4 mb-6">
                 <div>
                   <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1.5">Definition:</span>
-                  <p className="text-base font-semibold text-foreground/90 leading-relaxed">
+                  <p className="text-base font-semibold text-foreground/90 leading-relaxed text-left">
                     {selectedWord.meaning}
                   </p>
                   {selectedWord.meaningKhmer && (
-                    <p className="text-sm font-semibold text-emerald-600 dark:text-emerald-400 mt-1 font-khmer">
+                    <p className="text-sm font-semibold text-emerald-600 dark:text-emerald-400 mt-1 font-khmer text-left">
                       {selectedWord.meaningKhmer}
                     </p>
                   )}
                 </div>
 
                 {/* Example sentence */}
-                <div className="bg-secondary/40 border border-border/20 rounded-2xl p-4">
+                <div className="bg-secondary/40 border border-border/20 rounded-2xl p-4 text-left">
                   <span className="block text-[10px] font-extrabold text-foreground uppercase tracking-widest mb-1">Example in context:</span>
                   <p className="text-sm text-muted-foreground italic leading-relaxed">
                     "{selectedWord.exampleSentence}"
@@ -436,8 +514,8 @@ export default function VocabularyPage() {
 
                 {/* Synonyms & Antonyms */}
                 <div className="grid grid-cols-2 gap-4 pt-2">
-                  {selectedWord.synonyms.length > 0 && (
-                    <div>
+                  {selectedWord.synonyms && selectedWord.synonyms.length > 0 && (
+                    <div className="text-left">
                       <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1">Synonyms:</span>
                       <div className="flex flex-wrap gap-1">
                         {selectedWord.synonyms.map((syn, idx) => (
@@ -449,8 +527,8 @@ export default function VocabularyPage() {
                     </div>
                   )}
 
-                  {selectedWord.antonyms.length > 0 && (
-                    <div>
+                  {selectedWord.antonyms && selectedWord.antonyms.length > 0 && (
+                    <div className="text-left">
                       <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1">Antonyms:</span>
                       <div className="flex flex-wrap gap-1">
                         {selectedWord.antonyms.map((ant, idx) => (
@@ -462,6 +540,20 @@ export default function VocabularyPage() {
                     </div>
                   )}
                 </div>
+
+                {/* Common Collocations */}
+                {selectedWord.commonCollocations && selectedWord.commonCollocations.length > 0 && (
+                  <div className="pt-3 border-t border-border/10 text-left">
+                    <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1.5">Common Collocations:</span>
+                    <div className="flex flex-wrap gap-1.5">
+                      {selectedWord.commonCollocations.map((col, idx) => (
+                        <span key={idx} className="text-xs font-bold text-indigo-600 bg-indigo-50 dark:text-indigo-400 dark:bg-indigo-950/20 px-2.5 py-1 rounded-lg border border-indigo-100/30 dark:border-indigo-900/10 font-mono">
+                          {col}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                )}
               </div>
 
               {/* Status and Action bar */}

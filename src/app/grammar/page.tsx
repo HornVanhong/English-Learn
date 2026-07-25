@@ -243,19 +243,18 @@ export default function GrammarPage() {
             {/* Scrollable Main Study Deck */}
             <div className="flex-1 overflow-y-auto px-4 py-8 md:py-12 bg-secondary/10">
               <div className="max-w-2xl mx-auto w-full">
-                
-                {/* STEP 1: LEARN RULES */}
+                               {/* STEP 1: LEARN RULES */}
                 {activeTab === 'learn' && (
                   <motion.div
                     initial={{ opacity: 0, y: 15 }}
                     animate={{ opacity: 1, y: 0 }}
-                    className="space-y-8"
+                    className="space-y-6"
                   >
                     {/* Lesson Core Explanation */}
-                    <div className="bg-card border border-border/50 rounded-3xl p-6 shadow-sm space-y-3">
+                    <div className="bg-card border border-border/50 rounded-3xl p-6 shadow-sm space-y-3 text-left">
                       <span className="text-[9px] font-extrabold text-indigo-500 uppercase tracking-widest block">Grammar Explanation</span>
-                      <h3 className="text-xl font-extrabold text-foreground tracking-tight">Introduction to the concept</h3>
-                      <p className="text-sm md:text-base text-foreground/80 leading-relaxed font-medium">
+                      <h3 className="text-xl font-extrabold text-foreground tracking-tight">Introduction</h3>
+                      <p className="text-sm md:text-base text-foreground/80 leading-relaxed font-semibold">
                         {selectedLesson.explanation}
                       </p>
                       {selectedLesson.explanationKhmer && (
@@ -264,9 +263,116 @@ export default function GrammarPage() {
                         </p>
                       )}
                     </div>
-
+ 
+                    {/* Visual Tense Timeline */}
+                    {selectedLesson.visualTimeline && (
+                      <div className="bg-card border border-border/50 rounded-3xl p-6 shadow-sm space-y-3 text-left">
+                        <span className="text-[9px] font-extrabold text-muted-foreground uppercase tracking-widest block">Visual Tense Timeline</span>
+                        <div className="flex items-center gap-3 bg-secondary/40 p-4 border border-border/20 rounded-2xl font-mono text-xs font-black text-indigo-500 justify-center">
+                          {selectedLesson.visualTimeline}
+                        </div>
+                        {selectedLesson.visualTimelineKhmer && (
+                          <p className="text-[10px] text-muted-foreground font-khmer text-center font-medium mt-1">
+                            {selectedLesson.visualTimelineKhmer}
+                          </p>
+                        )}
+                      </div>
+                    )}
+ 
+                    {/* Formula Block */}
+                    {selectedLesson.formula && (
+                      <div className="bg-card border border-border/50 rounded-3xl p-6 shadow-sm space-y-3 text-left border-l-4 border-l-indigo-500">
+                        <span className="text-[9px] font-extrabold text-indigo-500 uppercase tracking-widest block">Grammar Formula</span>
+                        <p className="text-sm font-mono font-black text-foreground">
+                          {selectedLesson.formula}
+                        </p>
+                        {selectedLesson.formulaKhmer && (
+                          <p className="text-xs font-semibold text-muted-foreground font-khmer mt-1 border-t border-border/10 pt-1">
+                            {selectedLesson.formulaKhmer}
+                          </p>
+                        )}
+                      </div>
+                    )}
+ 
+                    {/* When to Use */}
+                    {selectedLesson.whenToUse && selectedLesson.whenToUse.length > 0 && (
+                      <div className="bg-card border border-border/50 rounded-3xl p-6 shadow-sm space-y-3 text-left">
+                        <span className="text-[9px] font-extrabold text-muted-foreground uppercase tracking-widest block">When to Use</span>
+                        <ul className="space-y-2 text-xs font-bold text-foreground/80 pl-4 list-disc">
+                          {selectedLesson.whenToUse.map((use, idx) => (
+                            <li key={idx} className="leading-relaxed">
+                              {use}
+                              {selectedLesson.whenToUseKhmer?.[idx] && (
+                                <span className="block text-[10px] text-indigo-500 font-medium font-khmer mt-0.5">
+                                  {selectedLesson.whenToUseKhmer[idx]}
+                                </span>
+                              )}
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+ 
+                    {/* Positive, Negative, & Question Structures */}
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-left">
+                      {/* Positive */}
+                      {selectedLesson.positiveExamples && selectedLesson.positiveExamples.length > 0 && (
+                        <div className="bg-card border border-border/50 rounded-3xl p-5 shadow-sm space-y-3">
+                          <span className="text-[9px] font-extrabold text-emerald-500 uppercase tracking-widest flex items-center gap-1.5">
+                            <Icons.Check className="h-3.5 w-3.5 text-emerald-500" /> Positive Form
+                          </span>
+                          <ul className="space-y-2.5 text-xs font-bold">
+                            {selectedLesson.positiveExamples.map((ex, idx) => (
+                              <li key={idx} className="border-b border-border/10 pb-2 last:border-b-0 last:pb-0">
+                                <p className="text-foreground">{ex}</p>
+                                {selectedLesson.positiveExamplesKhmer?.[idx] && (
+                                  <p className="text-[10px] text-muted-foreground font-khmer font-medium mt-0.5">{selectedLesson.positiveExamplesKhmer[idx]}</p>
+                                )}
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+ 
+                      {/* Negative */}
+                      {selectedLesson.negativeExamples && selectedLesson.negativeExamples.length > 0 && (
+                        <div className="bg-card border border-border/50 rounded-3xl p-5 shadow-sm space-y-3">
+                          <span className="text-[9px] font-extrabold text-rose-500 uppercase tracking-widest flex items-center gap-1.5">
+                            <Icons.X className="h-3.5 w-3.5 text-rose-500" /> Negative Form
+                          </span>
+                          <ul className="space-y-2.5 text-xs font-bold">
+                            {selectedLesson.negativeExamples.map((ex, idx) => (
+                              <li key={idx} className="border-b border-border/10 pb-2 last:border-b-0 last:pb-0">
+                                <p className="text-foreground">{ex}</p>
+                                {selectedLesson.negativeExamplesKhmer?.[idx] && (
+                                  <p className="text-[10px] text-muted-foreground font-khmer font-medium mt-0.5">{selectedLesson.negativeExamplesKhmer[idx]}</p>
+                                )}
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+ 
+                      {/* Question Form */}
+                      {selectedLesson.questionForm && (
+                        <div className="bg-card border border-border/50 rounded-3xl p-5 shadow-sm space-y-3">
+                          <span className="text-[9px] font-extrabold text-blue-500 uppercase tracking-widest flex items-center gap-1.5">
+                            <Icons.HelpCircle className="h-3.5 w-3.5 text-blue-500" /> Question Form
+                          </span>
+                          <div className="space-y-2.5">
+                            <p className="text-xs font-black font-mono text-foreground bg-secondary/50 p-2 rounded-lg text-center">
+                              {selectedLesson.questionForm}
+                            </p>
+                            {selectedLesson.questionFormKhmer && (
+                              <p className="text-[10px] text-muted-foreground font-khmer font-medium leading-relaxed">{selectedLesson.questionFormKhmer}</p>
+                            )}
+                          </div>
+                        </div>
+                      )}
+                    </div>
+ 
                     {/* Sentence Examples (Speech Balloons) */}
-                    <div className="space-y-4">
+                    <div className="space-y-4 text-left">
                       <span className="text-[9px] font-extrabold text-muted-foreground uppercase tracking-widest pl-1 block">Sentence Examples</span>
                       <div className="grid grid-cols-1 gap-3">
                         {selectedLesson.examples.map((ex, idx) => (
@@ -294,9 +400,9 @@ export default function GrammarPage() {
                         ))}
                       </div>
                     </div>
-
+ 
                     {/* Overall Summary */}
-                    <div className="bg-gradient-to-br from-indigo-500 to-indigo-600 text-white rounded-3xl p-6 shadow-md shadow-indigo-500/10 space-y-3">
+                    <div className="bg-gradient-to-br from-indigo-500 to-indigo-600 text-white rounded-3xl p-6 shadow-md shadow-indigo-500/10 space-y-3 text-left">
                       <div>
                         <span className="text-[9px] font-extrabold text-indigo-200 uppercase tracking-widest block mb-1">Lesson Takeaway</span>
                         <p className="text-xs md:text-sm font-semibold leading-relaxed">

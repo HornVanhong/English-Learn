@@ -36,6 +36,7 @@ export function Header() {
       case '/': return 'Dashboard';
       case '/vocabulary': return 'Vocabulary Explorer';
       case '/grammar': return 'Grammar Center';
+      case '/roadmap': return 'CEFR Roadmap';
       case '/flashcards': return 'Flashcard Suite';
       case '/quizzes': return 'Quiz Challenges';
       case '/progress': return 'Your Progress';

@@ -13,15 +13,17 @@ import {
   Info,
   Flame,
   Sparkles,
-  ChevronRight
+  ChevronRight,
+  Map
 } from 'lucide-react';
 import { useProgressStore } from '@/stores/progressStore';
 import { cn } from '@/lib/utils';
-
+ 
 const navItems = [
   { href: '/', label: 'Home', icon: Home, color: 'text-emerald-500 bg-emerald-50 dark:bg-emerald-950/20' },
   { href: '/vocabulary', label: 'Vocabulary', icon: BookOpen, color: 'text-blue-500 bg-blue-50 dark:bg-blue-950/20' },
   { href: '/grammar', label: 'Grammar', icon: Sparkles, color: 'text-violet-500 bg-violet-50 dark:bg-violet-950/20' },
+  { href: '/roadmap', label: 'CEFR Roadmap', icon: Map, color: 'text-indigo-500 bg-indigo-50 dark:bg-indigo-950/20' },
   { href: '/flashcards', label: 'Flashcards', icon: Layers, color: 'text-orange-500 bg-orange-50 dark:bg-orange-950/20' },
   { href: '/quizzes', label: 'Quizzes', icon: Trophy, color: 'text-yellow-500 bg-yellow-50 dark:bg-yellow-950/20' },
   { href: '/progress', label: 'Progress', icon: TrendingUp, color: 'text-rose-500 bg-rose-50 dark:bg-rose-950/20' },

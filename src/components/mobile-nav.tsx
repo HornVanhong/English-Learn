@@ -14,7 +14,8 @@ import {
   Info,
   Flame,
   Sparkles,
-  X
+  X,
+  Map
 } from 'lucide-react';
 import { useProgressStore } from '@/stores/progressStore';
 import { useDrawerStore } from '@/stores/drawerStore';
@@ -24,6 +25,7 @@ const navItems = [
   { href: '/', label: 'Dashboard', icon: Home },
   { href: '/vocabulary', label: 'Vocabulary', icon: BookOpen },
   { href: '/grammar', label: 'Grammar', icon: Sparkles },
+  { href: '/roadmap', label: 'CEFR Roadmap', icon: Map },
   { href: '/flashcards', label: 'Flashcards', icon: Layers },
   { href: '/quizzes', label: 'Quiz Challenges', icon: Trophy },
   { href: '/progress', label: 'Progress', icon: TrendingUp },

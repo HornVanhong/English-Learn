@@ -414,178 +414,181 @@ export default function VocabularyPage() {
               animate={{ opacity: 1, scale: 1 }}
               exit={{ opacity: 0, transition: { duration: 0 } }}
               transition={{ duration: 0.12 }}
-              className="relative w-full max-w-lg bg-card border border-border/80 rounded-3xl p-6 shadow-2xl overflow-hidden z-10"
+              className="relative w-full max-w-lg max-h-[85vh] flex flex-col bg-card border border-border/80 rounded-3xl p-6 shadow-2xl z-10 overflow-hidden"
             >
               {/* Close Button */}
               <button
                 onClick={() => setSelectedWord(null)}
-                className="absolute right-4 top-4 flex h-8 w-8 items-center justify-center rounded-full bg-secondary hover:bg-muted text-muted-foreground hover:text-foreground transition-all active:scale-90"
+                className="absolute right-4 top-4 flex h-8 w-8 items-center justify-center rounded-full bg-secondary hover:bg-muted text-muted-foreground hover:text-foreground transition-all active:scale-90 z-20"
               >
                 <Icons.X className="h-4 w-4" />
               </button>
-
-              {/* Category Gradient Indicator */}
-              <div className="flex items-center justify-between mb-5 pr-10">
-                <div className={cn(
-                  "h-1.5 w-24 rounded-full bg-gradient-to-r",
-                  categories.find(c => c.id === selectedWord.category)?.color
-                )} />
-                <span className="text-[10px] font-black text-muted-foreground/60 uppercase tracking-widest">
-                  Level {selectedWord.difficulty}
-                </span>
-              </div>
-
-              {/* Word Image (with CSS fallback card) */}
-              {!imageErrors[selectedWord.id] ? (
-                <div className="relative w-full h-36 rounded-2xl overflow-hidden mb-5 border border-border/40 shadow-inner bg-secondary/20">
-                  <img
-                    src={selectedWord.image || `/images/vocab/${selectedWord.id}.jpg`}
-                    alt={selectedWord.word}
-                    onError={() => {
-                      setImageErrors(prev => ({ ...prev, [selectedWord.id]: true }));
-                    }}
-                    className="w-full h-full object-cover"
-                  />
-                </div>
-              ) : (
-                <div className={cn(
-                  "w-full h-32 rounded-2xl flex items-center justify-center mb-5 bg-gradient-to-tr text-white shadow-inner relative overflow-hidden",
-                  categories.find(c => c.id === selectedWord.category)?.color || 'from-indigo-500 to-purple-600'
-                )}>
-                  <span className="text-5xl font-black opacity-10 absolute select-none right-4 bottom-2 leading-none uppercase">
-                    {selectedWord.partOfSpeech}
+ 
+              {/* Scrollable Content Area */}
+              <div className="overflow-y-auto flex-1 pr-1 scrollbar-none pt-2">
+                {/* Category Gradient Indicator */}
+                <div className="flex items-center justify-between mb-5 pr-10">
+                  <div className={cn(
+                    "h-1.5 w-24 rounded-full bg-gradient-to-r",
+                    categories.find(c => c.id === selectedWord.category)?.color
+                  )} />
+                  <span className="text-[10px] font-black text-muted-foreground/60 uppercase tracking-widest">
+                    Level {selectedWord.difficulty}
                   </span>
-                  <div className="text-center space-y-1 z-10">
-                    <span className="text-4xl font-black tracking-tight">{selectedWord.word.charAt(0)}</span>
-                    <span className="block text-[10px] uppercase font-bold tracking-widest opacity-80">
-                      {categories.find(c => c.id === selectedWord.category)?.name}
-                    </span>
+                </div>
+ 
+                {/* Word Image (with CSS fallback card) */}
+                {!imageErrors[selectedWord.id] ? (
+                  <div className="relative w-full h-36 rounded-2xl overflow-hidden mb-5 border border-border/40 shadow-inner bg-secondary/20">
+                    <img
+                      src={selectedWord.image || `/images/vocab/${selectedWord.id}.jpg`}
+                      alt={selectedWord.word}
+                      onError={() => {
+                        setImageErrors(prev => ({ ...prev, [selectedWord.id]: true }));
+                      }}
+                      className="w-full h-full object-cover"
+                    />
                   </div>
-                </div>
-              )}
-
-              {/* Title & Speech & Favorite */}
-              <div className="flex items-center justify-between gap-3 mb-2">
-                <div className="flex items-center gap-3">
-                  <h3 className="text-3xl font-extrabold text-foreground tracking-tight">
-                    {selectedWord.word}
-                  </h3>
-                  <button
-                    onClick={() => playWordAudio(selectedWord.word)}
-                    className={cn(
-                      "flex h-9 w-9 items-center justify-center rounded-xl border border-border hover:bg-secondary text-muted-foreground hover:text-foreground transition-all duration-200 active:scale-95",
-                      playingAudio === selectedWord.word && "bg-emerald-50 text-emerald-500 dark:bg-emerald-950/30 border-emerald-500/30 animate-pulse"
-                    )}
-                    title="Listen Pronunciation"
-                  >
-                    <Icons.Volume2 className="h-5 w-5" />
-                  </button>
-                </div>
-                <button
-                  onClick={() => toggleFavoriteWord(selectedWord.id)}
-                  className={cn(
-                    "flex h-9 w-9 items-center justify-center rounded-xl border border-border hover:bg-secondary text-muted-foreground transition-all duration-200 active:scale-95",
-                    favoriteWords.includes(selectedWord.id) ? "text-rose-500 bg-rose-50 border-rose-200 dark:bg-rose-950/20 dark:border-rose-900/50" : "hover:text-rose-500"
-                  )}
-                  title={favoriteWords.includes(selectedWord.id) ? "Remove from Favorites" : "Add to Favorites"}
-                >
-                  <Icons.Heart className={cn("h-5 w-5", favoriteWords.includes(selectedWord.id) && "fill-current")} />
-                </button>
-              </div>
-
-              {/* Pronunciation & Tag */}
-              <div className="flex items-center gap-2 mb-6">
-                <span className="text-sm font-semibold text-muted-foreground italic">{selectedWord.ipa}</span>
-                <span className="h-1.5 w-1.5 rounded-full bg-border" />
-                <span className="text-xs font-bold uppercase tracking-wider text-emerald-500 bg-emerald-50 dark:bg-emerald-950/20 px-2 py-0.5 rounded-md">
-                  {selectedWord.partOfSpeech}
-                </span>
-                <span className="h-1.5 w-1.5 rounded-full bg-border" />
-                <span className="text-xs font-bold text-muted-foreground uppercase">
-                  {categories.find(c => c.id === selectedWord.category)?.name}
-                </span>
-              </div>
-
-              {/* Meaning Description */}
-              <div className="space-y-4 mb-6">
-                <div>
-                  <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1.5">Definition:</span>
-                  <p className="text-base font-semibold text-foreground/90 leading-relaxed text-left">
-                    {selectedWord.meaning}
-                  </p>
-                  {selectedWord.meaningKhmer && (
-                    <p className="text-sm font-semibold text-emerald-600 dark:text-emerald-400 mt-1 font-khmer text-left">
-                      {selectedWord.meaningKhmer}
-                    </p>
-                  )}
-                </div>
-
-                {/* Example sentence */}
-                <div className="bg-secondary/40 border border-border/20 rounded-2xl p-4 text-left">
-                  <span className="block text-[10px] font-extrabold text-foreground uppercase tracking-widest mb-1">Example in context:</span>
-                  <p className="text-sm text-muted-foreground italic leading-relaxed">
-                    "{selectedWord.exampleSentence}"
-                  </p>
-                  {selectedWord.exampleKhmer && (
-                    <p className="text-xs font-semibold text-foreground/80 not-italic mt-1.5 pt-1.5 border-t border-border/10 font-khmer">
-                      {selectedWord.exampleKhmer}
-                    </p>
-                  )}
-                </div>
-
-                {/* Synonyms & Antonyms */}
-                <div className="grid grid-cols-2 gap-4 pt-2">
-                  {selectedWord.synonyms && selectedWord.synonyms.length > 0 && (
-                    <div className="text-left">
-                      <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1">Synonyms:</span>
-                      <div className="flex flex-wrap gap-1">
-                        {selectedWord.synonyms.map((syn, idx) => (
-                          <span key={idx} className="text-xs font-bold text-blue-600 bg-blue-50 dark:text-blue-400 dark:bg-blue-950/20 px-2.5 py-1 rounded-lg">
-                            {syn}
-                          </span>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-
-                  {selectedWord.antonyms && selectedWord.antonyms.length > 0 && (
-                    <div className="text-left">
-                      <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1">Antonyms:</span>
-                      <div className="flex flex-wrap gap-1">
-                        {selectedWord.antonyms.map((ant, idx) => (
-                          <span key={idx} className="text-xs font-bold text-rose-600 bg-rose-50 dark:text-rose-400 dark:bg-rose-950/20 px-2.5 py-1 rounded-lg">
-                            {ant}
-                          </span>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-                </div>
-
-                {/* Common Collocations */}
-                {selectedWord.commonCollocations && selectedWord.commonCollocations.length > 0 && (
-                  <div className="pt-3 border-t border-border/10 text-left">
-                    <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1.5">Common Collocations:</span>
-                    <div className="flex flex-wrap gap-1.5">
-                      {selectedWord.commonCollocations.map((col, idx) => (
-                        <span key={idx} className="text-xs font-bold text-indigo-600 bg-indigo-50 dark:text-indigo-400 dark:bg-indigo-950/20 px-2.5 py-1 rounded-lg border border-indigo-100/30 dark:border-indigo-900/10 font-mono">
-                          {col}
-                        </span>
-                      ))}
+                ) : (
+                  <div className={cn(
+                    "w-full h-32 rounded-2xl flex items-center justify-center mb-5 bg-gradient-to-tr text-white shadow-inner relative overflow-hidden",
+                    categories.find(c => c.id === selectedWord.category)?.color || 'from-indigo-500 to-purple-600'
+                  )}>
+                    <span className="text-5xl font-black opacity-10 absolute select-none right-4 bottom-2 leading-none uppercase">
+                      {selectedWord.partOfSpeech}
+                    </span>
+                    <div className="text-center space-y-1 z-10">
+                      <span className="text-4xl font-black tracking-tight">{selectedWord.word.charAt(0)}</span>
+                      <span className="block text-[10px] uppercase font-bold tracking-widest opacity-80">
+                        {categories.find(c => c.id === selectedWord.category)?.name}
+                      </span>
                     </div>
                   </div>
                 )}
+ 
+                {/* Title & Speech & Favorite */}
+                <div className="flex items-center justify-between gap-3 mb-2">
+                  <div className="flex items-center gap-3">
+                    <h3 className="text-3xl font-extrabold text-foreground tracking-tight">
+                      {selectedWord.word}
+                    </h3>
+                    <button
+                      onClick={() => playWordAudio(selectedWord.word)}
+                      className={cn(
+                        "flex h-9 w-9 items-center justify-center rounded-xl border border-border hover:bg-secondary text-muted-foreground hover:text-foreground transition-all duration-200 active:scale-95",
+                        playingAudio === selectedWord.word && "bg-emerald-50 text-emerald-500 dark:bg-emerald-950/30 border-emerald-500/30 animate-pulse"
+                      )}
+                      title="Listen Pronunciation"
+                    >
+                      <Icons.Volume2 className="h-5 w-5" />
+                    </button>
+                  </div>
+                  <button
+                    onClick={() => toggleFavoriteWord(selectedWord.id)}
+                    className={cn(
+                      "flex h-9 w-9 items-center justify-center rounded-xl border border-border hover:bg-secondary text-muted-foreground transition-all duration-200 active:scale-95",
+                      favoriteWords.includes(selectedWord.id) ? "text-rose-500 bg-rose-50 border-rose-200 dark:bg-rose-950/20 dark:border-rose-900/50" : "hover:text-rose-500"
+                    )}
+                    title={favoriteWords.includes(selectedWord.id) ? "Remove from Favorites" : "Add to Favorites"}
+                  >
+                    <Icons.Heart className={cn("h-5 w-5", favoriteWords.includes(selectedWord.id) && "fill-current")} />
+                  </button>
+                </div>
+ 
+                {/* Pronunciation & Tag */}
+                <div className="flex items-center gap-2 mb-6">
+                  <span className="text-sm font-semibold text-muted-foreground italic">{selectedWord.ipa}</span>
+                  <span className="h-1.5 w-1.5 rounded-full bg-border" />
+                  <span className="text-xs font-bold uppercase tracking-wider text-emerald-500 bg-emerald-50 dark:bg-emerald-950/20 px-2 py-0.5 rounded-md">
+                    {selectedWord.partOfSpeech}
+                  </span>
+                  <span className="h-1.5 w-1.5 rounded-full bg-border" />
+                  <span className="text-xs font-bold text-muted-foreground uppercase">
+                    {categories.find(c => c.id === selectedWord.category)?.name}
+                  </span>
+                </div>
+ 
+                {/* Meaning Description */}
+                <div className="space-y-4 mb-6">
+                  <div>
+                    <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1.5">Definition:</span>
+                    <p className="text-base font-semibold text-foreground/90 leading-relaxed text-left">
+                      {selectedWord.meaning}
+                    </p>
+                    {selectedWord.meaningKhmer && (
+                      <p className="text-sm font-semibold text-emerald-600 dark:text-emerald-400 mt-1 font-khmer text-left">
+                        {selectedWord.meaningKhmer}
+                      </p>
+                    )}
+                  </div>
+ 
+                  {/* Example sentence */}
+                  <div className="bg-secondary/40 border border-border/20 rounded-2xl p-4 text-left">
+                    <span className="block text-[10px] font-extrabold text-foreground uppercase tracking-widest mb-1">Example in context:</span>
+                    <p className="text-sm text-muted-foreground italic leading-relaxed">
+                      "{selectedWord.exampleSentence}"
+                    </p>
+                    {selectedWord.exampleKhmer && (
+                      <p className="text-xs font-semibold text-foreground/80 not-italic mt-1.5 pt-1.5 border-t border-border/10 font-khmer">
+                        {selectedWord.exampleKhmer}
+                      </p>
+                    )}
+                  </div>
+ 
+                  {/* Synonyms & Antonyms */}
+                  <div className="grid grid-cols-2 gap-4 pt-2">
+                    {selectedWord.synonyms && selectedWord.synonyms.length > 0 && (
+                      <div className="text-left">
+                        <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1">Synonyms:</span>
+                        <div className="flex flex-wrap gap-1">
+                          {selectedWord.synonyms.map((syn, idx) => (
+                            <span key={idx} className="text-xs font-bold text-blue-600 bg-blue-50 dark:text-blue-400 dark:bg-blue-950/20 px-2.5 py-1 rounded-lg">
+                              {syn}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+ 
+                    {selectedWord.antonyms && selectedWord.antonyms.length > 0 && (
+                      <div className="text-left">
+                        <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1">Antonyms:</span>
+                        <div className="flex flex-wrap gap-1">
+                          {selectedWord.antonyms.map((ant, idx) => (
+                            <span key={idx} className="text-xs font-bold text-rose-600 bg-rose-50 dark:text-rose-400 dark:bg-rose-950/20 px-2.5 py-1 rounded-lg">
+                              {ant}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+                  </div>
+ 
+                  {/* Common Collocations */}
+                  {selectedWord.commonCollocations && selectedWord.commonCollocations.length > 0 && (
+                    <div className="pt-3 border-t border-border/10 text-left">
+                      <span className="block text-[10px] font-extrabold text-muted-foreground uppercase tracking-widest mb-1.5">Common Collocations:</span>
+                      <div className="flex flex-wrap gap-1.5">
+                        {selectedWord.commonCollocations.map((col, idx) => (
+                          <span key={idx} className="text-xs font-bold text-indigo-600 bg-indigo-50 dark:text-indigo-400 dark:bg-indigo-950/20 px-2.5 py-1 rounded-lg border border-indigo-100/30 dark:border-indigo-900/10 font-mono">
+                            {col}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
               </div>
-
-              {/* Status and Action bar */}
-              <div className="flex items-center justify-between border-t border-border pt-5 mt-6">
+ 
+              {/* Sticky Status and Action bar */}
+              <div className="flex items-center justify-between border-t border-border pt-4 mt-4 shrink-0 bg-card z-10">
                 <div>
                   <span className="block text-[9px] font-bold text-muted-foreground uppercase tracking-widest">Category</span>
                   <span className="text-xs font-extrabold text-foreground">
                     {categories.find(c => c.id === selectedWord.category)?.name}
                   </span>
                 </div>
-
+ 
                 {learnedWords.includes(selectedWord.id) ? (
                   <button
                     onClick={() => {

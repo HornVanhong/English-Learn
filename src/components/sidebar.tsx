@@ -38,11 +38,11 @@ export function Sidebar() {
       <div className="flex flex-col gap-8">
         {/* Brand Logo */}
         <Link href="/" className="flex items-center gap-3 px-2 group">
-          <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-emerald-400 to-teal-600 text-white shadow-md shadow-emerald-500/20 group-hover:scale-105 transition-transform duration-200">
+          <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-indigo-500 to-purple-600 text-white shadow-md shadow-indigo-500/20 group-hover:scale-105 transition-transform duration-200">
             <Sparkles className="h-5 w-5 animate-pulse" />
           </div>
           <div>
-            <span className="font-extrabold text-xl tracking-tight bg-gradient-to-r from-emerald-500 to-teal-600 bg-clip-text text-transparent">
+            <span className="font-extrabold text-xl tracking-tight bg-gradient-to-r from-indigo-500 to-purple-600 bg-clip-text text-transparent">
               FluentPath
             </span>
             <span className="block text-[10px] text-muted-foreground font-semibold uppercase tracking-wider">

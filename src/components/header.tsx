@@ -12,15 +12,18 @@ import {
   Trophy, 
   Settings,
   Info,
-  Laptop
+  Laptop,
+  Menu
 } from 'lucide-react';
 import { useProgressStore } from '@/stores/progressStore';
+import { useDrawerStore } from '@/stores/drawerStore';
 import { cn } from '@/lib/utils';
 
 export function Header() {
   const pathname = usePathname();
   const { theme, setTheme } = useTheme();
   const { xp, streak } = useProgressStore();
+  const { openDrawer } = useDrawerStore();
   const [mounted, setMounted] = useState(false);
 
   // Avoid hydration mismatch for theme state
@@ -46,12 +49,21 @@ export function Header() {
     <header className="sticky top-0 z-20 w-full border-b border-border/40 bg-background/80 backdrop-blur-md px-6 py-4 flex items-center justify-between">
       {/* Mobile Title or Brand */}
       <div className="flex items-center gap-2">
-        <Link href="/" className="md:hidden flex items-center gap-2 mr-2">
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-emerald-400 to-teal-600 text-white shadow-sm">
-            <Sparkles className="h-4 w-4" />
-          </div>
-          <span className="font-extrabold text-md text-foreground">FluentPath</span>
-        </Link>
+        <div className="md:hidden flex items-center gap-2 mr-2">
+          <button 
+            onClick={openDrawer}
+            className="flex h-8 w-8 items-center justify-center rounded-lg hover:bg-secondary text-foreground active:scale-90 transition-all mr-1"
+            aria-label="Open Menu"
+          >
+            <Menu className="h-5.5 w-5.5" />
+          </button>
+          <Link href="/" className="flex items-center gap-2">
+            <div className="flex h-7 w-7 items-center justify-center rounded-lg bg-gradient-to-br from-indigo-500 to-purple-600 text-white shadow-sm">
+              <Sparkles className="h-3.5 w-3.5" />
+            </div>
+            <span className="font-extrabold text-[15px] tracking-tight text-foreground">FluentPath</span>
+          </Link>
+        </div>
         
         {/* Page Title for Desktop/Tablet */}
         <h1 className="hidden md:block text-xl font-extrabold text-foreground tracking-tight">

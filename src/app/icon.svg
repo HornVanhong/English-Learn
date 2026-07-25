@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+  </defs>
+  <!-- Rounded gradient background -->
+  <rect width="32" height="32" rx="8" fill="url(#grad)" />
+  <!-- A glowing path/arrow representing FluentPath -->
+  <path d="M8 24 C 12 16, 16 16, 20 12 L 18 10 H 24 V 16 L 22 14 C 18 18, 14 18, 8 24 Z" fill="#ffffff" />
+  <!-- A small sparkle representing intelligence/AI -->
+  <path d="M22 6 L 23 8 L 25 9 L 23 10 L 22 12 L 21 10 L 19 9 L 21 8 Z" fill="#fde047" />
+</svg>

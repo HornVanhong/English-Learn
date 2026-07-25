@@ -19,6 +19,10 @@ export default function GrammarPage() {
   const [showResults, setShowResults] = useState(false);
   const [practiceCompleted, setPracticeCompleted] = useState(false);
 
+  // Filter States
+  const [selectedLevel, setSelectedLevel] = useState<'all' | 'A1' | 'A2' | 'B1' | 'B1+' | 'B2' | 'C1'>('all');
+  const [searchQuery, setSearchQuery] = useState('');
+
   useEffect(() => {
     setMounted(true);
   }, []);
@@ -73,10 +77,6 @@ export default function GrammarPage() {
     completeLesson(selectedLesson.id);
     setSelectedLesson(null);
   };
-
-  // Filter States
-  const [selectedLevel, setSelectedLevel] = useState<'all' | 'A1' | 'A2' | 'B1' | 'B1+' | 'B2' | 'C1'>('all');
-  const [searchQuery, setSearchQuery] = useState('');
 
   const levelTabs = [
     { id: 'all', label: 'All Levels' },

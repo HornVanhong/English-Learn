@@ -142,15 +142,15 @@ export default function VocabularyPage() {
       </div>
 
       {/* 2. Header Filters Section */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-card border border-border/40 p-4 rounded-2xl shadow-sm">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-card border border-border/40 p-4 rounded-2xl shadow-sm w-full">
         {/* Level Selector Tabs */}
-        <div className="flex bg-secondary/80 p-1 rounded-xl w-fit">
+        <div className="flex bg-secondary/80 p-1 rounded-xl w-full sm:w-fit overflow-x-auto scrollbar-none gap-0.5 shrink-0">
           {levels.map((level) => (
             <button
               key={level.id}
               onClick={() => setSelectedLevel(level.id as any)}
               className={cn(
-                "px-4 py-2 text-xs font-bold rounded-lg transition-all",
+                "px-4 py-2 text-xs font-bold rounded-lg transition-all shrink-0",
                 selectedLevel === level.id
                   ? "bg-card text-foreground shadow-sm"
                   : "text-muted-foreground hover:text-foreground"
@@ -166,7 +166,7 @@ export default function VocabularyPage() {
         </span>
  
         {/* Search Bar & Favorites Filter */}
-        <div className="flex items-center gap-2 flex-1 max-w-md">
+        <div className="flex items-center gap-2 w-full md:max-w-md">
           <div className="relative flex-1">
             <Icons.Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
             <input
@@ -201,9 +201,9 @@ export default function VocabularyPage() {
           </button>
         </div>
       </div>
-
+ 
       {/* 2. Category Selector Bar (Horizontal Scrolling Carousel) */}
-      <div className="flex items-center gap-2 overflow-x-auto pb-3 -mx-2 px-2 scrollbar-thin">
+      <div className="flex items-center gap-2 overflow-x-auto pb-3 -mx-2 px-2 scrollbar-none">
         {/* "All" button */}
         <button
           onClick={() => handleCategoryChange('all')}

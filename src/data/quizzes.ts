@@ -7,7 +7,7 @@ export const quizzes: Quiz[] = [
     description: 'Test your knowledge on beginner words: food, family, and animal vocabulary.',
     type: 'vocabulary',
     category: 'Daily Life',
-    difficulty: 'beginner',
+    difficulty: 'A1',
     xpReward: 30,
     questions: [
       {
@@ -50,7 +50,7 @@ export const quizzes: Quiz[] = [
     description: 'Show your skills in using the Be Verb, articles (a/an/the), and pronouns correctly.',
     type: 'grammar',
     category: 'Grammar Rules',
-    difficulty: 'beginner',
+    difficulty: 'A2',
     xpReward: 40,
     questions: [
       {
@@ -94,7 +94,7 @@ export const quizzes: Quiz[] = [
     description: 'Check your intermediate understanding of travel schedules and office vocabulary.',
     type: 'mixed',
     category: 'Travel & Work',
-    difficulty: 'intermediate',
+    difficulty: 'B1',
     xpReward: 50,
     questions: [
       {
@@ -137,7 +137,7 @@ export const quizzes: Quiz[] = [
     description: 'Challenge yourself with conditionals, passive voice, and complex vocabulary.',
     type: 'mixed',
     category: 'Advanced Mastery',
-    difficulty: 'advanced',
+    difficulty: 'C1',
     xpReward: 60,
     questions: [
       {

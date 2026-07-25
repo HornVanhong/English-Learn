@@ -38,9 +38,12 @@ export function MobileNav() {
 
   // Dynamic level rank based on user's XP index
   const getLevelName = (score: number) => {
-    if (score < 150) return 'Beginner';
-    if (score < 500) return 'Intermediate';
-    return 'Advanced';
+    if (score < 100) return 'A1 - Elementary';
+    if (score < 250) return 'A2 - Pre-intermediate';
+    if (score < 500) return 'B1 - Intermediate';
+    if (score < 800) return 'B1+ - Upper-intermediate';
+    if (score < 1200) return 'B2 - Pre-advanced';
+    return 'C1 - Advanced';
   };
 
   const levelName = getLevelName(xp);

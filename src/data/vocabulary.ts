@@ -17,7 +17,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-about",
     "audioPlaceholder": "about",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "នៅលើចំណុចឬជិតនៃ។",
     "exampleKhmer": "អំពី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -38,7 +38,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-search",
     "audioPlaceholder": "search",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ដើម្បីស្វែងរក។",
     "exampleKhmer": "ការស្វែងរកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -59,7 +59,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-other",
     "audioPlaceholder": "other",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "ទាំង។",
     "exampleKhmer": "មួយ​ទៀត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -80,7 +80,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-which",
     "audioPlaceholder": "which",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "មិនថាមួយឬមួយផ្សេងទៀត។",
     "exampleKhmer": "ដែលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -101,7 +101,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-their",
     "audioPlaceholder": "their",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "ករណីកាន់កាប់នៃសព្វនាមផ្ទាល់ខ្លួនពួកគេ។",
     "exampleKhmer": "ពួកគេ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -122,7 +122,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-there",
     "audioPlaceholder": "there",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធនៅទីនោះ។",
     "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -143,7 +143,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-contact",
     "audioPlaceholder": "contact",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "ទ្រព្យសម្បត្តិនៃខ្សែកោងពីរ ឬផ្ទៃដែលជួបគ្នា ហើយនៅចំណុចនៃការជួបគ្នាមានទិសដៅរួម។",
     "exampleKhmer": "ទំនាក់​ទំនង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -164,7 +164,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-business",
     "audioPlaceholder": "business",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "ទីតាំង ការចែកចាយ និងលំដាប់នៃមនុស្ស និងទ្រព្យសម្បត្តិនៅលើឆាកនៃរោងមហោស្រព ដូចដែលបានកំណត់ដោយអ្នកគ្រប់គ្រងដំណាក់កាលនៃការហាត់សម។",
     "exampleKhmer": "អាជីវកម្ម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -185,7 +185,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-online",
     "audioPlaceholder": "online",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងអ៊ីនធឺណិត។",
     "exampleKhmer": "អនឡាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -206,7 +206,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-first",
     "audioPlaceholder": "first",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "មុន​មនុស្ស ឬ​វត្ថុ​ណាមួយ​ក្នុង​ពេលវេលា លំហ ឋានៈ ។ល។",
     "exampleKhmer": "ទីមួយ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -227,7 +227,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-would",
     "audioPlaceholder": "would",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "ប្រើជាទូទៅជាកិរិយាសព្ទជំនួយ ទាំងក្នុងអតីតកាល ឬក្នុងបច្ចុប្បន្នកាលតាមលក្ខខណ្ឌ ឬជម្រើសបច្ចុប្បន្ន។",
     "exampleKhmer": "ឆន្ទៈ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -248,7 +248,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-services",
     "audioPlaceholder": "services",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃសេវាកម្ម។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សេវាកម្ម' ក្នុងប្រយោគមួយ។"
@@ -269,7 +269,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-these",
     "audioPlaceholder": "these",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ពហុវចនៈនៃនេះ។",
     "exampleKhmer": "ទាំង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -290,7 +290,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-click",
     "audioPlaceholder": "click",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ដើម្បីបង្កើតសម្លេងស្រួចស្រាលៗ (ឬបន្តបន្ទាប់គ្នានៃសម្លេងបែបនេះ) ដូចជាការវាយដោយសុភាព។",
     "exampleKhmer": "ការចុចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -311,7 +311,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-service",
     "audioPlaceholder": "service",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "សកម្មភាពនៃការជូនដំណឹង ទោះជាតាមពិត ឬស្ថាបនា តាមលក្ខណៈដែលបានកំណត់ដោយច្បាប់។",
     "exampleKhmer": "សេវានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -332,7 +332,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-price",
     "audioPlaceholder": "price",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃតម្លៃ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'តម្លៃ' ក្នុងប្រយោគមួយ។"
@@ -353,7 +353,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-people",
     "audioPlaceholder": "people",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "ស្តុកទុកជាមួយមនុស្ស ឬអ្នករស់នៅ។",
     "exampleKhmer": "មនុស្សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -374,7 +374,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-state",
     "audioPlaceholder": "state",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "សេចក្តីថ្លែងការណ៍មួយ។",
     "exampleKhmer": "រដ្ឋ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -395,7 +395,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-email",
     "audioPlaceholder": "email",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយអ៊ីមែល។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​តាម​អ៊ីមែល​អំពី​ស្ថានភាព។"
@@ -416,7 +416,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-health",
     "audioPlaceholder": "health",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃសុខភាព។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សុខភាព' ក្នុងប្រយោគមួយ។"
@@ -437,7 +437,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-world",
     "audioPlaceholder": "world",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងពិភពលោក។",
     "exampleKhmer": "ពិភពលោកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -458,7 +458,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-products",
     "audioPlaceholder": "products",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងផលិតផល។",
     "exampleKhmer": "យើងត្រូវផលិតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -479,7 +479,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-music",
     "audioPlaceholder": "music",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "សំឡេងតន្ត្រីតិចឬច្រើនដែលបង្កើតឡើងដោយសត្វទាបៗ។ សូមមើល Stridulation ។",
     "exampleKhmer": "តន្ត្រី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -500,7 +500,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-should",
     "audioPlaceholder": "should",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "ប្រើជាកិរិយាសព្ទជំនួយ ដើម្បីបង្ហាញពីទង្វើ ឬស្ថានភាពដែលមានលក្ខខណ្ឌ ឬជាការសន្មត់នៃការពិតជាក់ស្តែង។",
     "exampleKhmer": "គួរតែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -521,7 +521,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-product",
     "audioPlaceholder": "product",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ចំនួន ឬផលបូកដែលទទួលបានដោយការបន្ថែមលេខមួយ ឬបរិមាណរបស់វាច្រើនដង ព្រោះវាមានចំនួនឯកតាក្នុងចំនួនផ្សេងទៀត។",
     "exampleKhmer": "ផលិតផលនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -542,7 +542,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-system",
     "audioPlaceholder": "system",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ការប្រមូលផ្ដុំឈើដែលបង្កើតបានពិន្ទុពេញ។",
     "exampleKhmer": "ប្រព័ន្ធ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -563,7 +563,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-policy",
     "audioPlaceholder": "policy",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "ដើម្បីគ្រប់គ្រងដោយច្បាប់។",
     "exampleKhmer": "គោលការណ៍​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -584,7 +584,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-number",
     "audioPlaceholder": "number",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "ភាពខុសគ្នានៃវត្ថុ ក្នុងនាមជាមួយ ឬច្រើនជាងមួយ (នៅក្នុងភាសាមួយចំនួន ដូចជាមួយ ឬពីរ ឬច្រើនជាងពីរ) បានបង្ហាញ (ជាធម្មតា) ដោយភាពខុសគ្នានៅក្នុងទម្រង់នៃពាក្យមួយ។",
     "exampleKhmer": "ចំនួន​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -605,7 +605,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-please",
     "audioPlaceholder": "please",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងការពេញចិត្ត។",
     "exampleKhmer": "សូមពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -626,7 +626,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-support",
     "audioPlaceholder": "support",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការគាំទ្រ។",
     "exampleKhmer": "យើងត្រូវគាំទ្រកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -647,7 +647,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-message",
     "audioPlaceholder": "message",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "ដើម្បីទទួលជាសារ។",
     "exampleKhmer": "សារ​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -668,7 +668,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-after",
     "audioPlaceholder": "after",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "ដើម្បីការពារផ្នែកខាងកប៉ាល់។",
     "exampleKhmer": "បន្ទាប់​មក​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -689,7 +689,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-software",
     "audioPlaceholder": "software",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកម្មវិធី។",
     "exampleKhmer": "កម្មវិធី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -710,7 +710,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-video",
     "audioPlaceholder": "video",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយវីដេអូ។",
     "exampleKhmer": "យើងត្រូវវីដេអូកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការ��ៅមុខ។"
@@ -731,7 +731,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-where",
     "audioPlaceholder": "where",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "ចំណែក​ឯ​ការ​ហោះ​ហើរ​និង​ការ​ស្លាប់​គឺ​ការ​ស្លាប់​បំផ្លាញ​សេចក្តី​ស្លាប់។",
     "exampleKhmer": "កន្លែងដែលត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -752,7 +752,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-rights",
     "audioPlaceholder": "rights",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃសិទ្ធិ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សិទ្ធិ' ក្នុងប្រយោគមួយ។"
@@ -773,7 +773,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-public",
     "audioPlaceholder": "public",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសាធារណៈ។",
     "exampleKhmer": "សាធារណជន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -794,7 +794,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-books",
     "audioPlaceholder": "books",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយសៀវភៅ។",
     "exampleKhmer": "យើងត្រូវកក់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅ��ាន ដើម្បីដំណើរការទៅមុខ។"
@@ -815,7 +815,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-school",
     "audioPlaceholder": "school",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "ច្រាំងថ្មចោទ។",
     "exampleKhmer": "សាលា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -836,7 +836,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-through",
     "audioPlaceholder": "through",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "ឆ្លងកាត់ឬពង្រីក។",
     "exampleKhmer": "វគ្គនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -857,7 +857,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-links",
     "audioPlaceholder": "links",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "ដី​មួយ​កន្លែង​សម្រាប់​ការ​ប្រកួត​វាយ​កូនហ្គោល​។",
     "exampleKhmer": "តំណភ្ជាប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -878,7 +878,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-review",
     "audioPlaceholder": "review",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីមើលទៅក្រោយ។",
     "exampleKhmer": "ការពិនិត្យឡើងវិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -899,7 +899,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-years",
     "audioPlaceholder": "years",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយឆ្នាំ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ជាច្រើនឆ្នាំអំពីស្ថានភាព។"
@@ -920,7 +920,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-order",
     "audioPlaceholder": "order",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "ការរៀបចំជួរឈរមួយ និងផ្នែកសមាសធាតុរបស់វា និងធាតុដែលស្ថិតនៅលើវានៅក្នុងស្ថាបត្យកម្មបុរាណ។",
     "exampleKhmer": "លំដាប់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -941,7 +941,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-privacy",
     "audioPlaceholder": "privacy",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងភាពឯកជន។",
     "exampleKhmer": "ឯកជនភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់រៀនកាលពីម្សិលមិញ។"
@@ -962,7 +962,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-items",
     "audioPlaceholder": "items",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយធាតុ។",
     "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -983,7 +983,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-company",
     "audioPlaceholder": "company",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "ផ្នែករងនៃកងវរសេនាធំនៃកងទ័ពក្រោមការបញ្ជារបស់ប្រធានក្រុមដែលមានលេខនៅសហរដ្ឋអាមេរិក (កម្លាំងពេញ) បុរស 100 ។",
     "exampleKhmer": "ក្រុមហ៊ុន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -1004,7 +1004,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-group",
     "audioPlaceholder": "group",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "ការប្រមូលផ្តុំមានកំណត់ផ្សេងៗគ្នានៃសត្វ ឬរុក្ខជាតិ មានភាពស្រដៀងគ្នា ឬលក្ខណៈទូទៅនៅក្នុងទម្រង់ ឬរចនាសម្ព័ន្ធ។",
     "exampleKhmer": "ក្រុម​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាល��ី​ម្សិលមិញ។"
@@ -1025,7 +1025,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-under",
     "audioPlaceholder": "under",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "នៅក្នុងលក្ខខណ្ឌទាបជាង ប្រធានបទ ឬក្រោមលក្ខខណ្ឌ។",
     "exampleKhmer": "ក្រោម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -1046,7 +1046,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-general",
     "audioPlaceholder": "general",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "មេទ័ពកំពូលម្នាក់នៃរដ្ឋាភិបាល ឬប្រទេស។",
     "exampleKhmer": "ឧត្តម​សេនីយ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។"
@@ -1067,7 +1067,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-research",
     "audioPlaceholder": "research",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "ការស៊ើបអង្កេត ឬការពិនិត្យដោយឧស្សាហ៍ព្យាយាមក្នុងការស្វែងរកការពិត ឬគោលការណ៍។",
     "exampleKhmer": "ការ​ស្រាវជ្រាវ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -1088,7 +1088,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-january",
     "audioPlaceholder": "january",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "ខែដំបូងនៃឆ្នាំមានសាមសិបមួយថ្ងៃ។",
     "exampleKhmer": "ខែ​មករា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -1109,7 +1109,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-reviews",
     "audioPlaceholder": "reviews",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក��ទងនឹងការពិនិត្យឡើងវិញ។",
     "exampleKhmer": "ការវាយតម្លៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -1130,7 +1130,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-program",
     "audioPlaceholder": "program",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ដូចគ្នានឹងកម្មវិធី។",
     "exampleKhmer": "កម្មវិធី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -1151,7 +1151,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-games",
     "audioPlaceholder": "games",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយហ្គេម។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ហ្គេម​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -1172,7 +1172,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-could",
     "audioPlaceholder": "could",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "គួរតែ ឬអាច មានសមត្ថភាព ឬងាយរងគ្រោះ។ ប្រើជាជំនួយ ក្នុងអតីតកាល ឬក្នុងបច្ចុប្បន្នកាលតាមលក្ខខណ្ឌ។",
     "exampleKhmer": "អាចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -1193,7 +1193,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-great",
     "audioPlaceholder": "great",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "ទាំងមូល។",
     "exampleKhmer": "ដ៏អស្ចារ្យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -1214,7 +1214,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-united",
     "audioPlaceholder": "united",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "រួមបញ្ចូលគ្នា។",
     "exampleKhmer": "ការរួបរួមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -1235,7 +1235,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-hotel",
     "audioPlaceholder": "hotel",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយសណ្ឋាគារ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីសណ្ឋាគារយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -1256,7 +1256,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-center",
     "audioPlaceholder": "center",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "រចនាសម្ព័ន្ធបណ្តោះអាសន្នដែលសម្ភារៈនៃតុដេកត្រូវបានគាំទ្រនៅក្នុងទីតាំង ប្រើប្រាស់ការងារក្លាយជាការគាំទ្រដោយខ្លួនឯង។",
     "exampleKhmer": "មជ្ឈមណ្ឌល​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -1277,7 +1277,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-store",
     "audioPlaceholder": "store",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "អត្ថបទ ជាពិសេសអាហារ ប្រមូលផ្តុំសម្រាប់វត្ថុជាក់លាក់មួយចំនួន។",
     "exampleKhmer": "ហាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -1298,7 +1298,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-travel",
     "audioPlaceholder": "travel",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "គណនីមួយដោយអ្នកដំណើរ នៃការកើតឡើង និងការសង្កេតក្ន��ងអំឡុងពេលធ្វើដំណើរមួយ។",
     "exampleKhmer": "ការ​ធ្វើ​ដំណើរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -1319,7 +1319,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-comments",
     "audioPlaceholder": "comments",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយមតិយោបល់។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -1340,7 +1340,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-report",
     "audioPlaceholder": "report",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "ដើម្បីត្រឡប់ ឬបង្ហាញជាលទ្ធផលនៃការពិនិត្យ ឬពិចារណាលើបញ្ហាណាមួយដែលត្រូវបានយោងជាផ្លូវការ។",
     "exampleKhmer": "របាយការណ៍​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -1361,7 +1361,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-member",
     "audioPlaceholder": "member",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "ដើម្បីចងចាំ។",
     "exampleKhmer": "សមាជិកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -1382,7 +1382,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-details",
     "audioPlaceholder": "details",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយព័ត៌មានលម្អិត។",
     "exampleKhmer": "យើងត្រូវព័ត៌មានលម្អិតអំពីកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -1403,7 +1403,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-terms",
     "audioPlaceholder": "terms",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយពាក្យ។",
     "exampleKhmer": "នាង​បាន​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានភាព។"
@@ -1424,7 +1424,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-before",
     "audioPlaceholder": "before",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃពីមុន។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មុន' ក្នុងប្រយោគមួយ។"
@@ -1445,7 +1445,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-hotels",
     "audioPlaceholder": "hotels",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសណ្ឋាគារ។",
     "exampleKhmer": "សណ្ឋាគារ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -1466,7 +1466,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-right",
     "audioPlaceholder": "right",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "អាស្រ័យហេតុនេះ ដើម្បីទទួលបានទីតាំងទៀងត្រង់ ជាកប៉ាល់ ឬទូក ក្រោយពេលថែទាំ។",
     "exampleKhmer": "សិទ្ធិត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -1487,7 +1487,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-because",
     "audioPlaceholder": "because",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយព្រោះ។",
     "exampleKhmer": "នាង​បាន​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -1508,7 +1508,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-local",
     "audioPlaceholder": "local",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងកន្លែងជាក់លាក់មួយ ឬផ្នែកតំបន់ជាក់លាក់នៃលំហ។",
     "exampleKhmer": "អ្នក​ស្រុក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -1529,7 +1529,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-those",
     "audioPlaceholder": "those",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ពហុវចនៈ។",
     "exampleKhmer": "ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -1550,7 +1550,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-using",
     "audioPlaceholder": "using",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការប្រើប្រាស់។",
     "exampleKhmer": "យើងត្រូវប្រើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -1571,7 +1571,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-results",
     "audioPlaceholder": "results",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយលទ្ធផល។",
     "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់លទ្ធផលយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -1592,7 +1592,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-office",
     "audioPlaceholder": "office",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "អាផាតមិន ឬផ្ទះខាងក្រៅដែលអ្នករស់នៅក្នុងផ្ទះត្រូវដកកាតព្វកិច្ច ភ្ជាប់ជាមួយសេវាកម្មផ្ទះ ដូចជាផ្ទះបាយ ទូខោអាវ ក្រោលជាដើម។",
     "exampleKhmer": "ការិយាល័យ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -1613,7 +1613,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-national",
     "audioPlaceholder": "national",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងជាតិ។",
     "exampleKhmer": "ជាតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -1634,7 +1634,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-design",
     "audioPlaceholder": "design",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីបង្កើតការរចនាឬការរចនា។",
     "exampleKhmer": "ការរចនាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -1655,7 +1655,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-posted",
     "audioPlaceholder": "posted",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយប្រកាស។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានភាព។"
@@ -1676,7 +1676,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-internet",
     "audioPlaceholder": "internet",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "នៅក���នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃអ៊ីនធឺណិត។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អ៊ីនធឺណិត' ក្នុងប្រយោគមួយ។"
@@ -1697,7 +1697,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-address",
     "audioPlaceholder": "address",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "ប្រគល់ ឬ ទុក ចិត្ត ដល់ ការ ថែទាំ របស់ អ្នក ផ្សេង ទៀត ជា ភ្នាក់ងារ orfactor ។",
     "exampleKhmer": "អាស័យដ្ឋាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -1718,7 +1718,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-within",
     "audioPlaceholder": "within",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយខាងក្នុង។",
     "exampleKhmer": "យើងត្រូវធ្វើការងារនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -1739,7 +1739,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-states",
     "audioPlaceholder": "states",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយរដ្ឋ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជ្រាលជ្រៅអំពីស្ថានភាព។"
@@ -1760,7 +1760,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-phone",
     "audioPlaceholder": "phone",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "កូឡុក។",
     "exampleKhmer": "ទូរស័ព្ទ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -1781,7 +1781,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-shipping",
     "audioPlaceholder": "shipping",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការដឹកជញ្ជូន។",
     "exampleKhmer": "ការដឹកជញ្ជូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -1802,7 +1802,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-reserved",
     "audioPlaceholder": "reserved",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការបម្រុងទុក។",
     "exampleKhmer": "យើងត្រូវរក្សាទុកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -1823,7 +1823,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-subject",
     "audioPlaceholder": "subject",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "អ្វី​ដែល​ត្រូវ​បាន​បញ្ជាក់​ឬ​ព្យាករណ៍។",
     "exampleKhmer": "ប្រធានបទនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -1844,7 +1844,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-between",
     "audioPlaceholder": "between",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "ចន្លោះពេល ឬចន្លោះ។",
     "exampleKhmer": "រវាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -1865,7 +1865,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-forum",
     "audioPlaceholder": "forum",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងវេទិកា។",
     "exampleKhmer": "វេទិកា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -1886,7 +1886,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-family",
     "audioPlaceholder": "family",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ក្រុមនៃសារពាង្គកាយ ទាំងសត្វ ឬបន្លែ ចំណុចជាក់លាក់ដែលទាក់ទងគ្នានៃភាព���្រដៀងគ្នានៅក្នុងរចនាសម្ព័ន្ធ ឬការអភិវឌ្ឍន៍ មានលក្ខណៈទូលំទូលាយជាងប្រភេទមួយ ព្រោះវាជាធម្មតាផ្អែកលើចំណុចប្រហាក់ប្រហែលគ្នាតិចជាង ឬតិច។",
     "exampleKhmer": "គ្រួសារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -1907,7 +1907,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-based",
     "audioPlaceholder": "based",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "ពាក់ ឬការពារដោយមូលដ្ឋាន។",
     "exampleKhmer": "មូលដ្ឋាននេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -1928,7 +1928,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-black",
     "audioPlaceholder": "black",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "ស្រពិចស្រពិល។",
     "exampleKhmer": "ពណ៌ខ្មៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក���នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -1949,7 +1949,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-check",
     "audioPlaceholder": "check",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "ពាក្យ​ព្រមាន​ដែល​បញ្ជាក់​ថា​ស្តេច​កំពុង​មាន​គ្រោះថ្នាក់។",
     "exampleKhmer": "ការត្រួតពិនិត្យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -1970,7 +1970,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-special",
     "audioPlaceholder": "special",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "��ើម្បីអនុវត្តសកម្មភាពឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយពិសេស។",
     "exampleKhmer": "យើងត្រូវធ្វើការពិសេសនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -1991,7 +1991,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-prices",
     "audioPlaceholder": "prices",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយតម្លៃ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​តម្លៃ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -2012,7 +2012,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-website",
     "audioPlaceholder": "website",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃគេហទំព័រ។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'គេហទំព័រ' ក្នុងប្រយោគមួយ។"
@@ -2033,7 +2033,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-index",
     "audioPlaceholder": "index",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ខ្ទង់ទីពីរ នោះ pollex បន្ទាប់នៅក្នុង manus ឬដៃ។",
     "exampleKhmer": "សន្ទស្សន៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2054,7 +2054,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-being",
     "audioPlaceholder": "being",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ដែលមានស្រាប់។",
     "exampleKhmer": "រូប​នេះ​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2075,7 +2075,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-women",
     "audioPlaceholder": "women",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "Pl.",
     "exampleKhmer": "ស្ត្រី​ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2096,7 +2096,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-today",
     "audioPlaceholder": "today",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​មាន​សព្វ​ថ្ងៃ​នេះ​។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ថ្ងៃនេះ' ក្នុងប្រយោគមួយ។"
@@ -2117,7 +2117,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-south",
     "audioPlaceholder": "south",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "ដេកទៅទិសខាងត្បូង។",
     "exampleKhmer": "ភាគខាងត្បូងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2138,7 +2138,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-project",
     "audioPlaceholder": "project",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីគូរ ឬតាំងបង្ហាញ ជាទម្រង់នៃអ្វីទាំងអស់។",
     "exampleKhmer": "គម្រោង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2159,7 +2159,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-pages",
     "audioPlaceholder": "pages",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយទំព័រ។",
     "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់ជាច្រើនទំព័រអំពីស្ថានភាព។"
@@ -2180,7 +2180,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-version",
     "audioPlaceholder": "version",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "ស្ថានភាពនៃស្បូនដែលអ័ក្សរបស់វាត្រូវបានផ្លាតចេញពីទីតាំងធម្មតារបស់វា ដោយមិនបានពត់ខ្លួន។",
     "exampleKhmer": "កំណែនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2201,7 +2201,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-section",
     "audioPlaceholder": "section",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "តួរលេខដែលបង្កើតឡើងពីចំណុចទាំងអស់ដែលជារឿងធម្មតាសម្រាប់ superficies មួយ និង តាន់ដែលជួប ឬទៅ superficies ពីរដែលជួប ឬទៅ twolines ដែលជួប។",
     "exampleKhmer": "ផ្នែក​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2222,7 +2222,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-found",
     "audioPlaceholder": "found",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "Imp",
     "exampleKhmer": "ការ​រក​ឃើញ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2243,7 +2243,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-sports",
     "audioPlaceholder": "sports",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយកីឡា។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់កីឡាយ��ាងខ្លាំងអំពីស្ថានភាព។"
@@ -2264,7 +2264,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-house",
     "audioPlaceholder": "house",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "ក្រុមហ៊ុន ឬគ្រឹះស្ថានពាណិជ្ជកម្ម។",
     "exampleKhmer": "ផ្ទះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -2285,7 +2285,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-related",
     "audioPlaceholder": "related",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ដូច​គ្នា​នឹង​សាច់​ញាតិ, ៤.",
     "exampleKhmer": "ពាក់ព័ន្ធ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2306,7 +2306,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-security",
     "audioPlaceholder": "security",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងសុវត្ថិភាព។",
     "exampleKhmer": "យើងត្រូវការពារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -2327,7 +2327,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-county",
     "audioPlaceholder": "county",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "មានគុណវុឌ្ឍិ ឬលក្ខណៈដែលកំណត់ដោយស្រុក។",
     "exampleKhmer": "នាង​បាន​ផ្ត���់​ការ​ពន្យល់​ពី​ស្រុក​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -2348,7 +2348,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-american",
     "audioPlaceholder": "american",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "មានដើមកំណើតនៅអាមេរិក។",
     "exampleKhmer": "ជនជាតិអាមេរិកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2369,7 +2369,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-photo",
     "audioPlaceholder": "photo",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "ការបង្រួមរូបថត។",
     "exampleKhmer": "រូបថត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2390,7 +2390,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-members",
     "audioPlaceholder": "members",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួ���សមាជិក។",
     "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​សមាជិក​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -2411,7 +2411,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-power",
     "audioPlaceholder": "power",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "ដូចគ្នា​នឹង​ត្រី​ក្រី។",
     "exampleKhmer": "អំណាចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2432,7 +2432,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-while",
     "audioPlaceholder": "while",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "នាំ​ឲ្យ​រលត់​ទៅ​ដោយ​រីករាយ ឬ​មិន​គួរ​ឲ្យ​ខ្ពើមរអើម។",
     "exampleKhmer": "ពេល​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -2453,7 +2453,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-network",
     "audioPlaceholder": "network",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងបណ្តាញ។",
     "exampleKhmer": "បណ្តាញនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2474,7 +2474,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-computer",
     "audioPlaceholder": "computer",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "អ្នកដែលគណនា។",
     "exampleKhmer": "កុំព្យូទ័រ​ត្រូវ​បាន​គេ​ពិភាក្���ា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2495,7 +2495,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-systems",
     "audioPlaceholder": "systems",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយប្រព័ន្ធ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ជាប្រព័ន្ធអំពីស្ថានភាព។"
@@ -2516,7 +2516,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-three",
     "audioPlaceholder": "three",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "មួយលើសពីពីរ។",
     "exampleKhmer": "អ្នកទាំងបីត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -2537,7 +2537,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-total",
     "audioPlaceholder": "total",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ទាំងមូល។",
     "exampleKhmer": "សរុប​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2558,7 +2558,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-place",
     "audioPlaceholder": "place",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ទីតាំងនៅស្ថានសួគ៌ ដូចជារូបកាយនៅស្ថានសួគ៌។",
     "exampleKhmer": "កន្លែង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -2579,7 +2579,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-download",
     "audioPlaceholder": "download",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយការទាញយក។",
     "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់ទាញយកយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -2600,7 +2600,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-without",
     "audioPlaceholder": "without",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "លុះត្រាតែ.",
     "exampleKhmer": "ដោយគ្មានត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -2621,7 +2621,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-access",
     "audioPlaceholder": "access",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការចូលប្រើ។",
     "exampleKhmer": "ការចូលប្រើត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2642,7 +2642,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-think",
     "audioPlaceholder": "think",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការគិត។",
     "exampleKhmer": "យើងត្រូវគិតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីឈានទៅមុខ។"
@@ -2663,7 +2663,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-north",
     "audioPlaceholder": "north",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "ដេកនៅខាងជើង។",
     "exampleKhmer": "ភាគខាងជើងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2684,7 +2684,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-current",
     "audioPlaceholder": "current",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃបច្ចុប្បន្ន។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បច្ចុប្បន្ន' ក្នុងប្រយោគមួយ។"
@@ -2705,7 +2705,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-posts",
     "audioPlaceholder": "posts",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការប្រកាស។",
     "exampleKhmer": "ប្រកាសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -2726,7 +2726,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-media",
     "audioPlaceholder": "media",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "Pl.",
     "exampleKhmer": "ប្រព័ន្ធ​ផ្សព្វផ្សាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2747,7 +2747,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-control",
     "audioPlaceholder": "control",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយការគ្រប់គ្រង។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ម៉ឺងម៉ាត់​អំពី​ស្ថានភាព។"
@@ -2768,7 +2768,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-water",
     "audioPlaceholder": "water",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "ដំណោះស្រាយនៅក្នុងទឹកនៃសារធាតុឧស្ម័ន ឬសារធាតុងាយនឹងបង្កជាហេតុ។",
     "exampleKhmer": "ទឹក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -2789,7 +2789,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-history",
     "audioPlaceholder": "history",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីរៀបរាប់ឬកត់ត្រា។",
     "exampleKhmer": "ប្រវត្តិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2810,7 +2810,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-pictures",
     "audioPlaceholder": "pictures",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយរូបភាព។",
     "exampleKhmer": "យើងត្រូវរូបភាពកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -2831,7 +2831,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-personal",
     "audioPlaceholder": "personal",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "តំណាងមនុស្ស។",
     "exampleKhmer": "ផ្ទាល់ខ្លួនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2852,7 +2852,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-since",
     "audioPlaceholder": "since",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "ចាប់ពីពេល។",
     "exampleKhmer": "ការ​ចាប់​តាំង​ពី​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉���ង​លម្អិត​ក្នុង​ថ្នាក់​កាល​ពី​ម្សិល​មិញ។"
@@ -2873,7 +2873,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-guide",
     "audioPlaceholder": "guide",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "អ្នកដឹកនាំដែលមានចង្អូរសម្រាប់ស៊ើបអង្កេត ឬកាំបិត។(គ) (ការបោះពុម្ព) បន្ទះ ឬឧបករណ៍សម្រាប់តម្រង់ភ្នែក��្នកតែងទៅកាន់បន្ទាត់ចម្លងដែលគាត់កំពុងកំណត់។",
     "exampleKhmer": "មគ្គុទ្ទេសក៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2894,7 +2894,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-board",
     "audioPlaceholder": "board",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ឆាកនៅក្នុងល្ខោនមួយ។",
     "exampleKhmer": "ក្រុមប្រឹក្សាភិបាលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2915,7 +2915,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-location",
     "audioPlaceholder": "location",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "ការសម្គាល់ពីព្រំប្រទល់ ឬកំណត់ទីតាំង ឬទីតាំងនៃដីមួយ យោងទៅតាមការពិពណ៌នាដែលបានផ្តល់ឱ្យនៅក្នុង anentry ផែនការ ផែនទី ។ល។",
     "exampleKhmer": "ទីតាំង​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -2936,7 +2936,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-change",
     "audioPlaceholder": "change",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "កន្លែងដែលពាណិជ្ជករ និងអ្នកផ្សេងទៀតជួបគ្នាដើម្បីធ្វើជំនួញ។",
     "exampleKhmer": "ការផ្លាស់ប្តូរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2957,7 +2957,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-white",
     "audioPlaceholder": "white",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "មេអំបៅ​ប្រភេទ​ណា​មួយ​ក្នុង​ចំណោម​មេអំបៅ​ជា​ច្រើន​ប្រភេទ​ដែល​ជា​កម្មសិទ្ធិ​របស់ Pieris និង​ប្រភេទ​សម្ព័ន្ធមិត្ត​ដែល​ពណ៌​ជា​ធម្មតា​មាន​ពណ៌​ស។",
     "exampleKhmer": "ពណ៌សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -2978,7 +2978,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-small",
     "audioPlaceholder": "small",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "សម្លៀកបំពាក់តូច។",
     "exampleKhmer": "តូច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -2999,7 +2999,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-rating",
     "audioPlaceholder": "rating",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការវាយតម្លៃ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងយកចិត្តទុកដាក់អំពីស្ថានភាព។"
@@ -3020,7 +3020,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-children",
     "audioPlaceholder": "children",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "Pl.",
     "exampleKhmer": "កុមារត្រូវបានពិភាក្សាយ៉ាងល្អិតល្អន់ក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -3041,7 +3041,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-during",
     "audioPlaceholder": "during",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "នៅក្នុងពេលវេលានៃ។",
     "exampleKhmer": "កំឡុងពេលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -3062,7 +3062,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-return",
     "audioPlaceholder": "return",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "ដើម្បីវាយ (បាល់) ត្រឡប់មកវិញនៅលើសំណាញ់។",
     "exampleKhmer": "ការត្រលប់មកវិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -3083,7 +3083,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-students",
     "audioPlaceholder": "students",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយសិស្ស។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដល់សិស្សយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -3104,7 +3104,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-shopping",
     "audioPlaceholder": "shopping",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការដើរទិញឥវ៉ាន់។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ដើរទិញឥវ៉ាន់' ក្នុងប្រយោគមួយ។"
@@ -3125,7 +3125,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-account",
     "audioPlaceholder": "account",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងគណនី។",
     "exampleKhmer": "គណនីនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -3146,7 +3146,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-times",
     "audioPlaceholder": "times",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាពឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងពេលវេលា។",
     "exampleKhmer": "យើងត្រូវកំណត់ពេលវេលាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -3167,7 +3167,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-sites",
     "audioPlaceholder": "sites",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយគេហទំព័រ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានការណ៍។"
@@ -3188,7 +3188,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-level",
     "audioPlaceholder": "level",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "នៃសម្លេងសូម្បីតែ។",
     "exampleKhmer": "កម្រិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -3209,7 +3209,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-digital",
     "audioPlaceholder": "digital",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "នៃ ឬការអនុវត្តទៅម្រាមដៃ ឬខ្ទង់។",
     "exampleKhmer": "ឌីជីថលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -3230,7 +3230,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-profile",
     "audioPlaceholder": "profile",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "ក្បាលមនុស្សតំណាងឱ្យចំហៀង ឬក្នុងទិដ្ឋភាពចំហៀង។",
     "exampleKhmer": "ប្រវត្តិរូបត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់រៀនកាលពីម្សិលមិញ។"
@@ -3251,7 +3251,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-previous",
     "audioPlaceholder": "previous",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "ទៅមុនទាន់ពេល។",
     "exampleKhmer": "មុន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -3272,7 +3272,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-events",
     "audioPlaceholder": "events",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប���ទ្មដែលជាលក្ខណៈនៃព្រឹត្តិការណ៍។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ព្រឹត្តិការណ៍' ក្នុងប្រយោគមួយ។"
@@ -3293,7 +3293,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-hours",
     "audioPlaceholder": "hours",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "daily-conversation",
     "meaningKhmer": "ទេពធីតានៃរដូវ ឬម៉ោងនៃថ្ងៃ។Lo! កន្លែងដែលម៉ោងដែលមានផ្ការីក រថភ្លើង Fair Venus លេចឡើង។",
     "exampleKhmer": "ម៉ោងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -3314,7 +3314,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-image",
     "audioPlaceholder": "image",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "family",
     "meaningKhmer": "រូបភាព ជាឧទាហរណ៍ ឬឧទាហរណ៍ ជាញឹកញាប់យកចេញពីវត្ថុដែលយល់ឃើញ ហើយប្រើដើម្បីបង្ហាញប្រធានបទ។",
     "exampleKhmer": "រូបភាព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -3335,7 +3335,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-title",
     "audioPlaceholder": "title",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "food",
     "meaningKhmer": "បន្ទះសម្រាប់ឈ្មោះ រវាងក្រុមតន្រ្តីខាងក្រោយនៃសៀវភៅ។",
     "exampleKhmer": "ចំណងជើងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុង���ំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -3356,7 +3356,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-another",
     "audioPlaceholder": "another",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​មួយ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ផ្សេង​ទៀត​។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មួយផ្សេងទៀត' ក្នុងប្រយោគមួយ។"
@@ -3377,7 +3377,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-shall",
     "audioPlaceholder": "shall",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅដែលតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងនឹង។",
     "exampleKhmer": "នឹងត្រូវពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -3398,7 +3398,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-property",
     "audioPlaceholder": "property",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "travel",
     "meaningKhmer": "ឧបសម្ព័ន្ធនៃការលេងទាំងអស់ លើកលែងតែទេសភាព និងការស្លៀកពាក់របស់តួសម្តែង។",
     "exampleKhmer": "ទ្រព្យសម្បត្តិត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -3419,7 +3419,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-class",
     "audioPlaceholder": "class",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "business",
     "meaningKhmer": "ផ្នែកមួយក្នុងចំណោមផ្នែកដែលព្រះវិហារ ឬក្រុមជំនុំត្រូវបានបែងចែក ហើយដែលស្ថិតនៅក្រោមការគ្រប់គ្រងរបស់អ្នកដឹកនាំថ្នាក់។",
     "exampleKhmer": "ថ្នាក់រៀនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -3440,7 +3440,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-still",
     "audioPlaceholder": "still",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "technology",
     "meaningKhmer": "ទម្លាក់ ឬហូរតាមដំណក់។",
     "exampleKhmer": "វានៅតែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -3461,7 +3461,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-money",
     "audioPlaceholder": "money",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "health",
     "meaningKhmer": "ដើម្បីផ្គត់ផ្គង់ប្រាក់។",
     "exampleKhmer": "ប្រាក់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -3482,7 +3482,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-quality",
     "audioPlaceholder": "quality",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងគុណភាព។",
     "exampleKhmer": "យើងត្រូវធ្វើឱ្យកិច្ចការនេះប្រកបដោយគុណភាពឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -3503,7 +3503,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-every",
     "audioPlaceholder": "every",
-    "difficulty": "beginner",
+    "difficulty": "A1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយគ្រប់។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​គ្រប់​យ៉ាង​អំពី​ស្ថានភាព។"
@@ -3524,7 +3524,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-listing",
     "audioPlaceholder": "listing",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "ដើមអំពិលកាត់ពីគែមក្តារ។",
     "exampleKhmer": "បញ្ជីឈ្មោះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -3545,7 +3545,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-content",
     "audioPlaceholder": "content",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "មាននៅក្នុងដែនកំណត់។",
     "exampleKhmer": "ខ្លឹមសារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -3566,7 +3566,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-country",
     "audioPlaceholder": "country",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "ថ្មដែលឆ្លងកាត់សរសៃវ៉ែន។",
     "exampleKhmer": "ប្រទេស​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -3587,7 +3587,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-private",
     "audioPlaceholder": "private",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "ទាហានធម្មតា។",
     "exampleKhmer": "ឯកជនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -3608,7 +3608,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-little",
     "audioPlaceholder": "little",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "ក្នុងបរិមាណតិចតួចឬកម្រិត។",
     "exampleKhmer": "កូនតូចត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលព���ម្សិលមិញ។"
@@ -3629,7 +3629,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-visit",
     "audioPlaceholder": "visit",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "មក​ដល់​ក្នុង​គោល​បំណង​នៃ​ការ​ប្រៀនប្រដៅ, រង្វាន់, ការ​សម្រាល​ទុក្ខ។",
     "exampleKhmer": "ដំណើរទស្សនកិច្ចនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -3650,7 +3650,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-tools",
     "audioPlaceholder": "tools",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយឧបករណ៍។",
     "exampleKhmer": "យើងត្រូវរៀបចំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -3671,7 +3671,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-reply",
     "audioPlaceholder": "reply",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "ដើម្បីឆ្លើយការអង្វររបស់ចុងចោទ។",
     "exampleKhmer": "ការ​ឆ្លើយ​តប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -3692,7 +3692,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-customer",
     "audioPlaceholder": "customer",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃអតិថិជន។",
     "exampleKhmer": "នេះជាឧទា���រណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អតិថិជន' ក្នុងប្រយោគមួយ។"
@@ -3713,7 +3713,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-december",
     "audioPlaceholder": "december",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងខែធ្នូ។",
     "exampleKhmer": "ខែ​ធ្នូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -3734,7 +3734,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-compare",
     "audioPlaceholder": "compare",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ឆ្លុះបញ្ចាំងតាមកម្រិតនៃការប្រៀបធៀប។",
     "exampleKhmer": "ការ​ប្រៀបធៀប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -3755,7 +3755,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-movies",
     "audioPlaceholder": "movies",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយភាពយន្ត។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ក្នុង​ភាពយន្ត​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -3776,7 +3776,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-include",
     "audioPlaceholder": "include",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការរួមបញ្ចូល។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រួមបញ្ចូល' ក្នុងប្រយោគមួយ។"
@@ -3797,7 +3797,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-college",
     "audioPlaceholder": "college",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងមហាវិទ្យាល័យ។",
     "exampleKhmer": "មហាវិទ្យាល័យ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -3818,7 +3818,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-value",
     "audioPlaceholder": "value",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "មានតម្លៃប៉ាន់ស្មានដោយស្ដង់ដារនៃអំណាចទិញណាមួយ ជាពិសេសដោយតម្លៃទីផ្សារ ឬចំនួនទឹកប្រាក់ដែលបានព្រមព្រៀងគ្នាថាស្មើនឹងឧបករណ៍ប្រើប្រាស់ និងថ្លៃដើមនៃអ្វីទាំងអស់។ អត្ថបទមួយអាចមានឧបករណ៍ប្រើប្រាស់កម្រិតខ្ពស់បំផុត ឬអំណាចដើម្បីបម្រើដល់ការចង់បាន និងការរីករាយរបស់យើង ហើយអាចត្រូវបានប្រើប្រាស់ជាសកល ដោយគ្មានតម្លៃដែលអាចផ្លាស់ប្តូរបាន។",
     "exampleKhmer": "តម្លៃ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -3839,7 +3839,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-article",
     "audioPlaceholder": "article",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "ពាក្យមួយក្នុងចំនោមពាក្យទាំងបី គឺ a, an, the, ដែលប្រើមុននាមដើម្បីកំណត់កម្មវិធីរបស់ពួកគេ។",
     "exampleKhmer": "អត្ថបទនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពី��្សិលមិញ។"
@@ -3860,7 +3860,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-provide",
     "audioPlaceholder": "provide",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការផ្តល់។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្តល់' ក្នុងប្រយោគមួយ។"
@@ -3881,7 +3881,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-source",
     "audioPlaceholder": "source",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងប្រភព។",
     "exampleKhmer": "ប្រភព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -3902,7 +3902,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-author",
     "audioPlaceholder": "author",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរ���មក្នុងដំណើរការដែលភ្ជាប់ជាមួយអ្នកនិពន្ធ។",
     "exampleKhmer": "យើងត្រូវសរសេរកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -3923,7 +3923,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-press",
     "audioPlaceholder": "press",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "សត្វល្អិតឥណ្ឌាខាងកើត (Tupaia ferruginea) ។",
     "exampleKhmer": "សារព័ត៌មាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -3944,7 +3944,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-learn",
     "audioPlaceholder": "learn",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "ដើម្បីទទួលបានចំណេះដឹង ឬជំនាញ។",
     "exampleKhmer": "ការ​សិក្សា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -3965,7 +3965,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-around",
     "audioPlaceholder": "around",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងជុំវិញ។",
     "exampleKhmer": "ជុំវិញ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -3986,7 +3986,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-print",
     "audioPlaceholder": "print",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីកម្ចាត់ចំណាប់អារម្មណ៍ ឬការចាប់អារម្មណ៍ពីប្រភេទ ឬពីស្តេរ៉េអូប្រភេទ អេឡិចត្រូត ឬបន្ទះឆ្លាក់ ឬផ្សេងទៀត។",
     "exampleKhmer": "ការបោះពុម្ពនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4007,7 +4007,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-course",
     "audioPlaceholder": "course",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "ជួរកម្រិតបន្តនៃឥដ្ឋ ឬថ្មដែលមានកម្ពស់ដូចគ្នានៅទូទាំងមុខ ឬមុខអគារ។",
     "exampleKhmer": "វគ្គ​សិក្សា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4028,7 +4028,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-canada",
     "audioPlaceholder": "canada",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "ខេត្តមួយរបស់អង់គ្លេសនៅអាមេរិកខាងជើង ដោយដាក់ឈ្មោះរុក្ខជាតិ និងសត្វផ្សេងៗ។",
     "exampleKhmer": "ប្រទេសកាណាដាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4049,7 +4049,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-process",
     "audioPlaceholder": "process",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "ភាពលេចធ្លោ ឬផ្នែកដែលអាចមើលឃើញ ជាពិសេសឆ្អឹង។",
     "exampleKhmer": "ដំណើរការ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -4070,7 +4070,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-stock",
     "audioPlaceholder": "stock",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "ដូចគ្នានឹងគណនីភាគហ៊ុនខាងក្រោម។",
     "exampleKhmer": "ភាគហ៊ុនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្��ុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4091,7 +4091,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-training",
     "audioPlaceholder": "training",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "ទង្វើរបស់អ្នកហ្វឹកហាត់។",
     "exampleKhmer": "វគ្គបណ្តុះបណ្តាលត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -4112,7 +4112,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-credit",
     "audioPlaceholder": "credit",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "ការជឿទុកចិត្តដែលបានផ្តល់ឱ្យឬទទួលបាន។",
     "exampleKhmer": "ឥណទាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4133,7 +4133,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-point",
     "audioPlaceholder": "point",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "ដើម្បីតែងតាំង។",
     "exampleKhmer": "ចំណុច​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4154,7 +4154,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-science",
     "audioPlaceholder": "science",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បី​ធ្វើ​ឱ្យ​ក្លាយ​ជា​អ្នក​ជំនាញ​ក្នុង​វិទ្យា​សា​ស្រ្ត​។",
     "exampleKhmer": "វិទ្យាសាស្ត្រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4175,7 +4175,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-advanced",
     "audioPlaceholder": "advanced",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយកម្រិតខ្ពស់។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់កម្រិតខ្ពស់អំពីស្ថានភាព។"
@@ -4196,7 +4196,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-sales",
     "audioPlaceholder": "sales",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការលក់។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'លក់' ក្នុងប្រយោគមួយ។"
@@ -4217,7 +4217,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-english",
     "audioPlaceholder": "english",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងប្រទេសអង់គ្លេស ឬប្រជាជនរបស់ខ្លួន ឬចំពោះអ្វីដែលហៅថាការប្រណាំង Anglo-Saxon ។",
     "exampleKhmer": "ភាសាអង់គ្លេសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -4238,7 +4238,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-estate",
     "audioPlaceholder": "estate",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ថ្នាក់ ឬលំដាប់ដ៏អស្ចារ្យនៃសហគមន៍ ឬរដ្ឋមួយ (ជាបព្វជិត អភិជន និងភាពសាមញ្ញនៃប្រទេសអង់គ្លេស) ឬតំណាងរបស់ពួកគេដែលគ្រប់គ្រងរដ្ឋាភិបាល។",
     "exampleKhmer": "អចលន​ទ្រព្យ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -4259,7 +4259,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-select",
     "audioPlaceholder": "select",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "យកពីលេខតាមចំណូលចិត្ត។",
     "exampleKhmer": "ការជ្រើសរើសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4280,7 +4280,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-windows",
     "audioPlaceholder": "windows",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃបង្អួច។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'windows' ក្នុងប្រយោគមួយ។"
@@ -4301,7 +4301,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-photos",
     "audioPlaceholder": "photos",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងរូបថត។",
     "exampleKhmer": "រូបថត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4322,7 +4322,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-thread",
     "audioPlaceholder": "thread",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយខ្សែស្រឡាយ។",
     "exampleKhmer": "យើងត្រូវភ្ជាប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -4343,7 +4343,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-category",
     "audioPlaceholder": "category",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "ថ្នាក់ខ្ពស់បំផុតមួយ ដែលវត្ថុនៃចំណេះដឹង ឬគំនិតអាចកាត់បន្ថយបាន ហើយដោយពួកគេអាចត្រូវបានរៀបចំជាប្រព័ន្ធ។",
     "exampleKhmer": "ប្រភេទ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4364,7 +4364,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-large",
     "audioPlaceholder": "large",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "ឆ្លងកាត់បន្ទាត់នៃវគ្គសិក្សារបស់កប៉ាល់ក្នុងទិសដៅអំណោយផល។",
     "exampleKhmer": "ធំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -4385,7 +4385,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-gallery",
     "audioPlaceholder": "gallery",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "ស៊ុមមួយដូចជាយ៉រដែលបញ្ចាំងពីផ្នែកខាងឬភាគនៃកប៉ាល់ ហេតុដូច្នេះហើយបានជាគេហៅថា stern galery ឬ quarter gallry - កម្រមាននៅក្នុងកប៉ាល់ដែលបានសាងសង់តាំងពីឆ្នាំ 1850 ។",
     "exampleKhmer": "វិចិត្រសាល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -4406,7 +4406,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-table",
     "audioPlaceholder": "table",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីបញ្ចូលដូចជាឈើមួយដុំចូលទៅក្នុងមួយទៀតដោយចំណុចឆ្លាស់គ្នា ឬការព្យាករពីកណ្តាល ដើម្បីការពារការរអិល។",
     "exampleKhmer": "តារាងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4427,7 +4427,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-register",
     "audioPlaceholder": "register",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "អ្នកដែលចុះឈ្មោះឬកត់ត្រា។",
     "exampleKhmer": "ការចុះឈ្មោះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4448,7 +4448,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-however",
     "audioPlaceholder": "however",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "យ៉ាង​ណា​ក៏​ដោយ។",
     "exampleKhmer": "យ៉ាង​ណា​ក៏​ដោយ ការ​លើក​ឡើង​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4469,7 +4469,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-october",
     "audioPlaceholder": "october",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងខែតុលា។",
     "exampleKhmer": "ខែ​តុលា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -4490,7 +4490,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-november",
     "audioPlaceholder": "november",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ខែទីដប់មួយនៃឆ្នាំដែលមានសាមសិបថ្ងៃ។",
     "exampleKhmer": "ខែវិច្ឆិកាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4511,7 +4511,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-market",
     "audioPlaceholder": "market",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "អភ័យឯកសិទ្ធិដល់ទីប្រជុំជនមានផ្សារសាធារណៈ។",
     "exampleKhmer": "ទីផ្សារ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -4532,7 +4532,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-library",
     "audioPlaceholder": "library",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃបណ្ណាល័យ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បណ្ណាល័យ' ក្នុងប្រយោគមួយ។"
@@ -4553,7 +4553,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-really",
     "audioPlaceholder": "really",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "រាជ។",
     "exampleKhmer": "ការពិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -4574,7 +4574,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-action",
     "audioPlaceholder": "action",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "ចលនាប្រកបដោយប្រសិទ្ធភាព។",
     "exampleKhmer": "សកម្មភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4595,7 +4595,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-start",
     "audioPlaceholder": "start",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "ដើម្បីចាក់ចេញ។",
     "exampleKhmer": "ការចាប់ផ្តើមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4616,7 +4616,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-series",
     "audioPlaceholder": "series",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "ក្រុមដ៏ទូលំទូលាយនៃសត្វ ឬរុក្ខជាតិ រួមទាំងក្រុមពាក់ព័ន្ធមួយចំនួនទៀត។",
     "exampleKhmer": "ស៊េរីនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4637,7 +4637,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-model",
     "audioPlaceholder": "model",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "ស័ក្តិសម​សម្រាប់​យក​ធ្វើជា​គំរូ ឬ​គំរូ។",
     "exampleKhmer": "គំរូ​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4658,7 +4658,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-features",
     "audioPlaceholder": "features",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងលក្ខណៈពិសេស។",
     "exampleKhmer": "យើងត្រូវកំណត់មុខងារនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -4679,7 +4679,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-industry",
     "audioPlaceholder": "industry",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "ការប្រឹងប្រែងរបស់មនុស្សក្នុងប្រភេទណាមួយដែលប្រើប្រាស់សម្រាប់ការបង្កើតតម្លៃ ហើយអ្នកខ្លះចាត់ទុកថាជាប្រភេទដើមទុន ឬទ្រព្យសម្បត្តិ។",
     "exampleKhmer": "ឧស្សាហកម្ម​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម��អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -4700,7 +4700,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-human",
     "audioPlaceholder": "human",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "ជាកម្មសិទ្ធិរបស់មនុស្សឬមនុស្សជាតិ។",
     "exampleKhmer": "មនុស្សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -4721,7 +4721,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-provided",
     "audioPlaceholder": "provided",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "តាមលក្ខខណ្ឌ។",
     "exampleKhmer": "ការផ្តល់ជូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4742,7 +4742,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-required",
     "audioPlaceholder": "required",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធនឹងតម្រូវការ។",
     "exampleKhmer": "យើងត្រូវទាមទារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -4763,7 +4763,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-second",
     "audioPlaceholder": "second",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "អត្ថបទនៃទំនិញនៃថ្នាក់ទាបជាងទៅល្អបំផុត។",
     "exampleKhmer": "ទីព��រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4784,7 +4784,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-movie",
     "audioPlaceholder": "movie",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "រូបភាពរំកិល ឬបង្ហាញរូបភាពផ្លាស់ទី។",
     "exampleKhmer": "ភាពយន្ត​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4805,7 +4805,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-forums",
     "audioPlaceholder": "forums",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងវេទិកា។",
     "exampleKhmer": "វេទិកា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4826,7 +4826,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-march",
     "audioPlaceholder": "march",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "ខែ​ទី​បី​នៃ​ឆ្នាំ​ដែល​មាន​សាមសិប​មួយ​ថ្ងៃ។​ ខែ​មីនា​ដែល​មាន​ខ្យល់​ព្យុះ​មក​ដល់​ទី​បំផុត​ដោយ​មាន​ខ្យល់​ព្យុះ​ពពក​និង​ផ្ទៃ​មេឃ​ប្រែប្រួល។",
     "exampleKhmer": "ការហែក្បួនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4847,7 +4847,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-better",
     "audioPlaceholder": "better",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "ដើម្បីក្លាយជាកាន់តែប្រសើរ។",
     "exampleKhmer": "កាន់តែប្រសើរត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -4868,7 +4868,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-yahoo",
     "audioPlaceholder": "yahoo",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "ការបកប្រែតាមព្យញ្ជនៈសម័យទំនើបនៃពាក្យភាសាហេព្រើរបានបកប្រែព្រះយេហូវ៉ានៅក្នុងព្រះគម្ពីរ។",
     "exampleKhmer": "យ៉ាហ៊ូ​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -4889,7 +4889,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-going",
     "audioPlaceholder": "going",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "វគ្គនៃជីវិត។",
     "exampleKhmer": "ការ​ទៅ​រៀន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -4910,7 +4910,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-medical",
     "audioPlaceholder": "medical",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងវេជ្ជសាស្ត្រ។",
     "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​ការ​ងារ​ពេទ្យ​ឱ្យ​បាន​ឆាប់​ត���ម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -4931,7 +4931,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-friend",
     "audioPlaceholder": "friend",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "ដើម្បីដើរតួជាមិត្តរបស់។",
     "exampleKhmer": "មិត្ត​ភក្តិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -4952,7 +4952,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-server",
     "audioPlaceholder": "server",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃម៉ាស៊ីនមេ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ម៉ាស៊ីនមេ' ក្នុងប្រយោគមួយ។"
@@ -4973,7 +4973,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-study",
     "audioPlaceholder": "study",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "ការតំណាង ឬការបង្ហាញវត្ថុ ឬឈុតណាមួយដែលមានបំណង មិនមែនសម្រាប់ការតាំងពិពណ៌ជាស្នាដៃដើមនៃសិល្បៈនោះទេ ប៉ុន្តែសម្រាប់ព័ត៌មាន ការណែនាំ ឬជំនួយរបស់អ្នកផលិត។",
     "exampleKhmer": "ការ​សិក្សា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -4994,7 +4994,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-staff",
     "audioPlaceholder": "staff",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "បន្ទាត់ទាំងប្រាំ និងចន្លោះដែលតន្ត្រីត្រូវបានសរសេរ។",
     "exampleKhmer": "បុគ្គលិកត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -5015,7 +5015,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-articles",
     "audioPlaceholder": "articles",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយអត្ថបទ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​អត្ថបទ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -5036,7 +5036,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-feedback",
     "audioPlaceholder": "feedback",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ផ្តល់​មតិ​ត្រឡប់​។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មតិត្រឡប់' ក្នុងប្រយោគមួយ។"
@@ -5057,7 +5057,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-again",
     "audioPlaceholder": "again",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "ប្រឆាំង។",
     "exampleKhmer": "ការពិភាក្សាម្តងទៀតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -5078,7 +5078,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-looking",
     "audioPlaceholder": "looking",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "មានរូបរាង ឬរូបរាងជាក់លាក់។",
     "exampleKhmer": "ការសម្លឹងមើលទៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -5099,7 +5099,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-issues",
     "audioPlaceholder": "issues",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយបញ្ហា។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -5120,7 +5120,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-april",
     "audioPlaceholder": "april",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃខែមេសា។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មេសា' ក្នុងប្រយោគមួយ។"
@@ -5141,7 +5141,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-never",
     "audioPlaceholder": "never",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងមិនដែល។",
     "exampleKhmer": "មិនដែលត្រូវបានគេពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -5162,7 +5162,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-users",
     "audioPlaceholder": "users",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក���ព័ន្ធជាមួយអ្នកប្រើប្រាស់។",
     "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​អ្នក​ប្រើ​ភារកិច្ច​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -5183,7 +5183,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-complete",
     "audioPlaceholder": "complete",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "មានផ្នែក ឬសរីរាង្គទាំងអស់ដែលជាកម្មសិទ្ធិរបស់វា ឬទម្រង់ធម្មតា។",
     "exampleKhmer": "ការបញ្ចប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -5204,7 +5204,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-street",
     "audioPlaceholder": "street",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "ដើមឡើយផ្លូវ ឬផ្លូវក្រាលកៅស៊ូ។",
     "exampleKhmer": "ផ្លូវ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -5225,7 +5225,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-topic",
     "audioPlaceholder": "topic",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "សន្ធិសញ្ញាស្តីពីទម្រង់នៃការជជែកវែកញែក។",
     "exampleKhmer": "ប្រធានបទត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -5246,7 +5246,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-comment",
     "audioPlaceholder": "comment",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីធ្វើការកត់សម្គាល់ ការសង្កេត ឬការរិះគន់។",
     "exampleKhmer": "មតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5267,7 +5267,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-things",
     "audioPlaceholder": "things",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយវត្ថុ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -5288,7 +5288,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-working",
     "audioPlaceholder": "working",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "ក & ន.",
     "exampleKhmer": "ការងារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5309,7 +5309,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-against",
     "audioPlaceholder": "against",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការប្រឆាំង។",
     "exampleKhmer": "ការ​ប្រឆាំង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5330,7 +5330,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-standard",
     "audioPlaceholder": "standard",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "សមាមាត្រនៃទម្ងន់នៃលោហៈដ៏ល្អ និងយ៉ាន់ស្ព័រដែលបង្កើតឡើងដោយអាជ្ញាធរ។ តាមស្តង់ដារបច្ចុប្បន្ននៃកាក់ ហុកសិបពីរ shillings ត្រូវបានបង្កើតចេញពីទម្ងន់មួយផោននៃប្រាក់។",
     "exampleKhmer": "ស្តង់ដារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -5351,7 +5351,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-person",
     "audioPlaceholder": "person",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "ក្នុង​ចំណោម​ព្រះត្រៃបិដក ជា​ផ្នែក​មួយ​ក្នុង​ចំណោម​ផ្នែក​រង​ទាំង​បី​នៃ​ព្រះ​អង្គ (ព្រះវរបិតា ព្រះ​រាជបុត្រា និង​ព្រះវិញ្ញាណ​បរិសុទ្ធ)។",
     "exampleKhmer": "បុគ្គល​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5372,7 +5372,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-below",
     "audioPlaceholder": "below",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​នៅ​ខាង​ក្រោម​។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ខាងក្រោម' ក្នុងប្រយោគមួយ។"
@@ -5393,7 +5393,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-mobile",
     "audioPlaceholder": "mobile",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "អាច​រំកិល​ខ្លួន រំភើប ឬ​រំភើប។",
     "exampleKhmer": "ទូរសព្ទ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5414,7 +5414,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-party",
     "audioPlaceholder": "party",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ចែក​ឬ​បែក​គ្នា ដូច​ជា​ក្នុង​ទិស​ឬ​ទម្រង់​នៃ​ក្បួន​មួយ ។",
     "exampleKhmer": "គណបក្ស​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -5435,7 +5435,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-payment",
     "audioPlaceholder": "payment",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយការទូទាត់។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថាន���ាព។"
@@ -5456,7 +5456,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-login",
     "audioPlaceholder": "login",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការចូល។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ចូល' ក្នុងប្រយោគមួយ។"
@@ -5477,7 +5477,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-student",
     "audioPlaceholder": "student",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសិស្ស។",
     "exampleKhmer": "សិស្សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -5498,7 +5498,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-programs",
     "audioPlaceholder": "programs",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយកម្មវិធី។",
     "exampleKhmer": "យើងត្រូវរៀបចំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -5519,7 +5519,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-offers",
     "audioPlaceholder": "offers",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការផ្តល់ជូន។",
     "exampleKhmer": "នាងបានផ្តល់នូវការពន្យល់យ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -5540,7 +5540,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-legal",
     "audioPlaceholder": "legal",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "គ្រប់គ្រង​ដោយ​ច្បាប់​ដែល​ខុស​ពី​ច្បាប់​សមធម៌។",
     "exampleKhmer": "ច្បាប់​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5561,7 +5561,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-above",
     "audioPlaceholder": "above",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងខាងលើ។",
     "exampleKhmer": "ខាង​លើ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -5582,7 +5582,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-recent",
     "audioPlaceholder": "recent",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងសម័យបច្ចុប្បន្ន ឬបច្ចុប្បន្ន។",
     "exampleKhmer": "ថ្មីៗ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5603,7 +5603,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-stores",
     "audioPlaceholder": "stores",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយហាង។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ដល់​ហាង​អំពី​ស្ថានភាព។"
@@ -5624,7 +5624,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-problem",
     "audioPlaceholder": "problem",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "អ្វីក៏ដោយដែលតម្រូវឱ្យធ្វើ។",
     "exampleKhmer": "បញ្ហា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5645,7 +5645,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-memory",
     "audioPlaceholder": "memory",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការចងចាំ។",
     "exampleKhmer": "ការចងចាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -5666,7 +5666,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-social",
     "audioPlaceholder": "social",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "លូតលាស់តាមធម្មជាតិជាក្រុម ឬមហាជន។",
     "exampleKhmer": "សង្គម​ត្រូវ​បាន​លើក​យក​មក​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -5687,7 +5687,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-august",
     "audioPlaceholder": "august",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "នៃគុណភាពបំផុសគំនិតដែលរួមបញ្ចូលគ្នានូវការកោតសរសើរនិងការគោរព។",
     "exampleKhmer": "សីហា​ត���រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5708,7 +5708,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-quote",
     "audioPlaceholder": "quote",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "ដើម្បីដាក់ឈ្មោះតម្លៃបច្ចុប្បន្ន។",
     "exampleKhmer": "សម្រង់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5729,7 +5729,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-language",
     "audioPlaceholder": "language",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "ដើម្បីទំនាក់ទំនងតាមភាសា។",
     "exampleKhmer": "ភាសាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -5750,7 +5750,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-story",
     "audioPlaceholder": "story",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "សំណុំនៃបន្ទប់នៅជាន់ដូចគ្នាឬកម្រិត។",
     "exampleKhmer": "រឿង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5771,7 +5771,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-options",
     "audioPlaceholder": "options",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលត្រូវបានកំណត់ដោយជម្រើស។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ជម្រើស​យ៉ាង​ខ្លាំង​ក្នុង​ការ​ពន្យល់​អំពី​ស្ថានភាព។"
@@ -5792,7 +5792,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-rates",
     "audioPlaceholder": "rates",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃអត្រា។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អត្រា' ក្នុងប្រយោគមួយ។"
@@ -5813,7 +5813,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-create",
     "audioPlaceholder": "create",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "បានបង្កើត។",
     "exampleKhmer": "ការបង្កើតនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -5834,7 +5834,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-young",
     "audioPlaceholder": "young",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "កូនចៅរបស់សត្វ ទាំងសត្វទោល ឬពូជរួម។[ស៊ុត] ផ្ទុះឡើងដោយសេចក្តីសប្��ុរស បានបង្ហាញឱ្យឃើញនូវកូនពៅរបស់ពួកគេ។",
     "exampleKhmer": "យុវជន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5855,7 +5855,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-america",
     "audioPlaceholder": "america",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយអាមេរិក។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ពី​សហរដ្ឋ​អាមេរិក​អំពី​ស្ថានភាព។"
@@ -5876,7 +5876,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-field",
     "audioPlaceholder": "field",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "ផ្ទៃទាំងមូលនៃ escutcheon មួយ។",
     "exampleKhmer": "វាល​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -5897,7 +5897,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-paper",
     "audioPlaceholder": "paper",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "ឬទាក់ទងនឹងក្រដាស។",
     "exampleKhmer": "ឯកសារនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -5918,7 +5918,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-single",
     "audioPlaceholder": "single",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីទទួលយកការដើរមិនទៀងទាត់ដែលហៅថាជើងតែមួយ។",
     "exampleKhmer": "ឯកត្តជនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -5939,7 +5939,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-example",
     "audioPlaceholder": "example",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "ដើម្បីកំណត់ឧទាហរណ៍សម្រាប់។",
     "exampleKhmer": "ឧទាហរណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -5960,7 +5960,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-girls",
     "audioPlaceholder": "girls",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃក្មេងស្រី។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ក្មេងស្រី' នៅក្នុងប្រយោគមួយ។"
@@ -5981,7 +5981,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-password",
     "audioPlaceholder": "password",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "ពាក្យដែលត្រូវផ្តល់ឱ្យមុនពេលមនុស្សម្នាក់ត្រូវបានអនុញ្ញាតឱ្យឆ្លងកាត់។",
     "exampleKhmer": "ពាក្យ​សម្ងាត់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6002,7 +6002,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-latest",
     "audioPlaceholder": "latest",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងចុងក្រោយបំផុត។",
     "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -6023,7 +6023,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-question",
     "audioPlaceholder": "question",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយសំណួរ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​សំណួរ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -6044,7 +6044,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-changes",
     "audioPlaceholder": "changes",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការផ្លាស់ប្តូរ។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ការផ្លាស់ប្តូរ' នៅក្នុងប្រយោគមួយ។"
@@ -6065,7 +6065,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-night",
     "audioPlaceholder": "night",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងយប់។",
     "exampleKhmer": "យប់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6086,7 +6086,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-texas",
     "audioPlaceholder": "texas",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "រចនាសម្ព័ននៅលើដំបូលខ្យល់ព្យុះ នៃឡចំហាយទឹក ដែលមានផ្ទះអ្នកបើកយន្តហោះ កាប���ីនមន្ត្រី ជាដើម។",
     "exampleKhmer": "រដ្ឋតិចសាស់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6107,7 +6107,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-poker",
     "audioPlaceholder": "poker",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "អ្នកប្រមាញ់។",
     "exampleKhmer": "ល្បែងបៀត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6128,7 +6128,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-status",
     "audioPlaceholder": "status",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "រដ្ឋ។",
     "exampleKhmer": "ស្ថានភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6149,7 +6149,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-browse",
     "audioPlaceholder": "browse",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "មែកធាង ឬមែកឈើ និងគុម្ពឈើ ស័ក្តិសមជាអាហាររបស់គោក្របី និងសត្វដទៃទៀត។",
     "exampleKhmer": "ការរុករកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6170,7 +6170,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-issue",
     "audioPlaceholder": "issue",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដំបៅសិប្បនិមិត្ត ជាធម្មតាធ្វើឡើងនៅផ្នែកសាច់នៃជើងពាសដែក ដើម្បីបង្កើតការសំងាត់ និងការហូរចេញនៃខ្ទុះសម្រាប់ការសង្គ្រោះផ្នែកខ្លះដែលរងផលប៉ះពាល់។",
     "exampleKhmer": "បញ្ហា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6191,7 +6191,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-range",
     "audioPlaceholder": "range",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "មានស្រុកកំណើត ឬរស់នៅ។",
     "exampleKhmer": "ជួរត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6212,7 +6212,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-building",
     "audioPlaceholder": "building",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការសាងសង់។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សាងសង់' ក្នុងប្រយោគមួយ។"
@@ -6233,7 +6233,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-seller",
     "audioPlaceholder": "seller",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "ម្នាក់ដែលលក់។",
     "exampleKhmer": "អ្នក​លក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -6254,7 +6254,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-court",
     "audioPlaceholder": "court",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយតុលាការ។",
     "exampleKhmer": "យើងត្រូវកាត់ក្តីកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -6275,7 +6275,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-february",
     "audioPlaceholder": "february",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "ខែទីពីរក្នុងឆ្នាំនេះ ត្រូវបានគេនិយាយថាត្រូវបានបញ្ចូលទៅក្នុងប្រតិទិនរ៉ូម៉ាំង���ោយ Numa ។",
     "exampleKhmer": "ខែ​កុម្ភៈ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -6296,7 +6296,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-always",
     "audioPlaceholder": "always",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​និច្ច។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជានិច្ច' នៅក្នុងប្រយោគមួយ។"
@@ -6317,7 +6317,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-result",
     "audioPlaceholder": "result",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងលទ្ធផល។",
     "exampleKhmer": "លទ្ធផល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6338,7 +6338,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-audio",
     "audioPlaceholder": "audio",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយសំឡេង។",
     "exampleKhmer": "យើងត្រូវស្តាប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -6359,7 +6359,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-light",
     "audioPlaceholder": "light",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "របៀបដែលពន្លឺប៉ះលើរូបភាព។",
     "exampleKhmer": "ពន្លឺ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6380,7 +6380,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-write",
     "audioPlaceholder": "write",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការសរសេរ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សរសេរ' ក្នុងប្រយោគមួយ។"
@@ -6401,7 +6401,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-offer",
     "audioPlaceholder": "offer",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការផ្តល់ជូន។",
     "exampleKhmer": "ការផ្តល់ជូននេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6422,7 +6422,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-groups",
     "audioPlaceholder": "groups",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយក្រុម។",
     "exampleKhmer": "យើងត្រូវរៀបចំជាក្រុមកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -6443,7 +6443,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-given",
     "audioPlaceholder": "given",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "ទំ.",
     "exampleKhmer": "អ្វី​ដែល​បាន​ផ្តល់​ឲ្យ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6464,7 +6464,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-files",
     "audioPlaceholder": "files",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃឯកសារ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ឯកសារ' ក្នុងប្រយោគមួយ។"
@@ -6485,7 +6485,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-event",
     "audioPlaceholder": "event",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "ដើម្បីបំបែកចេញ។",
     "exampleKhmer": "ព្រឹត្តិការណ៍​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6506,7 +6506,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-release",
     "audioPlaceholder": "release",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ជួលម្តងទៀត។",
     "exampleKhmer": "ការចេញផ្សាយនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្���ុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6527,7 +6527,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-analysis",
     "audioPlaceholder": "analysis",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "ការបំបែកសារធាតុផ្សំដោយដំណើរការគីមីទៅក្នុងធាតុផ្សំរបស់វា ក្នុងគោលបំណងដើម្បីបញ្ជាក់ថាតើ (ក) សារធាតុដែលវាមាន ឬ (ខ) ចំនួននៃធាតុនីមួយៗមានប៉ុន្មាន។",
     "exampleKhmer": "ការវិភាគត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -6548,7 +6548,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-request",
     "audioPlaceholder": "request",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការស្នើសុំ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ស្នើសុំ' ក្នុងប្រយោគមួយ។"
@@ -6569,7 +6569,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-china",
     "audioPlaceholder": "china",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ��ស្ថានភាពទាក់ទងនឹងប្រទេសចិន។",
     "exampleKhmer": "ចិន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6590,7 +6590,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-making",
     "audioPlaceholder": "making",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការបង្កើត។",
     "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្��ការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -6611,7 +6611,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-picture",
     "audioPlaceholder": "picture",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "ដើម្បីគូរឬគូរភាពស្រដៀងគ្នានៃ។",
     "exampleKhmer": "រូបភាព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -6632,7 +6632,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-needs",
     "audioPlaceholder": "needs",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "នៃភាពចាំបាច់។",
     "exampleKhmer": "តម្រូវការត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6653,7 +6653,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-possible",
     "audioPlaceholder": "possible",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "សម្មាទិដ្ឋិ នៃ​ការ​ដែល​កើត​ឡើង ឬ​កើត​ឡើង ឬ​ជា​ការ​គិត​ឃើញ",
     "exampleKhmer": "លទ្ធភាព​ដែល​អាច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក���​កាលពី​ម្សិលមិញ។"
@@ -6674,7 +6674,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-might",
     "audioPlaceholder": "might",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "Imp",
     "exampleKhmer": "ប្រហែលជាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6695,7 +6695,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-month",
     "audioPlaceholder": "month",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "ផ្នែកមួយក្នុងចំណោមផ្នែកទាំងដប់ពីរដែលឆ្នាំត្រូវបានបែងចែក។",
     "exampleKhmer": "ខែ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -6716,7 +6716,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-major",
     "audioPlaceholder": "major",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "ធំជាងដោយ semitone ទាំងក្នុងចន្លោះពេល ឬក្នុងភាពខុសគ្នានៃសំឡេងពីសម្លេងផ្សេងទៀត។",
     "exampleKhmer": "មេ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6737,7 +6737,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-areas",
     "audioPlaceholder": "areas",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងតំបន់។",
     "exampleKhmer": "វិស័យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6758,7 +6758,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-future",
     "audioPlaceholder": "future",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "នោះ​គឺ​ត្រូវ​ឬ​មក​នៅ​ពេល​ក្រោយ។",
     "exampleKhmer": "អនាគត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6779,7 +6779,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-space",
     "audioPlaceholder": "space",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "sports",
     "meaningKhmer": "ចន្លោះពេលមួយ ឬកន្លែងបើកចំហ រវាងជួរបុគ្គលិក។",
     "exampleKhmer": "លំហ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -6800,7 +6800,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-cards",
     "audioPlaceholder": "cards",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃកាត។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កាត' ក្នុងប្រយោគមួយ។"
@@ -6821,7 +6821,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-problems",
     "audioPlaceholder": "problems",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងបញ្ហា។",
     "exampleKhmer": "បញ្ហា​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -6842,7 +6842,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-london",
     "audioPlaceholder": "london",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "family",
     "meaningKhmer": "រាជធានីនៃប្រទេសអង់គ្លេស។",
     "exampleKhmer": "ទីក្រុងឡុងដ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6863,7 +6863,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-meeting",
     "audioPlaceholder": "meeting",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយការប្រជុំ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ពេញ​ទំហឹង​អំពី​ស្ថានភាព។"
@@ -6884,7 +6884,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-become",
     "audioPlaceholder": "become",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "animals",
     "meaningKhmer": "សមនឹងឬសមរម្យ។",
     "exampleKhmer": "ការក្លាយជាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -6905,7 +6905,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-interest",
     "audioPlaceholder": "interest",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងផលប្រយោជន៍។",
     "exampleKhmer": "ចំណាប់អារម្មណ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6926,7 +6926,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-child",
     "audioPlaceholder": "child",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីសម្រាលកូន។",
     "exampleKhmer": "កុមារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6947,7 +6947,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-enter",
     "audioPlaceholder": "enter",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយបញ្ចូល។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -6968,7 +6968,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-share",
     "audioPlaceholder": "share",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "technology",
     "meaningKhmer": "ដើម្បីមានចំណែក។",
     "exampleKhmer": "ការចែករំលែកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -6989,7 +6989,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-similar",
     "audioPlaceholder": "similar",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "health",
     "meaningKhmer": "អ្វី​ដែល​ស្រដៀង​នឹង ឬ​ស្រដៀង​នឹង​អ្វី​មួយ​ផ្សេង​ទៀត ដូចជា​អសមភាព ទម្រង់​ជាដើម។",
     "exampleKhmer": "ភាពស្រដៀងគ្នានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -7010,7 +7010,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-garden",
     "audioPlaceholder": "garden",
-    "difficulty": "beginner",
+    "difficulty": "A2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីរៀបចំឬដាំដុះសួនច្បារ។",
     "exampleKhmer": "សួនច្បារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7031,7 +7031,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-schools",
     "audioPlaceholder": "schools",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយសាលា។",
     "exampleKhmer": "នាងបានពន្យល់ពីស្ថានភាពរបស់សាលា។"
@@ -7052,7 +7052,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-million",
     "audioPlaceholder": "million",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​រាប់​លាន​។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'លាន' ក្នុងប្រយោគមួយ។"
@@ -7073,7 +7073,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-added",
     "audioPlaceholder": "added",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការបន្ថែម។",
     "exampleKhmer": "ការបន្ថែមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7094,7 +7094,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-listed",
     "audioPlaceholder": "listed",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយបញ្ជី។",
     "exampleKhmer": "យើងត្រូវរាយបញ្ជីកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -7115,7 +7115,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-learning",
     "audioPlaceholder": "learning",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយការរៀនសូត្រ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​រៀន​សូត្រ​អំពី​ស្ថានភាព។"
@@ -7136,7 +7136,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-energy",
     "audioPlaceholder": "energy",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "សមត្ថភាពសម្រាប់ការអនុវត្តការងារ។",
     "exampleKhmer": "ថាមពលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7157,7 +7157,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-delivery",
     "audioPlaceholder": "delivery",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណ���ងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការចែកចាយ។",
     "exampleKhmer": "ការចែកចាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ"
@@ -7178,7 +7178,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-popular",
     "audioPlaceholder": "popular",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការពេញនិយម។",
     "exampleKhmer": "យើងត្រូវធ្វើឱ្យកិច្ចការនេះពេញនិយមឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -7199,7 +7199,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-stories",
     "audioPlaceholder": "stories",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយរឿង។",
     "exampleKhmer": "នាង​បាន​ផ្ដល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -7220,7 +7220,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-journal",
     "audioPlaceholder": "journal",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "ប្រចាំថ្ងៃ។",
     "exampleKhmer": "ទិនានុប្បវត្តិត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7241,7 +7241,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-reports",
     "audioPlaceholder": "reports",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងរបាយការណ៍។",
     "exampleKhmer": "របាយការណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -7262,7 +7262,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-welcome",
     "audioPlaceholder": "welcome",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "សូមជំរាបសួរដោយក្តីមេត្តា ក្នុងនាមជាអ្នកចំណូលថ្មី។",
     "exampleKhmer": "ការស្វាគមន៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7283,7 +7283,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-central",
     "audioPlaceholder": "central",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "ទាក់ទងនឹងមជ្ឈមណ្ឌល។",
     "exampleKhmer": "មជ្ឈ​មណ្ឌល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។"
@@ -7304,7 +7304,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-images",
     "audioPlaceholder": "images",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃរូបភាព។",
     "exampleKhmer": "នេះជាឧទាហរណ៍��ូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រូបភាព' ក្នុងប្រយោគមួយ។"
@@ -7325,7 +7325,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-notice",
     "audioPlaceholder": "notice",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការជូនដំណឹង។",
     "exampleKhmer": "ការ​ជូន​ដំណឹង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -7346,7 +7346,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-original",
     "audioPlaceholder": "original",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "ពូជធម្មជាតិ ឬព្រៃដែលពូជដាំដុះក្នុងស្រុកបានមកពី។",
     "exampleKhmer": "ដើម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -7367,7 +7367,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-radio",
     "audioPlaceholder": "radio",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយវិទ្យុ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់តាមវិទ្យុអំពីស្ថានភាព។"
@@ -7388,7 +7388,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-until",
     "audioPlaceholder": "until",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "ដូចជានៅឆ្ងាយ។",
     "exampleKhmer": "រហូតមកដល់ពេលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -7409,7 +7409,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-color",
     "audioPlaceholder": "color",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "សិទ្ធិជាក់ស្តែង។",
     "exampleKhmer": "ពណ៌​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -7430,7 +7430,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-council",
     "audioPlaceholder": "council",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយក្រុមប្រឹក្សា។",
     "exampleKhmer": "យើងត្រូវក្រុមប្រឹក្សាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -7451,7 +7451,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-includes",
     "audioPlaceholder": "includes",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយរួមបញ្ចូល។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងទូលំទូលាយអំពីស្ថានភាព។"
@@ -7472,7 +7472,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-track",
     "audioPlaceholder": "track",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "ផ្ទៃខាងក្រោមទាំងមូលនៃជើ��។",
     "exampleKhmer": "បទ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -7493,7 +7493,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-archive",
     "audioPlaceholder": "archive",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "កន្លែងរក្សាទុកឯកសារសាធារណៈ ឬឯកសារប្រវត្តិសាស្ត្រ។ ពាក្យរបស់យើង",
     "exampleKhmer": "បណ្ណសារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7514,7 +7514,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-others",
     "audioPlaceholder": "others",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយអ្នកដទៃ។",
     "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​អ្នក​ដទៃ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -7535,7 +7535,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-format",
     "audioPlaceholder": "format",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "រូបរាងនិងទំហំនៃសៀវភៅ។",
     "exampleKhmer": "ទម្រង់​នេះ​ត្រូវ​បាន​��ិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -7556,7 +7556,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-least",
     "audioPlaceholder": "least",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "តូចបំផុត ទាំងទំហំ ឬសញ្ញាបត្រ។",
     "exampleKhmer": "តិចបំផុតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -7577,7 +7577,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-society",
     "audioPlaceholder": "society",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសង្គម។",
     "exampleKhmer": "សង្គម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -7598,7 +7598,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-months",
     "audioPlaceholder": "months",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងខែ។",
     "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ជាច្រើន​ខែ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -7619,7 +7619,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-safety",
     "audioPlaceholder": "safety",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "ដូចគ្នានឹងការប៉ះសុវត្ថិភាពខាងក្រោម។",
     "exampleKhmer": "សុវត្ថិភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -7640,7 +7640,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-friends",
     "audioPlaceholder": "friends",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​ស្ទីល​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​មិត្ត។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មិត្ត' ក្នុងប្រយោគមួយ។"
@@ -7661,7 +7661,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-trade",
     "audioPlaceholder": "trade",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "ខ្យល់ពាណិជ្ជកម្ម។",
     "exampleKhmer": "ពាណិជ្ជកម្ម​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -7682,7 +7682,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-edition",
     "audioPlaceholder": "edition",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយនឹងការបោះពុម្ព។",
     "exampleKhmer": "យើងត្រូវកែសម្រួលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -7703,7 +7703,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-messages",
     "audioPlaceholder": "messages",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយសារ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​សារ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -7724,7 +7724,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-further",
     "audioPlaceholder": "further",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "ទៅចម្ងាយកាន់តែច្រើន។",
     "exampleKhmer": "���ន្ថែម​ទៀត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -7745,7 +7745,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-updated",
     "audioPlaceholder": "updated",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងការធ្វើបច្ចុប្បន្នភាព។",
     "exampleKhmer": "ការធ្វើបច្ចុប្បន្នភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7766,7 +7766,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-having",
     "audioPlaceholder": "having",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "កម្មសិទ្ធិ។",
     "exampleKhmer": "ការ​ដែល​មាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -7787,7 +7787,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-provides",
     "audioPlaceholder": "provides",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "មានគុ���ភាព ឬលក្ខណៈដែលកំណត់ដោយការផ្តល់។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -7808,7 +7808,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-david",
     "audioPlaceholder": "david",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​ដាវីឌ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'David' ក្នុងប្រយោគមួយ។"
@@ -7829,7 +7829,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-already",
     "audioPlaceholder": "already",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "មុននឹងពេលវេលាជាក់លាក់ណាមួយ ទាំងអតីតកាល បច្ចុប្បន្នកាល ឬអនាគតកាល។",
     "exampleKhmer": "នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​រួច​ហើយ​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -7850,7 +7850,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-green",
     "audioPlaceholder": "green",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "ដើម្បីធ្វើឱ្យពណ៌បៃតង។ និទាឃរដូវដ៏អស្ចារ្យមុនពេលបៃតងពេញមួយឆ្នាំ។",
     "exampleKhmer": "ពណ៌បៃតងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7871,7 +7871,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-studies",
     "audioPlaceholder": "studies",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយការស��ក្សា។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​សិក្សា​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -7892,7 +7892,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-close",
     "audioPlaceholder": "close",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "ចំណាប់អារម្មណ៍ដែលមនុស្សម្នាក់អាចមាននៅក្នុងដីមួយ ទោះបីជាវាមិនត្រូវបានបិទភ្ជាប់ក៏ដោយ។",
     "exampleKhmer": "ការបិទនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7913,7 +7913,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-common",
     "audioPlaceholder": "common",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "សិទ្ធិក្នុងការកេងចំណេញលើដីរបស់អ្នកដទៃ រួមជាមួយនឹងម្ចាស់ ឬជាមួយអ្នកដទៃ។",
     "exampleKhmer": "ធម្មតា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -7934,7 +7934,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-drive",
     "audioPlaceholder": "drive",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីជីកផ្ដេក។",
     "exampleKhmer": "ដ្រាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7955,7 +7955,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-specific",
     "audioPlaceholder": "specific",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "បញ្ចេញឥទ្ធិពលពិសេសលើផ្នែកណាមួយនៃរាងកាយ។",
     "exampleKhmer": "ភាពជាក់លាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -7976,7 +7976,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-several",
     "audioPlaceholder": "several",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "ដោយខ្លួនវាផ្ទាល់។",
     "exampleKhmer": "មួយចំនួនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -7997,7 +7997,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-living",
     "audioPlaceholder": "living",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងការរស់នៅ។",
     "exampleKhmer": "ការ​រស់​នៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -8018,7 +8018,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-called",
     "audioPlaceholder": "called",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការហៅ។",
     "exampleKhmer": "យើងត្រូវហៅកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -8039,7 +8039,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-short",
     "audioPlaceholder": "short",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "បែកឬខ្ទេចខ្ទីក្នុងមាត់។",
     "exampleKhmer": "វគ្គខ្លីត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -8060,7 +8060,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-display",
     "audioPlaceholder": "display",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "ដើម្បីពង្រីកផ្នែកខាងមុខនៃ (ជួរឈរមួយ) នាំវាចូលទៅក្នុង line.Farrow ។",
     "exampleKhmer": "ការបង្ហាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8081,7 +8081,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-limited",
     "audioPlaceholder": "limited",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "បង្ខាំងក្នុងដែនកំណត់។",
     "exampleKhmer": "ដែនកំណត់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8102,7 +8102,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-powered",
     "audioPlaceholder": "powered",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយថាមពល។",
     "exampleKhmer": "យើងត្រូវផ្តល់ថាមពលដល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -8123,7 +8123,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-means",
     "audioPlaceholder": "means",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយមធ្យោបាយ។",
     "exampleKhmer": "នាង​បាន​ផ្���ល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -8144,7 +8144,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-director",
     "audioPlaceholder": "director",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "ផ្នែកនៃម៉ាស៊ីន ឬឧបករណ៍ដែលដឹកនាំចលនារបស់វា។",
     "exampleKhmer": "នាយក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -8165,7 +8165,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-daily",
     "audioPlaceholder": "daily",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "កើតឡើង ឬជាកម្មសិទ្ធិរបស់ រៀងរាល់ថ្ងៃជាប់ៗគ្នា។",
     "exampleKhmer": "ប្រចាំថ្ងៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8186,7 +8186,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-beach",
     "audioPlaceholder": "beach",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីរត់ ឬបើកបរ (ជាកប៉ាល់ ឬទូក) នៅលើឆ្នេរ។",
     "exampleKhmer": "ឆ្នេរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -8207,7 +8207,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-natural",
     "audioPlaceholder": "natural",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "ជាកម្មសិទ្ធិ ដែលត្រូវយក ឬសំដៅលើប្រព័ន្ធខ្លះ ដែលមូលដ្ឋានគឺ ១.",
     "exampleKhmer": "ធម្មជាតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -8228,7 +8228,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-whether",
     "audioPlaceholder": "whether",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "មួយណា (ក្នុងចំណោមពីរ) ។",
     "exampleKhmer": "ថាតើត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8249,7 +8249,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-period",
     "audioPlaceholder": "period",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "ការបែងចែកដ៏អស្ចារ្យមួយនៃពេលវេលាភូមិសាស្ត្រ។",
     "exampleKhmer": "រយៈពេលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8270,7 +8270,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-planning",
     "audioPlaceholder": "planning",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការធ្វើផែនការ។",
     "exampleKhmer": "យើងត្រូវរៀបចំផែនការកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -8291,7 +8291,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-database",
     "audioPlaceholder": "database",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយមូលដ្ឋានទិន្នន័យ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​មូលដ្ឋាន​ទិន្នន័យ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -8312,7 +8312,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-official",
     "audioPlaceholder": "official",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "អនុម័តដោយអាជ្ញាធរ។",
     "exampleKhmer": "មន្ត្រី​រូប​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -8333,7 +8333,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-weather",
     "audioPlaceholder": "weather",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "បើកទូកឬឆ្លងទៅខ្យល់នៃ។",
     "exampleKhmer": "អាកាសធាតុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -8354,7 +8354,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-average",
     "audioPlaceholder": "average",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "កិច្ច​ដែល​អ្នក​ជួល​ជំពាក់​ម្ចាស់​ត្រូវ​ធ្វើ​ដោយ​សត្វ​អ្នក​ជួល ដូច​ជា​រទេះ​ស្រូវ ស្មៅ​ជាដើម។",
     "exampleKhmer": "ជាមធ្យមត្រូវបានពិភាក្សាយ៉ាងលម្អិ���ក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8375,7 +8375,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-window",
     "audioPlaceholder": "window",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "សន្ទះបិទបើក ស្រោមសំ��ុត្រ ខ្សែជាមួយនឹងឧបករណ៍ភ្ជាប់របស់វា ឬការងារផ្សេងទៀត ដែលបិទការបើកបង្អួច។",
     "exampleKhmer": "បង្អួច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -8396,7 +8396,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-france",
     "audioPlaceholder": "france",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ប្រទេស​បារាំង។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បារាំង' ក្នុងប្រយោគមួយ។"
@@ -8417,7 +8417,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-region",
     "audioPlaceholder": "region",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងតំបន់។",
     "exampleKhmer": "តំបន់នេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8438,7 +8438,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-island",
     "audioPlaceholder": "island",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "សូមមើល Isle, n., 2 ។",
     "exampleKhmer": "កោះ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -8459,7 +8459,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-record",
     "audioPlaceholder": "record",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយកំណត់ត្រា។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងកត់ត្រាអំពីស្ថានភាព។"
@@ -8480,7 +8480,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-direct",
     "audioPlaceholder": "direct",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "ក្នុងទិសដៅនៃចលនារបស់ភពទូទៅ ឬពីខាងលិចទៅខាងកើត។",
     "exampleKhmer": "ដោយផ្ទាល់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8501,7 +8501,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-records",
     "audioPlaceholder": "records",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកំណត់ត្រា។",
     "exampleKhmer": "កំណត់ត្រា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -8522,7 +8522,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-district",
     "audioPlaceholder": "district",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "ម៉ត់ចត់។",
     "exampleKhmer": "ស្រុក​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -8543,7 +8543,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-calendar",
     "audioPlaceholder": "calendar",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "សេចក្តីថ្លែងការណ៍ជាតារាងនៃកាលបរិច្ឆេទនៃពិធីបុណ្យ, ការិយាល័យ, ថ្ងៃបរិសុទ្ធ, ល។, ឧ។",
     "exampleKhmer": "ប្រតិទិន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -8564,7 +8564,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-costs",
     "audioPlaceholder": "costs",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការចំណាយ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ចំណាយ' ក្នុងប្រយោគមួយ។"
@@ -8585,7 +8585,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-style",
     "audioPlaceholder": "style",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "ម្ជុល ឬ gnomon នៃ​ការ​ចុច ស្រមោល​ដែល​បង្ហាញ​ម៉ោង។",
     "exampleKhmer": "រចនាប័ទ្ម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -8606,7 +8606,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-front",
     "audioPlaceholder": "front",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងផ្នែកខាងមុខ ឬខាងមុខ។",
     "exampleKhmer": "ផ្នែកខាងមុខត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8627,7 +8627,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-update",
     "audioPlaceholder": "update",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយការអាប់ដេត។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ទាន់សម័យយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -8648,7 +8648,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-parts",
     "audioPlaceholder": "parts",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃផ្នែក។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្នែក' ក្នុងប្រយោគមួយ។"
@@ -8669,7 +8669,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-early",
     "audioPlaceholder": "early",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "ឆាប់ៗនេះ។",
     "exampleKhmer": "ដើមដំបូងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -8690,7 +8690,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-miles",
     "audioPlaceholder": "miles",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយម៉ាយល៍។",
     "exampleKhmer": "យើងត្រូវកំណត់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -8711,7 +8711,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-sound",
     "audioPlaceholder": "sound",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "ប្លោកនោមខ្យល់របស់ត្រី។",
     "exampleKhmer": "សំឡេង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -8732,7 +8732,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-resource",
     "audioPlaceholder": "resource",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "Pecuuniary មានន័យថា។",
     "exampleKhmer": "ធនធានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាល���ីម្សិលមិញ។"
@@ -8753,7 +8753,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-present",
     "audioPlaceholder": "present",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "លិខិត ឬឧបករណ៍បច្ចុប្បន្ន ជាលិខិតផ្ទេរសិទ្ធិ កិច្ចសន្យាជួល សំបុត្រមេធាវី ឬការសរសេរផ្សេងទៀត។",
     "exampleKhmer": "បច្ចុប្បន្ន​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -8774,7 +8774,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-either",
     "audioPlaceholder": "either",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "នាំមុខពីរ ឬច្រើន ផ្សំពាក្យ ឬឃ្លា និងណែនាំពីជម្រើសមួយ។",
     "exampleKhmer": "ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -8795,7 +8795,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-document",
     "audioPlaceholder": "document",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយឯកសារ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ជា​ឯកសារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -8816,7 +8816,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-works",
     "audioPlaceholder": "works",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការងារ។",
     "exampleKhmer": "នេះគឺជាឧទាហ���ណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ធ្វើការ' ក្នុងប្រយោគមួយ។"
@@ -8837,7 +8837,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-material",
     "audioPlaceholder": "material",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "ទាក់ទងនឹងបញ្ហា ផ្ទុយពីទម្រង់នៃរឿង។ សូមមើលបញ្ហា។",
     "exampleKhmer": "សម្ភារៈត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8858,7 +8858,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-written",
     "audioPlaceholder": "written",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "ទំ.",
     "exampleKhmer": "ការសរសេរត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -8879,7 +8879,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-federal",
     "audioPlaceholder": "federal",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "សូមមើល Federalist ។",
     "exampleKhmer": "សហព័ន្ធត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8900,7 +8900,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-hosting",
     "audioPlaceholder": "hosting",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការធ្វើជាម្ចាស់ផ្ទះ។",
     "exampleKhmer": "នេះជាឧ��ាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បង្ហោះ' ក្នុងប្រយោគមួយ។"
@@ -8921,7 +8921,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-rules",
     "audioPlaceholder": "rules",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងច្បាប់។",
     "exampleKhmer": "ច្បាប់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -8942,7 +8942,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-final",
     "audioPlaceholder": "final",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយចុងក្រោយ។",
     "exampleKhmer": "យើងត្រូវបញ្ចប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -8963,7 +8963,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-adult",
     "audioPlaceholder": "adult",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "ដោយបានមកដល់ភាពពេញវ័យ ឬដល់ទំហំ និងកម្លាំងពេញលេញ។",
     "exampleKhmer": "មនុស្សពេញវ័យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -8984,7 +8984,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-tickets",
     "audioPlaceholder": "tickets",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃសំបុត្រ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សំបុត្រ' ក្នុងប្រយោគមួយ។"
@@ -9005,7 +9005,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-thing",
     "audioPlaceholder": "thing",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "សំលៀកបំពាក់។",
     "exampleKhmer": "រឿង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -9026,7 +9026,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-centre",
     "audioPlaceholder": "centre",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "សូមមើលមជ្ឈមណ្ឌល។",
     "exampleKhmer": "មជ្ឈមណ្ឌល​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -9047,7 +9047,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-cheap",
     "audioPlaceholder": "cheap",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "ការចរចា។",
     "exampleKhmer": "តម្លៃថោកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -9068,7 +9068,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-finance",
     "audioPlaceholder": "finance",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃហិរញ្ញវត្ថុ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ហិរញ្ញវត្ថុ' ក្នុងប្រយោគមួយ។"
@@ -9089,7 +9089,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-minutes",
     "audioPlaceholder": "minutes",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងនាទី។",
     "exampleKhmer": "កំណត់ហេតុត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -9110,7 +9110,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-third",
     "audioPlaceholder": "third",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "សម្លេងទីបីនៃមាត្រដ្ឋាន។",
     "exampleKhmer": "ទី​បី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -9131,7 +9131,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-gifts",
     "audioPlaceholder": "gifts",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយអំណោយ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​អំណោយ​យ៉ាង​ខ្លាំង​ក្នុង​ការ​ពន្យល់​អំពី​ស្ថានភាព។"
@@ -9152,7 +9152,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-europe",
     "audioPlaceholder": "europe",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ភាព​អឺរ៉ុប។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អឺរ៉ុប' ក្នុងប្រយោគមួយ។"
@@ -9173,7 +9173,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-reading",
     "audioPlaceholder": "reading",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក���ទងនឹងការអាន។",
     "exampleKhmer": "ការ​អាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -9194,7 +9194,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-topics",
     "audioPlaceholder": "topics",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងប្រធានបទ។",
     "exampleKhmer": "យើងត្រូវដាក់ប្រធានបទលើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -9215,7 +9215,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-cover",
     "audioPlaceholder": "cover",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "ឈើ​ប្រណិត​ជាដើម ដែល​ជា​ទី​ជំរក និង​បិទបាំង​ល្បែង ។",
     "exampleKhmer": "គម្របត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -9236,7 +9236,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-usually",
     "audioPlaceholder": "usually",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​ធម្មតា​។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជាធម្មតា' ក្នុងប្រយោគមួយ។"
@@ -9257,7 +9257,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-together",
     "audioPlaceholder": "together",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពនៃការទាក់ទងជាមួយគ្នា។",
     "exampleKhmer": "ការរួមគ្នាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -9278,7 +9278,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-videos",
     "audioPlaceholder": "videos",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយវីដេអូ។",
     "exampleKhmer": "យើងត្រូវវីដេអូកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -9299,7 +9299,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-percent",
     "audioPlaceholder": "percent",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយភាគរយ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ភាគ​រយ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -9320,7 +9320,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-function",
     "audioPlaceholder": "function",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "សកម្មភាពសមស្របនៃសរីរាង្គពិសេសណាមួយ ឬផ្នែកនៃសារពាង្គកាយសត្វ ឬបន្លែ។",
     "exampleKhmer": "មុខងារនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -9341,7 +9341,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-getting",
     "audioPlaceholder": "getting",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការទទួល។",
     "exampleKhmer": "ការទទួលបានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -9362,7 +9362,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-global",
     "audioPlaceholder": "global",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយសកល។",
     "exampleKhmer": "យើងត្រូវធ្វើកិច្ចការនេះទូទាំងពិភពលោកឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន។"
@@ -9383,7 +9383,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-economic",
     "audioPlaceholder": "economic",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយសេដ្ឋកិច្ច។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់សេដ្ឋកិច្ចយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -9404,7 +9404,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-player",
     "audioPlaceholder": "player",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​អ្នក​លេង។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អ្នកលេង' ក្នុងប្រយោគមួយ។"
@@ -9425,7 +9425,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-projects",
     "audioPlaceholder": "projects",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងគម្រោង។",
     "exampleKhmer": "គម្រោង​ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -9446,7 +9446,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-lyrics",
     "audioPlaceholder": "lyrics",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយអត្ថបទចម្រៀង។",
     "exampleKhmer": "យើងត្រូវបកស្រាយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -9467,7 +9467,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-often",
     "audioPlaceholder": "often",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "ញឹកញាប់។",
     "exampleKhmer": "ជាញឹកញាប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -9488,7 +9488,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-submit",
     "audioPlaceholder": "submit",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការដាក់ស្នើ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បញ្ជូន' ក្នុងប្រយោគមួយ។"
@@ -9509,7 +9509,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-germany",
     "audioPlaceholder": "germany",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងប្រទេសអាល្លឺម៉ង់។",
     "exampleKhmer": "ប្រទេស​អាល្លឺម៉ង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -9530,7 +9530,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-amount",
     "audioPlaceholder": "amount",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីបញ្ជាក់។",
     "exampleKhmer": "ចំនួនទឹកប្រាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -9551,7 +9551,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-watch",
     "audioPlaceholder": "watch",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "ដើម្បីបម្រើគោលបំណងរបស់អ្នកយាមដោយអណ្តែតឱ្យបានត្រឹមត្រូវនៅកន្លែងរបស់វា។",
     "exampleKhmer": "នាឡិកា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -9572,7 +9572,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-included",
     "audioPlaceholder": "included",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "បិទ។",
     "exampleKhmer": "ការរួមបញ្ចូលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -9593,7 +9593,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-though",
     "audioPlaceholder": "though",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "ការផ្តល់ ទទួលយក ឬសន្មត់ថា។",
     "exampleKhmer": "ទោះ​បី​ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។"
@@ -9614,7 +9614,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-thanks",
     "audioPlaceholder": "thanks",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការអរគុណ។",
     "exampleKhmer": "យើង​ត្រូវ​អរគុណ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -9635,7 +9635,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-deals",
     "audioPlaceholder": "deals",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយកិច្ចព្រមព្រៀង។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងយកចិត្តទុកដាក��អំពីស្ថានភាព។"
@@ -9656,7 +9656,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-various",
     "audioPlaceholder": "various",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ភាព​ខុស​គ្នា​។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្សេងៗ' ក្នុងប្រយោគមួយ។"
@@ -9677,7 +9677,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-words",
     "audioPlaceholder": "words",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅដែលតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងពាក្យ។",
     "exampleKhmer": "ពាក្យនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -9698,7 +9698,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-linux",
     "audioPlaceholder": "linux",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយលីនុច។",
     "exampleKhmer": "យើងត្រូវការលីនុចកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការ។"
@@ -9719,7 +9719,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-james",
     "audioPlaceholder": "james",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយ ជេមស៍។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ពី James អំពី​ស្ថានភាព។"
@@ -9740,7 +9740,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-weight",
     "audioPlaceholder": "weight",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "ភាពធន់នឹងការដ���លម៉ាស៊ីនធ្វើសកម្មភាព ផ្ទុយទៅនឹងថាមពលដែលផ្លាស់ទីវា។",
     "exampleKhmer": "ទម្ងន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -9761,7 +9761,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-heart",
     "audioPlaceholder": "heart",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "សរីរាង្គសាច់ដុំប្រហោង ដែលដោយការកន្ត្រាក់ជាចង្វាក់ ធ្វើឱ្យឈាមរត់បានស្រួល។ ហេតុអ្វីបានជាឈាមរបស់ខ្ញុំប្រមូលផ្តុំយ៉ាងនេះ! សាក់។",
     "exampleKhmer": "បេះដូង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -9782,7 +9782,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-received",
     "audioPlaceholder": "received",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយការទទួល។",
     "exampleKhmer": "យើងត្រូវទទួលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -9803,7 +9803,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-choose",
     "audioPlaceholder": "choose",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយជ្រើសរើស។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជ្រើសរើសពីស្ថានភាព។"
@@ -9824,7 +9824,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-archives",
     "audioPlaceholder": "archives",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ទុក​ជា​ប័ណ្ណសារ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បណ្ណសារ' ក្នុងប្រយោគមួយ។"
@@ -9845,7 +9845,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-points",
     "audioPlaceholder": "points",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងចំណុច។",
     "exampleKhmer": "ចំណុច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -9866,7 +9866,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-magazine",
     "audioPlaceholder": "magazine",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "ដើម្បីរក្សាទុកនៅក្នុង ឬដូចនៅក្នុងទស្សនាវដ្តី។",
     "exampleKhmer": "ទស្សនាវដ្ដី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -9887,7 +9887,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-error",
     "audioPlaceholder": "error",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "ភាពខុសគ្នារវាងលទ្ធផលប្រហាក់ប្រហែល និងលទ្ធផលពិត។",
     "exampleKhmer": "កំហុស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -9908,7 +9908,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-camera",
     "audioPlaceholder": "camera",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "អង្គជំនុំជម្រះ ឬឧបករណ៍ដែលមានអង្គជំនុំជម្រះ។",
     "exampleKhmer": "កាមេរ៉ា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -9929,7 +9929,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-clear",
     "audioPlaceholder": "clear",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "វិសាលភាពពេញលេញ។",
     "exampleKhmer": "ភាពច្បាស់លាស់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -9950,7 +9950,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-receive",
     "audioPlaceholder": "receive",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីវាយបក (បាល់) នៅពេលបម្រើ។",
     "exampleKhmer": "ការទទួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -9971,7 +9971,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-domain",
     "audioPlaceholder": "domain",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "កម្មសិទ្ធិលើដី។",
     "exampleKhmer": "ដែនត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -9992,7 +9992,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-methods",
     "audioPlaceholder": "methods",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃវិធីសាស្រ្ត។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'វិធីសាស្រ្ត' ក្នុងប្រយោគមួយ។"
@@ -10013,7 +10013,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-chapter",
     "audioPlaceholder": "chapter",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងជំ���ូក។",
     "exampleKhmer": "ជំពូក​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -10034,7 +10034,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-makes",
     "audioPlaceholder": "makes",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយការបង្កើត។",
     "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -10055,7 +10055,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-policies",
     "audioPlaceholder": "policies",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយគោលនយោបាយ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​អំពី​គោល​នយោបាយ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -10076,7 +10076,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-beauty",
     "audioPlaceholder": "beauty",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​ស្ទីល​ដែល​ជា​លក្ខណៈ​នៃ​ភាពស្រស់ស្អាត។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សម្រស់' ក្នុងប្រយោគមួយ។"
@@ -10097,7 +10097,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-manager",
     "audioPlaceholder": "manager",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងអ្នកគ្រប់គ្រង។",
     "exampleKhmer": "អ្នកគ្រប់គ្រងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10118,7 +10118,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-india",
     "audioPlaceholder": "india",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "ប្រទេសមួយនៅអាស៊ីខាងត្បូង។",
     "exampleKhmer": "ឥណ្ឌា​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -10139,7 +10139,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-position",
     "audioPlaceholder": "position",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "វិធីសាស្រ្តនៃការដោះស្រាយបញ្ហាដោយការសន្មត់មួយឬពីរ។",
     "exampleKhmer": "មុខតំណែងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -10160,7 +10160,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-taken",
     "audioPlaceholder": "taken",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "ទំ.",
     "exampleKhmer": "ការ​យក​មក​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -10181,7 +10181,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-listings",
     "audioPlaceholder": "listings",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការចុះបញ្ជី។",
     "exampleKhmer": "បញ្ជីរាយនាមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10202,7 +10202,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-models",
     "audioPlaceholder": "models",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្ន���ងដំណើរការដែលភ្ជាប់ជាមួយគំរូ។",
     "exampleKhmer": "យើងត្រូវធ្វើគំរូកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -10223,7 +10223,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-michael",
     "audioPlaceholder": "michael",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយ ម៉ៃឃើល ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងខ្លាំងពីលោក Michael អំពីស្ថានភាព។"
@@ -10244,7 +10244,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-known",
     "audioPlaceholder": "known",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "នៃដឹង។",
     "exampleKhmer": "អ្នក​ស្គាល់​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -10265,7 +10265,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-cases",
     "audioPlaceholder": "cases",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងករណី។",
     "exampleKhmer": "ករណី​ទាំង​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -10286,7 +10286,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-florida",
     "audioPlaceholder": "florida",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងរដ្ឋផ្លរីដា។",
     "exampleKhmer": "យើងត្រូវបំពេញកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីសម្រេចបាននូវវឌ្ឍនភាព។"
@@ -10307,7 +10307,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-simple",
     "audioPlaceholder": "simple",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "sports",
     "meaningKhmer": "ដោយគ្មានការបែងចែក។",
     "exampleKhmer": "ភាពសាមញ្ញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -10328,7 +10328,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-quick",
     "audioPlaceholder": "quick",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "nature",
     "meaningKhmer": "ក្នុងលក្ខណៈរហ័ស។",
     "exampleKhmer": "រហ័សត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលម��ញ។"
@@ -10349,7 +10349,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-wireless",
     "audioPlaceholder": "wireless",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "daily-conversation",
     "meaningKhmer": "ដោយមិនមានខ្សែ។",
     "exampleKhmer": "ឥតខ្សែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10370,7 +10370,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-license",
     "audioPlaceholder": "license",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "family",
     "meaningKhmer": "អនុញ្ញាត ឬអនុញ្ញាតដោយអាជ្ញាបណ្ណ។",
     "exampleKhmer": "អាជ្ញាប័ណ្ណ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -10391,7 +10391,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-friday",
     "audioPlaceholder": "friday",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "food",
     "meaningKhmer": "ថ្ងៃទីប្រាំមួយនៃសប្តាហ៍បន្ទាប់ពីថ្ងៃព្រហស្បតិ៍និងថ្ងៃសៅរ៍មុន។",
     "exampleKhmer": "ថ្ងៃសុក្រត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10412,7 +10412,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-whole",
     "audioPlaceholder": "whole",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការទាំងមូល។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប���រើពាក្យ 'ទាំងមូល' ក្នុងប្រយោគមួយ។"
@@ -10433,7 +10433,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-annual",
     "audioPlaceholder": "annual",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "school",
     "meaningKhmer": "អភិបូជា​ស��្រាប់​បុគ្គល​ដែល​បាន​ស្លាប់ ឬ​សម្រាប់​វត្ថុ​ពិសេស​មួយ​ចំនួន ដែល​បាន​និយាយ​ជា​រៀងរាល់​ថ្ងៃ​សម្រាប់​មួយ​ឆ្នាំ ឬ​ក្នុង​ថ្ងៃ​គម្រប់​ខួប។",
     "exampleKhmer": "ប្រចាំឆ្នាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10454,7 +10454,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-later",
     "audioPlaceholder": "later",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "travel",
     "meaningKhmer": "ឥដ្ឋឬក្បឿង។",
     "exampleKhmer": "ក្រោយ​មក​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -10475,7 +10475,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-basic",
     "audioPlaceholder": "basic",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "business",
     "meaningKhmer": "និយាយពីថ្មគ្រីស្តាល់ដែលមានភាគរយទាបនៃស៊ីលីកា ដូចជា basalt ។",
     "exampleKhmer": "មូលដ្ឋានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10496,7 +10496,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-shows",
     "audioPlaceholder": "shows",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការបង្ហាញ។",
     "exampleKhmer": "នេះជាឧទាហ��ណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បង្ហាញ' ក្នុងប្រយោគមួយ។"
@@ -10517,7 +10517,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-google",
     "audioPlaceholder": "google",
-    "difficulty": "intermediate",
+    "difficulty": "B1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹង Google ។",
     "exampleKhmer": "ហ្គូហ្គោលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10538,7 +10538,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-church",
     "audioPlaceholder": "church",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីប្រទានពរតាមទម្រង់ដែលបានកំណត់ ឬដើម្បីរួបរួមជាមួយនឹងការអរព្រះគុណជាសាធារណៈនៅក្នុងព្រះវិហារ ដូចជាបន្ទាប់ពីការរំដោះពីគ្រោះថ្នាក់នៃការសម្រាលកូន។",
     "exampleKhmer": "ព្រះវិហារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10559,7 +10559,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-method",
     "audioPlaceholder": "method",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "ចំណាត់ថ្នាក់។",
     "exampleKhmer": "វិធីសាស្ត្រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -10580,7 +10580,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-purchase",
     "audioPlaceholder": "purchase",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "ការទិញយកដី ឬផ្ទះជួលដោយមធ្យោបាយផ្សេងក្រៅពីមរតកពីអ្នកបន្តពូជ ពោលគឺដោយទង្វើ ឬកិច្ចព្រមព្��ៀងផ្ទាល់ខ្លួន។",
     "exampleKhmer": "ការទិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ"
@@ -10601,7 +10601,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-active",
     "audioPlaceholder": "active",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសកម្ម។",
     "exampleKhmer": "សកម្មត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10622,7 +10622,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-response",
     "audioPlaceholder": "response",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការឆ្លើយតប។",
     "exampleKhmer": "យើងត្រូវឆ្លើយតបនឹងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -10643,7 +10643,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-practice",
     "audioPlaceholder": "practice",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "វិធីសាស្រ្តងាយស្រួល និងសង្ខេបនៃការអនុវត្តច្បាប់នៃសំណួរនព្វន្ធដែលកើតឡើងក្នុងពាណិជ្ជកម្ម និងអាជីវកម្ម។",
     "exampleKhmer": "ការអនុវត្តត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -10664,7 +10664,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-hardware",
     "audioPlaceholder": "hardware",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "គ្រឿងធ្វើពីដែក ប្រដាប់ប្រដាប្រើប្រាស់ក្នុងផ្ទះបាយ និងផ្សេងៗទៀត។",
     "exampleKhmer": "ផ្នែករឹងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10685,7 +10685,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-figure",
     "audioPlaceholder": "figure",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "ដ្យាក្រាមឬគំនូរ។",
     "exampleKhmer": "តួ​លេខ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -10706,7 +10706,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-holiday",
     "audioPlaceholder": "holiday",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ថ្ងៃកំណត់ដោយច្បាប់សម្រាប់ការផ្អាកអាជីវកម្ម។",
     "exampleKhmer": "ថ្ងៃឈប់សម្រាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10727,7 +10727,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-enough",
     "audioPlaceholder": "enough",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "បំណងប្រាថ្នាពេញចិត្ត។",
     "exampleKhmer": "គ្រប់គ្រាន់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10748,7 +10748,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-designed",
     "audioPlaceholder": "designed",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការរចនា។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រចនា' ក្នុងប្រយោគមួយ។"
@@ -10769,7 +10769,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-along",
     "audioPlaceholder": "along",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "ដោយប្រវែងនៃ, ដូចដែលបានសម្គាល់ពី��ូទាំង។",
     "exampleKhmer": "ជាមួយគ្នានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -10790,7 +10790,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-among",
     "audioPlaceholder": "among",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយក្នុងចំណោម។",
     "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -10811,7 +10811,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-death",
     "audioPlaceholder": "death",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "ការបាត់បង់ជីវិតខាងវិញ្ញាណ។",
     "exampleKhmer": "ការ​ស្លាប់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -10832,7 +10832,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-writing",
     "audioPlaceholder": "writing",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការសរសេរ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សរសេរ' ក្នុងប្រយោគមួយ។"
@@ -10853,7 +10853,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-speed",
     "audioPlaceholder": "speed",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងល្បឿន។",
     "exampleKhmer": "ល្បឿនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10874,7 +10874,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-brand",
     "audioPlaceholder": "brand",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ផ្សិតនាទីណាមួ���ដែលបង្កើតរូបរាងឆេះនៅក្នុងរុក្ខជាតិ។ ម៉ាកមានច្រើនប្រភេទ និងប្រភេទជាច្រើននៃលំដាប់Pucciniæi។",
     "exampleKhmer": "ម៉ាកនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10895,7 +10895,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-discount",
     "audioPlaceholder": "discount",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "ផ្តល់ប្រាក់កម្ចី ឬអនុវត្តការខ្ចីប្រាក់ កាត់បន្ថយការបញ្ចុះតម្លៃ។",
     "exampleKhmer": "ការបញ្ចុះតម្លៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -10916,7 +10916,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-higher",
     "audioPlaceholder": "higher",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​ស្ទីល​ដែល​មាន​លក្ខណៈ​ខ្ពស់​ជាង។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ខ្ពស់ជាង' ក្នុងប្រយោគមួយ។"
@@ -10937,7 +10937,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-effects",
     "audioPlaceholder": "effects",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងឥទ្ធិពល។",
     "exampleKhmer": "ផល​ប៉ះពាល់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -10958,7 +10958,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-created",
     "audioPlaceholder": "created",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយការបង្កើត។",
     "exampleKhmer": "យើងត្រូវបង្កើតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -10979,7 +10979,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-remember",
     "audioPlaceholder": "remember",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ដើម្បីអនុវត្តឬមានថាមពលនៃការចងចាំ។",
     "exampleKhmer": "ការចងចាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -11000,7 +11000,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-yellow",
     "audioPlaceholder": "yellow",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "មានពណ៌ភ្លឺដូចផ្កាឈូករ័ត្ន។",
     "exampleKhmer": "ពណ៌លឿងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -11021,7 +11021,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-increase",
     "audioPlaceholder": "increase",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "ដើម្បីកាន់តែជិតពេញ។",
     "exampleKhmer": "ការកើនឡើងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -11042,7 +11042,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-kingdom",
     "audioPlaceholder": "kingdom",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងនគរ។",
     "exampleKhmer": "យើងត្រូវគ្រប់គ្រងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -11063,7 +11063,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-thought",
     "audioPlaceholder": "thought",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "Imp",
     "exampleKhmer": "គំនិតនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -11084,7 +11084,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-stuff",
     "audioPlaceholder": "stuff",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "ម៉ាស់រលាយនៃ turpentine, tallow, ល, ជាមួយនឹង themasts, ភាគី, និងបាតនៃកប៉ាល់មួយត្រូវបាន smeared សម្រាប់ប្រេងរំអិល។",
     "exampleKhmer": "វត្ថុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -11105,7 +11105,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-french",
     "audioPlaceholder": "french",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "នៃ ឬពាក់ព័ន្ធនឹងប្រទេសបារាំង ឬប្រជាជនរបស់ខ្លួន។",
     "exampleKhmer": "ភាសាបារាំងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -11126,7 +11126,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-storage",
     "audioPlaceholder": "storage",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការផ្ទុក។",
     "exampleKhmer": "យើងត្រូវរក្សាទុកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -11147,7 +11147,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-japan",
     "audioPlaceholder": "japan",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "ការងារលាបពណ៌ និងរចនាតាមបែបជប៉ុន។",
     "exampleKhmer": "ជប៉ុន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -11168,7 +11168,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-doing",
     "audioPlaceholder": "doing",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "អ្វី​ដែល​បាន​ធ្វើ។",
     "exampleKhmer": "ការ​ធ្វើ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្��ិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -11189,7 +11189,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-loans",
     "audioPlaceholder": "loans",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងប្រាក់កម្ចី។",
     "exampleKhmer": "ប្រាក់​កម្ចី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -11210,7 +11210,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-shoes",
     "audioPlaceholder": "shoes",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាពឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងស្បែកជើង។",
     "exampleKhmer": "យើងត្រូវធ្វើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -11231,7 +11231,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-entry",
     "audioPlaceholder": "entry",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ការតាំងពិព័រណ៌ ឬការតម្កល់ឯកសាររបស់កប៉ាល់នៅឯផ្ទះទម្លាប់ ដើម្បីទទួលបា���អាជ្ញាប័ណ្ណសម្រាប់ទំនិញនៅលើគោក។",
     "exampleKhmer": "ធាតុនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -11252,7 +11252,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-nature",
     "audioPlaceholder": "nature",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "ដើម្បីទទួលបានគុណសម្បតិ្តធម្មជាតិ។",
     "exampleKhmer": "ធម្មជាតិ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -11273,7 +11273,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-orders",
     "audioPlaceholder": "orders",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការបញ្ជា។",
     "exampleKhmer": "ការបញ្ជាទិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -11294,7 +11294,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-africa",
     "audioPlaceholder": "africa",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយអាហ្វ្រិក។",
     "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ក្នុង​ទ្វីប​អាហ្វ្រិក​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -11315,7 +11315,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-summary",
     "audioPlaceholder": "summary",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "សេចក្តីថ្លែងការណ៍ទូទៅ ឬទូលំទូលាយ។",
     "exampleKhmer": "សេចក្ដី​សង្ខេប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -11336,7 +11336,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-growth",
     "audioPlaceholder": "growth",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការរីកលូតលាស់។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កំណើន' ក្នុងប្រយោគមួយ។"
@@ -11357,7 +11357,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-notes",
     "audioPlaceholder": "notes",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅដែលតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងកំណត់ចំណាំ។",
     "exampleKhmer": "កំណត់ចំណាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -11378,7 +11378,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-agency",
     "audioPlaceholder": "agency",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយភ្នាក់ងារ។",
     "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -11399,7 +11399,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-monday",
     "audioPlaceholder": "monday",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "ថ្ងៃទីពីរនៃសប្តាហ៍។",
     "exampleKhmer": "ថ្ងៃច័ន្ទត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -11420,7 +11420,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-european",
     "audioPlaceholder": "european",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងអឺរ៉ុប ឬអ្នករស់នៅរបស់វា។",
     "exampleKhmer": "អឺរ៉ុប​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -11441,7 +11441,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-activity",
     "audioPlaceholder": "activity",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "ស្ថានភាព ឬគុណភាពនៃការសកម្ម។",
     "exampleKhmer": "សកម្មភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -11462,7 +11462,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-although",
     "audioPlaceholder": "although",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ផ្តល់អ្វីៗទាំងអស់នេះ។",
     "exampleKhmer": "ទោះបីជាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញក៏ដោយ។"
@@ -11483,7 +11483,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-western",
     "audioPlaceholder": "western",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយលោកខាងលិច។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីលោកខាងលិចអំពីស្ថានភាព។"
@@ -11504,7 +11504,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-income",
     "audioPlaceholder": "income",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "អ្វី​ដែល​គេ​យក​ទៅ​ក្នុង​ខ្លួន​ជា​អាហារ។",
     "exampleKhmer": "ប្រាក់​ចំណូល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -11525,7 +11525,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-force",
     "audioPlaceholder": "force",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "ទៅវត្ថុ។",
     "exampleKhmer": "កម្លាំង​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -11546,7 +11546,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-overall",
     "audioPlaceholder": "overall",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "គ្រប់ទីកន្លែង។",
     "exampleKhmer": "សរុប​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -11567,7 +11567,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-river",
     "audioPlaceholder": "river",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "ម្នាក់​ដែល​ត្រូវ​បាន​បំបែក​ឬ​បំបែក​។",
     "exampleKhmer": "ទន្លេ​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -11588,7 +11588,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-package",
     "audioPlaceholder": "package",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃកញ្ចប់។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កញ្ចប់' ក្នុងប្រយោគមួយ។"
@@ -11609,7 +11609,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-contents",
     "audioPlaceholder": "contents",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "មើលមាតិកា, ន។",
     "exampleKhmer": "ខ្លឹមសារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -11630,7 +11630,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-players",
     "audioPlaceholder": "players",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយអ្នកលេង។",
     "exampleKhmer": "យើងត្រូវឱ្យអ្នកលេងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -11651,7 +11651,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-engine",
     "audioPlaceholder": "engine",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "ម៉ាស៊ីនផ្សំដែលថាមពលរូបវន្តណាមួយត្រូវបានអនុវត្ត ដើម្បីបង្កើតឥទ្ធិពលរាងកាយដែលបានផ្តល់ឱ្យ។",
     "exampleKhmer": "ម៉ាស៊ីននេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -11672,7 +11672,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-album",
     "audioPlaceholder": "album",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "ថេប្លេត​ពណ៌​ស​ដែល​ត្រូវ​បាន​ចារឹក​ជា​បញ្ជី​ឈ្មោះ។ល។",
     "exampleKhmer": "អាល់ប៊ុមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -11693,7 +11693,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-regional",
     "audioPlaceholder": "regional",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងតំបន់ជាក់លាក់មួយ។",
     "exampleKhmer": "ថ្នាក់​តំបន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -11714,7 +11714,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-supplies",
     "audioPlaceholder": "supplies",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការផ្គត់ផ្គង់។",
     "exampleKhmer": "យើងត្រូវផ្គត់ផ្គង់កិច្ចកា���នេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -11735,7 +11735,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-started",
     "audioPlaceholder": "started",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការចាប់ផ្តើម។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ចាប់​ផ្តើម​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -11756,7 +11756,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-views",
     "audioPlaceholder": "views",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃទិដ្ឋភាព។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ទិដ្ឋភាព' ក្នុងប្រយោគមួយ។"
@@ -11777,7 +11777,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-plans",
     "audioPlaceholder": "plans",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងផែនការ។",
     "exampleKhmer": "ផែនការត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -11798,7 +11798,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-double",
     "audioPlaceholder": "double",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ការមានផ្កានៅក្នុងផ្កាកើនឡើងគួរឱ្យកត់សម្គាល់លើសពីចំនួនធម្មជាតិ ដែលជាធម្មតាជាលទ្ធផលនៃការដាំដុះ និងការចំណាយនៃ stamens ឬ stamens និង pistils ។",
     "exampleKhmer": "ពីរ​នាក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -11819,7 +11819,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-build",
     "audioPlaceholder": "build",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "ទម្រង់ឬទម្រង់នៃការសាងសង់។",
     "exampleKhmer": "ការស្ថាបនានេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់រៀនកាលពីម្សិលមិញ។"
@@ -11840,7 +11840,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-screen",
     "audioPlaceholder": "screen",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "ជញ្ជាំង​មនុស្សតឿ ឬ​ភាគថាស​មាន​ការ​បំបែក​កម្ពស់​ជាក់លាក់​មួយ និង​ការ​ការពារ ដូចជា​នៅ​ក្នុង​ព្រះវិហារ ដើម្បី​បំបែក​ច្រកផ្លូវ​ពី​ក្រុម​ចម្រៀង ឬ​ក៏​ដូច​គ្នា​ដែរ។",
     "exampleKhmer": "អេក្រង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -11861,7 +11861,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-exchange",
     "audioPlaceholder": "exchange",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "ដំណើរការនៃការកំណត់គណនី ឬបំណុលរវាងភាគីដែលរស់នៅចម្ងាយឆ្ងាយពីគ្នាទៅវិញទៅមក ដោយគ្មានការជ្រៀតជ្រែកពីប្រាក់ ដោយការផ្លាស់ប្តូរការបញ្ជាទិញ ឬសេចក្តីព្រាង ហៅថា វិក្កយបត្រប្តូរប្រាក់។ ទាំងនេះអាចត្រូវបានទាញនៅក្នុងប្រទេសមួយ ហើយត្រូវបង់ក្នុងប្រទេសមួយទៀត ដែលក្នុងនោះគេហៅថា វិក័យប័ត្របរទេស។",
     "exampleKhmer": "ការផ្លាស់ប្តូរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -11882,7 +11882,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-types",
     "audioPlaceholder": "types",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងប្រភេទ។",
     "exampleKhmer": "យើងត្រូវវាយបញ្ចូលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -11903,7 +11903,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-lines",
     "audioPlaceholder": "lines",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយបន្ទាត់។",
     "exampleKhmer": "នាង​បាន​ពន្យល់​យ៉ាង​ច្បាស់​អំពី​ស្ថានភាព។"
@@ -11924,7 +11924,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-continue",
     "audioPlaceholder": "continue",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការបន្ត។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បន្ត' ក្នុងប្រយោគមួយ។"
@@ -11945,7 +11945,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-across",
     "audioPlaceholder": "across",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "ពីចំហៀងទៅម្ខាង។",
     "exampleKhmer": "ជុំវិញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -11966,7 +11966,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-benefits",
     "audioPlaceholder": "benefits",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬច���លរួមក្នុងដំណើរការដែលទាក់ទងនឹងអត្ថប្រយោជន៍។",
     "exampleKhmer": "យើងត្រូវផ្តល់អត្ថប្រយោជន៍ដល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -11987,7 +11987,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-needed",
     "audioPlaceholder": "needed",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយតម្រូវការ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលត្រូវការយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -12008,7 +12008,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-season",
     "audioPlaceholder": "season",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃរដូវកាល។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រដូវ' ក្នុងប្រយោគមួយ។"
@@ -12029,7 +12029,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-apply",
     "audioPlaceholder": "apply",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការអនុវត្តន៍។",
     "exampleKhmer": "ការ​ដាក់​ពាក្យ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -12050,7 +12050,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-someone",
     "audioPlaceholder": "someone",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយនរណាម្នាក់។",
     "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​នរណា​ម្នាក់​ធ្វើ​ការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន​។"
@@ -12071,7 +12071,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-anything",
     "audioPlaceholder": "anything",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "នៅក្នុងវិធានការណាមួយ។",
     "exampleKhmer": "អ្វី​ៗ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12092,7 +12092,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-printer",
     "audioPlaceholder": "printer",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "អ្នកដែលបោះពុម្ព។",
     "exampleKhmer": "ម៉ាស៊ីនបោះពុម្ពត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -12113,7 +12113,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-believe",
     "audioPlaceholder": "believe",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីអនុវត្តជំនឿលើ។",
     "exampleKhmer": "ជំនឿត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -12134,7 +12134,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-effect",
     "audioPlaceholder": "effect",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ទំនិញ។",
     "exampleKhmer": "ឥទ្ធិពល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12155,7 +12155,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-asked",
     "audioPlaceholder": "asked",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយការសួរ។",
     "exampleKhmer": "នាងបានផ្ដល់ការពន្យល់សួរយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -12176,7 +12176,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-sunday",
     "audioPlaceholder": "sunday",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "ថ្ងៃដំបូងនៃសប្តាហ៍ - ឧទ្ទិសក្នុងចំណោមពួកគ្រីស្ទាន ដកខ្លួនចេញពីការងារខាងលោកិយ និងដល់ការថ្វាយបង្���ំសាសនា។",
     "exampleKhmer": "ថ្ងៃអាទិត្យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -12197,7 +12197,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-casino",
     "audioPlaceholder": "casino",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកាស៊ីណូ។",
     "exampleKhmer": "កាស៊ីណូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -12218,7 +12218,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-volume",
     "audioPlaceholder": "volume",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "បរិមាណ ភាពពេញលេញ បរិមាណ ឬកម្រិតសំឡេង ឬសម្លេង។",
     "exampleKhmer": "បរិមាណត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -12239,7 +12239,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-cross",
     "audioPlaceholder": "cross",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "វិមាន​ក្នុង​ទម្រង់​ជា​ឈើ​ឆ្កាង ឬ​ឡើង​លើ​ឈើ​ឆ្កាង តាំង​នៅ​ទី​សាធារណៈ។",
     "exampleKhmer": "ឈើឆ្កាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12260,7 +12260,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-anyone",
     "audioPlaceholder": "anyone",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "មួយ​យក​ដោយ​ចៃដន្យ ជាជាង​ការ​ជ្រើសរើស។",
     "exampleKhmer": "នរណាម្នាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -12281,7 +12281,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-mortgage",
     "audioPlaceholder": "mortgage",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "ការដឹកជញ្ជូនទ្រព្យសម្បត្តិ តាមលក្ខខណ្ឌ ជាសន្តិសុខសម្រាប់ការសងបំណុល ឬការអនុលោមតាមកាតព្វកិច្ច និងក្លាយជាមោឃៈនៅពេលការទូទាត់ ឬការអនុវត្តតាមលក្ខខណ្ឌដែលបានកំណត់។",
     "exampleKhmer": "ការបញ្ចាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -12302,7 +12302,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-silver",
     "audioPlaceholder": "silver",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ធាតុលោហធាតុពណ៌សទន់, sonorous, ductile, verymalleable, និងមានសមត្ថភាពនៃការប៉ូឡូញកម្រិតខ្ពស់។",
     "exampleKhmer": "ប្រាក់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -12323,7 +12323,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-inside",
     "audioPlaceholder": "inside",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "នៅក្នុងជ្រុងនៃ។",
     "exampleKhmer": "ផ្នែកខាងក្នុងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -12344,7 +12344,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-solution",
     "audioPlaceholder": "solution",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "សកម្មភាព ឬដំណើរការដែលរាងកាយ (មិនថារឹង រាវ សរីរាង្គ) ត្រូវបានស្រូបចូលទៅក្នុងអង្គធាតុរាវ ហើយនៅសល់ ឬក្លាយជាសារធាតុរាវ ត្រូវបានសាយភាយពាសពេញសារធាតុរំលាយ។",
     "exampleKhmer": "ដំណោះ​ស្រាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។"
@@ -12365,7 +12365,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-mature",
     "audioPlaceholder": "mature",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "ដើម្បី​នាំ​ឬ​ប្រញាប់​ទៅ​ដល់​កាល​កំណត់​។",
     "exampleKhmer": "ចាស់ទុំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -12386,7 +12386,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-rather",
     "audioPlaceholder": "rather",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "មុន។",
     "exampleKhmer": "ជាជាងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -12407,7 +12407,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-weeks",
     "audioPlaceholder": "weeks",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយសប្តាហ៍។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ជាច្រើនសប្តាហ៍អំ��ីស្ថានភាព។"
@@ -12428,7 +12428,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-addition",
     "audioPlaceholder": "addition",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "ផ្នែកនព្វន្ធដែលព្យាបាលការបូកលេខ។",
     "exampleKhmer": "ការបន្ថែមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -12449,7 +12449,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-supply",
     "audioPlaceholder": "supply",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "បម្រើដើម្បីផ្ទុក ចែកចាយ ឬគ្រប់គ្រងការផ្គត់ផ្គង់អ្វីមួយ។",
     "exampleKhmer": "ការ​ផ្គត់ផ្គង់​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -12470,7 +12470,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-nothing",
     "audioPlaceholder": "nothing",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "លេខសម្ងាត់មួយ។",
     "exampleKhmer": "គ្មានអ្វីត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -12491,7 +12491,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-certain",
     "audioPlaceholder": "certain",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ពិតប្រាកដ។",
     "exampleKhmer": "អ្វី​ដែល​ជាក់លាក់​ត្រូវ​បា��​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12512,7 +12512,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-running",
     "audioPlaceholder": "running",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "ពង្រីក​ដោយ​ការ​ឡើង​ចុះ ឬ​តាម​ដើម​ស្ដើង។",
     "exampleKhmer": "ការរត់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -12533,7 +12533,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-lower",
     "audioPlaceholder": "lower",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "ប្រៀបធៀប។",
     "exampleKhmer": "ថ្នាក់​ក្រោម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12554,7 +12554,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-union",
     "audioPlaceholder": "union",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ការតភ្ជាប់ ឬការតភ្ជាប់ផ្សេងទៀតដែលបង្រួបបង្រួមផ្នែកនៃគ្រឿងម៉ាស៊ីន ឬដូចគ្នានេះ ជាបំពង់យឺតនៃការដេញថ្លៃដែលភ្ជាប់វាជាមួយនឹងបំពង់ចំណីរបស់ម៉ាស៊ីនក្បាលរថភ្លើង។",
     "exampleKhmer": "សហជីព​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -12575,7 +12575,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-jewelry",
     "audioPlaceholder": "jewelry",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយគ្រឿងអលង្ការ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់អំពីគ្រឿងអលង្ការយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -12596,7 +12596,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-clothing",
     "audioPlaceholder": "clothing",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "សូមមើលសម្លៀកបំពាក់កាត នៅក្រោមកាត 3d ។",
     "exampleKhmer": "សម្លៀក​បំពាក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12617,7 +12617,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-names",
     "audioPlaceholder": "names",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងឈ្មោះ។",
     "exampleKhmer": "ឈ្មោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12638,7 +12638,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-robert",
     "audioPlaceholder": "robert",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "សូមមើល Herb Robert នៅក្រោម Herb ។",
     "exampleKhmer": "រ៉ូបឺត​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12659,7 +12659,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-homepage",
     "audioPlaceholder": "homepage",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយគេហទំព័រ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​នៅ​ទំព័រ​ដើម​អំពី​ស្ថានភាព។"
@@ -12680,7 +12680,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-skills",
     "audioPlaceholder": "skills",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬស្ទីលដែលជាលក្ខណៈនៃជំនាញ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជំនាញ' ក្នុងប្រយោគមួយ។"
@@ -12701,7 +12701,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-islands",
     "audioPlaceholder": "islands",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកោះ។",
     "exampleKhmer": "កោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -12722,7 +12722,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-advice",
     "audioPlaceholder": "advice",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ការប្រឹក្��ាដើម្បីអនុវត្តអំពើខុសច្បាប់ជាក់លាក់មួយ។",
     "exampleKhmer": "ដំបូន្មាន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12743,7 +12743,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-career",
     "audioPlaceholder": "career",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ការប្រយុទ្ធរបស់សត្វស្ទាំង។",
     "exampleKhmer": "អាជីព​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -12764,7 +12764,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-military",
     "audioPlaceholder": "military",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "សាកសពទាហានទាំងមូល។",
     "exampleKhmer": "យោធា​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្��ាក់​កាលពី​ម្សិលមិញ។"
@@ -12785,7 +12785,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-rental",
     "audioPlaceholder": "rental",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការជួល។",
     "exampleKhmer": "ការជួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -12806,7 +12806,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-decision",
     "audioPlaceholder": "decision",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការសម្រេចចិត្ត។",
     "exampleKhmer": "យើងត្រូវសម្រេចកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -12827,7 +12827,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-leave",
     "audioPlaceholder": "leave",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "ដើម្បីផ្ញើស្លឹក។",
     "exampleKhmer": "ការឈប់សម្រាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -12848,7 +12848,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-british",
     "audioPlaceholder": "british",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងចក្រភពអង់គ្លេស ឬប្រជាជនរបស់ខ្លួន។",
     "exampleKhmer": "ជនជាតិ​អង់គ្លេស​ត្���ូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12869,7 +12869,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-teens",
     "audioPlaceholder": "teens",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "ឆ្នាំនៃអាយុរបស់មនុស្សម្នាក់មានការបញ្ចប់ -teen ចាប់ផ្តើមដោយដប់បីនិងបញ្ចប់ដោយដប់ប្រាំបួន។",
     "exampleKhmer": "ក្មេងជំទង់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -12890,7 +12890,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-woman",
     "audioPlaceholder": "woman",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ភាពជាស្ត្រី។",
     "exampleKhmer": "ស្ត្រី​រូប​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -12911,7 +12911,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-sellers",
     "audioPlaceholder": "sellers",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយអ្នកលក់។",
     "exampleKhmer": "នាងបានពន្យល់អ្នកលក់យ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -12932,7 +12932,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-middle",
     "audioPlaceholder": "middle",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "ចំនុច ឬផ្នែកដែលនៅឆ្ងាយពីចុងអវយវៈ ឬដែនកំណ���់ខាងក្រៅ ដូចជាបន្ទាត់ ផ្ទៃ ឬរឹង។",
     "exampleKhmer": "ថ��នាក់កណ្តាលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -12953,7 +12953,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-cable",
     "audioPlaceholder": "cable",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "ការ​បង្កើត​រាង​រាង​ជ្រុង​នៃ​ជួរ​ឈរ ឬ​សមាជិក​ផ្សេង​ទៀត​នៃ​ផ្នែក​រាង​មូល ដែល​ធ្វើ​ឡើង​ដើម្បី​ស្រដៀង​នឹង​ការ​បង្វិល​ខ្សែ​ពួរ។",
     "exampleKhmer": "ខ្សែនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -12974,7 +12974,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-taking",
     "audioPlaceholder": "taking",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការទទួលយក។",
     "exampleKhmer": "យើងត្រូវទទួលយកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -12995,7 +12995,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-values",
     "audioPlaceholder": "values",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយគុណតម្លៃ���",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដ៏មានតម្លៃបំផុតអំពីស្ថានភាព។"
@@ -13016,7 +13016,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-division",
     "audioPlaceholder": "division",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "ដំណើរការនៃការស្វែងរកចំនួនដង ឬបរិមាណមួយមាននៅក្នុងមួយផ្សេងទៀត។",
     "exampleKhmer": "ការបែងចែកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13037,7 +13037,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-coming",
     "audioPlaceholder": "coming",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការមកដល់។",
     "exampleKhmer": "ការ​មក​ដល់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -13058,7 +13058,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-tuesday",
     "audioPlaceholder": "tuesday",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ថ្ងៃទីបីនៃសប្តាហ៍បន្ទាប់ពីថ្ងៃចន្ទ និងថ្ងៃពុធមុន។",
     "exampleKhmer": "ថ្ងៃអង្គារត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13079,7 +13079,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-object",
     "audioPlaceholder": "object",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "ធ្វើ​ការ​ប្រឆាំង​ដោយ​ពាក្យ​សម្ដី​ឬ​ការ​ប្រកែក។",
     "exampleKhmer": "វត្ថុ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -13100,7 +13100,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-lesbian",
     "audioPlaceholder": "lesbian",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងកោះដែលពីបុរាណហៅថា Lesbos, ឥឡូវនេះMitylene នៅក្នុងប្រជុំកោះ Grecian ។",
     "exampleKhmer": "ស្ត្រីស្រឡាញ់ភេទដូចគ្នាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13121,7 +13121,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-machine",
     "audioPlaceholder": "machine",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "ជាកម្មវត្ថុនៃសកម្មភាពរបស់ម៉ាស៊ីន។",
     "exampleKhmer": "ម៉ាស៊ីន​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -13142,7 +13142,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-length",
     "audioPlaceholder": "length",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ដើម្បីពង្រីក។",
     "exampleKhmer": "រយៈពេល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -13163,7 +13163,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-actually",
     "audioPlaceholder": "actually",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយការពិត។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងពិតប្រាកដអំ��ីស្ថានភាព។"
@@ -13184,7 +13184,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-score",
     "audioPlaceholder": "score",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "សេចក្តីព្រាងច្បាប់ដើម និងទាំងមូល ឬប្រតិចារឹករបស់វា នៃការផ្សំជាមួយនឹងផ្នែកសម្រាប់ឧបករណ៍ផ្សេងៗ ឬស��ឡេងដែលសរសេរនៅលើជើងឈើមួយពីលើមួយទៀត ដូច្នេះពួកគេអាចអានបានមួយភ្លែត។",
     "exampleKhmer": "ពិន្ទុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -13205,7 +13205,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-client",
     "audioPlaceholder": "client",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "ពលរដ្ឋ​ដែល​ដាក់​ខ្លួន​ឲ្យ​ស្ថិត​ក្រោម​ការ​ការពារ​របស់​បុរស​ដែល​មាន​ភាព​ខុស​ប្លែក​ពី​គេ និង​ឥទ្ធិពល​ដែល​គេ​ហៅ​ថា​អ្នក​គាំទ្រ​របស់​គាត់។",
     "exampleKhmer": "អតិថិជនត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -13226,7 +13226,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-returns",
     "audioPlaceholder": "returns",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការត្រឡប់មកវិញ។",
     "exampleKhmer": "យើងត្រូវប្រគល់កិច្ចការនេះវិញឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -13247,7 +13247,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-capital",
     "audioPlaceholder": "capital",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ក្បាល ឬ​សមាជិក​ខាង​លើ​បំផុត​នៃ​ជួរ​ឈរ, pilaster ។ល។",
     "exampleKhmer": "រាជធានី​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -13268,7 +13268,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-follow",
     "audioPlaceholder": "follow",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "ទៅឬមកក្រោយ។",
     "exampleKhmer": "ខាងក្រោមនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -13289,7 +13289,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-sample",
     "audioPlaceholder": "sample",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងគំរូ។",
     "exampleKhmer": "គំរូត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13310,7 +13310,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-shown",
     "audioPlaceholder": "shown",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ទំ.",
     "exampleKhmer": "ការបង្ហាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13331,7 +13331,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-saturday",
     "audioPlaceholder": "saturday",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "ថ្ងៃទីប្រាំពីរឬថ្ងៃចុងក្រោយនៃសប្តាហ៍។",
     "exampleKhmer": "ថ្ងៃសៅរ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13352,7 +13352,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-england",
     "audioPlaceholder": "england",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​ន���​ប្រទេស​អង់គ្លេស។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អង់គ្លេស' ក្នុងប្រយោគមួយ។"
@@ -13373,7 +13373,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-culture",
     "audioPlaceholder": "culture",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "ដើម្បីដាំដុះ។",
     "exampleKhmer": "វប្បធម៌​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -13394,7 +13394,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-flash",
     "audioPlaceholder": "flash",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ដើម្បីគ្របដណ្តប់ជាមួយស្រទាប់ស្តើងមួយដូចជាវត្ថុនៃកញ្ចក់ជាមួយនឹងកញ្ចក់នៃពណ៌ផ្សេងគ្នា។",
     "exampleKhmer": "ពន្លឺត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13415,7 +13415,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-george",
     "audioPlaceholder": "george",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយចច។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ដល់​លោក George អំពី​ស្ថានភាព។"
@@ -13436,7 +13436,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-choice",
     "audioPlaceholder": "choice",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការជ្រើសរើស។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជម្រើស' ក្នុងប្រយោគមួយ។"
@@ -13457,7 +13457,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-starting",
     "audioPlaceholder": "starting",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "ពីការចាប់ផ្តើម, v ។",
     "exampleKhmer": "ការចាប់ផ្តើមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13478,7 +13478,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-thursday",
     "audioPlaceholder": "thursday",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ថ្ងៃទីប្រាំនៃសប្តាហ៍បន្ទាប់ពីថ្ងៃពុធ និងថ្ងៃសុក្រមុន។",
     "exampleKhmer": "ថ្ងៃ​ព្រហស្បតិ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -13499,7 +13499,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-courses",
     "audioPlaceholder": "courses",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយវគ្គសិក្សា។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -13520,7 +13520,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-consumer",
     "audioPlaceholder": "consumer",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "អ្នកដែលឬរបស់ដែលប្រើប្រាស់។",
     "exampleKhmer": "អតិថិជន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -13541,7 +13541,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-airport",
     "audioPlaceholder": "airport",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងអាកាសយានដ្ឋាន។",
     "exampleKhmer": "អាកាសយានដ្ឋាន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -13562,7 +13562,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-foreign",
     "audioPlaceholder": "foreign",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសក��្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយបរទេស។",
     "exampleKhmer": "យើង​ត្រូវ​ធ្វើ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -13583,7 +13583,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-artist",
     "audioPlaceholder": "artist",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយសិល្បករ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​ដល់​សិល្បករ​អំពី​ស្ថានភាព។"
@@ -13604,7 +13604,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-outside",
     "audioPlaceholder": "outside",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "ឬរៀបចំ។",
     "exampleKhmer": "ខាង​ក្រៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -13625,7 +13625,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-levels",
     "audioPlaceholder": "levels",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកម្រិត។",
     "exampleKhmer": "កម្រិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13646,7 +13646,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-channel",
     "audioPlaceholder": "channel",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "ច្រកសមុទ្រ ឬសមុទ្រតូចចង្អៀត រវាងផ្នែកពីរនៃដី។",
     "exampleKhmer": "ឆានែលនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13667,7 +13667,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-letter",
     "audioPlaceholder": "letter",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "អ្នកដែលអនុញ្ញាត ឬអនុញ្ញាត។",
     "exampleKhmer": "សំបុត្រ​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -13688,7 +13688,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-phones",
     "audioPlaceholder": "phones",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃទូរស័ព្ទ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ទូរស័ព្ទ' ក្នុងប្រយោគមួយ។"
@@ -13709,7 +13709,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-ideas",
     "audioPlaceholder": "ideas",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងគំនិត។",
     "exampleKhmer": "គំនិត​ទាំង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -13730,7 +13730,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-summer",
     "audioPlaceholder": "summer",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "អ្នកដែលបូក។",
     "exampleKhmer": "រដូវក្តៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13751,7 +13751,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-allow",
     "audioPlaceholder": "allow",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "ដើម្បីទទួលស្គាល់។",
     "exampleKhmer": "ការអនុញ្ញាតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអ��ឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13772,7 +13772,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-degree",
     "audioPlaceholder": "degree",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "technology",
     "meaningKhmer": "ចម្ងាយជាក់លាក់មួយឬដកចេញនៅក្នុងបន្ទាត់នៃការធ្លាក់ចុះ, កំណត់ភាពជិតនៃឈាម។",
     "exampleKhmer": "សញ្ញាបត្រ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -13793,7 +13793,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-contract",
     "audioPlaceholder": "contract",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "health",
     "meaningKhmer": "កាត់​ឲ្យ​ខ្លី​ដោយ​លុប​អក្សរ ឬ​អក្សរ ឬ​ដោយ​កាត់​ស្រៈ ឬ​ព្យាង្គ​ពីរ​ឬ​ច្រើន​មក​មួយ។",
     "exampleKhmer": "កិច្ច​សន្យា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -13814,7 +13814,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-button",
     "audioPlaceholder": "button",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីភ្ជាប់ដោយប៊ូតុងឬប៊ូតុង។",
     "exampleKhmer": "ប៊ូតុង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -13835,7 +13835,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-releases",
     "audioPlaceholder": "releases",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការចេញផ្សាយ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -13856,7 +13856,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-homes",
     "audioPlaceholder": "homes",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃផ្ទះ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ផ្ទះ' ក្នុងប្រយោគមួយ។"
@@ -13877,7 +13877,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-super",
     "audioPlaceholder": "super",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "daily-conversation",
     "meaningKhmer": "ការ​បង្រួញ​នៃ​លេខ​លើស​ពី​ក្នុង​ន័យ ២.",
     "exampleKhmer": "កំពូលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13898,7 +13898,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-matter",
     "audioPlaceholder": "matter",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "family",
     "meaningKhmer": "អ្វីដែលជាអចិន្ត្រៃយ៍ ឬត្រូវបានគេសន្មត់ថាផ្តល់ឱ្យ និងនៅក្នុង orupon ដែលការផ្លាស់ប្តូរត្រូវបានជះឥទ្ធិពលដោយដំណើរការផ្លូវចិត្ត ឬរាងកាយ និងទំនាក់ទំនង។",
     "exampleKhmer": "បញ្ហា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -13919,7 +13919,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-custom",
     "audioPlaceholder": "custom",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "food",
     "meaningKhmer": "ការអនុវត្ត​ដែល​បាន​បង្កើត​ជា​យូរ​មក​ហើយ ចាត់​ទុក​ថា​ជា​ច្បាប់​ដែល​មិន​បាន​សរសេរ និង​ការ​សម្រាក​សម្រាប់​អាជ្ញាធរ​ដោយ​ការ​យល់ព្រម​ជា​យូរ។",
     "exampleKhmer": "ទំនៀម​ទម្លាប់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -13940,7 +13940,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-virginia",
     "audioPlaceholder": "virginia",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "animals",
     "meaningKhmer": "រដ្ឋមួយនៃសហរដ្ឋអាមេរិក។-- ក.",
     "exampleKhmer": "ព្រហ្មចារី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -13961,7 +13961,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-almost",
     "audioPlaceholder": "almost",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "school",
     "meaningKhmer": "ជិត។",
     "exampleKhmer": "ស្ទើរតែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -13982,7 +13982,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-located",
     "audioPlaceholder": "located",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយទីតាំង។",
     "exampleKhmer": "យើងត្រូវកំណត់ភារកិច្ចនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -14003,7 +14003,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-multiple",
     "audioPlaceholder": "multiple",
-    "difficulty": "intermediate",
+    "difficulty": "B1+",
     "category": "business",
     "meaningKhmer": "មានច្រើនជាងមួយដង ឬច្រើនជាងមួយ។",
     "exampleKhmer": "ពហុវចនៈត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14024,7 +14024,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-asian",
     "audioPlaceholder": "asian",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "នៃឬទាក់ទងនឹងអាស៊ី។",
     "exampleKhmer": "អាស៊ី​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -14045,7 +14045,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-editor",
     "audioPlaceholder": "editor",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "អ្នកដែលកែ។",
     "exampleKhmer": "អ្នកកែសម្រួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14066,7 +14066,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-cause",
     "audioPlaceholder": "cause",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "បណ្តឹងឬសកម្មភាពនៅក្នុងតុលាការ។",
     "exampleKhmer": "មូលហេតុ​ត្រូវ​បាន​ពិភាក្សា​យ៉ា��​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14087,7 +14087,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-focus",
     "audioPlaceholder": "focus",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "ចំណុចមួយដែលកាំរស្មីនៃពន្លឺជួបគ្នា បន្ទាប់ពីត្រូវបានឆ្លុះបញ្ចាំង ឬឆ្លុះបញ្ចាំង និងដែលរូបភាពត្រូវបានបង្កើតឡើង។",
     "exampleKhmer": "ការផ្តោតអារម្មណ៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14108,7 +14108,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-featured",
     "audioPlaceholder": "featured",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​មាន​លក្ខណៈ​ពិសេស​។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'លក្ខណៈពិសេស' ក្នុងប្រយោគមួយ។"
@@ -14129,7 +14129,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-rooms",
     "audioPlaceholder": "rooms",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងបន្ទប់។",
     "exampleKhmer": "បន្ទប់ត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -14150,7 +14150,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-female",
     "audioPlaceholder": "female",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "រុក្ខជាតិដែលបង្កើតបានតែសរីរាង្គបន្តពូជប្រភេទនោះ ដែលមានសមត្ថភាពបង្កើតផ្លែបន្ទាប់ពីការបង្កកំណើតដោយ impregnation orfertilization។",
     "exampleKhmer": "ស្ត្រី​រូប​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14171,7 +14171,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-thomas",
     "audioPlaceholder": "thomas",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយថូម៉ាស។",
     "exampleKhmer": "នាងបានពន្យល់ថូម៉ាសអំពីស្ថានភាព។"
@@ -14192,7 +14192,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-primary",
     "audioPlaceholder": "primary",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "បង្កើតឡើងដំបូងបំផុត។",
     "exampleKhmer": "បឋមសិក្សាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -14213,7 +14213,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-cancer",
     "audioPlaceholder": "cancer",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "ប្រភេទមួយនៃ decapod Crustacea រួមទាំងក្តាមច្រាំងភាគច្រើនបំផុតនៃទ្វីបអឺរ៉ុប និងអាមេរិកខាងជើង ដូចជាក្តាមថ្ម Jonahcrab ជាដើម។",
     "exampleKhmer": "មហារីក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -14234,7 +14234,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-numbers",
     "audioPlaceholder": "numbers",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "នៃលេខ។",
     "exampleKhmer": "លេខ​ទាំង​នោះ​ត្រូវ​ប��ន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -14255,7 +14255,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-reason",
     "audioPlaceholder": "reason",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "សមាមាត្រ។",
     "exampleKhmer": "ហេតុផល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14276,7 +14276,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-browser",
     "audioPlaceholder": "browser",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "សត្វដែលរុករក។",
     "exampleKhmer": "កម្មវិធីរុករកតាមអ៊ីនធឺណិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14297,7 +14297,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-spring",
     "audioPlaceholder": "spring",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "ជាយុវជនសកម្ម និងនិទាឃរដូវ។",
     "exampleKhmer": "និទាឃរដូវត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14318,7 +14318,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-answer",
     "audioPlaceholder": "answer",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "សេចក្តីថ្លែងការណ៍ប្រឆាំងនឹងការពិតនៅក្នុងវគ្គនៃការប្តឹងតវ៉ា។",
     "exampleKhmer": "ចម្លើយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14339,7 +14339,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-voice",
     "audioPlaceholder": "voice",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "សំឡេង​ប្រភេទ ឬ​គុណភាព​ដែល​ឮ​ក្នុង​ការ​និយាយ ឬ​ចម្រៀង​ក្នុង​ព្យញ្ជនៈ ខ, វ, ឃ ។ល។ និង​ក្នុង​ស្រៈ។",
     "exampleKhmer": "សំឡេង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14360,7 +14360,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-friendly",
     "audioPlaceholder": "friendly",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "តាមរបៀបមិត្តភក្តិ។",
     "exampleKhmer": "មិត្តភាព​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14381,7 +14381,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-schedule",
     "audioPlaceholder": "schedule",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "រមូរដែលសរសេរ ឬបោះពុម្ព ឬសន្លឹកក្រដាស។",
     "exampleKhmer": "កាលវិភាគ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14402,7 +14402,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-purpose",
     "audioPlaceholder": "purpose",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "មានគោលបំណងឬចេតនា។",
     "exampleKhmer": "គោលបំណងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14423,7 +14423,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-feature",
     "audioPlaceholder": "feature",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយលក្ខណៈ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងពិសេសអំពីស្ថានភាព។"
@@ -14444,7 +14444,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-comes",
     "audioPlaceholder": "comes",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "ចម្លើយចំពោះប្រធានបទ (dux) នៅក្នុង fugue ។",
     "exampleKhmer": "ការមកដល់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14465,7 +14465,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-police",
     "audioPlaceholder": "police",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "កង​រាជ​អាវុធ​ហត្ថ​ សាកសព​ទាហាន​បាន​រៀប​រាប់​លម្អិត​ពី​ការ​រក្សា​សណ្តាប់​ធ្នាប់​ និង​ចូល​រួម​ក្នុង​ការ​រៀប​ចំ​អនាម័យ​នៅ​ក្នុង​យោធភូមិ​ភាគ។",
     "exampleKhmer": "ប៉ូលិស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14486,7 +14486,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-everyone",
     "audioPlaceholder": "everyone",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "ទាំងអស់គ្នា។",
     "exampleKhmer": "អ្នក​រាល់​គ្នា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14507,7 +14507,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-approach",
     "audioPlaceholder": "approach",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ដើម្បីទទួលយកវិធីសាស្រ្ត។",
     "exampleKhmer": "វិធីសាស្រ្តនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14528,7 +14528,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-cameras",
     "audioPlaceholder": "cameras",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃកាមេរ៉ា។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កាមេរ៉ា' ក្នុងប្រយោគមួយ។"
@@ -14549,7 +14549,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-brown",
     "audioPlaceholder": "brown",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "ពណ៌ងងឹត មានស្រមោលផ្សេងៗរវាងពណ៌ខ្មៅ និងក្រហម។ ថ្ពាល់ពណ៌ត្នោតដូចស្លឹកឈើអុក។",
     "exampleKhmer": "ពណ៌ត្នោតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14570,7 +14570,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-physical",
     "audioPlaceholder": "physical",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងរាងកាយ។",
     "exampleKhmer": "យើងត្រូវរៀបចំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -14591,7 +14591,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-medicine",
     "audioPlaceholder": "medicine",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "គ្រូពេទ្យម្នាក់។",
     "exampleKhmer": "ថ្នាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -14612,7 +14612,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-ratings",
     "audioPlaceholder": "ratings",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការវាយតម្លៃ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រ���ពាក្យ 'ចំណាត់ថ្នាក់' ក្នុងប្រយោគមួយ។"
@@ -14633,7 +14633,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-chicago",
     "audioPlaceholder": "chicago",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងឈីកាហ្គោ។",
     "exampleKhmer": "ទីក្រុងឈីកាហ្គោត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14654,7 +14654,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-forms",
     "audioPlaceholder": "forms",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយទម្រង់។",
     "exampleKhmer": "យើងត្រូវបង្កើតកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -14675,7 +14675,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-glass",
     "audioPlaceholder": "glass",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "សារធាតុណាមួយដែលមានរូបរាងកញ្ចក់ប្លែក និងការបាក់ឆ្អឹង aconchoidal ហើយជាធម្មតាត្រូវបានផលិតដោយការលាយបញ្ចូលគ្នា។",
     "exampleKhmer": "កែវ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -14696,7 +14696,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-happy",
     "audioPlaceholder": "happy",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​ស្ទីល​ដែល​ជា​លក្ខណៈ​នៃ​ការ​សប្បាយ។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រីករាយ' នៅក្នុងប្រយោគមួយ។"
@@ -14717,7 +14717,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-smith",
     "audioPlaceholder": "smith",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "ដើម្បីវាយទៅជារាង។",
     "exampleKhmer": "ជាងដែក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -14738,7 +14738,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-wanted",
     "audioPlaceholder": "wanted",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការចង់បាន។",
     "exampleKhmer": "យើងត្រូវចង់បានកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -14759,7 +14759,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-thank",
     "audioPlaceholder": "thank",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ការបង្ហាញនៃការដឹងគុណ។",
     "exampleKhmer": "ការថ្លែងអំណរគុណត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -14780,7 +14780,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-unique",
     "audioPlaceholder": "unique",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "ការ​ដែល​គ្មាន​ភាព​ដូច​ឬ​ស្មើ​។",
     "exampleKhmer": "ចំណុចពិសេសនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -14801,7 +14801,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-survey",
     "audioPlaceholder": "survey",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការស្ទង់មតិ។",
     "exampleKhmer": "ការស្ទង់មតិនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14822,7 +14822,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-prior",
     "audioPlaceholder": "prior",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "នាំមុខតាមលំដាប់នៃពេលវេលា។",
     "exampleKhmer": "មុន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -14843,7 +14843,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-sport",
     "audioPlaceholder": "sport",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "រុក្ខជាតិ ឬសត្វ ឬផ្នែកនៃរុក្ខជាតិ ឬសត្វ ដែលមានលក្ខណៈប្លែកពីគេ ជាធម្មតាមិនឃើញនៅក្នុងប្រភេទសត្វនោះទេ។",
     "exampleKhmer": "កីឡា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -14864,7 +14864,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-ready",
     "audioPlaceholder": "ready",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "ពាក្យបញ្ជា ឬទីតាំងមួយនៅក្នុងសៀវភៅដៃ ដែល��ុំនោះត្រូវបានក្រឡុក និងកាន់ក្នុងទីតាំងដើម្បីប្រតិបត្តិភ្លាមៗនូវពាក្យបញ្ជាបន្ទាប់ ដែលជាគោលបំណង។",
     "exampleKhmer": "ការ​ត្រៀម​ខ្លួន​ជា​ស្រេច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14885,7 +14885,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-animal",
     "audioPlaceholder": "animal",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "នៃ, ទាក់ទងនឹង, ឬប្រហាក់ប្រហែល, សត្វ។",
     "exampleKhmer": "សត្វនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14906,7 +14906,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-sources",
     "audioPlaceholder": "sources",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយប្រភព។",
     "exampleKhmer": "យើងត្រូវផ្តល់ប្រភពកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -14927,7 +14927,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-mexico",
     "audioPlaceholder": "mexico",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយម៉ិកស៊ិក។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​��ារ​ពន្យល់​ម៉ិកស៊ិក​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -14948,7 +14948,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-regular",
     "audioPlaceholder": "regular",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "មានផ្នែកទាំងអស់នៃប្រភេទដូចគ្នាទាំងទំហំ និងរូបរាង។",
     "exampleKhmer": "ភាពទៀងទាត់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -14969,7 +14969,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-secure",
     "audioPlaceholder": "secure",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសុវត្ថិភាព។",
     "exampleKhmer": "សុវត្ថិភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -14990,7 +14990,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-simply",
     "audioPlaceholder": "simply",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "សូមមើល Simulacrum ។",
     "exampleKhmer": "អ្វី​ដែល​សាមញ្ញ​នោះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15011,7 +15011,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-evidence",
     "audioPlaceholder": "evidence",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ដែលត្រូវបានបញ្ជូនតាមផ្លូវច្បាប់ទៅកាន់សាលាក្តីមានសមត្ថកិច្ច ដើម្បីស្វែងរកការពិតនៃបញ្ហាដែលចោទប្រកាន់ណាមួយនៃអង្គហេតុ ការស៊ើបអង្កេតមិនគ្រប់មុនពេលវា។",
     "exampleKhmer": "ភ័ស្តុតាង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15032,7 +15032,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-station",
     "audioPlaceholder": "station",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "ទីកន្លែងជាក់លាក់ ឬប្រភេទនៃស្ថានភាព ដែលប្រភេទសត្វកើតឡើងដោយធម្មជាតិ។",
     "exampleKhmer": "ស្ថានីយ៍នេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -15053,7 +15053,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-round",
     "audioPlaceholder": "round",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "ខ្សឹប។",
     "exampleKhmer": "ជុំនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -15074,7 +15074,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-paypal",
     "audioPlaceholder": "paypal",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយ paypal ។",
     "exampleKhmer": "យើងត្រូវ paypal កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការ។"
@@ -15095,7 +15095,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-favorite",
     "audioPlaceholder": "favorite",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "អង្កាញ់​ខ្លី​ព្យួរ​លើ​ប្រាសាទ។",
     "exampleKhmer": "សំណព្វ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15116,7 +15116,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-option",
     "audioPlaceholder": "option",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "សិទ្ធិដែលពីមុនជាកម្មសិទ្ធិរបស់អាចារ្យក្នុងការជ្រើសរើសភាពថ្លៃថ្នូរ ឬអត្ថប្រយោជន៍ណាមួយនៅក្នុងអំ��ោយរបស់ប៊ីស្សពបសុទ្ឋដែលបានឧទ្ទិស ឬបញ្ជាក់ដោយគាត់ សម្រាប់ផ្តល់ឱ្យដោយខ្លួនឯងនៅពេលបន្ទាប់ទំនេរ។",
     "exampleKhmer": "ជម្រើស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -15137,7 +15137,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-master",
     "audioPlaceholder": "master",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "កប៉ាល់ដែលមានបង្គោល (ច្រើន) ។",
     "exampleKhmer": "មេត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -15158,7 +15158,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-valley",
     "audioPlaceholder": "valley",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងជ្រលងភ្នំ។",
     "exampleKhmer": "យើងត្រូវកាត់បន្ថយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -15179,7 +15179,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-recently",
     "audioPlaceholder": "recently",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "ថ្មីៗ។",
     "exampleKhmer": "ថ្មីៗ​នេះ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15200,7 +15200,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-probably",
     "audioPlaceholder": "probably",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ទំនង។",
     "exampleKhmer": "ប្រហែល​ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -15221,7 +15221,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-rentals",
     "audioPlaceholder": "rentals",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការជួល។",
     "exampleKhmer": "ការជួលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -15242,7 +15242,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-built",
     "audioPlaceholder": "built",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "រាង។",
     "exampleKhmer": "ការ​សាង​សង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាល​ពី​ម្សិល​មិញ។"
@@ -15263,7 +15263,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-blood",
     "audioPlaceholder": "blood",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "តំណពូជពីឪពុកម្ត���យនៃពូជដែលទទួលស្គាល់។",
     "exampleKhmer": "ឈាម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15284,7 +15284,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-improve",
     "audioPlaceholder": "improve",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការកែលម្អ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'កែលម្អ' ក្នុងប្រយោគមួ���។"
@@ -15305,7 +15305,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-larger",
     "audioPlaceholder": "larger",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងទំហំធំ។",
     "exampleKhmer": "ធំជាងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -15326,7 +15326,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-networks",
     "audioPlaceholder": "networks",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយបណ្តាញ។",
     "exampleKhmer": "យើងត្រូវភ្ជាប់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -15347,7 +15347,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-earth",
     "audioPlaceholder": "earth",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "ដើម្បីជីក។",
     "exampleKhmer": "ផែនដី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15368,7 +15368,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-parents",
     "audioPlaceholder": "parents",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​ស្��ីល​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​មាតាបិតា។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀ��ប្រើពាក្យ 'ឪពុកម្តាយ' ក្នុងប្រយោគមួយ។"
@@ -15389,7 +15389,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-nokia",
     "audioPlaceholder": "nokia",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹង ណូគា។",
     "exampleKhmer": "ណូគា​ត្រូវ​បាន​លើក​យក​មក​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -15410,7 +15410,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-impact",
     "audioPlaceholder": "impact",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "ដើម្បីបើកឡានឱ្យជិត។",
     "exampleKhmer": "ផល​ប៉ះពាល់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -15431,7 +15431,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-transfer",
     "audioPlaceholder": "transfer",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "ការផ្ទេរសិទ្ធិ កម្មសិទ្ធិ ឬទ្រព្យសម្បត្តិ ទាំងផ្ទាល់ខ្លួនពិត ពីមនុស្សម្នាក់ទៅមនុស្សម្នាក់ទៀត ទោះដោយការលក់ ដោយអំណោយ ឬបើមិនដូច្នេះទេ ខ្ញុំសូមចាត់ទុកវាថាជាការផ្ទេរកម្មសិទ្ធិតែប៉ុណ្ណោះ។",
     "exampleKhmer": "ការផ្ទេរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -15452,7 +15452,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-kitchen",
     "audioPlaceholder": "kitchen",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "ដើម្បីផ្តល់អាហារដល់។",
     "exampleKhmer": "ផ្ទះបាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -15473,7 +15473,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-strong",
     "audioPlaceholder": "strong",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "ទំនោរទៅរកតម្លៃខ្ពស់។",
     "exampleKhmer": "អ្នកខ្លាំង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15494,7 +15494,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-carolina",
     "audioPlaceholder": "carolina",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយ ខារ៉ូលីណា។",
     "exampleKhmer": "យើងត្រូវការ៉ូលីណាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីធ្វើឱ្យមានការរីកចម្រើន។"
@@ -15515,7 +15515,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-wedding",
     "audioPlaceholder": "wedding",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ពិធីមង្គលការ។",
     "exampleKhmer": "អាពាហ៍ពិពាហ៍​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15536,7 +15536,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-hospital",
     "audioPlaceholder": "hospital",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "រាក់ទាក់។",
     "exampleKhmer": "មន្ទីរពេទ្យ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -15557,7 +15557,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-ground",
     "audioPlaceholder": "ground",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "កំរាលឥដ្ឋ ឬកំរាលឥដ្ឋដែលសន្មត់ថាសម្រាកនៅលើផែនដី។",
     "exampleKhmer": "ដី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -15578,7 +15578,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-overview",
     "audioPlaceholder": "overview",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "ការត្រួតពិនិត្យឬមើលរំលង។",
     "exampleKhmer": "ទិដ្ឋភាព​ទូទៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15599,7 +15599,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-owners",
     "audioPlaceholder": "owners",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយម្ចាស់។",
     "exampleKhmer": "នាង​បាន​ពន្យល់​���្ចាស់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -15620,7 +15620,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-disease",
     "audioPlaceholder": "disease",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ជំងឺ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជំងឺ' ក្នុងប្រយោគមួយ។"
@@ -15641,7 +15641,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-italy",
     "audioPlaceholder": "italy",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងប្រទេសអ៊ីតាលី។",
     "exampleKhmer": "ប្រទេស​អ៊ីតាលី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -15662,7 +15662,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-perfect",
     "audioPlaceholder": "perfect",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "Hermaphrodite ។",
     "exampleKhmer": "ភាពល្អឥតខ្ចោះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -15683,7 +15683,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-classic",
     "audioPlaceholder": "classic",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយបុរាណ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់បែបបុរាណអំពីស្ថានភាព។"
@@ -15704,7 +15704,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-basis",
     "audioPlaceholder": "basis",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃមូលដ្ឋាន។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មូលដ្ឋាន' ក្នុងប្រយោគមួយ។"
@@ -15725,7 +15725,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-command",
     "audioPlaceholder": "command",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងពាក្យបញ្ជា។",
     "exampleKhmer": "ពាក្យ​បញ្ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -15746,7 +15746,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-cities",
     "audioPlaceholder": "cities",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងទីក្រុង។",
     "exampleKhmer": "យើង​ត្រូវ​ការ​ក្រុង​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន��"
@@ -15767,7 +15767,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-william",
     "audioPlaceholder": "william",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយវីលៀ���។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់វីលៀមយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -15788,7 +15788,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-express",
     "audioPlaceholder": "express",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​បង្ហាញ​។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'express' ក្នុងប្រយោគមួយ។"
@@ -15809,7 +15809,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-award",
     "audioPlaceholder": "award",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "ផ្តល់ដោយការកាត់ទោស ឬការសម្រេចរបស់តុលាការ។",
     "exampleKhmer": "ពាន​រង្វាន់​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -15830,7 +15830,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-distance",
     "audioPlaceholder": "distance",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "កន្លែង​មួយ​បាន​សម្គាល់​នៅ​ផ្នែក​ចុងក្រោយ​នៃ​វគ្គ​ប្រណាំង។ សេះ​ដែល​រត់​ពេញ​ទីលាន​ឆ្ងាយ។",
     "exampleKhmer": "ចម្ងាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិ���មិញ។"
@@ -15851,7 +15851,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-peter",
     "audioPlaceholder": "peter",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "ឈ្មោះបុណ្យជ្រមុជទឹកធម្មតាសម្រាប់បុរស។",
     "exampleKhmer": "ពេត្រុស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15872,7 +15872,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-ensure",
     "audioPlaceholder": "ensure",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការធានា។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ធានា' ក្នុងប្រយោគមួយ។"
@@ -15893,7 +15893,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-involved",
     "audioPlaceholder": "involved",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "ដូចគ្នានឹង Involute ។",
     "exampleKhmer": "អ្នក​ពាក់ព័ន្ធ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -15914,7 +15914,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-extra",
     "audioPlaceholder": "extra",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "លើសពីអ្វីដែលត្រូវកំណត់ ធម្មតា រំពឹងទុក ឬចាំបាច់។",
     "exampleKhmer": "ការបន្ថែមត្រូវបានពិភាក្សាយ៉ា���លម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -15935,7 +15935,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-partners",
     "audioPlaceholder": "partners",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយដៃគូ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីដៃគូយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -15956,7 +15956,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-budget",
     "audioPlaceholder": "budget",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃថវិកា។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ថវិកា' ក្នុងប្រយោគមួយ។"
@@ -15977,7 +15977,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-rated",
     "audioPlaceholder": "rated",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការវាយតម្លៃ។",
     "exampleKhmer": "ការវាយតម្លៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -15998,7 +15998,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-guides",
     "audioPlaceholder": "guides",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយការណែនាំ។",
     "exampleKhmer": "យើងត្រូវណែនាំកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -16019,7 +16019,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-success",
     "audioPlaceholder": "success",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយជោគជ័យ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជោគជ័យអំពីស្ថានភាព។"
@@ -16040,7 +16040,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-maximum",
     "audioPlaceholder": "maximum",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "បរិមាណ ឬតម្លៃធំបំផុតដែលអាចទទួលបាននៅក្នុងករណីដែលបានផ្តល់ឱ្យ។",
     "exampleKhmer": "អតិបរមាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -16061,7 +16061,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-existing",
     "audioPlaceholder": "existing",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងការដែលមានស្រាប់។",
     "exampleKhmer": "��ែលមានស្រាប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -16082,7 +16082,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-quite",
     "audioPlaceholder": "quite",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "សូមមើល Quit ។",
     "exampleKhmer": "ការពិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -16103,7 +16103,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-selected",
     "audioPlaceholder": "selected",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយជ្រើសរើស។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលបានជ្រើសរើសយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -16124,7 +16124,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-amazon",
     "audioPlaceholder": "amazon",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "ឈ្មោះសត្វសេកជាច្រើនប្រភេទនៅអាមេរិកខាងត្បូងនៃ genus Chrysotis Amazon ant (Zoöl.) ដែលជាប្រភេទស្រមោច (Polyergus rufescens) នៃទ្វីបអឺរ៉ុប និងអាមេរិក។",
     "exampleKhmer": "អាម៉ាហ្សូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -16145,7 +16145,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-patients",
     "audioPlaceholder": "patients",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងអ្នកជំងឺ។",
     "exampleKhmer": "អ្នកជំងឺ​���្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -16166,7 +16166,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-warning",
     "audioPlaceholder": "warning",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "ផ្តល់ការជូនដំណឹងពីមុន។",
     "exampleKhmer": "ការ​ព្រមាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -16187,7 +16187,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-horse",
     "audioPlaceholder": "horse",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "ជើងបួនជ្រុងនៃ genus Equus ។",
     "exampleKhmer": "សេះត្រូវបានពិភាក្សាយ៉ាងល្អិតល្អន់ក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -16208,7 +16208,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-forward",
     "audioPlaceholder": "forward",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "កិច្ចព្រមព្រៀងមួយ។",
     "exampleKhmer": "អ្នក​នាំ​មុខ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -16229,7 +16229,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-flowers",
     "audioPlaceholder": "flowers",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងផ្កា។",
     "exampleKhmer": "ផ្កាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -16250,7 +16250,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-stars",
     "audioPlaceholder": "stars",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយផ្កាយ។",
     "exampleKhmer": "យើងត្រូវដាក់ផ្កាយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -16271,7 +16271,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-lists",
     "audioPlaceholder": "lists",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយបញ្ជី។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្រើន​អំពី​ស្ថានភាព។"
@@ -16292,7 +16292,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-owner",
     "audioPlaceholder": "owner",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "អ្នកដែលជាម្ចាស់។",
     "exampleKhmer": "ម្ចាស់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -16313,7 +16313,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-retail",
     "audioPlaceholder": "retail",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "ការលក់ទំនិញក្នុងបរិមាណតិចតួច ឬក្បាលដី។",
     "exampleKhmer": "ការ​លក់​រាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -16334,7 +16334,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-animals",
     "audioPlaceholder": "animals",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងសត្វ។",
     "exampleKhmer": "យើងត្រូវធ្វើកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -16355,7 +16355,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-useful",
     "audioPlaceholder": "useful",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "ពេញលេញនៃការប្រើប្រាស់ អត្ថប្រយោជន៍ ឬប្រាក់ចំណេញ។",
     "exampleKhmer": "ប្រយោជន៍​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -16376,7 +16376,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-directly",
     "audioPlaceholder": "directly",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចន��ប័ទ្មដែលជាលក្ខណៈនៃការដោយផ្ទាល់។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ដោយផ្ទាល់' ក្នុងប្រយោគមួយ។"
@@ -16397,7 +16397,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-housing",
     "audioPlaceholder": "housing",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "ស៊ុម ឬជំនួយសម្រាប់ដាក់អ្វីមួយនៅនឹងកន្លែង ដូចជាប្រអប់សារជាដើម។",
     "exampleKhmer": "លំនៅឋាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -16418,7 +16418,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-takes",
     "audioPlaceholder": "takes",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការចំណាយពេល។",
     "exampleKhmer": "យើង​ត្រូវ​ទទួល​យក​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -16439,7 +16439,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-bring",
     "audioPlaceholder": "bring",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិ ឬលក្ខណៈដែលកំណត់ដោយការនាំមក។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​នាំ​មក​នូវ​ស្ថានភាព​យ៉ាង​ខ្លាំង។"
@@ -16460,7 +16460,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-catalog",
     "audioPlaceholder": "catalog",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "កាតាឡុក។",
     "exampleKhmer": "កាតាឡុក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -16481,7 +16481,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-searches",
     "audioPlaceholder": "searches",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការស្វែងរក។",
     "exampleKhmer": "ការស្វែងរកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -16502,7 +16502,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-trying",
     "audioPlaceholder": "trying",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "សម្របខ្លួនដើម្បីព្យាយាម ឬដាក់ឱ្យមានការសាកល្បងធ្ងន់ធ្ងរ។",
     "exampleKhmer": "ការ​ព្យាយាម​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -16523,7 +16523,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-mother",
     "audioPlaceholder": "mother",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ទទួលបានពីកំណើតឬពីបុព្វបុរស។",
     "exampleKhmer": "ម្តាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អ��ត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -16544,7 +16544,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-traffic",
     "audioPlaceholder": "traffic",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "ដើម្បីផ្លាស់ប្តូរចរាចរណ៍។",
     "exampleKhmer": "ចរាចរណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -16565,7 +16565,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-joined",
     "audioPlaceholder": "joined",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងការភ្ជាប់។",
     "exampleKhmer": "អ្នក​ដែល​បាន​ចូល​រួម​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -16586,7 +16586,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-input",
     "audioPlaceholder": "input",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "ដ���ម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយនឹងការបញ្ចូល។",
     "exampleKhmer": "យើងត្រូវបញ្ចូលកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -16607,7 +16607,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-strategy",
     "audioPlaceholder": "strategy",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយយុទ្ធសាស្ត្រ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យុទ្ធសាស្ត្រ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -16628,7 +16628,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-agent",
     "audioPlaceholder": "agent",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "សកម្មភាពអ្នកជម្ងឺ ឬការទ្រទ្រង់។",
     "exampleKhmer": "ភ្នាក់ងារ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -16649,7 +16649,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-valid",
     "audioPlaceholder": "valid",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "មានកម្លាំង ឬកម្លាំងច្បាប់។",
     "exampleKhmer": "សុពលភាពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -16670,7 +16670,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-modern",
     "audioPlaceholder": "modern",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "មនុស្សម្នាក់នៃសម័យទំនើប។",
     "exampleKhmer": "ទំនើបត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -16691,7 +16691,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-senior",
     "audioPlaceholder": "senior",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយ��ាន់ខ្ពស់។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងចាស់ដៃអំពីស្ថានភាព។"
@@ -16712,7 +16712,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-ireland",
     "audioPlaceholder": "ireland",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃអៀរឡង់។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អៀរឡង់' ក្នុងប្រយោគមួយ។"
@@ -16733,7 +16733,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-teaching",
     "audioPlaceholder": "teaching",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "សកម្មភាព ឬអាជីវកម្មនៃការណែនាំ។",
     "exampleKhmer": "ការ​បង្រៀន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -16754,7 +16754,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-grand",
     "audioPlaceholder": "grand",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយមហា",
     "exampleKhmer": "យើងត្រូវពង្រីកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -16775,7 +16775,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-testing",
     "audioPlaceholder": "testing",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ប្រតិបត្តិការនៃការចម្រាញ់មាស ឬប្រាក់នៅក្នុងការធ្វើតេស្ត ឬពែង។",
     "exampleKhmer": "ការ​ធ្វើ​តេស្ដ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -16796,7 +16796,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-trial",
     "audioPlaceholder": "trial",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "ការ​ពិនិត្យ​ជា​ផ្លូវ​ការ​លើ​បញ្ហា​នេះ​ក្នុង​បុព្វហេតុ​នៅ​ចំពោះ​មុខ​សាលា​ក្តី​មាន​សមត្ថកិច្ច។",
     "exampleKhmer": "ការ​ជំនុំ​ជម្រះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -16817,7 +16817,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-charge",
     "audioPlaceholder": "charge",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "សន្មតថាជាបន្ទុក។",
     "exampleKhmer": "ការ​ចោទ​ប្រកាន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -16838,7 +16838,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-units",
     "audioPlaceholder": "units",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងគ្រឿង។",
     "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -16859,7 +16859,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-instead",
     "audioPlaceholder": "instead",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយជំនួសវិញ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ជំនួស​វិញ​អំពី​ស្ថានភាព។"
@@ -16880,7 +16880,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-canadian",
     "audioPlaceholder": "canadian",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងប្រទេសកាណាដា។-- ន.",
     "exampleKhmer": "ជនជាតិកាណាដាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -16901,7 +16901,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-normal",
     "audioPlaceholder": "normal",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "យោងទៅតាមការ៉េឬក្បួន។",
     "exampleKhmer": "ធម្មតាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -16922,7 +16922,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-wrote",
     "audioPlaceholder": "wrote",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "ដើម្បីចាក់ឬសជាមួយច្រមុះ។",
     "exampleKhmer": "ការ​សរសេរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -16943,7 +16943,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-ships",
     "audioPlaceholder": "ships",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយកប៉ាល់។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងជ្រាលជ្រៅដល់នាវាអំពីស្ថានភាព។"
@@ -16964,7 +16964,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-entire",
     "audioPlaceholder": "entire",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "ឈ្មោះដំបូងត្រូវបានផ្តល់ទៅឱ្យស្រាបៀរមួយប្រភេទដែលរួមបញ្ចូលគ្នានូវគុណភាពនៃប្រភេទស្រាបៀរផ្សេងៗគ្នា។",
     "exampleKhmer": "ទាំងមូលត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -16985,7 +16985,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-leading",
     "audioPlaceholder": "leading",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "ការណែនាំ។",
     "exampleKhmer": "អ្នកដឹកនាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -17006,7 +17006,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-metal",
     "audioPlaceholder": "metal",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "សារធាតុបឋម ដូចជាសូដ្យូម កាល់ស្យូម ឬទង់ដែង ដែលអុកស៊ីត ឬអ៊ីដ្រូអុកស៊ីតមានមូលដ្ឋានជាជាងលក្ខណៈសម្បត្តិអាស៊ីត ផ្ទុយពីលោហៈ ឬលោហធាតុ។",
     "exampleKhmer": "លោហៈ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -17027,7 +17027,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-positive",
     "audioPlaceholder": "positive",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ត្រូវគ្នានឹងដើមទាក់ទងនឹងទីតាំងនៃពន្លឺ និងស្រមោល ជំនួសឱ្យពន្លឺ និងស្រមោលបញ្ច្រាស។",
     "exampleKhmer": "ភាពវិជ្ជមានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -17048,7 +17048,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-fitness",
     "audioPlaceholder": "fitness",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "ស្ថានភាព ឬគុណភាពនៃការសម។",
     "exampleKhmer": "កាយសម្បទា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -17069,7 +17069,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-chinese",
     "audioPlaceholder": "chinese",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "អំពី ឬពាក់ព័ន្ធជាមួយប្រទេសចិន។",
     "exampleKhmer": "ភាសាចិនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -17090,7 +17090,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-opinion",
     "audioPlaceholder": "opinion",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "សេចក្តីសម្រេចជាផ្លូវការ ឬការបញ្ចេញមតិ របស់ចៅក្រម កំពូល ទីប្រឹក្សា ឬភាគីផ្សេងទៀត បានអំពាវនាវជាផ្លូវការឱ្យពិចារណា និងសម្រេចលើបញ្ហា ឬចំណុចដែលប���នដាក់ជូន។",
     "exampleKhmer": "មតិ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -17111,7 +17111,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-football",
     "audioPlaceholder": "football",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "បាល់បំប៉ោងមួយដែលត្រូវទាត់ក្នុងកីឡា ជាធម្មតាផលិតនៅ Indianrubber ឬប្លោកនោមដាក់ក្នុងស្បែក។",
     "exampleKhmer": "ការ​ប្រកួត​បាល់​ទាត់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -17132,7 +17132,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-abstract",
     "audioPlaceholder": "abstract",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "ដើម្បីបំបែកជាផ្នែកដែលងាយនឹងបង្កជាហេតុ ឬរលាយកាន់តែច្រើននៃសារធាតុ ដោយការចម្រាញ់ ឬដំណើរការគីមីផ្សេងទៀត។",
     "exampleKhmer": "អរូបី​ត្រូវ​បាន​ពិភាក្សា​យ���ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -17153,7 +17153,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-output",
     "audioPlaceholder": "output",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "ដែលត្រូវបានបោះចោលជាផលិតផលនៃសកម្មភាពមេតាប៉ូលីសនៃរាងកាយ។",
     "exampleKhmer": "លទ្ធផល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -17174,7 +17174,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-funds",
     "audioPlaceholder": "funds",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងមូលនិធិ។",
     "exampleKhmer": "យើងត្រូវផ្តល់ថវិកាដល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -17195,7 +17195,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-greater",
     "audioPlaceholder": "greater",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយធំជាង។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​កាន់​តែ​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -17216,7 +17216,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-likely",
     "audioPlaceholder": "likely",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងប្រូបាប៊ីលីតេទាំងអស់។",
     "exampleKhmer": "ទំនង​ជា​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -17237,7 +17237,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-develop",
     "audioPlaceholder": "develop",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "ដើម្បីផ្លាស់ប្តូរទម្រង់នៃកន្សោមពិជគណិត ដោយការប្រតិបត្តិប្រតិបត្តិការដែលបានចង្អុលបង្ហាញជាក់លាក់ដោយមិនផ្លាស់ប្តូរតម្លៃ។",
     "exampleKhmer": "ការអភិវឌ្ឍន៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -17258,7 +17258,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-artists",
     "audioPlaceholder": "artists",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយសិល្បករ។",
     "exampleKhmer": "យើង​ត្រូវ​ការ​ឱ្យ​សិល្បករ​កិច្ចការ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -17279,7 +17279,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-guest",
     "audioPlaceholder": "guest",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "business",
     "meaningKhmer": "ដើម្បីទទួល ឬកម្សាន្តដោយរាក់ទាក់។",
     "exampleKhmer": "ភ្ញៀវ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -17300,7 +17300,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-seems",
     "audioPlaceholder": "seems",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការហាក់ដូចជា។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ហាក់' ក្នុងប្រយោគមួយ។"
@@ -17321,7 +17321,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-trust",
     "audioPlaceholder": "trust",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "health",
     "meaningKhmer": "អចលនវត្ថុដែលបានរៀបចំ ឬផ្តល់ដោយទំនុកចិត្តថាអ្នករៀបចំរៀបចំនឹងបញ្ជូនវា ឬបោះចោលប្រាក់ចំណេញតាមឆន្ទៈ ឬដើម្បីផលប្រយោជន៍ពីអ្នកដទៃ។",
     "exampleKhmer": "ការ​ទុក​ចិត្ត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​អំឡុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -17342,7 +17342,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-contains",
     "audioPlaceholder": "contains",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយ មាន។",
     "exampleKhmer": "យើងត្រូវមានភារកិច្ចនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -17363,7 +17363,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-session",
     "audioPlaceholder": "session",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយសម័យប្រជុំ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -17384,7 +17384,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-multi",
     "audioPlaceholder": "multi",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​មួយ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ពហុ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ច្រើន' ក្នុងប្រយោគមួយ។"
@@ -17405,7 +17405,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-republic",
     "audioPlaceholder": "republic",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសាធារណរដ្ឋ។",
     "exampleKhmer": "សាធារណរដ្ឋ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -17426,7 +17426,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-vacation",
     "audioPlaceholder": "vacation",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "family",
     "meaningKhmer": "ការផ្អាកដំណើរការនីតិវិធីតុលាការ។",
     "exampleKhmer": "វិស្សមកាល​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -17447,7 +17447,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-century",
     "audioPlaceholder": "century",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយសតវត្ស។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់មួយសតវត្សរ៍អំពីស្ថានភាព។"
@@ -17468,7 +17468,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-academic",
     "audioPlaceholder": "academic",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "animals",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​សិក្សា។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'សិក្សា' ក្នុងប្រយោគមួយ។"
@@ -17489,7 +17489,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-graphics",
     "audioPlaceholder": "graphics",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "school",
     "meaningKhmer": "សិល្បៈឬវិទ្យាសាស្ត្រនៃការគូរ។",
     "exampleKhmer": "ក្រាហ្វិក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -17510,7 +17510,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-indian",
     "audioPlaceholder": "indian",
-    "difficulty": "advanced",
+    "difficulty": "B2",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយជនជាតិឥណ្ឌា។",
     "exampleKhmer": "យើងត្រូវការឥណ្ឌាកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -17531,7 +17531,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-expected",
     "audioPlaceholder": "expected",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយការរំពឹងទុក។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលរំពឹងទុកយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -17552,7 +17552,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-grade",
     "audioPlaceholder": "grade",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "លទ្ធផលនៃការឆ្លងកាត់ពូជដើមដែលមានពូជល្អជាង។ ប្រសិនបើកូនកាត់មានឈាមច្រើនជាង 3/4 នោះវាត្រូវបានគេហៅថាកម្រិតខ្ពស់។",
     "exampleKhmer": "ថ្នាក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​ម្សិលមិញ។"
@@ -17573,7 +17573,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-dating",
     "audioPlaceholder": "dating",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការណាត់ជួប។",
     "exampleKhmer": "ការណាត់ជួបត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -17594,7 +17594,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-pacific",
     "audioPlaceholder": "pacific",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ឬទាក់ទងនឹងសន្តិភាព។",
     "exampleKhmer": "ប៉ាស៊ីហ្វិកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -17615,7 +17615,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-mountain",
     "audioPlaceholder": "mountain",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "ជួរ ខ្សែសង្វាក់ ឬក្រុមនៃការកើនឡើងបែបនេះ។",
     "exampleKhmer": "ភ្នំ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -17636,7 +17636,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-filter",
     "audioPlaceholder": "filter",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "សារធាតុ porous ណាមួយ ដូចជាក្រណាត់ ក្រដាស ខ្សាច់ ឬធ្យូង ដែលតាមរយៈទឹក ឬវត្ថុរាវផ្សេងទៀតអាចឆ្លងកាត់ ដើម្បីសម្អាតវាពីវត្ថុរឹង ឬមិនបរិសុទ្ធ ដែលជាប់នៅក្នុងព្យួរ។",
     "exampleKhmer": "តម្រងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -17657,7 +17657,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-mailing",
     "audioPlaceholder": "mailing",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "កសិដ្ឋានមួយ។",
     "exampleKhmer": "ការផ្ញើសំបុត្រត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -17678,7 +17678,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-vehicle",
     "audioPlaceholder": "vehicle",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "សារធាតុដែលថ្នាំត្រូវបានលេប។",
     "exampleKhmer": "រថយន្ត​នេះ​ត្រូវ​បាន​គេ​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -17699,7 +17699,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-longer",
     "audioPlaceholder": "longer",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "អ្នកដែលចង់បានអ្វីទាំងអស់។",
     "exampleKhmer": "យូរជាងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -17720,7 +17720,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-consider",
     "audioPlaceholder": "consider",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការពិចារណា។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ពិចារណា' ក្នុងប្រយោគមួយ។"
@@ -17741,7 +17741,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-northern",
     "audioPlaceholder": "northern",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងភាគខាងជើង។",
     "exampleKhmer": "ភាគខាងជើងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -17762,7 +17762,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-behind",
     "audioPlaceholder": "behind",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "ផ្នែកខាងក្រោយ។",
     "exampleKhmer": "អ្នក​នៅ​ពី​ក្រោយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -17783,7 +17783,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-panel",
     "audioPlaceholder": "panel",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "បន���ទប់ដែលលិចជាមួយនឹងរឹមដែលលើកឡើង ធ្វើផ្សិត ឬបើមិនដូច្នេះទេ ដូចជានៅក្នុងពិដាន ផ្ទាំងក្រណាត់ជាដើម។",
     "exampleKhmer": "ក្រុម​ប្រឹក្សា​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​អំឡុង​ពេល​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -17804,7 +17804,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-floor",
     "audioPlaceholder": "floor",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ផ្នែកនៃបាតនៃនាវានៅផ្នែកម្ខាងនៃ keelson ដែលស្ទើរតែផ្ដេកបំផុត។",
     "exampleKhmer": "ជាន់នេះត្រូវបានពិ���ាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -17825,7 +17825,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-german",
     "audioPlaceholder": "german",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "ជិតទាក់ទង។",
     "exampleKhmer": "អាឡឺម៉ង់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -17846,7 +17846,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-buying",
     "audioPlaceholder": "buying",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការទិញ។",
     "exampleKhmer": "យើងត្រូវការទិញកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -17867,7 +17867,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-match",
     "audioPlaceholder": "match",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "អ្វីក៏ដោយដែលប្រើសម្រាប់ចាប់ និ���រក្សាទុក ឬទំនាក់ទំនងភ្លើង ធ្វើពីសារធាតុមួយចំនួនដែលងាយឆេះ ឬឆេះយូរ។",
     "exampleKhmer": "ការ​ប្រកួត​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាល​ពី​ម្សិល​មិញ។"
@@ -17888,7 +17888,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-proposed",
     "audioPlaceholder": "proposed",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ស្នើ​ឡើង​។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បានស្នើឡើង' ក្នុងប្រយោគមួយ។"
@@ -17909,7 +17909,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-default",
     "audioPlaceholder": "default",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "ការធ្វេសប្រហែស ឬការខកខានក្នុងការអនុវត្ត ជំហានមួយចំនួនដែលចាំបាច់ ដើម្បីទទួលបានអត្ថប្រយោជន៍នៃច្បាប់ ដោយសារការខកខានក្នុងការបង្ហាញខ្លួននៅតុលាការតាមការចាត់តាំងប្រចាំថ្ងៃ ជាពិសេសជនជាប់ចោទនៅក្នុងបណ្តឹងនៅពេលហៅឱ្យឆ្លើយ។",
     "exampleKhmer": "លំនាំដើមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -17930,7 +17930,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-require",
     "audioPlaceholder": "require",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងតម្រូវការ។",
     "exampleKhmer": "យើងត្រូវទាមទារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -17951,7 +17951,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-outdoor",
     "audioPlaceholder": "outdoor",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "កំពុង ឬធ្វើនៅក្នុងខ្យល់។",
     "exampleKhmer": "នៅខាងក្រៅត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្ស���លមិញ។"
@@ -17972,7 +17972,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-morning",
     "audioPlaceholder": "morning",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "ទាក់ទងនឹងផ្នែកទីមួយ ឬផ្នែកដំបូងនៃថ្ងៃ។",
     "exampleKhmer": "ពេលព្រឹកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -17993,7 +17993,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-allows",
     "audioPlaceholder": "allows",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងការអនុញ្ញាត។",
     "exampleKhmer": "ការអនុញ្ញាតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18014,7 +18014,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-protein",
     "audioPlaceholder": "protein",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "រាងកាយមួយដែលត្រូវបានគេស្គាល់ថាជាអាល់កាឡាំង albumin ប៉ុន្តែដើមឡើយត្រូវបានគេចាត់ទុកថាជាមូលដ្ឋាននៃសារធាតុអាល់កាឡាំងទាំងអស់ ដែលវាមានឈ្មោះ។ គ្រីស្តាល់ប្រូតេអ៊ីន។",
     "exampleKhmer": "ប្រូតេអ៊ីន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -18035,7 +18035,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-plant",
     "audioPlaceholder": "plant",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "គ្រឿងចក្រ និងបរិក្ខារទាំងមូលប្រើប្រាស់ក្នុងការធ្វើពាណិជ្ជកម្ម ឬអាជីវកម្មមេកានិក។",
     "exampleKhmer": "រោងចក្រ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉���ង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -18056,7 +18056,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-reported",
     "audioPlaceholder": "reported",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការរាយការណ៍។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'បានរាយការណ៍' ក្នុងប្រយោគមួយ។"
@@ -18077,7 +18077,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-politics",
     "audioPlaceholder": "politics",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងនយោបាយ។",
     "exampleKhmer": "នយោបាយ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -18098,7 +18098,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-partner",
     "audioPlaceholder": "partner",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "សហការីក្នុងអាជីវកម្ម ឬមុខរបរណាមួយ។",
     "exampleKhmer": "ដៃគូត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18119,7 +18119,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-authors",
     "audioPlaceholder": "authors",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយអ្នកនិពន្ធ។",
     "exampleKhmer": "នាងបានពន្យល់អ្នកនិពន្ធអំពីស្ថានភាព។"
@@ -18140,7 +18140,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-boards",
     "audioPlaceholder": "boards",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​ក្តារ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ក្តារ' ក្នុងប្រយោគមួយ។"
@@ -18161,7 +18161,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-faculty",
     "audioPlaceholder": "faculty",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "រាងកាយរបស់មនុស្សដែលត្រូវបានផ្តល់ការទុកចិត្តដល់រដ្ឋាភិបាល និងការណែនាំរបស់មហាវិទ្យាល័យ ឬសាកលវិទ្យាល័យ ឬនៃនាយកដ្ឋានណាមួយរបស់ខ្លួន។",
     "exampleKhmer": "មហាវិទ្យាល័យត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18182,7 +18182,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-parties",
     "audioPlaceholder": "parties",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយភាគី។",
     "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -18203,7 +18203,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-mission",
     "audioPlaceholder": "mission",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "ដើម្បីផ្ញើបេសកកម្ម។",
     "exampleKhmer": "បេសកកម្មត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18224,7 +18224,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-string",
     "audioPlaceholder": "string",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "ជួរខាងក្នុងនៃបន្ទះពិដាន ដែលត្រូវគ្នាទៅនឹងស្រទាប់ខាងក្រៅ ហើយភ្ជាប់ទៅវា។",
     "exampleKhmer": "ខ្សែអក្សរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18245,7 +18245,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-sense",
     "audioPlaceholder": "sense",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "សភាវៈ​ដែល​សត្វ​មាន​ក្នុង​ការ​យល់​ឃើញ​វត្ថុ​ខាងក្រៅ​ដោយ​មធ្យោបាយ​នៃ​ការ​ចាប់​អារម្មណ៍​ដែល​កើត​ឡើង​លើ​សរីរាង្គ​មួយ​ចំនួន (សរីរវិទ្យា ឬ​សរីរាង្គ​វិញ្ញាណ) នៃ​រាងកាយ ឬ​នៃ​ការ​យល់​ឃើញ​នូវ​ការ​ប្រែប្រួល​នៃ​សភាព​នៃ​កាយ។",
     "exampleKhmer": "អារម្មណ៍​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -18266,7 +18266,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-modified",
     "audioPlaceholder": "modified",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការកែប្រែ។",
     "exampleKhmer": "យើងត្រូវកែប្រែកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -18287,7 +18287,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-released",
     "audioPlaceholder": "released",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការចេញផ្សាយ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងច្បាស់លាស់អំពីស្ថានភាព។"
@@ -18308,7 +18308,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-stage",
     "audioPlaceholder": "stage",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ដំណាក់កាលមួយក្នុងចំណោមដំណាក់កាល ឬដំណាក់កាលដែលបានសម្គាល់ជាច្រើនក្នុងការអភិវឌ្ឍន៍ និងការរីកលូតលាស់នៃសត្វ និងរុក្ខជាតិជាច្រើន។",
     "exampleKhmer": "ដំណាក់កាល​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -18329,7 +18329,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-internal",
     "audioPlaceholder": "internal",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "ដេកទល់មុខយន្តហោះមេស៊ី",
     "exampleKhmer": "ផ្ទៃក្នុង​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -18350,7 +18350,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-goods",
     "audioPlaceholder": "goods",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "សូមមើល Good, n., ៣.",
     "exampleKhmer": "ទំនិញត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -18371,7 +18371,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-unless",
     "audioPlaceholder": "unless",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "តាមលក្ខខណ្ឌណាមួយតិចជាង (ការពិត ឬវត្ថុដែលមានចែងក្នុងប្រយោគទាំងនេះ ឬឃ្លាខាងក្រោម)។",
     "exampleKhmer": "លុះត្រាតែត្រូវបានពិភាក្សាលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -18392,7 +18392,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-richard",
     "audioPlaceholder": "richard",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា Richard ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'រីឆាត' ក្នុងប្រយោគមួយ។"
@@ -18413,7 +18413,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-detailed",
     "audioPlaceholder": "detailed",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងលម្អិត។",
     "exampleKhmer": "សេចក្ដី​លម្អិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -18434,7 +18434,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-japanese",
     "audioPlaceholder": "japanese",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "នៃ ឬពាក់ព័ន្ធនឹងប្រទេសជប៉ុន ឬប្រជាជនរបស់ខ្លួន។",
     "exampleKhmer": "ភាសាជប៉ុនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -18455,7 +18455,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-approved",
     "audioPlaceholder": "approved",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការយល់ព្រម។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងយល់ស្របអំពីស្ថានភាព។"
@@ -18476,7 +18476,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-target",
     "audioPlaceholder": "target",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "បន្��ះឈើឆ្កាងរអិល ឬបន្ទះក្តារនៅលើបុគ្គលិកកម្រិត។",
     "exampleKhmer": "គោលដៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -18497,7 +18497,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-except",
     "audioPlaceholder": "except",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "ដើម្បីទទួលយកករណីលើកលែង។",
     "exampleKhmer": "ការលើកលែងនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18518,7 +18518,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-ability",
     "audioPlaceholder": "ability",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "គុណភាព ឬស្ថានភាពនៃលទ្ធភាព។",
     "exampleKhmer": "សមត្ថភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -18539,7 +18539,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-maybe",
     "audioPlaceholder": "maybe",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "ប្រហែល។",
     "exampleKhmer": "ប្រហែល​ជា​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -18560,7 +18560,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-moving",
     "audioPlaceholder": "moving",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ទង្វើនៃការផ្លាស់ប្តូរទីតាំង ឬឥរិយាបថ។",
     "exampleKhmer": "ការផ្លាស់ប្តូរនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18581,7 +18581,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-brands",
     "audioPlaceholder": "brands",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពដែលទាក់ទងនឹងម៉ាក។",
     "exampleKhmer": "ម៉ាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18602,7 +18602,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-places",
     "audioPlaceholder": "places",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយទីកន្លែង។",
     "exampleKhmer": "យើងត្រូវដាក់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -18623,7 +18623,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-pretty",
     "audioPlaceholder": "pretty",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "ក្នុងកម្រិតខ្លះ។",
     "exampleKhmer": "ស្អាត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -18644,7 +18644,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-spain",
     "audioPlaceholder": "spain",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ប្រទេស​អេស្ប៉ាញ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អេស្ប៉ាញ' ក្នុងប្រយោគមួយ។"
@@ -18665,7 +18665,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-southern",
     "audioPlaceholder": "southern",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "ឬទាក់ទងនឹងភាគខាងត្បូង។",
     "exampleKhmer": "ភាគខាងត្បូងត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18686,7 +18686,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-yourself",
     "audioPlaceholder": "yourself",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ទម្រង់បញ្ជាក់ ឬឆ្លុះបញ្ចាំងនៃសព្វនាមរបស់មនុស្សទីពីរ។",
     "exampleKhmer": "ខ្លួន​ឯង​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -18707,7 +18707,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-winter",
     "audioPlaceholder": "winter",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "ដើម្បីឆ្លងកាត់រដូវរងា។",
     "exampleKhmer": "រដូវរងាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18728,7 +18728,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-battery",
     "audioPlaceholder": "battery",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "ការវាយដំដោយខុសច្បាប់។",
     "exampleKhmer": "ថ្មត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡ��ងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18749,7 +18749,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-youth",
     "audioPlaceholder": "youth",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងយុវជន។",
     "exampleKhmer": "យុវជន​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -18770,7 +18770,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-pressure",
     "audioPlaceholder": "pressure",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "សកម្មភាពរបស់កម្លាំងប្រឆាំងនឹងឧបសគ្គ ឬកម្លាំងប្រឆាំង។",
     "exampleKhmer": "សម្ពាធ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -18791,7 +18791,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-boston",
     "audioPlaceholder": "boston",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "ល្បែងបៀមួយសន្លឹកដែលលេងដោយមនុស្សបួននាក់ ជាមួយនឹងសន្លឹកបៀពីរសន្លឹកក្នុងមួយសន្លឹក។",
     "exampleKhmer": "បូស្តុនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18812,7 +18812,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-keywords",
     "audioPlaceholder": "keywords",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃពាក្យគន្លឹះ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ពាក្យគន្លឹះ' ក្នុងប្រយោគមួយ។"
@@ -18833,7 +18833,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-medium",
     "audioPlaceholder": "medium",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "សូមមើល Mean.(c) (Logic) មធ្យម ឬពាក្យកណ្តាលនៃ syllogism ។",
     "exampleKhmer": "ឧបករណ៍ផ្ទុកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18854,7 +18854,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-break",
     "audioPlaceholder": "break",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "សូមមើល Commutator ។",
     "exampleKhmer": "ការសម្រាកត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -18875,7 +18875,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-purposes",
     "audioPlaceholder": "purposes",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយគោលបំណង។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​មាន​គោល​បំណង​អំពី​ស្ថានភាព។"
@@ -18896,7 +18896,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-dance",
     "audioPlaceholder": "dance",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ធ្វើ​ឱ្យ​រាំ ឬ​ធ្វើ​ចលនា​ដោយ​ស្ម័គ្រ​ចិត្ត ឬ​រីករាយ ឬ​ឡើង​ចុះ។",
     "exampleKhmer": "របាំ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -18917,7 +18917,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-itself",
     "audioPlaceholder": "itself",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "សព្វនាមអព្យាក្រឹតនៃវា ។",
     "exampleKhmer": "ខ្លួន​វា​ត្រូវ​បាន​គេ​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -18938,7 +18938,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-defined",
     "audioPlaceholder": "defined",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ដ��ម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការកំណត់។",
     "exampleKhmer": "យើងត្រូវកំណត់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -18959,7 +18959,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-papers",
     "audioPlaceholder": "papers",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយឯកសារ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ជា​ឯកសារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -18980,7 +18980,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-playing",
     "audioPlaceholder": "playing",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "&vb.",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់លេងៗអំពីស្ថានភាព។"
@@ -19001,7 +19001,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-awards",
     "audioPlaceholder": "awards",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងរង្វាន់។",
     "exampleKhmer": "ពានរង្វាន់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19022,7 +19022,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-studio",
     "audioPlaceholder": "studio",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "បន្ទប់ធ្វើការរបស់វិចិត្រករ។",
     "exampleKhmer": "ស្ទូឌីយ៉ូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -19043,7 +19043,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-reader",
     "audioPlaceholder": "reader",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយអ្នកអាន។",
     "exampleKhmer": "នាងបានពន្យល់អ្នកអានយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -19064,7 +19064,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-virtual",
     "audioPlaceholder": "virtual",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃនិម្មិត។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'និម្មិត' ក្នុងប្រយោគមួយ។"
@@ -19085,7 +19085,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-device",
     "audioPlaceholder": "device",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងឧបករណ៍។",
     "exampleKhmer": "ឧបករណ៍នេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19106,7 +19106,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-answers",
     "audioPlaceholder": "answers",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយចម្លើយ។",
     "exampleKhmer": "យើងត្រូវឆ្លើយកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -19127,7 +19127,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-remote",
     "audioPlaceholder": "remote",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "បំបែកដោយចន្លោះពេលធំជាងធម្មតា។-- Re*mote\"ly, adv.-- Re*mote\"ness, n.",
     "exampleKhmer": "ពីចម្ងាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19148,7 +19148,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-external",
     "audioPlaceholder": "external",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ឆ្ងាយពីយន្តហោះ mesial នៃរាងកាយ។",
     "exampleKhmer": "ខាងក្រៅ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -19169,7 +19169,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-apple",
     "audioPlaceholder": "apple",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "ប្រភេទដើមឈើណាក៏ដោយ Pyrus ដែលមានដើមលិចចូលទៅក្នុងមូលដ្ឋាននៃផ្លែ។",
     "exampleKhmer": "ផ្លែប៉ោមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19190,7 +19190,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-offered",
     "audioPlaceholder": "offered",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយការផ្តល់ជូន។",
     "exampleKhmer": "យើងត្រូវផ្តល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -19211,7 +19211,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-theory",
     "audioPlaceholder": "theory",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "ទស្សនវិទូ។",
     "exampleKhmer": "ទ្រឹស្ដី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -19232,7 +19232,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-enjoy",
     "audioPlaceholder": "enjoy",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "ដើម្បីទទួលយកការពេញចិត្ត។",
     "exampleKhmer": "ភាពរីករាយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -19253,7 +19253,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-remove",
     "audioPlaceholder": "remove",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "ផ្លាស់ប្តូរទីកន្លែងតាម��បៀបណាមួយ ឬផ្លាស់ប្តូរទីកន្លែង។",
     "exampleKhmer": "ការដកចេញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19274,7 +19274,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-surface",
     "audioPlaceholder": "surface",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "មាត្រដ្ឋាន​ដែល​មាន​ប្រវែង និង​ទទឹង​គ្មាន​កម្រាស់។",
     "exampleKhmer": "ផ្ទៃត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19295,7 +19295,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-minimum",
     "audioPlaceholder": "minimum",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "បរិមាណតិចបំផុតដែលអាចអនុញ្ញាតបាន អាចទទួលយកបាន ឬអាចធ្វើទៅបាន ក្នុងករណីដែលបានបញ្ជាក់។",
     "exampleKhmer": "អប្បបរមាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19316,7 +19316,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-visual",
     "audioPlaceholder": "visual",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការមើលឃើញ។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'មើលឃើញ' ក្នុងប្រយោគមួយ។"
@@ -19337,7 +19337,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-variety",
     "audioPlaceholder": "variety",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងភាពចម្រុះ។",
     "exampleKhmer": "ពូជនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19358,7 +19358,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-teachers",
     "audioPlaceholder": "teachers",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយគ្រូ។",
     "exampleKhmer": "យើងត្រូវការគ្រូបង្រៀនកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -19379,7 +19379,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-martin",
     "audioPlaceholder": "martin",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "អ្នករត់មុខថ្មដែលមានប្រហោងសម្រាប់កិន។",
     "exampleKhmer": "ម៉ាទីន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -19400,7 +19400,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-manual",
     "audioPlaceholder": "manual",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ឬទាក់ទងនឹងដៃ។",
     "exampleKhmer": "សៀវភៅណែនាំត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19421,7 +19421,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-block",
     "audioPlaceholder": "block",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "ប្រជ្រុយ​ដែល​សត្វ​ស្លាប​រក្សា​ទុក។",
     "exampleKhmer": "ប្លុកនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19442,7 +19442,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-subjects",
     "audioPlaceholder": "subjects",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងប្រធានបទ។",
     "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -19463,7 +19463,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-agents",
     "audioPlaceholder": "agents",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយភ្នាក់ងារ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ដល់​ភ្នាក់ងារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -19484,7 +19484,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-repair",
     "audioPlaceholder": "repair",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការជួសជុល។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ជួសជុល' ក្នុងប្រយោ��មួយ។"
@@ -19505,7 +19505,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-civil",
     "audioPlaceholder": "civil",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងស៊ីវិល។",
     "exampleKhmer": "រដ្ឋប្បវេណី​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -19526,7 +19526,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-steel",
     "audioPlaceholder": "steel",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "ភាពខុសប្លែកគ្នានៃជាតិដែកកម្រិតមធ្យមនៅក្នុងសមាសភាព និងលក��ខណៈសម្បត្តិរវាងដែកធ្វើពីដែក និងដែកវណ្ណះ (មានចន្លោះពីពាក់កណ្តាលនៃមួយភាគរយ និងមួយនិងកន្លះភាគរយនៃកាបូន) និងមានធាតុផ្សំនៃជាតិដែកដែលមានជាតិដែកកាបូន។",
     "exampleKhmer": "ដែក​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -19547,7 +19547,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-songs",
     "audioPlaceholder": "songs",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយបទចម្រៀង។",
     "exampleKhmer": "នាង​បាន​ផ្ដល់​បទ​ចម្រៀង​យ៉ាង​ខ្លាំង​ដើម្បី​ពន្យល់​អំពី​ស្ថានភាព។"
@@ -19568,7 +19568,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-fixed",
     "audioPlaceholder": "fixed",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ស្ថិរភាព។",
     "exampleKhmer": "ការ​ជួសជុល​ត��រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -19589,7 +19589,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-wrong",
     "audioPlaceholder": "wrong",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "Imp",
     "exampleKhmer": "ខុស​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -19610,7 +19610,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-hands",
     "audioPlaceholder": "hands",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដ��លភ្ជាប់ជាមួយនឹងដៃ។",
     "exampleKhmer": "យើងត្រូវប្រគល់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -19631,7 +19631,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-finally",
     "audioPlaceholder": "finally",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយទីបំផុត។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់យ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -19652,7 +19652,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-updates",
     "audioPlaceholder": "updates",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "នៅក្នុងលក្ខណៈ ឬរចនាប័ទ្មដែលជាលក្ខណៈនៃការធ្វើឱ្យទាន់សម័យ។",
     "exampleKhmer": "នេះជាឧទាហ��ណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'អាប់ដេត' ក្នុងប្រយោគមួយ។"
@@ -19673,7 +19673,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-desktop",
     "audioPlaceholder": "desktop",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងផ្ទៃតុ។",
     "exampleKhmer": "ផ្ទៃតុត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19694,7 +19694,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-classes",
     "audioPlaceholder": "classes",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយថ្នាក់។",
     "exampleKhmer": "យើងត្រូវចាត់ថ្នាក់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -19715,7 +19715,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-paris",
     "audioPlaceholder": "paris",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "រុក្ខជាតិទូទៅនៅអឺរ៉ុប (Paris quadrifolia) ។",
     "exampleKhmer": "ទីក្រុងប៉ារីសត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19736,7 +19736,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-sector",
     "audioPlaceholder": "sector",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "ផ្នែកមួយនៃរង្វង់ដែលយល់បានរវាងកាំពីរ និងធ្នូដែលរួមបញ្ចូល។",
     "exampleKhmer": "វិស័យ​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -19757,7 +19757,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-capacity",
     "audioPlaceholder": "capacity",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "គុណវុឌ្ឍិផ្លូវច្បាប់ ឬធម្មតា តាមអាយុ ទីលំនៅ ចរិតលក្ខណៈ។ល។ ចាំបាច់សម្រាប់គោលបំណងជាក់លាក់ ដូចជាការកាន់តំណែង ការរៀបអាពាហ៍ពិពាហ៍ ដើម្បីធ្វើកិច្ចសន្យា ឆន្ទៈ។ល។",
     "exampleKhmer": "សមត្ថភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -19778,7 +19778,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-requires",
     "audioPlaceholder": "requires",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធនឹងតម្រូវ។",
     "exampleKhmer": "យើងត្រូវទាមទារកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -19799,7 +19799,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-jersey",
     "audioPlaceholder": "jersey",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយអាវ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -19820,7 +19820,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-fully",
     "audioPlaceholder": "fully",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ក្នុងលក្ខណៈពេញលេញឬសញ្ញាបត្រ។",
     "exampleKhmer": "ខ្លឹមសារនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -19841,7 +19841,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-father",
     "audioPlaceholder": "father",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងឪពុក។",
     "exampleKhmer": "ឪពុក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -19862,7 +19862,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-electric",
     "audioPlaceholder": "electric",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ឧបករណ៍បញ្ជូនចរន្តអគ្គិសនី ដូចជា អំបែង កញ្ចក់ ជ័រជាដើម ប្រើដើម្បីជំរុញ ឬកកកុញអគ្គិសនី។",
     "exampleKhmer": "អគ្គិសនី​ត្រូវ​បាន​គេ​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -19883,7 +19883,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-quotes",
     "audioPlaceholder": "quotes",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយសម្រង់។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្រើន​អំពី​ស្ថានភាព។"
@@ -19904,7 +19904,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-officer",
     "audioPlaceholder": "officer",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ពិសេស​គឺ​មន្ត្រី​ដែល​មាន​ឋានន្តរស័ក្តិ​ខុសពី​មន្ត្រី​ដីកា។",
     "exampleKhmer": "មន្ត្រី​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -19925,7 +19925,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-driver",
     "audioPlaceholder": "driver",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "ផ្នែកដែលបញ្ជូនចលនាទៅផ្នែកផ្សេងទៀតដោយការទាក់ទងជាមួយវា ឬតាមរយៈផ្នែកដែលអាចផ្លាស់ទីបានកម្រិតមធ្យម ដូចជាប្រអប់លេខដែលជំរុញមួយផ្សេងទៀត ឬដងថ្លឹងដែលផ្លាស់ទីផ្សេងទៀតតាមរយៈតំណភ្ជាប់។ល។",
     "exampleKhmer": "អ្នកបើកបរត្រូវបានពិភាក្សាលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -19946,7 +19946,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-respect",
     "audioPlaceholder": "respect",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ការបង្ហាញការគោរពនៃការគោរព។",
     "exampleKhmer": "ការ​គោរព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -19967,7 +19967,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-unknown",
     "audioPlaceholder": "unknown",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "មិនស្គាល់។",
     "exampleKhmer": "អ្នក​មិន​ស្គាល់​មុខ​ត្រូ���​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ថ្នាក់​ម្សិលមិញ។"
@@ -19988,7 +19988,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-worth",
     "audioPlaceholder": "worth",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "ដើម្បីក្លាយជា។",
     "exampleKhmer": "តម្លៃ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -20009,7 +20009,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-teacher",
     "audioPlaceholder": "teacher",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងគ្រូ។",
     "exampleKhmer": "គ្រូ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -20030,7 +20030,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-workers",
     "audioPlaceholder": "workers",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយកម្មករ។",
     "exampleKhmer": "យើង​ត្រូវ​ឱ្យ​កម្មករ​បំពេញ​ការងារ​នេះ​ឱ្យ​បាន​ឆាប់​តាម​ដែល​អាច​ធ្វើ​ទៅ​បាន​ដើម្បី​ធ្វើ​ឱ្យ​មាន​ការ​រីក​ចម្រើន។"
@@ -20051,7 +20051,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-georgia",
     "audioPlaceholder": "georgia",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយហ្សកហ្ស៊ី។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​របស់​ហ្សកហ្ស៊ី​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -20072,7 +20072,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-peace",
     "audioPlaceholder": "peace",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ភាពស្ងប់ស្ងាត់ឬភាពស្ងប់ស្ងាត់។",
     "exampleKhmer": "សន្តិភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -20093,7 +20093,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-campus",
     "audioPlaceholder": "campus",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "មូលដ្ឋានសំខាន់នៃមហាវិទ្យាល័យ ឬសាលារៀន រវាងអគារ ឬក្នុងបរិវេណសំខាន់។",
     "exampleKhmer": "បរិវេណសាលាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ"
@@ -20114,7 +20114,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-showing",
     "audioPlaceholder": "showing",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការបង្ហាញ។",
     "exampleKhmer": "យើងត្រូវបង្ហាញកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -20135,7 +20135,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-creative",
     "audioPlaceholder": "creative",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "មានអំណាចក្នុងការបង្កើត។",
     "exampleKhmer": "ការច្នៃប្រឌិតត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -20156,7 +20156,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-coast",
     "audioPlaceholder": "coast",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ដើម្បីរអិលចុះពីលើភ្នំ។",
     "exampleKhmer": "ឆ្នេរ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -20177,7 +20177,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-benefit",
     "audioPlaceholder": "benefit",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "អត្ថប្រយោជន៍ធម្មជាតិ។",
     "exampleKhmer": "អត្ថប្រយោជន៍ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20198,7 +20198,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-progress",
     "audioPlaceholder": "progress",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ដើម្បីឈានទៅមុខ។",
     "exampleKhmer": "វឌ្ឍនភាព​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -20219,7 +20219,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-funding",
     "audioPlaceholder": "funding",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "មានគុណភាព ឬលក្ខណៈដែលកំណត់ដោយការផ្តល់មូលនិធិ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​យ៉ាង​ច្រើន​អំពី​ស្ថានការណ៍។"
@@ -20240,7 +20240,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-devices",
     "audioPlaceholder": "devices",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "នៅក្នុងលក្ខណៈឬរចនាប័ទ្មដែលជាលក្ខណៈនៃឧបករណ៍។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ឧបករណ៍' ក្នុងប្រយោគមួយ។"
@@ -20261,7 +20261,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-grant",
     "audioPlaceholder": "grant",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "យល់ព្រម។",
     "exampleKhmer": "ជំនួយនេះត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20282,7 +20282,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-agree",
     "audioPlaceholder": "agree",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីឆ្លើយតបតាមភេទ លេខ ករណី ឬបុគ្គល។",
     "exampleKhmer": "កិច្ច​ព្រម​ព្រៀង​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -20303,7 +20303,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-fiction",
     "audioPlaceholder": "fiction",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "ការសន្មត់���ៃរឿងដែលអាចក្លាយជាការពិត ដោយមិនគិតពីសំណួរនៃការពិតរបស់វា។",
     "exampleKhmer": "រឿង​ប្រឌិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -20324,7 +20324,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-watches",
     "audioPlaceholder": "watches",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ស្លឹករបស់សារ៉ាស។",
     "exampleKhmer": "នាឡិកាត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កា��ពីម្សិលមិញ។"
@@ -20345,7 +20345,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-careers",
     "audioPlaceholder": "careers",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងអាជីព។",
     "exampleKhmer": "អាជីពត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20366,7 +20366,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-beyond",
     "audioPlaceholder": "beyond",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ឆ្ងាយទៀត។",
     "exampleKhmer": "លើស​ពី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -20387,7 +20387,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-families",
     "audioPlaceholder": "families",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "មានគុណសម្បត្តិ ឬលក្ខណៈដែលកំណត់ដោយគ្រួសារ។",
     "exampleKhmer": "នាង​បាន​ផ្តល់​ការ​ពន្យល់​ដល់​គ្រួសារ​យ៉ាង​ខ្លាំង​អំពី​ស្ថានភាព។"
@@ -20408,7 +20408,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-museum",
     "audioPlaceholder": "museum",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ឃ្លាំង ឬបណ្តុំនៃធម្មជាតិ វិទ្យាសាស្រ្ត ចង់ដឹងចង់ឃើញតាមអក្សរសាស្ត្រ ឬស្នាដៃសិល្បៈ។",
     "exampleKhmer": "សារមន្ទីរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -20429,7 +20429,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-blogs",
     "audioPlaceholder": "blogs",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងប្លុក។",
     "exampleKhmer": "ប្លក់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -20450,7 +20450,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-accepted",
     "audioPlaceholder": "accepted",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលពាក់ព័ន្ធជាមួយនឹងការទទួលយក។",
     "exampleKhmer": "យើងត្រូវទទួលយកកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -20471,7 +20471,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-former",
     "audioPlaceholder": "former",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលកំណត់ដោយអតីត។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ពីមុនយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -20492,7 +20492,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-complex",
     "audioPlaceholder": "complex",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "ការប្រមូលផ្តុំវត្ថុពាក់ព័ន្ធ។",
     "exampleKhmer": "ស្មុគ្រស្មាញ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -20513,7 +20513,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-agencies",
     "audioPlaceholder": "agencies",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងភ្នាក់ងារ។",
     "exampleKhmer": "ភ្នាក់ងារ​ត្រូវ​បាន​ពិភាក្សា​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​កាលពី​ម្សិលមិញ។"
@@ -20534,7 +20534,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-parent",
     "audioPlaceholder": "parent",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយមាតាបិតា។",
     "exampleKhmer": "យើងត្រូវចាត់ចែងកិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -20555,7 +20555,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-spanish",
     "audioPlaceholder": "spanish",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "នៃ ឬទាក់ទងនឹងអេស្ប៉ាញ ឬអេស្ប៉ាញ។",
     "exampleKhmer": "ភាសាអេស្បាញត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20576,7 +20576,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-michigan",
     "audioPlaceholder": "michigan",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ក្នុង​លក្ខណៈ​ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​រដ្ឋ Michigan ។",
     "exampleKhmer": "នេះគឺជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'michigan' ក្នុងប្រយោគមួយ។"
@@ -20597,7 +20597,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-columbia",
     "audioPlaceholder": "columbia",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "អាមេរិក។",
     "exampleKhmer": "កូឡុំប៊ីត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20618,7 +20618,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-setting",
     "audioPlaceholder": "setting",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលទាក់ទងនឹងការកំណត់។",
     "exampleKhmer": "យើងត្រូវកំណត់កិច្ចការនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -20639,7 +20639,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-scale",
     "audioPlaceholder": "scale",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "សញ្ញាឬតារានិករ Libra ។",
     "exampleKhmer": "មាត្រដ្ឋាន​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -20660,7 +20660,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-stand",
     "audioPlaceholder": "stand",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ដើម្បីរៀបចំវគ្គសិក្សានៅសមុទ្រ។",
     "exampleKhmer": "ជំហរ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -20681,7 +20681,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-economy",
     "audioPlaceholder": "economy",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងសេដ្ឋកិច្ច។",
     "exampleKhmer": "សេដ្ឋកិច្ច​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -20702,7 +20702,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-highest",
     "audioPlaceholder": "highest",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ដើម្បីអនុវត្តសកម្មភាព ឬចូលរួមក្នុងដំណើរការដែលភ្ជាប់ជាមួយនឹងកម្រិតខ្ពស់បំផុត។",
     "exampleKhmer": "យើងត្រូវបំពេញការងារនេះឱ្យបានឆាប់តាមដែលអាចធ្វើទៅបាន ដើម្បីដំណើរការទៅមុខ។"
@@ -20723,7 +20723,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-helpful",
     "audioPlaceholder": "helpful",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "ជំនួយគ្រឿងសង្ហារិម។",
     "exampleKhmer": "ជំនួយត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20744,7 +20744,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-monthly",
     "audioPlaceholder": "monthly",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "ការបោះពុម្ពផ្សាយដែលបង្ហាញជាទៀងទាត់ម្តងក្នុងមួយខែ។",
     "exampleKhmer": "ប្រចាំខែត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20765,7 +20765,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "school-critical",
     "audioPlaceholder": "critical",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "school",
     "meaningKhmer": "ទាក់ទងនឹង ឬការចង្អុលបង្ហាញ វិបត្តិ ចំណុចរបត់ ចំនុចប្រសព្វដ៏សំខាន់ជាពិសេស។",
     "exampleKhmer": "ការ​រិះគន់​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -20786,7 +20786,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "travel-frame",
     "audioPlaceholder": "frame",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "travel",
     "meaningKhmer": "ដើម្បីសាងសង់ដោយសម និងបង្រួបបង្រួមផ្នែកជាច្រើននៃគ្រោងឆ្អឹងនៃរចនាសម្ព័ន្ធណាមួយ។",
     "exampleKhmer": "ស៊ុមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20807,7 +20807,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "business-musical",
     "audioPlaceholder": "musical",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "business",
     "meaningKhmer": "ឬទាក់ទងនឹងតន្ត្រី។",
     "exampleKhmer": "តន្ត្រី​នេះ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"
@@ -20828,7 +20828,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "technology-angeles",
     "audioPlaceholder": "angeles",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "technology",
     "meaningKhmer": "ក្នុង​លក្ខណៈ ឬ​រចនាប័ទ្ម​ដែល​ជា​លក្ខណៈ​នៃ​ការ​ជា​ទេវតា។",
     "exampleKhmer": "នេះជាឧទាហរណ៍ទូទៅដែលបង្ហាញពីរបៀបប្រើពាក្យ 'ទេវតា' ក្នុងប្រយោគមួយ។"
@@ -20849,7 +20849,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "health-employee",
     "audioPlaceholder": "employee",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "health",
     "meaningKhmer": "ម្នាក់ធ្វើការដោយមួយទៀត។",
     "exampleKhmer": "បុគ្គលិក​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ពេល​រៀន​កាលពី​ម្សិលមិញ។"
@@ -20870,7 +20870,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "shopping-chief",
     "audioPlaceholder": "chief",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "shopping",
     "meaningKhmer": "ផ្នែកខាងលើទីបីនៃវាល។",
     "exampleKhmer": "ប្រធានត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20891,7 +20891,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "sports-gives",
     "audioPlaceholder": "gives",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "sports",
     "meaningKhmer": "ខ្សែក។",
     "exampleKhmer": "ការផ្ដល់ជូនត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងថ្នាក់កាលពីម្សិលមិញ។"
@@ -20912,7 +20912,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "nature-bottom",
     "audioPlaceholder": "bottom",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "nature",
     "meaningKhmer": "ផ្នែកនៃកប៉ាល់ដែលជាធម្មតានៅក្រោមទឹក។",
     "exampleKhmer": "ខាងក្រោមត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20933,7 +20933,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "daily-conversation-packages",
     "audioPlaceholder": "packages",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "daily-conversation",
     "meaningKhmer": "នាមទូទៅតំណាងឱ្យគំនិត ឬស្ថានភាពទាក់ទងនឹងកញ្ចប់។",
     "exampleKhmer": "កញ្ចប់ត្រូវបានពិភាក្សាយ៉ាងលម្អិតក្នុងអំឡុងពេលថ្នាក់កាលពីម្សិលមិញ។"
@@ -20954,7 +20954,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "family-detail",
     "audioPlaceholder": "detail",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "family",
     "meaningKhmer": "ការ​ជ្រើសរើស​សម្រាប់​សេវា​ជាក់លាក់​មួយ​របស់​បុគ្គល​ឬ​រាងកាយ​របស់​បុរស។",
     "exampleKhmer": "សេចក្តី​លម្អិត​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​��េល​ថ្នាក់​រៀន​ម្សិលមិញ។"
@@ -20975,7 +20975,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "food-changed",
     "audioPlaceholder": "changed",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "food",
     "meaningKhmer": "មានគុណសម្បត្ដិឬលក្ខណៈដែលត្រូវបានកំណត់ដោយការផ្លាស់ប្តូរ។",
     "exampleKhmer": "នាងបានផ្តល់ការពន្យល់ដែលផ្លាស់ប្តូរយ៉ាងខ្លាំងអំពីស្ថានភាព។"
@@ -20996,7 +20996,7 @@ export const vocabularyWords: VocabularyWord[] = [
     ],
     "image": "animals-heard",
     "audioPlaceholder": "heard",
-    "difficulty": "advanced",
+    "difficulty": "C1",
     "category": "animals",
     "meaningKhmer": "Imp",
     "exampleKhmer": "សវនាការ​ត្រូវ​បាន​ពិភាក្សា​យ៉ាង​លម្អិត​ក្នុង​ថ្នាក់​កាលពី​ម្សិលមិញ។"

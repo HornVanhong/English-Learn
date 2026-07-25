@@ -1,4 +1,4 @@
-export type DifficultyLevel = 'beginner' | 'intermediate' | 'advanced';
+export type DifficultyLevel = 'A1' | 'A2' | 'B1' | 'B1+' | 'B2' | 'C1';
 
 export interface VocabularyCategory {
   id: string;

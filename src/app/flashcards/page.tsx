@@ -125,10 +125,12 @@ export default function FlashcardsPage() {
               onChange={(e) => setSelectedLevel(e.target.value)}
               className="bg-secondary/40 border border-border/50 rounded-xl px-3 py-2 text-xs font-bold focus:outline-none"
             >
-              <option value="all">All Difficulty Levels</option>
-              <option value="beginner">Beginner</option>
-              <option value="intermediate">Intermediate</option>
-              <option value="advanced">Advanced</option>
+              <option value="all">All CEFR Levels</option>
+              {levels.map((lvl) => (
+                <option key={lvl.id} value={lvl.id}>
+                  {lvl.id} - {lvl.badge}
+                </option>
+              ))}
             </select>
           </div>
 

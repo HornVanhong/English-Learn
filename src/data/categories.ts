@@ -88,7 +88,10 @@ export const categories: VocabularyCategory[] = [
 ];
 
 export const levels = [
-  { id: 'beginner', name: 'Beginner', badge: 'A1-A2', color: 'bg-green-500' },
-  { id: 'intermediate', name: 'Intermediate', badge: 'B1-B2', color: 'bg-yellow-500' },
-  { id: 'advanced', name: 'Advanced', badge: 'C1-C2', color: 'bg-red-500' }
+  { id: 'A1', name: 'A1', badge: 'Elementary', color: 'bg-green-500/10 text-green-500 border-green-500/20' },
+  { id: 'A2', name: 'A2', badge: 'Pre-intermediate', color: 'bg-emerald-500/10 text-emerald-500 border-emerald-500/20' },
+  { id: 'B1', name: 'B1', badge: 'Intermediate', color: 'bg-blue-500/10 text-blue-500 border-blue-500/20' },
+  { id: 'B1+', name: 'B1+', badge: 'Upper-intermediate', color: 'bg-indigo-500/10 text-indigo-500 border-indigo-500/20' },
+  { id: 'B2', name: 'B2', badge: 'Pre-advanced', color: 'bg-purple-500/10 text-purple-500 border-purple-500/20' },
+  { id: 'C1', name: 'C1', badge: 'Advanced', color: 'bg-rose-500/10 text-rose-500 border-rose-500/20' }
 ];

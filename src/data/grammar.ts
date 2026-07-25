@@ -4,7 +4,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "be-verb",
     "title": "The \"Be\" Verb",
-    "level": "beginner",
+    "level": "A1",
     "shortDesc": "Learn the forms and uses of the most fundamental verb in English: am, is, are.",
     "explanation": "The verb \"to be\" is the most common and important verb in English. It is used to describe states of being, identities, qualities, and locations. Unlike other verbs, \"to be\" changes its form completely based on the subject (I, you, he/she/it, we, they) and the tense.",
     "examples": [
@@ -81,7 +81,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "articles",
     "title": "Articles (A, An, The)",
-    "level": "beginner",
+    "level": "A1",
     "shortDesc": "Understand when to use a/an (indefinite) versus the (definite article).",
     "explanation": "Articles are words that define a noun as specific or unspecific. English has three articles: \"a\", \"an\", and \"the\". \"A\" and \"an\" are indefinite articles, used for singular countable nouns that are not specific. \"The\" is the definite article, used when both the speaker and listener know exactly which noun is being discussed.",
     "examples": [
@@ -158,7 +158,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "pronouns",
     "title": "Pronouns",
-    "level": "beginner",
+    "level": "A1",
     "shortDesc": "Learn subject, object, possessive pronouns, and possessive adjectives.",
     "explanation": "Pronouns replace nouns to avoid repetition. There are different types: Subject pronouns (do the action), Object pronouns (receive the action), Possessive adjectives (show ownership before a noun), and Possessive pronouns (replace a noun showing ownership).",
     "examples": [
@@ -235,7 +235,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "present-simple",
     "title": "Present Simple",
-    "level": "beginner",
+    "level": "A2",
     "shortDesc": "Talk about habits, facts, and daily routines in the present.",
     "explanation": "The Present Simple is used to express general truths, habits, facts, and routines. For spelling, verbs ending in consonants just take the base form. However, for third-person singular subjects (he, she, it), we add \"-s\" or \"-es\" to the base verb.",
     "examples": [
@@ -312,7 +312,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "present-continuous",
     "title": "Present Continuous",
-    "level": "intermediate",
+    "level": "A2",
     "shortDesc": "Describe actions happening right now, temporary situations, or future plans.",
     "explanation": "The Present Continuous is formed using the present tense of the \"be\" verb (am, is, are) + the main verb ending in \"-ing\". It is used for actions happening right at this moment, temporary projects, or confirmed future arrangements.",
     "examples": [
@@ -389,7 +389,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "past-simple",
     "title": "Past Simple",
-    "level": "intermediate",
+    "level": "A2",
     "shortDesc": "Talk about actions that started and finished in the past.",
     "explanation": "The Past Simple is used to describe completed actions in the past. Regular verbs form the past tense by adding \"-ed\" or \"-d\" to the base form (e.g., walk -> walked). However, many common verbs are irregular and must be memorized individually (e.g., go -> went, see -> saw, buy -> bought).",
     "examples": [
@@ -466,7 +466,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "future-tense",
     "title": "Future Tense (Will & Going to)",
-    "level": "intermediate",
+    "level": "B1",
     "shortDesc": "Express predictions, plans, decisions, and future outcomes using will and going to.",
     "explanation": "There are two primary ways to express the future in English. Use \"will\" + base verb for instant decisions, offers, promises, and general predictions. Use \"be going to\" + base verb for plans, intentions, and predictions based on current evidence.",
     "examples": [
@@ -543,7 +543,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "modal-verbs",
     "title": "Modal Verbs",
-    "level": "intermediate",
+    "level": "B1",
     "shortDesc": "Understand modals expressing ability, permission, obligation, and advice: can, must, should.",
     "explanation": "Modal verbs are auxiliary (helping) verbs that express ability, possibility, permission, advice, or obligation. They do not change form (no \"-s\" for he/she/it) and are always followed by the base form of the main verb without \"to\" (except for ought to / have to).",
     "examples": [
@@ -620,7 +620,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "conditionals",
     "title": "Conditionals (Zero, First, Second)",
-    "level": "advanced",
+    "level": "B1",
     "shortDesc": "Master structure and uses of different conditional sentences representing facts, plans, and imaginary scenarios.",
     "explanation": "Conditional sentences describe a condition and a result. There are three primary types:\n1. **Zero Conditional**: (If + present, present) - Scientific facts or general truths.\n2. **First Conditional**: (If + present, will + verb) - Real, highly possible future situations.\n3. **Second Conditional**: (If + past simple, would + verb) - Imaginary, hypothetical, or unlikely situations in the present/future.",
     "examples": [
@@ -697,7 +697,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "passive-voice",
     "title": "Passive Voice",
-    "level": "advanced",
+    "level": "B1+",
     "shortDesc": "Learn how to shift focus from the agent performing the action to the recipient of the action.",
     "explanation": "In active sentences, the subject does the action (e.g., \"The chef cooked the meal\"). In passive sentences, the subject receives the action, shifting focus to the object (e.g., \"The meal was cooked by the chef\"). The passive voice is formed using: [Be Verb (in appropriate tense)] + [Past Participle of main verb].",
     "examples": [
@@ -774,7 +774,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "present-perfect",
     "title": "Present Perfect",
-    "level": "intermediate",
+    "level": "B1+",
     "shortDesc": "Talk about experiences, changes, or past actions with present relevance using has/have + past participle.",
     "explanation": "The Present Perfect tense connects the past with the present. It is formed using \"have\" or \"has\" + the past participle of the verb (e.g. eaten, seen, walked). It is used for actions that happened at an unspecified time in the past, or actions that started in the past and continue into the present.",
     "examples": [
@@ -851,7 +851,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "present-perfect-continuous",
     "title": "Present Perfect Continuous",
-    "level": "intermediate",
+    "level": "B1+",
     "shortDesc": "Express actions that started in the past and are still continuing, or have recently finished with a clear result.",
     "explanation": "The Present Perfect Continuous tense emphasizes the duration or ongoing nature of an action. It is formed using \"have/has been\" + [Verb-ing]. Use it for activities that began in the past, are still happening now, or have recently stopped and have a noticeable connection to the present.",
     "examples": [
@@ -927,7 +927,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "past-continuous",
     "title": "Past Continuous",
-    "level": "intermediate",
+    "level": "B2",
     "shortDesc": "Describe actions that were in progress at a specific moment in the past, often interrupted by another action.",
     "explanation": "The Past Continuous describes an action that was going on or in progress at a specific time in the past. It is formed using \"was\" or \"were\" + [Verb-ing]. It is frequently used together with the Past Simple to show that a longer background action was interrupted by a shorter, sudden event.",
     "examples": [
@@ -1004,7 +1004,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "past-perfect",
     "title": "Past Perfect",
-    "level": "advanced",
+    "level": "B2",
     "shortDesc": "Clearly sequence two past events by expressing the action that happened before another past action using had + past participle.",
     "explanation": "The Past Perfect is the \"past of the past\". It is used to show which of two past actions happened first. It is formed using \"had\" + the past participle of the verb (e.g. had gone, had eaten). It is very helpful for storytelling and maintaining logical chronologies.",
     "examples": [
@@ -1081,7 +1081,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "past-perfect-continuous",
     "title": "Past Perfect Continuous",
-    "level": "advanced",
+    "level": "B2",
     "shortDesc": "Show the duration of an ongoing past action up to the point when another past action occurred.",
     "explanation": "The Past Perfect Continuous tense shows that an action started in the past, continued for a duration, and was still in progress or had just ended when another past event took place. It is formed using \"had been\" + [Verb-ing]. It emphasizes duration rather than completion.",
     "examples": [
@@ -1157,7 +1157,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "future-continuous",
     "title": "Future Continuous",
-    "level": "advanced",
+    "level": "C1",
     "shortDesc": "Describe actions that will be in progress at a specific time in the future.",
     "explanation": "The Future Continuous describes an action that will be in progress or happening at a specific time in the future. It is formed using \"will be\" + [Verb-ing]. Use it to talk about ongoing events in the future or to make plans politely.",
     "examples": [
@@ -1233,7 +1233,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "future-perfect",
     "title": "Future Perfect",
-    "level": "advanced",
+    "level": "C1",
     "shortDesc": "Talk about actions that will be completed before a certain point in the future using will have + past participle.",
     "explanation": "The Future Perfect tense describes an action that will be completed or finished before a specific point in the future. It is formed using \"will have\" + the past participle of the verb (e.g. will have finished, will have arrived). It is useful for deadlines and forward projections.",
     "examples": [
@@ -1309,7 +1309,7 @@ export const grammarLessons: GrammarLesson[] = [
   {
     "id": "future-perfect-continuous",
     "title": "Future Perfect Continuous",
-    "level": "advanced",
+    "level": "C1",
     "shortDesc": "Express the duration of an ongoing action up to a specific time in the future.",
     "explanation": "The Future Perfect Continuous tense describes an ongoing action that will continue up to a specific point in the future, highlighting the duration of that activity. It is formed using \"will have been\" + [Verb-ing].",
     "examples": [

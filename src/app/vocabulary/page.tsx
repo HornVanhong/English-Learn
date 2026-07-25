@@ -8,6 +8,7 @@ import { useProgressStore } from '@/stores/progressStore';
 import { vocabularyWords } from '@/data/vocabulary';
 import { categories, levels } from '@/data/categories';
 import { cn } from '@/lib/utils';
+import { DifficultyLevel } from '@/types';
 
 export default function VocabularyPage() {
   const router = useRouter();
@@ -18,7 +19,7 @@ export default function VocabularyPage() {
   const [mounted, setMounted] = useState(false);
 
   // States
-  const [selectedLevel, setSelectedLevel] = useState<'beginner' | 'intermediate' | 'advanced'>('beginner');
+  const [selectedLevel, setSelectedLevel] = useState<DifficultyLevel>('A1');
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedWord, setSelectedWord] = useState<typeof vocabularyWords[0] | null>(null);

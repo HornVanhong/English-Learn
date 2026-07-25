@@ -91,16 +91,25 @@ export default function GrammarPage() {
 
       {/* 2. Structured Lesson Learning Track */}
       <div className="space-y-10">
-        {(['beginner', 'intermediate', 'advanced'] as const).map((level) => {
+        {(['A1', 'A2', 'B1', 'B1+', 'B2', 'C1'] as const).map((level) => {
           const levelLessons = grammarLessons.filter((l) => l.level === level);
-          const levelName = level.charAt(0).toUpperCase() + level.slice(1);
-          const levelColor = level === 'beginner' ? 'text-green-500' : level === 'intermediate' ? 'text-yellow-500' : 'text-red-500';
-
+          const cefrDetails = {
+            'A1': { name: 'A1 - Elementary', color: 'text-green-500' },
+            'A2': { name: 'A2 - Pre-intermediate', color: 'text-emerald-500' },
+            'B1': { name: 'B1 - Intermediate', color: 'text-blue-500' },
+            'B1+': { name: 'B1+ - Upper-intermediate', color: 'text-indigo-500' },
+            'B2': { name: 'B2 - Pre-advanced', color: 'text-purple-500' },
+            'C1': { name: 'C1 - Advanced', color: 'text-rose-500' }
+          }[level];
+ 
+          const levelName = cefrDetails.name;
+          const levelColor = cefrDetails.color;
+ 
           return (
             <div key={level} className="space-y-4">
               <div className="flex items-center gap-2 border-b border-border/40 pb-2">
                 <span className={cn("text-sm font-extrabold uppercase tracking-widest", levelColor)}>
-                  {levelName} Track
+                  {levelName}
                 </span>
                 <span className="h-1.5 w-1.5 rounded-full bg-border" />
                 <span className="text-xs text-muted-foreground font-semibold">
@@ -529,9 +538,12 @@ export default function GrammarPage() {
 
 function selectedWordDifficulty(level: string) {
   switch (level) {
-    case 'beginner': return 'Beginner (A1-A2)';
-    case 'intermediate': return 'Intermediate (B1-B2)';
-    case 'advanced': return 'Advanced (C1-C2)';
+    case 'A1': return 'A1 - Elementary';
+    case 'A2': return 'A2 - Pre-intermediate';
+    case 'B1': return 'B1 - Intermediate';
+    case 'B1+': return 'B1+ - Upper-intermediate';
+    case 'B2': return 'B2 - Pre-advanced';
+    case 'C1': return 'C1 - Advanced';
     default: return level;
   }
 }

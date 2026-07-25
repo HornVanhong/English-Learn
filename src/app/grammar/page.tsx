@@ -79,13 +79,62 @@ export default function GrammarPage() {
   };
 
   const levelTabs = [
-    { id: 'all', label: 'All Levels' },
-    { id: 'A1', label: 'A1 Elementary' },
-    { id: 'A2', label: 'A2 Pre-intermediate' },
-    { id: 'B1', label: 'B1 Intermediate' },
-    { id: 'B1+', label: 'B1+ Upper-intermediate' },
-    { id: 'B2', label: 'B2 Pre-advanced' },
-    { id: 'C1', label: 'C1 Advanced' }
+    { 
+      id: 'all', 
+      shortLabel: 'All', 
+      fullLabel: 'All Levels',
+      activeClass: 'bg-indigo-500 text-white shadow-md shadow-indigo-500/25',
+      badgeActive: 'bg-white/25 text-white',
+      badgeInactive: 'bg-indigo-500/10 text-indigo-600 dark:text-indigo-400'
+    },
+    { 
+      id: 'A1', 
+      shortLabel: 'A1', 
+      fullLabel: 'A1 Elementary',
+      activeClass: 'bg-green-500 text-white shadow-md shadow-green-500/25',
+      badgeActive: 'bg-white/25 text-white',
+      badgeInactive: 'bg-green-500/10 text-green-600 dark:text-green-400'
+    },
+    { 
+      id: 'A2', 
+      shortLabel: 'A2', 
+      fullLabel: 'A2 Pre-inter',
+      activeClass: 'bg-emerald-500 text-white shadow-md shadow-emerald-500/25',
+      badgeActive: 'bg-white/25 text-white',
+      badgeInactive: 'bg-emerald-500/10 text-emerald-600 dark:text-emerald-400'
+    },
+    { 
+      id: 'B1', 
+      shortLabel: 'B1', 
+      fullLabel: 'B1 Inter',
+      activeClass: 'bg-blue-500 text-white shadow-md shadow-blue-500/25',
+      badgeActive: 'bg-white/25 text-white',
+      badgeInactive: 'bg-blue-500/10 text-blue-600 dark:text-blue-400'
+    },
+    { 
+      id: 'B1+', 
+      shortLabel: 'B1+', 
+      fullLabel: 'B1+ Upper-inter',
+      activeClass: 'bg-indigo-600 text-white shadow-md shadow-indigo-600/25',
+      badgeActive: 'bg-white/25 text-white',
+      badgeInactive: 'bg-indigo-600/10 text-indigo-600 dark:text-indigo-400'
+    },
+    { 
+      id: 'B2', 
+      shortLabel: 'B2', 
+      fullLabel: 'B2 Pre-adv',
+      activeClass: 'bg-purple-500 text-white shadow-md shadow-purple-500/25',
+      badgeActive: 'bg-white/25 text-white',
+      badgeInactive: 'bg-purple-500/10 text-purple-600 dark:text-purple-400'
+    },
+    { 
+      id: 'C1', 
+      shortLabel: 'C1', 
+      fullLabel: 'C1 Advanced',
+      activeClass: 'bg-rose-500 text-white shadow-md shadow-rose-500/25',
+      badgeActive: 'bg-white/25 text-white',
+      badgeInactive: 'bg-rose-500/10 text-rose-600 dark:text-rose-400'
+    }
   ] as const;
 
   const displayLevels = selectedLevel === 'all' 
@@ -123,9 +172,9 @@ export default function GrammarPage() {
       </div>
 
       {/* 2. Filter & Search Control Bar */}
-      <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4 bg-card border border-border/40 p-4 rounded-2xl shadow-sm w-full">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-3 bg-card border border-border/40 p-3.5 rounded-2xl shadow-sm w-full min-w-0">
         {/* Level Selector Tabs */}
-        <div className="flex bg-secondary/80 p-1 rounded-xl w-full lg:w-auto overflow-x-auto scrollbar-none gap-1 shrink-0">
+        <div className="flex items-center gap-1.5 overflow-x-auto scrollbar-none py-0.5 min-w-0 flex-1">
           {levelTabs.map((tab) => {
             const isSelected = selectedLevel === tab.id;
             const count = tab.id === 'all' 
@@ -137,18 +186,17 @@ export default function GrammarPage() {
                 key={tab.id}
                 onClick={() => setSelectedLevel(tab.id as any)}
                 className={cn(
-                  "flex items-center gap-2 px-3.5 py-2 text-xs font-extrabold rounded-lg transition-all whitespace-nowrap shrink-0 active:scale-95 cursor-pointer",
+                  "flex items-center gap-1.5 px-3 py-2 text-xs font-black rounded-xl transition-all whitespace-nowrap active:scale-95 cursor-pointer shrink-0",
                   isSelected
-                    ? "bg-card text-foreground shadow-sm border border-border/40"
-                    : "text-muted-foreground hover:text-foreground hover:bg-card/50"
+                    ? tab.activeClass
+                    : "bg-secondary/60 text-foreground/80 hover:text-foreground hover:bg-secondary border border-border/30"
                 )}
               >
-                <span>{tab.label}</span>
+                <span className="hidden sm:inline">{tab.fullLabel}</span>
+                <span className="sm:hidden">{tab.shortLabel}</span>
                 <span className={cn(
-                  "text-[10px] px-1.5 py-0.5 rounded-md font-extrabold transition-colors",
-                  isSelected
-                    ? "bg-indigo-500/15 text-indigo-600 dark:text-indigo-400"
-                    : "bg-muted text-muted-foreground"
+                  "text-[10px] px-1.5 py-0.5 rounded-full font-black transition-colors",
+                  isSelected ? tab.badgeActive : tab.badgeInactive
                 )}>
                   {count}
                 </span>
@@ -158,7 +206,7 @@ export default function GrammarPage() {
         </div>
 
         {/* Real-time Search Input */}
-        <div className="relative w-full lg:w-72">
+        <div className="relative w-full md:w-64 lg:w-72 shrink-0">
           <Icons.Search className="absolute left-3.5 top-1/2 -translate-y-1/2 h-4 w-4 text-muted-foreground" />
           <input
             type="text"

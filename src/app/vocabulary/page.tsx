@@ -425,7 +425,7 @@ export default function VocabularyPage() {
               </button>
 
               {/* Category Gradient Indicator */}
-              <div className="flex items-center justify-between mb-5">
+              <div className="flex items-center justify-between mb-5 pr-10">
                 <div className={cn(
                   "h-1.5 w-24 rounded-full bg-gradient-to-r",
                   categories.find(c => c.id === selectedWord.category)?.color
